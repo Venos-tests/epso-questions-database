@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+    <meta charset="UTF-8">
+    <title>EPSO UNLOCKED - Official Portal</title>
+    <style>
+        :root { 
+            --eu-blue: #003399; 
+            --eu-blue-light: #0044cc;
+            --eu-gold: #FFCC00; 
+            --eu-gold-light: #ffdb4d;
+            --bg: #f0f4f8; 
+        }
+        body { 
+            font-family: 'Segoe UI', Roboto, sans-serif; 
+            background: var(--bg); margin: 0; padding: 0; 
+            min-height: 100vh; color: #1a1a1a; 
+        }
+        .container { max-width: 1000px; margin: 0 auto; padding: 40px 20px; }
+        .view { 
+            display: none; background: white; padding: 45px; 
+            border-radius: 15px; box-shadow: 0 10px 25px rgba(0,51,153,0.1); 
+            border-top: 5px solid var(--eu-blue); 
+            min-height: 800px; box-sizing: border-box; 
+        }
+        #menu-view { display: block; min-height: 800px; }
+        .header { display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid var(--eu-gold); padding-bottom: 15px; margin-bottom: 30px; }
+        .section-container { margin-bottom: 30px; }
+        .pack-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 15px; margin-top: 15px; }
+        .pack-card { 
+            background: white; padding: 25px; border-radius: 10px; border: 1px solid #d1d9e6; 
+            text-align: center; font-weight: 600; cursor: pointer; transition: 0.3s;
+            color: var(--eu-blue); box-shadow: 0 2px 5px rgba(0,0,0,0.02);
+        }
+        .pack-card:hover { 
+            background: var(--eu-blue); color: white; border-color: var(--eu-blue);
+            transform: translateY(-3px); box-shadow: 0 5px 15px rgba(0,51,153,0.2);
+        }
+        .pack-card.empty { opacity: 0.35; cursor: not-allowed; pointer-events: none; }
+        .passage-box { background: #f8fbff; padding: 25px; border-radius: 8px; border: 1px solid #e1e8f0; margin-bottom: 25px; font-style: italic; line-height: 1.8; min-height: 150px; }
+        .option { padding: 15px 20px; margin: 10px 0; border: 1px solid #d1d9e6; border-radius: 8px; cursor: pointer; transition: 0.2s; background: white; }
+        .option:hover { background: #f0f4ff; border-color: var(--eu-blue); }
+        .selected-exam { border: 2px solid var(--eu-blue) !important; background: #eef4ff !important; }
+        .correct { background: #e6ffed !important; border-color: #28a745 !important; color: #155724; font-weight: bold; }
+        .wrong { background: #fff5f5 !important; border-color: #dc3545 !important; color: #721c24; }
+        .btn { padding: 12px 25px; border-radius: 6px; border: none; cursor: pointer; font-weight: bold; transition: 0.3s; text-transform: uppercase; }
+        .btn-primary { background: var(--eu-blue); color: white; }
+        .btn-gold { background: var(--eu-gold); color: #003399; }
+        #mode-modal { 
+            display: none; position: fixed; inset: 0; 
+            background: rgba(0,51,153,0.4); backdrop-filter: blur(5px); 
+            align-items: center; justify-content: center; z-index: 15000; 
+        }
+        .modal-content { background: white; padding: 45px; border-radius: 20px; text-align: center; width: 400px; box-shadow: 0 20px 40px rgba(0,0,0,0.2); }
+        #timer-box { position: fixed; top: 20px; right: 20px; background: var(--eu-blue); color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold; display: none; border-bottom: 3px solid var(--eu-gold); z-index: 1001; }
+        #login-screen { position: fixed; inset: 0; background: var(--eu-blue); display: flex; align-items: center; justify-content: center; z-index: 20000; }
+        .login-box { background: white; padding: 40px; border-radius: 12px; text-align: center; width: 350px; }
+    </style>
+</head>
+<body>
+
+<div id="timer-box">00:00</div>
+
+<div id="login-screen">
+    <div class="login-box">
+        <div style="color:var(--eu-blue); font-size: 2em; font-weight: bold; margin-bottom: 10px;">EUROPEAN PORTAL</div>
+        <p id="txt-login" style="font-size: 0.9em; color: #666; margin-bottom: 15px;">
+            Type the first word on page 73 of the book <br>
+            (Εισάγετε την πρώτη λέξη στη σελίδα 73 του βιβλίου)
+        </p>
+        <input type="password" id="pass-input" style="width:100%; padding:12px; margin-bottom:20px; border:1px solid #ccc; border-radius:4px; box-sizing: border-box;">
+        <button onclick="unlock()" class="btn btn-primary" style="width:100%;">Access Portal</button>
+    </div>
+</div>
+
+<div id="mode-modal">
+    <div class="modal-content">
+        <h3 id="txt-mode-title" style="color:var(--eu-blue); margin-bottom:25px;">Επιλογή Λειτουργίας</h3>
+        <button onclick="startQuiz('practice')" class="btn btn-primary" style="width:100%; margin: 10px 0;" id="btn-practice">Practice Mode</button>
+        <button onclick="startQuiz('exam')" class="btn btn-gold" style="width:100%; margin: 10px 0;" id="btn-exam">Exam Mode</button>
+        <button onclick="closeModal()" style="color:red; background:none; border:none; cursor:pointer; margin-top:20px;" id="btn-cancel">Ακύρωση</button>
+    </div>
+</div>
+
+<div class="container">
+    <div id="menu-view" class="view" style="display:block;">
+        <div class="header">
+            <h1 id="txt-main-title" style="color:var(--eu-blue); margin:0;">EPSO Prep Portal</h1>
+            <button class="btn btn-gold" onclick="toggleLanguage()">🇬🇷 EL / 🇬🇧 EN</button>
+        </div>
+        <div id="all-packs"></div>
+    </div>
+
+    <div id="quiz-view" class="view">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:20px;">
+            <button onclick="backToMenu()" class="btn btn-primary" id="btn-back">Back</button>
+            <div id="progress-info" style="font-weight:bold; color:var(--eu-blue);"></div>
+        </div>
+        <div id="passage-container" class="passage-box"></div>
+        <div id="question-text" style="font-weight:bold; font-size:1.3em; margin-bottom:25px; color:var(--eu-blue);"></div>
+        <div id="options-container"></div>
+        <div id="explanation-area" style="display:none; margin-top:20px; padding:20px; background:#fff9e6; border-left:5px solid var(--eu-gold); border-radius:4px;"></div>
+        <div style="display:flex; justify-content:space-between; margin-top:30px; border-top:1px solid #eee; padding-top:20px;">
+            <button onclick="navQuestion(-1)" class="btn btn-primary" id="btn-prev">Previous</button>
+            <button onclick="finishExam()" class="btn btn-gold" id="btn-finish" style="display:none;">Finish</button>
+            <button onclick="navQuestion(1)" class="btn btn-primary" id="btn-next">Next</button>
+        </div>
+    </div>
+
+    <div id="result-view" class="view" style="text-align:center;">
+        <h2 id="txt-result-title" style="border:none;">Results</h2>
+        <div id="final-score" style="font-size:5em; color:var(--eu-blue); font-weight:bold; margin:20px 0;"></div>
+        <button onclick="backToMenu()" class="btn btn-primary" id="btn-res-back">Home</button>
+    </div>
+</div>
+
+<script>
+    let currentLang = 'el';
+    let currentMode = '';
+    let selectedTestKey = '';
+    let currentIndex = 0;
+    let userAnswers = {};
+    let activeQuestions = [];
+    let timer;
+    let seconds = 0;
+
+    // ============================================================
+    // DATABASE — ALL questions now use answer: index (0-based)
+    // ============================================================
+    let DATABASE = {};
+    let dbLoaded = false;
+
+    async function loadDatabase() {
+        try {
+            const res = await fetch("https://raw.githubusercontent.com/Venos-tests/epso-questions-database/main/database.json");
+            if (!res.ok) throw new Error("HTTP " + res.status);
+            DATABASE = await res.json();
+            dbLoaded = true;
+            updateUIStrings();
+            renderMenu();
+        } catch(e) {
+            document.getElementById('all-packs').innerHTML = 
+                '<p style="color:red; text-align:center; padding:40px;">⚠️ Could not load question database. Please check your internet connection and refresh.<br><small>' + e.message + '</small></p>';
+            console.error("DB load error:", e);
+        }
+    }
+
+    // ============================================================
+    // UI TEXT
+    // ============================================================
+    const UI_TEXT = {
+        el: {
+            login: "Κωδικός Πρόσβασης", btnLogin: "ΕΙΣΟΔΟΣ", mainTitle: "Πύλη Προετοιμασίας EPSO",
+            modeTitle: "Επιλογή Λειτουργίας", btnPrac: "Practice (Εξηγήσεις)", btnExam: "Exam (Χρόνος)", btnCancel: "Ακύρωση",
+            back: "Πίσω", next: "Επόμενο", prev: "Προηγούμενο", finish: "Τέλος", results: "Αποτελέσματα", resBack: "Αρχική", exp: "Επεξήγηση"
+        },
+        en: {
+            login: "Enter Password", btnLogin: "LOGIN", mainTitle: "EPSO Prep Portal",
+            modeTitle: "Select Mode", btnPrac: "Practice Mode", btnExam: "Exam Simulation", btnCancel: "Cancel",
+            back: "Back", next: "Next", prev: "Previous", finish: "Finish", results: "Results", resBack: "Home", exp: "Explanation"
+        }
+    };
+
+    // ============================================================
+    // CORE FUNCTIONS
+    // ============================================================
+    function unlock() {
+        const userInput = document.getElementById('pass-input').value.trim().toLowerCase();
+        const correctPass = "question";
+        if (userInput === correctPass) {
+            document.getElementById('login-screen').style.display = 'none';
+            updateUIStrings();
+            renderMenu();
+        } else {
+            alert(currentLang === 'el' ? "Λάθος λέξη-κλειδί! Ελέγξτε τη σελίδα 73." : "Wrong keyword! Please check page 73.");
+        }
+    }
+
+    function toggleLanguage() {
+        currentLang = (currentLang === 'el') ? 'en' : 'el';
+        updateUIStrings();
+        if (document.getElementById('quiz-view').style.display === 'block') showQuestion();
+        else renderMenu();
+    }
+
+    function updateUIStrings() {
+        const t = UI_TEXT[currentLang];
+        document.getElementById('txt-login').innerText = t.login;
+        document.getElementById('txt-main-title').innerText = t.mainTitle;
+        document.getElementById('txt-mode-title').innerText = t.modeTitle;
+        document.getElementById('btn-practice').innerText = t.btnPrac;
+        document.getElementById('btn-exam').innerText = t.btnExam;
+        document.getElementById('btn-cancel').innerText = t.btnCancel;
+        document.getElementById('btn-back').innerText = t.back;
+        document.getElementById('btn-next').innerText = t.next;
+        document.getElementById('btn-prev').innerText = t.prev;
+        document.getElementById('btn-finish').innerText = t.finish;
+        document.getElementById('txt-result-title').innerText = t.results;
+        document.getElementById('btn-res-back').innerText = t.resBack;
+    }
+
+    function renderMenu() {
+        const grid = document.getElementById('all-packs');
+        const sections = [
+            { title: "EU Knowledge", keys: ["eu_1", "eu_2"] },
+            { title: "Digital Skills", keys: ["ds_1", "ds_2", "ds_3"] },
+            { title: "Verbal Reasoning", keys: ["verbal_1", "verbal_2", "verbal_3"] }
+        ];
+        grid.innerHTML = sections.map(s => `
+            <div class="section-container">
+                <h2 style="color:var(--eu-blue); border-left:4px solid var(--eu-gold); padding-left:15px;">${s.title}</h2>
+                <div class="pack-grid">
+                    ${s.keys.map(k => {
+                        const isEmpty = !DATABASE[k] || DATABASE[k].length === 0;
+                        const label = isEmpty
+                            ? `${k.toUpperCase().replace('_', ' ')} <span style="font-size:0.75em; font-weight:400;">(Coming Soon)</span>`
+                            : k.toUpperCase().replace('_', ' ');
+                        return `<div class="pack-card${isEmpty ? ' empty' : ''}" ${isEmpty ? '' : `onclick="openModal('${k}')"`}>${label}</div>`;
+                    }).join('')}
+                </div>
+            </div>
+        `).join('');
+    }
+
+    function openModal(key) {
+        selectedTestKey = key;
+        document.getElementById('mode-modal').style.display = 'flex';
+    }
+
+    function closeModal() {
+        document.getElementById('mode-modal').style.display = 'none';
+    }
+
+    function startQuiz(mode) {
+        currentMode = mode;
+        activeQuestions = DATABASE[selectedTestKey];
+        if (!activeQuestions || activeQuestions.length === 0) { alert("Empty test."); closeModal(); return; }
+        currentIndex = 0;
+        userAnswers = {};
+        closeModal();
+        document.getElementById('menu-view').style.display = 'none';
+        document.getElementById('quiz-view').style.display = 'block';
+        if (currentMode === 'exam') startTimer();
+        showQuestion();
+    }
+
+    function showQuestion() {
+        try {
+            const qData = activeQuestions[currentIndex][currentLang];
+            const t = UI_TEXT[currentLang];
+            const passageBox = document.getElementById('passage-container');
+            const questionText = document.getElementById('question-text');
+            const progressInfo = document.getElementById('progress-info');
+            const optCont = document.getElementById('options-container');
+            const expArea = document.getElementById('explanation-area');
+
+            // Passage
+            if (passageBox) {
+                if (qData.passage && qData.passage.trim() !== "") {
+                    passageBox.innerHTML = qData.passage;
+                    passageBox.style.display = 'block';
+                } else {
+                    passageBox.style.display = 'none';
+                }
+            }
+
+            // Progress & question
+            if (progressInfo) progressInfo.innerText = `${currentIndex + 1} / ${activeQuestions.length}`;
+            if (questionText) questionText.innerText = qData.question;
+
+            // Options — now always uses answer:index
+            if (optCont) {
+                optCont.innerHTML = '';
+                qData.options.forEach((opt, idx) => {
+                    const div = document.createElement('div');
+                    div.className = 'option';
+                    div.innerText = opt;
+                    if (userAnswers[currentIndex] !== undefined) {
+                        const isSelected = userAnswers[currentIndex] === idx;
+                        const isCorrect = idx === qData.answer;
+                        if (currentMode === 'exam') {
+                            if (isSelected) div.classList.add('selected-exam');
+                        } else {
+                            if (isCorrect) div.classList.add('correct');
+                            else if (isSelected) div.classList.add('wrong');
+                        }
+                    }
+                    div.onclick = () => {
+                        if (currentMode === 'practice' && userAnswers[currentIndex] !== undefined) return;
+                        userAnswers[currentIndex] = idx;
+                        showQuestion();
+                    };
+                    optCont.appendChild(div);
+                });
+            }
+
+            // Explanation
+            if (expArea) {
+                if (currentMode === 'practice' && userAnswers[currentIndex] !== undefined && qData.explanation) {
+                    expArea.innerHTML = `<strong>${t.exp}:</strong> ${qData.explanation}`;
+                    expArea.style.display = 'block';
+                } else {
+                    expArea.style.display = 'none';
+                }
+            }
+
+            // Nav buttons
+            document.getElementById('btn-finish').style.display = (currentIndex === activeQuestions.length - 1) ? 'inline-block' : 'none';
+            document.getElementById('btn-next').style.display = (currentIndex === activeQuestions.length - 1) ? 'none' : 'inline-block';
+            document.getElementById('btn-prev').style.display = (currentIndex === 0) ? 'none' : 'inline-block';
+
+        } catch (error) {
+            console.error("Error in showQuestion:", error);
+        }
+    }
+
+    function navQuestion(dir) {
+        currentIndex += dir;
+        if (currentIndex < 0) currentIndex = 0;
+        if (currentIndex >= activeQuestions.length) currentIndex = activeQuestions.length - 1;
+        showQuestion();
+    }
+
+    function startTimer() {
+        seconds = 0;
+        const timerBox = document.getElementById('timer-box');
+        if (timerBox) timerBox.style.display = 'block';
+        timer = setInterval(() => {
+            seconds++;
+            let m = Math.floor(seconds / 60);
+            let s = seconds % 60;
+            if (timerBox) timerBox.innerText = `${m}:${s < 10 ? '0' + s : s}`;
+        }, 1000);
+    }
+
+    function finishExam() {
+        clearInterval(timer);
+        const timerBox = document.getElementById('timer-box');
+        if (timerBox) timerBox.style.display = 'none';
+        let score = 0;
+        activeQuestions.forEach((q, i) => {
+            if (userAnswers[i] === q[currentLang].answer) score++;
+        });
+        document.getElementById('quiz-view').style.display = 'none';
+        document.getElementById('result-view').style.display = 'block';
+        document.getElementById('final-score').innerText = `${score} / ${activeQuestions.length}`;
+    }
+
+    function backToMenu() {
+        clearInterval(timer);
+        const timerBox = document.getElementById('timer-box');
+        if (timerBox) timerBox.style.display = 'none';
+        document.getElementById('quiz-view').style.display = 'none';
+        document.getElementById('result-view').style.display = 'none';
+        document.getElementById('menu-view').style.display = 'block';
+    }
+    // Auto-load DB when page is ready
+    document.addEventListener("DOMContentLoaded", function() {
+        loadDatabase();
+    });
+</script>
+</body>
+</html>
