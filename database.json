@@ -1,0 +1,4698 @@
+{
+  "eu_1": [
+    {
+      "en": {
+        "passage": "1. The evolution of the European Union is defined by its foundational treaties, each adding layers of integration and changing the institutional structure.",
+        "question": "Which Treaty formally established the European Union and introduced the three-pillar structure?",
+        "options": [
+          "The Treaty of Lisbon",
+          "The Treaty of Maastricht",
+          "The Treaty of Amsterdam",
+          "The Treaty of Nice"
+        ],
+        "answer": 1,
+        "explanation": "Signed in 1992, the Maastricht Treaty (TEU) created the EU and paved the way for the Euro by establishing the three-pillar structure."
+      },
+      "el": {
+        "passage": "1. Η εξέλιξη της Ευρωπαϊκής Ένωσης καθορίζεται από τις ιδρυτικές της συνθήκες, καθεμία από τις οποίες προσθέτει επίπεδα ολοκλήρωσης.",
+        "question": "Ποια Συνθήκη ίδρυσε επίσημα την Ευρωπαϊκή Ένωση και εισήγαγε τη δομή των τριών πυλώνων;",
+        "options": [
+          "Η Συνθήκη της Λισαβόνας",
+          "Η Συνθήκη του Μάαστριχτ",
+          "Η Συνθήκη του Άμστερνταμ",
+          "Η Συνθήκη της Νίκαιας"
+        ],
+        "answer": 1,
+        "explanation": "Η Συνθήκη του Μάαστριχτ (1992) ίδρυσε την ΕΕ και άνοιξε τον δρόμο για το Ευρώ, εισάγοντας τη δομή των τριών πυλώνων."
+      }
+    },
+    {
+      "en": {
+        "passage": "2. The President of the European Commission is a key figure in EU governance, but the election process involves multiple institutions.",
+        "question": "How is the President of the European Commission officially elected?",
+        "options": [
+          "Appointed directly by the European Council by simple majority.",
+          "Chosen by the outgoing Commission President.",
+          "Elected by a direct vote of all EU citizens.",
+          "Proposed by the European Council and elected by the European Parliament by a majority of its component members."
+        ],
+        "answer": 3,
+        "explanation": "According to Article 17(7) TEU, the Council proposes a candidate (taking into account the EP elections), and the Parliament elects them."
+      },
+      "el": {
+        "passage": "2. Ο Πρόεδρος της Ευρωπαϊκής Επιτροπής είναι κεντρικό πρόσωπο στη διακυβέρνηση της ΕΕ, αλλά η διαδικασία εκλογής περιλαμβάνει πολλά όργανα.",
+        "question": "Πώς εκλέγεται επίσημα ο Πρόεδρος της Ευρωπαϊκής Επιτροπής;",
+        "options": [
+          "Διορίζεται απευθείας από το Ευρωπαϊκό Συμβούλιο με απλή πλειοψηφία.",
+          "Επιλέγεται από τον απερχόμενο Πρόεδρο της Επιτροπής.",
+          "Εκλέγεται με άμεση ψηφοφορία από όλους τους πολίτες της ΕΕ.",
+          "Προτείνεται από το Ευρωπαϊκό Συμβούλιο και εκλέγεται από το Ευρωπαϊκό Κοινοβούλιο με πλειοψηφία των μελών του."
+        ],
+        "answer": 3,
+        "explanation": "Σύμφωνα με το Άρθρο 17(7) της ΣΕΕ, το Συμβούλιο προτείνει έναν υποψήφιο και το Κοινοβούλιο τον εκλέγει."
+      }
+    },
+    {
+      "en": {
+        "passage": "3. The Ordinary Legislative Procedure (OLP) is the standard way most EU laws are adopted, requiring agreement between two main bodies.",
+        "question": "In the Ordinary Legislative Procedure, what happens if the Parliament and the Council cannot agree after the second reading?",
+        "options": [
+          "A Conciliation Committee is convened to reach an agreement on a joint text.",
+          "The proposal is automatically adopted as per the Commission's original draft.",
+          "The European Court of Justice makes the final decision.",
+          "The Commission must withdraw the proposal immediately."
+        ],
+        "answer": 0,
+        "explanation": "Conciliation is the 'last resort' to find a compromise between the two co-legislators (Article 294 TFEU)."
+      },
+      "el": {
+        "passage": "3. Η Συνήθης Νομοθετική Διαδικασία είναι ο τυπικός τρόπος έκδοσης των περισσότερων νόμων της ΕΕ, απαιτώντας συμφωνία μεταξύ δύο οργάνων.",
+        "question": "Στη Συνήθη Νομοθετική Διαδικασία, τι συμβαίνει εάν το Κοινοβούλιο και το Συμβούλιο δεν συμφωνήσουν μετά τη δεύτερη ανάγνωση;",
+        "options": [
+          "Συγκαλείται Επιτροπή Συνδιαλλαγής για την επίτευξη συμφωνίας σε κοινό κείμενο.",
+          "Η πρόταση εγκρίνεται αυτόματα σύμφωνα με το αρχικό σχέδιο της Επιτροπής.",
+          "Το Ευρωπαϊκό Δικαστήριο λαμβάνει την τελική απόφαση.",
+          "Η Επιτροπή πρέπει να αποσύρει την πρόταση αμέσως."
+        ],
+        "answer": 0,
+        "explanation": "Η συνδιαλλαγή είναι το 'έσχατο μέσο' για την εξεύρεση συμβιβασμού μεταξύ των δύο νομοθετών (Άρθρο 294 ΣΛΕΕ)."
+      }
+    },
+    {
+      "en": {
+        "passage": "4. The legal framework of the EU depends on the consistent application of its rules across all 27 Member States.",
+        "question": "Which EU body is primarily responsible for ensuring that EU law is applied uniformly across all Member States?",
+        "options": [
+          "The European Council",
+          "The European Ombudsman",
+          "The European Court of Justice (ECJ)",
+          "The Council of the European Union"
+        ],
+        "answer": 2,
+        "explanation": "The ECJ ensures the interpretation and application of the Treaties is observed (Article 19 TEU)."
+      },
+      "el": {
+        "passage": "4. Το νομικό πλαίσιο της ΕΕ εξαρτάται από τη συνεπή εφαρμογή των κανόνων της και στα 27 κράτη μέλη.",
+        "question": "Ποιο όργανο της ΕΕ είναι πρωτίστως υπεύθυνο για τη διασφάλιση της ενιαίας εφαρμογής του δικαίου της ΕΕ σε όλα τα κράτη μέλη;",
+        "options": [
+          "Το Ευρωπαϊκό Συμβούλιο",
+          "Ο Ευρωπαίος Διαμεσολαβητής",
+          "Το Δικαστήριο της Ευρωπαϊκής Ένωσης (ΔΕΕ)",
+          "Το Συμβούλιο της Ευρωπαϊκής Ένωσης"
+        ],
+        "answer": 2,
+        "explanation": "Το ΔΕΕ διασφαλίζει την τήρηση της ερμηνείας και της εφαρμογής των Συνθηκών (Άρθρο 19 ΣΕΕ)."
+      }
+    },
+    {
+      "en": {
+        "passage": "5. The composition of the European Court of Justice is designed to reflect the legal systems of all Member States.",
+        "question": "How many judges are appointed to the European Court of Justice?",
+        "options": [
+          "A fixed number of 15 judges",
+          "Two per Member State",
+          "Only judges from the founding six members",
+          "One per Member State"
+        ],
+        "answer": 3,
+        "explanation": "The Court consists of one judge from each Member State, plus advocates-general (Article 19(2) TEU)."
+      },
+      "el": {
+        "passage": "5. Η σύνθεση του Δικαστηρίου της ΕΕ έχει σχεδιαστεί έτσι ώστε να αντανακλά τα νομικά συστήματα όλων των κρατών μελών.",
+        "question": "Πόσοι δικαστές διορίζονται στο Δικαστήριο της Ευρωπαϊκής Ένωσης;",
+        "options": [
+          "Ένας σταθερός αριθμός 15 δικαστών",
+          "Δύο ανά κράτος μέλος",
+          "Μόνο δικαστές από τα έξι ιδρυτικά μέλη",
+          "Ένας ανά κράτος μέλος"
+        ],
+        "answer": 3,
+        "explanation": "Το Δικαστήριο αποτελείται από έναν δικαστή από κάθε κράτος μέλος, συν τους γενικούς εισαγγελείς (Άρθρο 19(2) ΣΕΕ)."
+      }
+    },
+    {
+      "en": {
+        "passage": "6. The European Green Deal is the EU's roadmap for a sustainable economy.",
+        "question": "The 'Green Deal' aims to make Europe the first climate-neutral continent by which year?",
+        "options": [
+          "2035",
+          "2045",
+          "2050",
+          "2060"
+        ],
+        "answer": 2,
+        "explanation": "Climate neutrality by 2050 is the central objective of the European Green Deal and the European Climate Law."
+      },
+      "el": {
+        "passage": "6. Η Ευρωπαϊκή Πράσινη Συμφωνία είναι ο οδικός χάρτης της ΕΕ για μια βιώσιμη οικονομία.",
+        "question": "Η 'Πράσινη Συμφωνία' στοχεύει να καταστήσει την Ευρώπη την πρώτη κλιματικά ουδέτερη ήπειρο έως ποιο έτος;",
+        "options": [
+          "2035",
+          "2045",
+          "2050",
+          "2060"
+        ],
+        "answer": 2,
+        "explanation": "Η κλιματική ουδετερότητα έως το 2050 είναι ο κεντρικός στόχος της Ευρωπαϊκής Πράσινης Συμφωνίας."
+      }
+    },
+    {
+      "en": {
+        "passage": "7. EU legal acts come in various forms, each with different methods of application within national systems.",
+        "question": "A directive has been adopted at EU level. What must happen next?",
+        "options": [
+          "It applies automatically in all Member States.",
+          "It only applies to EU institutions.",
+          "It must be transposed into national law.",
+          "It requires approval by national parliaments individually."
+        ],
+        "answer": 2,
+        "explanation": "Directives are binding as to the result but require national transposition (Article 288 TFEU)."
+      },
+      "el": {
+        "passage": "7. Οι νομικές πράξεις της ΕΕ έχουν διάφορες μορφές, καθεμία με διαφορετικούς τρόπους εφαρμογής στα εθνικά συστήματα.",
+        "question": "Μια οδηγία έχει εκδοθεί σε επίπεδο ΕΕ. Τι πρέπει να συμβεί στη συνέχεια;",
+        "options": [
+          "Εφαρμόζεται αυτόματα σε όλα τα κράτη μέλη.",
+          "Ισχύει μόνο για τα θεσμικά όργανα της ΕΕ.",
+          "Πρέπει να μεταφερθεί στο εθνικό δίκαιο.",
+          "Απαιτεί έγκριση από τα εθνικά κοινοβούλια ξεχωριστά."
+        ],
+        "answer": 2,
+        "explanation": "Οι οδηγίες είναι δεσμευτικές ως προς το αποτέλεσμα, αλλά απαιτούν εθνική μεταφορά (Άρθρο 288 ΣΛΕΕ)."
+      }
+    },
+    {
+      "en": {
+        "passage": "8. Managing the Union's finances is a complex task involving oversight and execution.",
+        "question": "Which body ensures the implementation of the EU budget?",
+        "options": [
+          "European Parliament",
+          "European Commission",
+          "European Council",
+          "Court of Justice of the EU"
+        ],
+        "answer": 1,
+        "explanation": "The Commission implements the budget in cooperation with Member States (Article 317 TFEU)."
+      },
+      "el": {
+        "passage": "8. Η διαχείριση των οικονομικών της Ένωσης είναι ένα σύνθετο έργο που περιλαμβάνει εποπτεία και εκτέλεση.",
+        "question": "Ποιο όργανο διασφαλίζει την εκτέλεση του προϋπολογισμού της ΕΕ;",
+        "options": [
+          "Ευρωπαϊκό Κοινοβούλιο",
+          "Ευρωπαϊκή Επιτροπή",
+          "Ευρωπαϊκό Συμβούλιο",
+          "Δικαστήριο της ΕΕ"
+        ],
+        "answer": 1,
+        "explanation": "Η Επιτροπή εκτελεί τον προϋπολογισμό σε συνεργασία με τα κράτη μέλη (Άρθρο 317 ΣΛΕΕ)."
+      }
+    },
+    {
+      "en": {
+        "passage": "9. The exercise of EU competences is governed by key constitutional principles.",
+        "question": "Which principle limits EU action to what is necessary to achieve the objectives of the Treaties?",
+        "options": [
+          "Solidarity",
+          "Subsidiarity",
+          "Equality",
+          "Proportionality"
+        ],
+        "answer": 3,
+        "explanation": "Proportionality ensures that the content and form of Union action does not exceed what is necessary (Article 5(4) TEU)."
+      },
+      "el": {
+        "passage": "9. Η άσκηση των αρμοδιοτήτων της ΕΕ διέπεται από βασικές συνταγματικές αρχές.",
+        "question": "Ποια αρχή περιορίζει τη δράση της ΕΕ σε ό,τι είναι αναγκαίο για την επίτευξη των στόχων των Συνθηκών;",
+        "options": [
+          "Αλληλεγγύη",
+          "Επικουρικότητα",
+          "Ισότητα",
+          "Αναλογικότητα"
+        ],
+        "answer": 3,
+        "explanation": "Η αναλογικότητα διασφαλίζει ότι το περιεχόμενο και η μορφή της δράσης της Ένωσης δεν υπερβαίνει τα αναγκαία (Άρθρο 5(4) ΣΕΕ)."
+      }
+    },
+    {
+      "en": {
+        "passage": "10. Article 288 of the TFEU lists the types of legal acts the Union can adopt.",
+        "question": "Which of the following acts is not legally binding?",
+        "options": [
+          "Recommendation",
+          "Regulation",
+          "Directive",
+          "Decision"
+        ],
+        "answer": 0,
+        "explanation": "Recommendations and opinions have no binding legal force (Article 288 TFEU)."
+      },
+      "el": {
+        "passage": "10. Το άρθρο 288 της ΣΛΕΕ απαριθμεί τους τύπους νομικών πράξεων που μπορεί να εκδώσει η Ένωση.",
+        "question": "Ποια από τις ακόλουθες πράξεις δεν είναι νομικά δεσμευτική;",
+        "options": [
+          "Σύσταση",
+          "Κανονισμός",
+          "Οδηγία",
+          "Απόφαση"
+        ],
+        "answer": 0,
+        "explanation": "Οι συστάσεις και οι γνώμες δεν έχουν δεσμευτική ισχύ (Άρθρο 288 ΣΛΕΕ)."
+      }
+    },
+    {
+      "en": {
+        "passage": "11. The Commission acts as the 'Guardian of the Treaties', monitoring Member States' compliance.",
+        "question": "Who can bring infringement proceedings against a Member State for failing to fulfill a Treaty obligation?",
+        "options": [
+          "European Parliament",
+          "Council of the EU",
+          "European Commission",
+          "European Council"
+        ],
+        "answer": 2,
+        "explanation": "The Commission initiates infringement proceedings under Article 258 TFEU."
+      },
+      "el": {
+        "passage": "11. Η Επιτροπή ενεργεί ως 'Θεματοφύλακας των Συνθηκών', παρακολουθώντας τη συμμόρφωση των κρατών μελών.",
+        "question": "Ποιος μπορεί να κινήσει διαδικασία επί παραβάσει κατά κράτους μέλους που δεν εκπληρώνει υποχρέωση από τις Συνθήκες;",
+        "options": [
+          "Ευρωπαϊκό Κοινοβούλιο",
+          "Συμβούλιο της ΕΕ",
+          "Ευρωπαϊκή Επιτροπή",
+          "Ευρωπαϊκό Συμβούλιο"
+        ],
+        "answer": 2,
+        "explanation": "Η Επιτροπή κινεί τη διαδικασία επί παραβάσει βάσει του άρθρου 258 της ΣΛΕΕ."
+      }
+    },
+    {
+      "en": {
+        "passage": "12. The geography of the EU is diverse, with its external borders spanning vast distances.",
+        "question": "Which of the following Member States has the longest external coastline of the European Union?",
+        "options": [
+          "Italy",
+          "France",
+          "Spain",
+          "Greece"
+        ],
+        "answer": 3,
+        "explanation": "Greece has the longest coastline in the EU due to its thousands of islands and highly indented mainland."
+      },
+      "el": {
+        "passage": "12. Η γεωγραφία της ΕΕ είναι ποικίλη, με τα εξωτερικά της σύνορα να εκτείνονται σε τεράστιες αποστάσεις.",
+        "question": "Ποιο από τα ακόλουθα κράτη μέλη διαθέτει τη μεγαλύτερη εξωτερική ακτογραμμή στην Ευρωπαϊκή Ένωση;",
+        "options": [
+          "Ιταλία",
+          "Γαλλία",
+          "Ισπανία",
+          "Ελλάδα"
+        ],
+        "answer": 3,
+        "explanation": "Η Ελλάδα έχει τη μεγαλύτερη ακτογραμμή στην ΕΕ λόγω των χιλιάδων νησιών της και του έντονου διαμελισμού των ακτών της."
+      }
+    },
+    {
+      "en": {
+        "passage": "13. The Area of Freedom, Security, and Justice (AFSJ) is an area of shared competence.",
+        "question": "Why does the EU have 'Shared Competence' in the Area of Freedom, Security, and Justice?",
+        "options": [
+          "To allow the EU to manage national borders without consulting Member States.",
+          "Because crime and terrorism are cross-border issues that no single state can solve effectively alone.",
+          "Because Member States want the EU to take over their national police forces.",
+          "Because it was a requirement for the Schengen Agreement."
+        ],
+        "answer": 1,
+        "explanation": "Cross-border threats require shared action (Europol/Eurojust) while respecting national security roles (Article 4 TFEU)."
+      },
+      "el": {
+        "passage": "13. Ο Χώρος Ελευθερίας, Ασφάλειας και Δικαιοσύνης είναι ένας τομέας συντρέχουσας αρμοδιότητας.",
+        "question": "Γιατί η ΕΕ έχει 'Συντρέχουσα Αρμοδιότητα' στον Χώρο Ελευθερίας, Ασφάλειας και Δικαιοσύνης;",
+        "options": [
+          "Για να διαχειρίζεται τα εθνικά σύνορα χωρίς διαβούλευση με τα κράτη μέλη.",
+          "Επειδή το έγκλημα και η τρομοκρατία είναι διασυνοριακά ζητήματα που κανένα κράτος δεν μπορεί να λύσει μόνο του.",
+          "Επειδή τα κράτη μέλη θέλουν η ΕΕ να αναλάβει τις εθνικές αστυνομικές τους δυνάμεις.",
+          "Επειδή ήταν απαίτηση για τη Συμφωνία Σένγκεν."
+        ],
+        "answer": 1,
+        "explanation": "Οι διασυνοριακές απειλές απαιτούν κοινή δράση (Europol/Eurojust) (Άρθρο 4 ΣΛΕΕ)."
+      }
+    },
+    {
+      "en": {
+        "passage": "14. Historical timelines of the EU mark the progression from economic cooperation to a political union.",
+        "question": "In which year was the Treaty of Maastricht signed, officially creating the European Union?",
+        "options": [
+          "1989",
+          "1995",
+          "1999",
+          "1992"
+        ],
+        "answer": 3,
+        "explanation": "Signed on February 7, 1992, it represented a new stage in integration by establishing the EU."
+      },
+      "el": {
+        "passage": "14. Τα ιστορικά ορόσημα της ΕΕ σηματοδοτούν την πορεία από την οικονομική συνεργασία στην πολιτική ένωση.",
+        "question": "Ποιο έτος υπογράφηκε η Συνθήκη του Μάαστριχτ, ιδρύοντας επίσημα την Ευρωπαϊκή Ένωση;",
+        "options": [
+          "1989",
+          "1995",
+          "1999",
+          "1992"
+        ],
+        "answer": 3,
+        "explanation": "Υπογράφηκε στις 7 Φεβρουαρίου 1992 και αποτέλεσε ένα νέο στάδιο ολοκλήρωσης με την ίδρυση της ΕΕ."
+      }
+    },
+    {
+      "en": {
+        "passage": "15. The European Green Deal is a comprehensive plan for environmental transformation.",
+        "question": "Which of the following is not a key pillar or closely associated initiative of the European Green Deal?",
+        "options": [
+          "The 'Fit for 55' package",
+          "A programme focusing on accession negotiations with candidate countries",
+          "A long term objective of climate neutrality by 2050",
+          "A 'Just Transition Mechanism' to support affected regions"
+        ],
+        "answer": 1,
+        "explanation": "Enlargement policy (accession) is distinct from the Green Deal's climate and environmental focus."
+      },
+      "el": {
+        "passage": "15. Η Ευρωπαϊκή Πράσινη Συμφωνία είναι ένα ολοκληρωμένο σχέδιο για τον περιβαλλοντικό μετασχηματισμό.",
+        "question": "Ποιο από τα ακόλουθα ΔΕΝ αποτελεί βασικό πυλώνα ή πρωτοβουλία της Ευρωπαϊκής Πράσινης Συμφωνίας;",
+        "options": [
+          "Το πακέτο 'Fit for 55'",
+          "Ένα πρόγραμμα που επικεντρώνεται στις ενταξιακές διαπραγματεύσεις με υποψήφιες χώρες",
+          "Ο μακροπρόθεσμος στόχος της κλιματικής ουδετερότητας έως το 2050",
+          "Ο 'Μηχανισμός Δίκαιης Μετάβασης' για τη στήριξη των πληγεισών περιοχών"
+        ],
+        "answer": 1,
+        "explanation": "Η πολιτική διεύρυνσης είναι διακριτή από την Πράσινη Συμφωνία, η οποία αφορά το κλίμα και το περιβάλλον."
+      }
+    },
+    {
+      "en": {
+        "passage": "16. The EU's long-term budget allocates resources to various policy areas through several 'headings'.",
+        "question": "Which of the following is one of the largest expenditure categories in the 2021-2027 MFF?",
+        "options": [
+          "Defence and Border Management",
+          "Space Policy",
+          "Administrative costs",
+          "Cohesion, Resilience and Values"
+        ],
+        "answer": 3,
+        "explanation": "Cohesion policy and Natural Resources (CAP) remain the two pillars of EU spending in the current MFF."
+      },
+      "el": {
+        "passage": "16. Ο μακροπρόθεσμος προϋπολογισμός της ΕΕ κατανέμει πόρους σε διάφορους τομείς πολιτικής μέσω 'κεφαλαίων'.",
+        "question": "Ποια από τις ακόλουθες είναι μία από τις μεγαλύτερες κατηγορίες δαπανών στο ΠΔΠ 2021-2027;",
+        "options": [
+          "Άμυνα και Διαχείριση Συνόρων",
+          "Διαστημική Πολιτική",
+          "Διοικητικές δαπάνες",
+          "Συνοχή, Ανθεκτικότητα και Αξίες"
+        ],
+        "answer": 3,
+        "explanation": "Η πολιτική συνοχής και οι φυσικοί πόροι (ΚΑΠ) παραμένουν οι δύο βασικοί πυλώνες των δαπανών της ΕΕ."
+      }
+    },
+    {
+      "en": {
+        "passage": "17. The principle of Conferral is a fundamental rule for the distribution of powers between the EU and its Member States.",
+        "question": "What does the principle of 'Conferral' imply regarding EU powers?",
+        "options": [
+          "The EU can act in any area it deems necessary.",
+          "Member States must confer all their tax powers to the Commission.",
+          "The EU shall act only within the limits of the competences conferred upon it by the Member States.",
+          "The Parliament confers its power to the European Council in times of crisis."
+        ],
+        "answer": 2,
+        "explanation": "The EU only has the powers specifically given to it by Member States in the Treaties (Article 5(2) TEU)."
+      },
+      "el": {
+        "passage": "17. Η αρχή της Δοτής Αρμοδιότητας είναι θεμελιώδης κανόνας για την κατανομή των εξουσιών μεταξύ της ΕΕ και των κρατών μελών.",
+        "question": "Τι συνεπάγεται η αρχή της 'Δοτής Αρμοδιότητας' όσον αφορά τις εξουσίες της ΕΕ;",
+        "options": [
+          "Η ΕΕ μπορεί να δράσει σε οποιονδήποτε τομέα κρίνει αναγκαίο.",
+          "Τα κράτη μέλη πρέπει να μεταβιβάσουν όλες τις φορολογικές τους εξουσίες στην Επιτροπή.",
+          "Η Ένωση ενεργεί μόνο εντός των ορίων των αρμοδιοτήτων που της έχουν αναθέσει τα κράτη μέλη.",
+          "Το Κοινοβούλιο μεταβιβάζει την εξουσία του στο Ευρωπαϊκό Συμβούλιο σε περιόδους κρίσης."
+        ],
+        "answer": 2,
+        "explanation": "Η ΕΕ έχει μόνο τις εξουσίες που της δίνονται ρητά από τα κράτη μέλη στις Συνθήκες (Άρθρο 5(2) ΣΕΕ)."
+      }
+    },
+    {
+      "en": {
+        "passage": "18. Not all EU institutions have the same role in the making of European laws.",
+        "question": "Which of the following institutions does not exercise legislative functions?",
+        "options": [
+          "European Parliament",
+          "European Council",
+          "Council of the EU",
+          "European Commission"
+        ],
+        "answer": 1,
+        "explanation": "The European Council provides political impetus but is explicitly excluded from legislating (Article 15(1) TEU)."
+      },
+      "el": {
+        "passage": "18. Δεν έχουν όλα τα θεσμικά όργανα της ΕΕ τον ίδιο ρόλο στη δημιουργία των ευρωπαϊκών νόμων.",
+        "question": "Ποιο από τα ακόλουθα όργανα ΔΕΝ ασκεί νομοθετικά καθήκοντα;",
+        "options": [
+          "Ευρωπαϊκό Κοινοβούλιο",
+          "Ευρωπαϊκό Συμβούλιο",
+          "Συμβούλιο της ΕΕ",
+          "Ευρωπαϊκή Επιτροπή"
+        ],
+        "answer": 1,
+        "explanation": "Το Ευρωπαϊκό Συμβούλιο δίνει την πολιτική ώθηση αλλά εξαιρείται ρητά από τη νομοθετική λειτουργία (Άρθρο 15(1) ΣΕΕ)."
+      }
+    },
+    {
+      "en": {
+        "passage": "19. The 2004 enlargement was a milestone in reunifying Europe after the Cold War.",
+        "question": "The 'Big Bang' enlargement, which saw 10 new countries join the EU at once, took place on:",
+        "options": [
+          "January 1, 2007",
+          "July 1, 2013",
+          "May 1, 2004",
+          "June 23, 2016"
+        ],
+        "answer": 2,
+        "explanation": "This was the largest single enlargement in EU history, involving countries like Poland, Hungary, and Cyprus."
+      },
+      "el": {
+        "passage": "19. Η διεύρυνση του 2004 ήταν ορόσημο για την επανένωση της Ευρώπης μετά τον Ψυχρό Πόλεμο.",
+        "question": "Η διεύρυνση 'Big Bang', με την οποία 10 νέες χώρες προσχώρησαν ταυτόχρονα στην ΕΕ, πραγματοποιήθηκε στις:",
+        "options": [
+          "1 Ιανουαρίου 2007",
+          "1 Ιουλίου 2013",
+          "1 Μαΐου 2004",
+          "23 Ιουνίου 2016"
+        ],
+        "answer": 2,
+        "explanation": "Ήταν η μεγαλύτερη μεμονωμένη διεύρυνση στην ιστορία της ΕΕ, περιλαμβάνοντας χώρες όπως η Πολωνία, η Ουγγαρία και η Κύπρος."
+      }
+    },
+    {
+      "en": {
+        "passage": "20. The Maastricht Treaty established three pillars, each governed by different decision-making rules.",
+        "question": "Which 'pillar' of the Maastricht Treaty was predominantly intergovernmental rather than supranational?",
+        "options": [
+          "Common Foreign and Security Policy (CFSP)",
+          "The Internal Market",
+          "Agricultural Policy",
+          "Customs Union"
+        ],
+        "answer": 0,
+        "explanation": "The CFSP (2nd pillar) was kept under the control of Member States (Council) rather than the Commission's initiative."
+      },
+      "el": {
+        "passage": "20. Η Συνθήκη του Μάαστριχτ καθιέρωσε τρεις πυλώνες, καθένας από τους οποίους διεπόταν από διαφορετικούς κανόνες λήψης αποφάσεων.",
+        "question": "Ποιος 'πυλώνας' της Συνθήκης του Μάαστριχτ ήταν κυρίως διακυβερνητικός και όχι υπερεθνικός;",
+        "options": [
+          "Κοινή Εξωτερική Πολιτική και Πολιτική Ασφάλειας (ΚΕΠΠΑ)",
+          "Η Εσωτερική Αγορά",
+          "Γεωργική Πολιτική",
+          "Τελωνειακή Ένωση"
+        ],
+        "answer": 0,
+        "explanation": "Η ΚΕΠΠΑ (2ος πυλώνας) παρέμεινε υπό τον έλεγχο των κρατών μελών (Συμβούλιο) και όχι της Επιτροπής."
+      }
+    },
+    {
+      "en": {
+        "passage": "21. Within the European Parliament, specific members are appointed to manage the progress of legislative files.",
+        "question": "Why does the European Parliament have 'Rapporteurs'?",
+        "options": [
+          "To represent the Commission during plenary sessions.",
+          "To lead the negotiations on a specific legislative proposal on behalf of a committee.",
+          "To manage the physical security of the Parliament buildings.",
+          "To report on the attendance of MEPs to their national governments."
+        ],
+        "answer": 1,
+        "explanation": "A Rapporteur is the key MEP responsible for drafting the Parliament's position and leading negotiations."
+      },
+      "el": {
+        "passage": "21. Στο Ευρωπαϊκό Κοινοβούλιο, διορίζονται συγκεκριμένα μέλη για τη διαχείριση της προόδου των νομοθετικών φακέλων.",
+        "question": "Γιατί το Ευρωπαϊκό Κοινοβούλιο διορίζει 'Εισηγητές' (Rapporteurs);",
+        "options": [
+          "Για να εκπροσωπούν την Επιτροπή στις συνεδριάσεις της ολομέλειας.",
+          "Για να ηγούνται των διαπραγματεύσεων για μια συγκεκριμένη νομοθετική πρόταση εκ μέρους μιας επιτροπής.",
+          "Για τη διαχείριση της ασφάλειας των κτιρίων του Κοινοβουλίου.",
+          "Για να αναφέρουν την παρουσία των ευρωβουλευτών στις εθνικές τους κυβερνήσεις."
+        ],
+        "answer": 1,
+        "explanation": "Ο εισηγητής είναι ο ευρωβουλευτής που είναι υπεύθυνος για τη σύνταξη της θέσης του Κοινοβουλίου για έναν νόμο."
+      }
+    },
+    {
+      "en": {
+        "passage": "22. The Treaty of Lisbon introduced mechanisms to simplify the updating of non-essential parts of legislation.",
+        "question": "What is a 'Delegated Act' (Art. 290 TFEU) used for?",
+        "options": [
+          "To change the essential elements of a legislative act.",
+          "To allow Member States to ignore a Regulation.",
+          "To supplement or amend certain non-essential elements of a legislative act.",
+          "To transfer powers from the Parliament to the Commission indefinitely."
+        ],
+        "answer": 2,
+        "explanation": "Delegated acts allow for technical updates (e.g., annexes) without the full legislative procedure (Article 290 TFEU)."
+      },
+      "el": {
+        "passage": "22. Η Συνθήκη της Λισαβόνας εισήγαγε μηχανισμούς για την απλούστευση της ενημέρωσης μη ουσιωδών μερών της νομοθεσίας.",
+        "question": "Σε τι χρησιμεύει μια 'Κατ' εξουσιοδότηση Πράξη' (Άρθρο 290 ΣΛΕΕ);",
+        "options": [
+          "Για την αλλαγή των ουσιωδών στοιχείων μιας νομοθετικής πράξης.",
+          "Για να επιτρέψει στα κράτη μέλη να αγνοήσουν έναν Κανονισμό.",
+          "Για τη συμπλήρωση ή τροποποίηση ορισμένων μη ουσιωδών στοιχείων μιας νομοθετικής πράξης.",
+          "Για τη μεταφορά εξουσιών από το Κοινοβούλιο στην Επιτροπή επ' αόριστον."
+        ],
+        "answer": 2,
+        "explanation": "Επιτρέπει τεχνικές επικαιροποιήσεις χωρίς την πλήρη νομοθετική διαδικασία (Άρθρο 290 ΣΛΕΕ)."
+      }
+    },
+    {
+      "en": {
+        "passage": "23. Greenhouse gas reduction targets are central to the EU's climate policy.",
+        "question": "Under the 'Fit for 55' package, what is the EU's legally binding target for the reduction of net greenhouse gas emissions by 2030?",
+        "options": [
+          "At least 40% compared to 1990 levels",
+          "At least 55% compared to 1990 levels",
+          "At least 50% compared to 2005 levels",
+          "Net-zero emissions by 2030"
+        ],
+        "answer": 1,
+        "explanation": "The European Climate Law mandates a 55% reduction as a stepping stone to 2050 climate neutrality."
+      },
+      "el": {
+        "passage": "23. Οι στόχοι μείωσης των αερίων του θερμοκηπίου είναι κεντρικοί για την κλιματική πολιτική της ΕΕ.",
+        "question": "Στο πλαίσιο του πακέτου 'Fit for 55', ποιος είναι ο νομικά δεσμευτικός στόχος της ΕΕ για τη μείωση των καθαρών εκπομπών έως το 2030;",
+        "options": [
+          "Τουλάχιστον 40% σε σύγκριση με τα επίπεδα του 1990",
+          "Τουλάχιστον 55% σε σύγκριση με τα επίπεδα του 1990",
+          "Τουλάχιστον 50% σε σύγκριση με τα επίπεδα του 2005",
+          "Μηδενικές καθαρές εκπομπές έως το 2030"
+        ],
+        "answer": 1,
+        "explanation": "Ο Ευρωπαϊκός Νόμος για το Κλίμα επιβάλλει μείωση 55% ως ενδιάμεσο στόχο για την ουδετερότητα το 2050."
+      }
+    },
+    {
+      "en": {
+        "passage": "24. The Multiannual Financial Framework (MFF) provides the long-term structure for EU spending.",
+        "question": "Which of the following statements best describes the 'Multiannual Financial Framework' (MFF)?",
+        "options": [
+          "The annual budget approved by the European Parliament every December.",
+          "A 10-year investment plan funded exclusively by private banks.",
+          "A temporary emergency fund used only during financial crises.",
+          "The EU's long-term budget, usually covering a seven-year period, which sets the limits on annual spending."
+        ],
+        "answer": 3,
+        "explanation": "The MFF ensures spending is predictable and stays within agreed limits over a 7-year cycle."
+      },
+      "el": {
+        "passage": "24. Το Πολυετές Δημοσιονομικό Πλαίσιο (ΠΔΠ) παρέχει τη μακροπρόθεσμη δομή για τις δαπάνες της ΕΕ.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις περιγράφει καλύτερα το 'Πολυετές Δημοσιονομικό Πλαίσιο' (ΠΔΠ);",
+        "options": [
+          "Ο ετήσιος προϋπολογισμός που εγκρίνεται από το Κοινοβούλιο κάθε Δεκέμβριο.",
+          "Ένα 10ετές επενδυτικό σχέδιο που χρηματοδοτείται αποκλειστικά από ιδιωτικές τράπεζες.",
+          "Ένα προσωρινό ταμείο έκτακτης ανάγκης που χρησιμοποιείται μόνο σε κρίσεις.",
+          "Ο μακροπρόθεσμος προϋπολογισμός της ΕΕ, συνήθως για επτά έτη, που θέτει τα όρια των ετήσιων δαπανών."
+        ],
+        "answer": 3,
+        "explanation": "Το ΠΔΠ διασφαλίζει ότι οι δαπάνες είναι προβλέψιμες και παραμένουν εντός συμφωνημένων ορίων."
+      }
+    },
+    {
+      "en": {
+        "passage": "25. The Common Agricultural Policy (CAP) is one of the oldest and most integrated policies of the Union.",
+        "question": "The 'Common Agricultural Policy' (CAP) is managed under:",
+        "options": [
+          "Direct management by the Parliament.",
+          "Exclusive management by the World Trade Organization.",
+          "Shared management between the Commission and Member States.",
+          "Private management by farming unions."
+        ],
+        "answer": 2,
+        "explanation": "Member States handle the payments and checks, while the Commission oversees legality and governance."
+      },
+      "el": {
+        "passage": "25. Η Κοινή Γεωργική Πολιτική (ΚΑΠ) είναι μία από τις παλαιότερες και πιο ολοκληρωμένες πολιτικές της Ένωσης.",
+        "question": "Η διαχείριση της 'Κοινής Γεωργικής Πολιτικής' (ΚΑΠ) γίνεται μέσω:",
+        "options": [
+          "Άμεσης διαχείρισης από το Κοινοβούλιο.",
+          "Αποκλειστικής διαχείρισης από τον Παγκόσμιο Οργανισμό Εμπορίου.",
+          "Επιμερισμένης διαχείρισης μεταξύ της Επιτροπής και των κρατών μελών.",
+          "Ιδιωτικής διαχείρισης από αγροτικές ενώσεις."
+        ],
+        "answer": 2,
+        "explanation": "Τα κράτη μέλη διαχειρίζονται τις πληρωμές και η Επιτροπή εποπτεύει τη νομιμότητα."
+      }
+    },
+    {
+      "en": {
+        "passage": "26. EU citizenship was introduced to strengthen the identification of individuals with the European project.",
+        "question": "EU Citizenship is granted to:",
+        "options": [
+          "Anyone living in Europe for more than 5 years.",
+          "Only people working for the EU institutions.",
+          "Citizens of the United Kingdom.",
+          "Every person holding the nationality of a Member State."
+        ],
+        "answer": 3,
+        "explanation": "EU citizenship is additional to and does not replace national citizenship (Article 20 TFEU)."
+      },
+      "el": {
+        "passage": "26. Η ιθαγένεια της ΕΕ θεσπίστηκε για να ενισχύσει τον δεσμό των ατόμων με το ευρωπαϊκό οικοδόμημα.",
+        "question": "Η ιθαγένεια της ΕΕ χορηγείται σε:",
+        "options": [
+          "Οποιονδήποτε ζει στην Ευρώπη για περισσότερα από 5 χρόνια.",
+          "Μόνο σε άτομα που εργάζονται στα θεσμικά όργανα της ΕΕ.",
+          "Πολίτες του Ηνωμένου Βασιλείου.",
+          "Κάθε πρόσωπο που έχει την υπηκοότητα ενός κράτους μέλους."
+        ],
+        "answer": 3,
+        "explanation": "Η ιθαγένεια της Ένωσης προστίθεται στην εθνική ιθαγένεια και δεν την αντικαθιστά (Άρθρο 20 ΣΛΕΕ)."
+      }
+    },
+    {
+      "en": {
+        "passage": "27. The European Central Bank (ECB) plays a critical role in the stability of the Eurozone.",
+        "question": "Which statement about the ECB is legally accurate regarding its status and objectives?",
+        "options": [
+          "It is subject to direct instructions from Member State governments.",
+          "It operates under the political guidance of the European Council.",
+          "It is independent and its primary objective is to maintain price stability.",
+          "It is primarily responsible for defining the overall fiscal policy of the EU."
+        ],
+        "answer": 2,
+        "explanation": "Articles 127 and 130 TFEU guarantee the ECB's absolute independence and define price stability as its primary goal."
+      },
+      "el": {
+        "passage": "27. Η Ευρωπαϊκή Κεντρική Τράπεζα (ΕΚΤ) διαδραματίζει κρίσιμο ρόλο στη σταθερότητα της Ευρωζώνης.",
+        "question": "Ποια δήλωση σχετικά με την ΕΚΤ είναι νομικά ορθή όσον αφορά το καθεστώς και τους στόχους της;",
+        "options": [
+          "Υπόκειται σε άμεσες οδηγίες από τις κυβερνήσεις των κρατών μελών.",
+          "Λειτουργεί υπό την πολιτική καθοδήγηση του Ευρωπαϊκού Συμβουλίου.",
+          "Είναι ανεξάρτητη και ο κύριος στόχος της είναι η διατήρηση της σταθερότητας των τιμών.",
+          "Είναι πρωτίστως υπεύθυνη για τον καθορισμό της συνολικής δημοσιονομικής πολιτικής της ΕΕ."
+        ],
+        "answer": 2,
+        "explanation": "Τα άρθρα 127 και 130 της ΣΛΕΕ εγγυώνται την ανεξαρτησία της ΕΚΤ και ορίζουν τη σταθερότητα των τιμών ως κύριο στόχο."
+      }
+    },
+    {
+      "en": {
+        "passage": "28. The Council of the EU relies on a network of diplomats and experts to prepare its work.",
+        "question": "What is the main preparatory organ of the Council that aims for consensus before ministerial meetings?",
+        "options": [
+          "European Commission",
+          "COREPER",
+          "General Secretariat",
+          "European Council"
+        ],
+        "answer": 1,
+        "explanation": "COREPER (Committee of the Permanent Representatives) is the Council's top preparatory body."
+      },
+      "el": {
+        "passage": "28. Το Συμβούλιο της ΕΕ βασίζεται σε ένα δίκτυο διπλωματών και εμπειρογνωμόνων για την προετοιμασία των εργασιών του.",
+        "question": "Ποιο είναι το κύριο προπαρασκευαστικό όργανο του Συμβουλίου που στοχεύει στη συναίνεση πριν από τις υπουργικές συνόδους;",
+        "options": [
+          "Ευρωπαϊκή Επιτροπή",
+          "COREPER",
+          "Γενική Γραμματεία",
+          "Ευρωπαϊκό Συμβούλιο"
+        ],
+        "answer": 1,
+        "explanation": "Η COREPER (Επιτροπή των Μονίμων Αντιπροσώπων) είναι το κορυφαίο προπαρασκευαστικό όργανο του Συμβουλίου."
+      }
+    },
+    {
+      "en": {
+        "passage": "29. Financial continuity is essential for the Union to avoid institutional paralysis.",
+        "question": "What is the legal consequence if the EU Budget is not adopted by the beginning of the financial year?",
+        "options": [
+          "EU operations stop immediately.",
+          "The Commission issues emergency debt to cover costs.",
+          "The 'Provisional Twelfths' system applies.",
+          "Member States must pay an extra 10% contribution."
+        ],
+        "answer": 2,
+        "explanation": "Under Article 315 TFEU, spending is capped monthly at 1/12th of the previous year's budget until the new one is adopted."
+      },
+      "el": {
+        "passage": "29. Η οικονομική συνέχεια είναι απαραίτητη για την Ένωση ώστε να αποφευχθεί η θεσμική παράλυση.",
+        "question": "Ποια είναι η νομική συνέπεια εάν ο προϋπολογισμός της ΕΕ δεν εγκριθεί μέχρι την έναρξη του οικονομικού έτους;",
+        "options": [
+          "Οι λειτουργίες της ΕΕ σταματούν αμέσως.",
+          "Η Επιτροπή εκδίδει έκτακτο χρέος για την κάλυψη των δαπανών.",
+          "Εφαρμόζεται το σύστημα των 'Προσωρινών Δωδεκατημορίων'.",
+          "Τα κράτη μέλη πρέπει να καταβάλουν επιπλέον εισφορά 10%."
+        ],
+        "answer": 2,
+        "explanation": "Βάσει του άρθρου 315 της ΣΛΕΕ, οι δαπάνες περιορίζονται μηνιαίως στο 1/12 του προϋπολογισμού του προηγούμενου έτους."
+      }
+    },
+    {
+      "en": {
+        "passage": "30. Energy security and environmental transition became an urgent priority following the 2022 geopolitical changes.",
+        "question": "What is the primary objective of the EU's 'REPowerEU' plan launched in 2022?",
+        "options": [
+          "To establish a single European army by 2030.",
+          "To provide universal high-speed 5G internet to all rural EU households.",
+          "To create a unified European railway network for freight transport.",
+          "To phase out EU dependence on Russian fossil fuels and fast-forward the green transition."
+        ],
+        "answer": 3,
+        "explanation": "REPowerEU focuses on energy savings, diversification of supplies, and accelerated renewable energy roll-out."
+      },
+      "el": {
+        "passage": "30. Η ενεργειακή ασφάλεια και η περιβαλλοντική μετάβαση έγιναν επείγουσα προτεραιότητα μετά τις γεωπολιτικές αλλαγές του 2022.",
+        "question": "Ποιος είναι ο πρωταρχικός στόχος του σχεδίου 'REPowerEU' της ΕΕ που ξεκίνησε το 2022;",
+        "options": [
+          "Η ίδρυση ενιαίου ευρωπαϊκού στρατού έως το 2040.",
+          "Η παροχή καθολικού διαδικτύου 5G σε όλα τα αγροτικά νοικοκυριά.",
+          "Η δημιουργία ενιαίου σιδηροδρομικού δικτύου εμπορευμάτων.",
+          "Η σταδιακή κατάργηση της εξάρτησης από τα ρωσικά ορυκτά καύσιμα και η επιτάχυνση της πράσινης μετάβασης."
+        ],
+        "answer": 3,
+        "explanation": "Το REPowerEU επικεντρώνεται στην εξοικονόμηση ενέργειας και στη διαφοροποίηση των πηγών εφοδιασμού."
+      }
+    }
+  ],
+  "eu_2": [
+    {
+      "en": {
+        "passage": "",
+        "question": "1. Which EU body is responsible for auditing the proper management of the Union's budget?",
+        "options": [
+          "European Central Bank (ECB)",
+          "European Commission",
+          "European Court of Auditors (ECA)",
+          "European Investment Bank"
+        ],
+        "answer": 2,
+        "explanation": "The ECA examines the legality and regularity of Union revenue and expenditure and ensures sound financial management."
+      },
+      "el": {
+        "passage": "",
+        "question": "1. Ποιο όργανο της ΕΕ είναι υπεύθυνο για τον έλεγχο της ορθής διαχείρισης του προϋπολογισμού της Ένωσης;",
+        "options": [
+          "Ευρωπαϊκή Κεντρική Τράπεζα (ΕΚΤ)",
+          "Ευρωπαϊκή Επιτροπή",
+          "Ευρωπαϊκό Ελεγκτικό Συνέδριο (ECA)",
+          "Ευρωπαϊκή Τράπεζα Επενδύσεων"
+        ],
+        "answer": 2,
+        "explanation": "Το Ελεγκτικό Συνέδριο ελέγχει αν τα κονδύλια της ΕΕ εισπράττονται και δαπανώνται νόμιμα και με χρηστή διαχείριση."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "2. What category of companies does the Digital Markets Act (DMA) primarily aim to regulate?",
+        "options": [
+          "Gatekeepers",
+          "Startups",
+          "Telecommunications providers",
+          "Hardware manufacturers"
+        ],
+        "answer": 0,
+        "explanation": "The DMA targets large digital platforms that act as 'gatekeepers' between business users and consumers."
+      },
+      "el": {
+        "passage": "",
+        "question": "2. Η Πράξη για τις Ψηφιακές Αγορές (DMA) στοχεύει στον περιορισμό της ισχύος ποιας κατηγορίας εταιρειών;",
+        "options": [
+          "Των ρυθμιστών πρόσβασης (Gatekeepers)",
+          "Των νεοφυών επιχειρήσεων (Startups)",
+          "Των παρόχων τηλεπικοινωνιών",
+          "Των κατασκευαστών υλικού (Hardware)"
+        ],
+        "answer": 0,
+        "explanation": "Η DMA στοχεύει μεγάλες πλατφόρμες που λειτουργούν ως «πύλες» ελέγχοντας την πρόσβαση στην αγορά."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "3. Which of the following EU Member States is NOT part of the Schengen Area?",
+        "options": [
+          "Croatia",
+          "Cyprus",
+          "Estonia",
+          "Slovenia"
+        ],
+        "answer": 1,
+        "explanation": "Cyprus does not yet fully apply the Schengen acquis due to the division of the island and the 'Green Line' situation."
+      },
+      "el": {
+        "passage": "",
+        "question": "3. Ποιο από τα παρακάτω κράτη μέλη της ΕΕ ΔΕΝ ανήκει στη ζώνη Σένγκεν;",
+        "options": [
+          "Κροατία",
+          "Κύπρος",
+          "Εσθονία",
+          "Σλοβενία"
+        ],
+        "answer": 1,
+        "explanation": "Η Κύπρος δεν εφαρμόζει ακόμη πλήρως τη Σένγκεν λόγω του εδαφικού ζητήματος και των ελέγχων στην πράσινη γραμμή."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "4. Under EU Competition Law, what does the 'De Minimis' regulation primarily establish?",
+        "options": [
+          "Minimum number of MS for tax laws",
+          "A threshold of state aid not requiring notification",
+          "Minimum salary for EU officials",
+          "Subsidies exclusively for SMEs"
+        ],
+        "answer": 1,
+        "explanation": "Small amounts of aid (up to €300k over 3 years) are deemed not to affect competition and don't need Commission approval."
+      },
+      "el": {
+        "passage": "",
+        "question": "4. Βάσει του Δικαίου Ανταγωνισμού της ΕΕ, τι θεσπίζει κυρίως ο κανονισμός 'De Minimis';",
+        "options": [
+          "Ελάχιστο αριθμό κρατών για φορολογικούς νόμους",
+          "Ένα όριο κρατικής ενίσχυσης που δεν απαιτεί κοινοποίηση",
+          "Κατώτατα όρια μισθών για υπαλλήλους ΕΕ",
+          "Επιδοτήσεις αποκλειστικά για ΜΜΕ"
+        ],
+        "answer": 1,
+        "explanation": "Μικρά ποσά ενίσχυσης (έως 300.000€ ανά 3ετία) τεκμαίρεται ότι δεν στρεβλώνουν τον ανταγωνισμό."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "5. What is the primary role of the 'Management Board' in most decentralized EU agencies?",
+        "options": [
+          "Daily operational management",
+          "Setting strategic priorities and adopting the budget",
+          "Representing Member States in Court",
+          "Auditing the agency's accounts"
+        ],
+        "answer": 1,
+        "explanation": "The Board provides strategic oversight and adopts the budget, while the Executive Director handles daily operations."
+      },
+      "el": {
+        "passage": "",
+        "question": "5. Ποιος είναι ο κύριος ρόλος του 'Διοικητικού Συμβουλίου' στους αποκεντρωμένους οργανισμούς της ΕΕ;",
+        "options": [
+          "Η καθημερινή επιχειρησιακή διαχείριση",
+          "Ο καθορισμός στρατηγικών προτεραιοτήτων και η έγκριση του προϋπολογισμού",
+          "Η εκπροσώπηση των κρατών μελών στο Δικαστήριο",
+          "Ο έλεγχος των λογαριασμών του οργανισμού"
+        ],
+        "answer": 1,
+        "explanation": "Το Συμβούλιο παρέχει στρατηγική εποπτεία, ενώ ο Εκτελεστικός Διευθυντής ασκεί την καθημερινή διοίκηση."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "6. Under the current MFF (2021-2027), what is the specific 'climate mainstreaming' target?",
+        "options": [
+          "10% of total expenditure",
+          "20% of total expenditure",
+          "30% of total expenditure",
+          "50% of total expenditure"
+        ],
+        "answer": 2,
+        "explanation": "The EU has committed to spending at least 30% of the MFF and NextGenerationEU on climate-related objectives."
+      },
+      "el": {
+        "passage": "",
+        "question": "6. Βάσει του ΠΔΠ 2021-2027, ποιος είναι ο στόχος για την 'ενσωμάτωση της κλιματικής διάστασης' στον προϋπολογισμό;",
+        "options": [
+          "10% των συνολικών δαπανών",
+          "20% των συνολικών δαπανών",
+          "30% των συνολικών δαπανών",
+          "50% των συνολικών δαπανών"
+        ],
+        "answer": 2,
+        "explanation": "Η ΕΕ έχει δεσμευτεί να δαπανήσει τουλάχιστον το 30% του ΠΔΠ για κλιματικούς στόχους."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "7. What does the principle of 'Primacy' (Supremacy) of EU law imply for national judges?",
+        "options": [
+          "National law must be repealed by Parliament first",
+          "The judge must disapply the conflicting national provision",
+          "The judge must wait for a Constitutional Court ruling",
+          "EU law only takes precedence if enacted after national law"
+        ],
+        "answer": 1,
+        "explanation": "National courts must immediately set aside national law that contradicts EU law (Costa v ENEL)."
+      },
+      "el": {
+        "passage": "",
+        "question": "7. Τι συνεπάγεται η αρχή της 'Υπεροχής' του δικαίου της ΕΕ για τους εθνικούς δικαστές;",
+        "options": [
+          "Ο εθνικός νόμος πρέπει πρώτα να καταργηθεί από το Κοινοβούλιο",
+          "Ο δικαστής πρέπει να μην εφαρμόσει την εθνική διάταξη που συγκρούεται με το δίκαιο ΕΕ",
+          "Ο δικαστής πρέπει να περιμένει απόφαση του Συνταγματικού Δικαστηρίου",
+          "Το δίκαιο ΕΕ υπερέχει μόνο αν θεσπίστηκε μετά τον εθνικό νόμο"
+        ],
+        "answer": 1,
+        "explanation": "Οι εθνικοί δικαστές οφείλουν να αφήνουν ανεφάρμοστο κάθε εθνικό νόμο που έρχεται σε αντίθεση με το δίκαιο της ΕΕ."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "8. Which historic declaration on May 9, 1950, is considered the founding act of the European Union?",
+        "options": [
+          "Messina Declaration",
+          "Council of Europe Treaty",
+          "Rome Treaty",
+          "Schuman Declaration"
+        ],
+        "answer": 3,
+        "explanation": "Robert Schuman proposed a common High Authority for coal and steel, making war 'materially impossible'."
+      },
+      "el": {
+        "passage": "",
+        "question": "8. Ποια ιστορική δήλωση στις 9 Μαΐου 1950 θεωρείται η γενέθλια πράξη της σημερινής Ευρωπαϊκής Ένωσης;",
+        "options": [
+          "Διακήρυξη της Μεσσήνης",
+          "Συνθήκη του Συμβουλίου της Ευρώπης",
+          "Συνθήκη της Ρώμης",
+          "Διακήρυξη Σουμάν"
+        ],
+        "answer": 3,
+        "explanation": "Ο Ρομπέρ Σουμάν πρότεινε την κοινή διαχείριση άνθρακα και χάλυβα, θέτοντας τα θεμέλια της ενοποίησης."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "9. What is the main criterion for defining an SME, beyond financial turnover?",
+        "options": [
+          "Profitability",
+          "Export activity",
+          "Number of employees (< 250)",
+          "Stock market listing"
+        ],
+        "answer": 2,
+        "explanation": "SMEs are defined as enterprises which employ fewer than 250 persons and meet certain turnover or balance sheet limits."
+      },
+      "el": {
+        "passage": "",
+        "question": "9. Ποιο είναι το κύριο κριτήριο ορισμού μιας Μικρομεσαίας Επιχείρησης (SME), πέρα από τον κύκλο εργασιών;",
+        "options": [
+          "Η κερδοφορία",
+          "Η εξαγωγική δραστηριότητα",
+          "Ο αριθμός των εργαζομένων (< 250)",
+          "Η εισαγωγή στο χρηματιστήριο"
+        ],
+        "answer": 2,
+        "explanation": "Οι ΜΜΕ ορίζονται ως επιχειρήσεις που απασχολούν λιγότερα από 250 άτομα."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "10. What is the deadline for the European Commission to stop borrowing for NextGenerationEU?",
+        "options": [
+          "End of 2024",
+          "End of 2026",
+          "End of 2030",
+          "End of 2058"
+        ],
+        "answer": 1,
+        "explanation": "The Commission is authorized to borrow on capital markets for the recovery plan until the end of 2026."
+      },
+      "el": {
+        "passage": "",
+        "question": "10. Ποια είναι η προθεσμία για την Ευρωπαϊκή Επιτροπή να σταματήσει τον δανεισμό για το NextGenerationEU;",
+        "options": [
+          "Τέλος του 2024",
+          "Τέλος του 2026",
+          "Τέλος του 2030",
+          "Τέλος του 2058"
+        ],
+        "answer": 1,
+        "explanation": "Η Επιτροπή έχει εξουσιοδότηση να αντλεί κεφάλαια από τις αγορές για το σχέδιο ανάκαμψης έως το τέλος του 2026."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "11. What does the principle of 'Subsidiarity' mean in the EU?",
+        "options": [
+          "EU laws always prevail",
+          "EU acts only if objectives cannot be achieved by Member States",
+          "Rich states must support poorer ones",
+          "EU intervenes in every local defense issue"
+        ],
+        "answer": 1,
+        "explanation": "Subsidiarity ensures the EU only acts when it is more effective than action at national or local level."
+      },
+      "el": {
+        "passage": "",
+        "question": "11. Τι σημαίνει η αρχή της «επικουρικότητας» στην ΕΕ;",
+        "options": [
+          "Οι νόμοι της ΕΕ υπερισχύουν πάντα",
+          "Η ΕΕ δρα μόνο αν ένας στόχος δεν επιτυγχάνεται επαρκώς από τα κράτη μέλη",
+          "Τα πλούσια κράτη ενισχύουν τα φτωχότερα",
+          "Η ΕΕ παρεμβαίνει σε κάθε τοπικό αμυντικό ζήτημα"
+        ],
+        "answer": 1,
+        "explanation": "Η ΕΕ παρεμβαίνει μόνο αν η δράση της είναι πιο αποτελεσματική από τη δράση σε εθνικό ή τοπικό επίπεδο."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "12. Which Member State first invoked Article 50 to leave the EU?",
+        "options": [
+          "Iceland",
+          "Norway",
+          "United Kingdom",
+          "Luxembourg"
+        ],
+        "answer": 2,
+        "explanation": "Brexit was the first time the official withdrawal article of the Lisbon Treaty was used."
+      },
+      "el": {
+        "passage": "",
+        "question": "12. Ποιο κράτος μέλος άσκησε για πρώτη φορά το άρθρο 50 για να αποχωρήσει από την ΕΕ;",
+        "options": [
+          "Ισλανδία",
+          "Νορβηγία",
+          "Ηνωμένο Βασίλειο",
+          "Λουξεμβούργο"
+        ],
+        "answer": 2,
+        "explanation": "Το Brexit ήταν η πρώτη φορά που χρησιμοποιήθηκε το επίσημο άρθρο αποχώρησης της Συνθήκης της Λισαβόνας."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "13. The EU Green Deal aims for climate neutrality by which year?",
+        "options": [
+          "2030",
+          "2040",
+          "2050",
+          "2060"
+        ],
+        "answer": 2,
+        "explanation": "2050 is the legally binding target for Europe to become the first climate-neutral continent."
+      },
+      "el": {
+        "passage": "",
+        "question": "13. Η Ευρωπαϊκή Πράσινη Συμφωνία στοχεύει στην κλιματική ουδετερότητα έως το έτος:",
+        "options": [
+          "2030",
+          "2040",
+          "2050",
+          "2060"
+        ],
+        "answer": 2,
+        "explanation": "Το 2050 έχει τεθεί ως ο δεσμευτικός στόχος για να καταστεί η Ευρώπη η πρώτη κλιματικά ουδέτερη ήπειρος."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "14. Which institution has the exclusive 'right of legislative initiative'?",
+        "options": [
+          "European Parliament",
+          "European Commission",
+          "European Council",
+          "Council of the EU"
+        ],
+        "answer": 1,
+        "explanation": "Only the Commission can formally propose new laws for the Parliament and Council to adopt."
+      },
+      "el": {
+        "passage": "",
+        "question": "14. Ποιο όργανο έχει την αποκλειστική εξουσία της «νομοθετικής πρωτοβουλίας» στην ΕΕ;",
+        "options": [
+          "Ευρωπαϊκό Κοινοβούλιο",
+          "Ευρωπαϊκή Επιτροπή",
+          "Ευρωπαϊκό Συμβούλιο",
+          "Συμβούλιο της ΕΕ"
+        ],
+        "answer": 1,
+        "explanation": "Μόνο η Επιτροπή μπορεί να προτείνει επίσημα νέους νόμους προς ψήφιση."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "15. How does the EU AI Act categorize AI systems?",
+        "options": [
+          "By development cost",
+          "By the level of risk they pose",
+          "By country of origin",
+          "By number of users"
+        ],
+        "answer": 1,
+        "explanation": "The AI Act follows a risk-based approach, from 'unacceptable risk' to 'minimal risk'."
+      },
+      "el": {
+        "passage": "",
+        "question": "15. Η Ευρωπαϊκή Πράξη για την Τεχνητή Νοημοσύνη (EU AI Act) κατηγοριοποιεί τα συστήματα ΤΝ με βάση:",
+        "options": [
+          "Το κόστος ανάπτυξης",
+          "Το επίπεδο κινδύνου που ενέχουν",
+          "Τη χώρα προέλευσης",
+          "Τον αριθμό των χρηστών"
+        ],
+        "answer": 1,
+        "explanation": "Η νομοθεσία επιβάλλει κανόνες ανάλογα με την επικινδυνότητα της εφαρμογής."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "16. What is the 'European Citizens' Initiative'?",
+        "options": [
+          "Teacher exchange program",
+          "Tool for 1 million citizens to propose legislation",
+          "Direct election of the EU President",
+          "Information exchange platform"
+        ],
+        "answer": 1,
+        "explanation": "It allows citizens to call directly on the Commission to propose a legal act in an area of its competence."
+      },
+      "el": {
+        "passage": "",
+        "question": "16. Τι είναι η «Ευρωπαϊκή Πρωτοβουλία Πολιτών»;",
+        "options": [
+          "Πρόγραμμα ανταλλαγής εκπαιδευτικών",
+          "Εργαλείο που επιτρέπει σε 1 εκατ. πολίτες να προτείνουν νομοθεσία",
+          "Άμεση εκλογή του Προέδρου της ΕΕ",
+          "Πλατφόρμα ανταλλαγής πληροφοριών"
+        ],
+        "answer": 1,
+        "explanation": "Επιτρέπει στους πολίτες να ζητήσουν από την Επιτροπή να δράσει σε θέματα αρμοδιότητάς της."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "17. Which institution is based in Frankfurt?",
+        "options": [
+          "Court of Justice",
+          "Europol",
+          "European Central Bank (ECB)",
+          "CEDEFOP"
+        ],
+        "answer": 2,
+        "explanation": "The ECB is headquartered in Frankfurt, Germany's financial hub."
+      },
+      "el": {
+        "passage": "",
+        "question": "17. Ποιο από τα παρακάτω όργανα έχει την έδρα του στη Φρανκφούρτη;",
+        "options": [
+          "Δικαστήριο της ΕΕ",
+          "Europol",
+          "Ευρωπαϊκή Κεντρική Τράπεζα (ΕΚΤ)",
+          "CEDEFOP"
+        ],
+        "answer": 2,
+        "explanation": "Η ΕΚΤ εδρεύει στην οικονομική πρωτεύουσα της Γερμανίας, τη Φρανκφούρτη."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "18. What impact has the revised EU enlargement methodology (2022) had?",
+        "options": [
+          "Eliminated clusters",
+          "Introduced fundamentals-first and clusters",
+          "Removed political criteria",
+          "Shifted to majority voting"
+        ],
+        "answer": 1,
+        "explanation": "It groups negotiation chapters into thematic clusters and emphasizes fundamental reforms early on."
+      },
+      "el": {
+        "passage": "",
+        "question": "18. Τι επίδραση είχε η αναθεωρημένη μεθοδολογία διεύρυνσης της ΕΕ (2022);",
+        "options": [
+          "Κατάργησε τις ομάδες κεφαλαίων",
+          "Εισήγαγε την προτεραιότητα στα 'θεμελιώδη' και τις θεματικές ομάδες",
+          "Αφαίρεσε τα πολιτικά κριτήρια",
+          "Μετέφερε τις αποφάσεις σε πλειοψηφία"
+        ],
+        "answer": 1,
+        "explanation": "Η νέα μεθοδολογία ομαδοποιεί τα κεφάλαια και απαιτεί πρόοδο στα θεμελιώδη ζητήματα."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "19. What has been the primary employment effect of the ETS according to studies?",
+        "options": [
+          "Net job creation everywhere",
+          "Average 7% decline offset by external gains",
+          "Uniform increases",
+          "No measurable impact"
+        ],
+        "answer": 1,
+        "explanation": "While regulated firms saw some job losses due to efficiency, the system created over 600,000 jobs in related supply chains."
+      },
+      "el": {
+        "passage": "",
+        "question": "19. Ποιο ήταν το κύριο αποτέλεσμα του ETS στην απασχόληση σύμφωνα με μελέτες;",
+        "options": [
+          "Καθαρή δημιουργία θέσεων παντού",
+          "Μέση πτώση 7% που αντισταθμίστηκε από εξωτερικά κέρδη",
+          "Ομοιόμορφη αύξηση",
+          "Καμία μετρήσιμη επίδραση"
+        ],
+        "answer": 1,
+        "explanation": "Το ETS προκάλεσε κάποιες απώλειες σε ρυθμιζόμενους τομείς αλλά δημιούργησε χιλιάδες θέσεις εργασίας σε άλλους."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "20. Why does the Energy Union strategy emphasize Member State cooperation?",
+        "options": [
+          "To centralize production",
+          "To align with Paris Agreement goals",
+          "To eliminate imports immediately",
+          "To prioritize fossil fuels"
+        ],
+        "answer": 1,
+        "explanation": "Cooperation ensures GHG commitments are met and provides investor certainty for sustainable energy."
+      },
+      "el": {
+        "passage": "",
+        "question": "20. Γιατί η στρατηγική της Ενεργειακής Ένωσης δίνει έμφαση στη συνεργασία των κρατών μελών;",
+        "options": [
+          "Για τον κεντρικό έλεγχο παραγωγής",
+          "Για την ευθυγράμμιση με τους στόχους της Συμφωνίας του Παρισιού",
+          "Για την άμεση διακοπή εισαγωγών",
+          "Για την προτεραιότητα στα ορυκτά καύσιμα"
+        ],
+        "answer": 1,
+        "explanation": "Η συνεργασία διασφαλίζει τις δεσμεύσεις για το κλίμα και παρέχει ασφάλεια στους επενδυτές."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "21. Which countries were the 'Inner Six' founders of the EEC (1957)?",
+        "options": [
+          "FR, DE, IT, UK, EL, ES",
+          "BE, FR, DE, IT, LU, NL",
+          "FR, DE, AT, BE, DK, IE",
+          "BE, NL, LU, SE, NO, FI"
+        ],
+        "answer": 1,
+        "explanation": "Belgium, France, Germany, Italy, Luxembourg, and the Netherlands signed the Treaties of Rome."
+      },
+      "el": {
+        "passage": "",
+        "question": "21. Ποιες ήταν οι έξι ιδρυτικές χώρες (The Inner Six) της ΕΟΚ το 1957;",
+        "options": [
+          "Γαλλία, Γερμανία, Ιταλία, Ην. Βασίλειο, Ελλάδα, Ισπανία",
+          "Βέλγιο, Γαλλία, Γερμανία, Ιταλία, Λουξεμβούργο, Ολλανδία",
+          "Γαλλία, Γερμανία, Αυστρία, Βέλγιο, Δανία, Ιρλανδία",
+          "Βέλγιο, Ολλανδία, Λουξεμβούργο, Σουηδία, Νορβηγία, Φινλανδία"
+        ],
+        "answer": 1,
+        "explanation": "Αυτές οι έξι χώρες υπέγραψαν τις Συνθήκες της Ρώμης για την ίδρυση της ΕΟΚ."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "22. Under what circumstances does a Directive have 'Vertical Direct Effect'?",
+        "options": [
+          "Between private companies",
+          "When clear, precise, and state failed to transpose on time",
+          "Only if explicitly mentioned",
+          "Against the Commission"
+        ],
+        "answer": 1,
+        "explanation": "Individuals can invoke a Directive against the state if it hasn't been implemented correctly by the deadline."
+      },
+      "el": {
+        "passage": "",
+        "question": "22. Υπό ποιες προϋποθέσεις μια Οδηγία έχει «Κάθετο Άμεσο Αποτέλεσμα»;",
+        "options": [
+          "Μεταξύ ιδιωτικών εταιρειών",
+          "Όταν είναι σαφής και το κράτος απέτυχε να τη μεταφέρει έγκαιρα",
+          "Μόνο αν αναφέρεται ρητά",
+          "Εναντίον της Επιτροπής"
+        ],
+        "answer": 1,
+        "explanation": "Το κάθετο άμεσο αποτέλεσμα επιτρέπει σε ιδιώτες να προσφύγουν κατά του κράτους βάσει μιας Οδηγίας."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "23. What is the role of the 'Advocate General' (AG) in the CJEU?",
+        "options": [
+          "To defend Member States",
+          "To provide independent, non-binding legal opinions",
+          "Chief Prosecutor for the Commission",
+          "Represent Commission interests"
+        ],
+        "answer": 1,
+        "explanation": "AGs assist the Court by delivering independent analysis on cases before the judges decide."
+      },
+      "el": {
+        "passage": "",
+        "question": "23. Ποιος είναι ο ρόλος του «Γενικού Εισαγγελέα» στο Δικαστήριο της ΕΕ;",
+        "options": [
+          "Να υπερασπίζεται τα κράτη μέλη",
+          "Να παρέχει ανεξάρτητες, μη δεσμευτικές νομικές προτάσεις",
+          "Να ενεργεί ως γενικός κατήγορος της Επιτροπής",
+          "Να εκπροσωπεί τα συμφέροντα της Επιτροπής"
+        ],
+        "answer": 1,
+        "explanation": "Οι Γενικοί Εισαγγελείς παρέχουν βαθιά νομική ανάλυση· το Δικαστήριο συχνά ακολουθεί τη γνώμη τους αλλά δεν δεσμεύεται."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "24. How is the President of the European Council chosen?",
+        "options": [
+          "Elected by citizens",
+          "By European Council qualified majority for 2.5 years",
+          "Appointed by Parliament",
+          "6-month rotation"
+        ],
+        "answer": 1,
+        "explanation": "The President is elected for a 2.5-year term, renewable once, by the heads of state or government."
+      },
+      "el": {
+        "passage": "",
+        "question": "24. Πώς επιλέγεται ο Πρόεδρος του Ευρωπαϊκού Συμβουλίου;",
+        "options": [
+          "Εκλέγεται από τους πολίτες",
+          "Από το Ευρωπαϊκό Συμβούλιο με ειδική πλειοψηφία για 2,5 έτη",
+          "Διορίζεται από το Κοινοβούλιο",
+          "Εναλλάσσεται κάθε 6 μήνες"
+        ],
+        "answer": 1,
+        "explanation": "Ο Πρόεδρος υπηρετεί θητεία 2,5 ετών, ανανεώσιμη μία φορά."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "25. What is the main task of the High Representative for Foreign Affairs?",
+        "options": [
+          "Sign trade deals",
+          "Coordinate Common Foreign and Security Policy (CFSP)",
+          "Manage Frontex",
+          "Visa regulations"
+        ],
+        "answer": 1,
+        "explanation": "The High Representative leads EU diplomacy and chairs the Foreign Affairs Council."
+      },
+      "el": {
+        "passage": "",
+        "question": "25. Ποιο είναι το κύριο καθήκον του Ύπατου Εκπροσώπου για Θέματα Εξωτερικής Πολιτικής;",
+        "options": [
+          "Η υπογραφή εμπορικών συμφωνιών",
+          "Ο συντονισμός της Κοινής Εξωτερικής Πολιτικής και Πολιτικής Ασφαλείας (ΚΕΠΠΑ)",
+          "Η διοίκηση της Frontex",
+          "Οι κανονισμοί για τη βίζα"
+        ],
+        "answer": 1,
+        "explanation": "Είναι ο επικεφαλής της διπλωματίας της ΕΕ και προεδρεύει του Συμβουλίου Εξωτερικών Υποθέσεων."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "26. EU4Health strengthens crisis response primarily by:",
+        "options": [
+          "Replacing national systems",
+          "Building EU reserves of staff and products",
+          "Cancer prevention only",
+          "Limiting digital tools"
+        ],
+        "answer": 1,
+        "explanation": "It complements national efforts by ensuring availability of crisis-relevant products and reserves."
+      },
+      "el": {
+        "passage": "",
+        "question": "26. Το πρόγραμμα EU4Health ενισχύει την απόκριση σε κρίσεις κυρίως μέσω:",
+        "options": [
+          "Της αντικατάστασης των εθνικών συστημάτων",
+          "Της δημιουργίας αποθεμάτων προσωπικού και προϊόντων ΕΕ",
+          "Μόνο της πρόληψης του καρκίνου",
+          "Του περιορισμού των ψηφιακών εργαλείων"
+        ],
+        "answer": 1,
+        "explanation": "Συμπληρώνει τις εθνικές προσπάθειες με εφεδρείες και προϊόντα για διασυνοριακές απειλές υγείας."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "27. How does CAP 'conditionality' link payments to the environment?",
+        "options": [
+          "Voluntary only",
+          "Tying payments to environmental and health rules",
+          "Rural development only",
+          "Ignoring input management"
+        ],
+        "answer": 1,
+        "explanation": "Mandatory standards (e.g., soil cover) must be met for farmers to receive full support."
+      },
+      "el": {
+        "passage": "",
+        "question": "27. Πώς η 'αιρεσιμότητα' της ΚΑΠ συνδέει τις πληρωμές με το περιβάλλον;",
+        "options": [
+          "Μόνο μέσω εθελοντικών οικολογικών σχημάτων",
+          "Συνδέοντας τις άμεσες ενισχύσεις με κανόνες περιβάλλοντος και υγείας",
+          "Αποκλειστικά μέσω αγροτικής ανάπτυξης",
+          "Αγνοώντας τη διαχείριση εισροών"
+        ],
+        "answer": 1,
+        "explanation": "Υποχρεωτικά πρότυπα για το έδαφος αποτελούν προϋπόθεση για τη λήψη των ενισχύσεων."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "28. Which EU body is the executive branch of the Union?",
+        "options": [
+          "European Parliament",
+          "European Commission",
+          "European Council",
+          "Court of Justice"
+        ],
+        "answer": 1,
+        "explanation": "The Commission manages daily business, implements policies, and uses the budget."
+      },
+      "el": {
+        "passage": "",
+        "question": "28. Ποιο όργανο της ΕΕ αποτελεί τον εκτελεστικό βραχίονα της Ένωσης;",
+        "options": [
+          "Ευρωπαϊκό Κοινοβούλιο",
+          "Ευρωπαϊκή Επιτροπή",
+          "Ευρωπαϊκό Συμβούλιο",
+          "Δικαστήριο της ΕΕ"
+        ],
+        "answer": 1,
+        "explanation": "Η Επιτροπή διαχειρίζεται την καθημερινή λειτουργία, εφαρμόζει τις πολιτικές και διαχειρίζεται τα κονδύλια."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "29. What is the primary objective of the InvestEU program?",
+        "options": [
+          "Military expansion",
+          "Boosting investment, innovation, and job creation",
+          "Restricting imports",
+          "Funding only state-owned firms"
+        ],
+        "answer": 1,
+        "explanation": "InvestEU supports sustainable investment and SMEs to enhance competitiveness."
+      },
+      "el": {
+        "passage": "",
+        "question": "29. Ποιος είναι ο πρωταρχικός στόχος του προγράμματος InvestEU;",
+        "options": [
+          "Η στρατιωτική επέκταση",
+          "Η τόνωση επενδύσεων, καινοτομίας και θέσεων εργασίας",
+          "Ο περιορισμός εισαγωγών",
+          "Η χρηματοδότηση μόνο κρατικών εταιρειών"
+        ],
+        "answer": 1,
+        "explanation": "Παρέχει εγγυήσεις για την κινητοποίηση δημόσιων και ιδιωτικών επενδύσεων στην ΕΕ."
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "30. The European Committee of the Regions (CoR) represents:",
+        "options": [
+          "National Parliaments",
+          "Trade Unions",
+          "Regional and Local Authorities",
+          "Foreign Ministers"
+        ],
+        "answer": 2,
+        "explanation": "The CoR ensures that local and regional governments have a voice in EU policymaking."
+      },
+      "el": {
+        "passage": "",
+        "question": "30. Η «Ευρωπαϊκή Επιτροπή των Περιφερειών» (CoR) αποτελείται από εκπροσώπους:",
+        "options": [
+          "Των εθνικών κοινοβουλίων",
+          "Των συνδικαλιστικών οργανώσεων",
+          "Των περιφερειακών και τοπικών αρχών",
+          "Των υπουργών Εξωτερικών"
+        ],
+        "answer": 2,
+        "explanation": "Η CoR εκπροσωπεί δήμους και περιφέρειες, διασφαλίζοντας τη φωνή της τοπικής αυτοδιοίκησης στην ΕΕ."
+      }
+    }
+  ],
+  "ds_1": [
+    {
+      "en": {
+        "passage": "",
+        "question": "1. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "1. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "2. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "2. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "3. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "3. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "4. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "4. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "5. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "5. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "6. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "6. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "7. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "7. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "8. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "8. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "9. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "9. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "10. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "10. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "11. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "11. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "12. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "12. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "13. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "13. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "14. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "14. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "15. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "15. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "16. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "16. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "17. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "17. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "18. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "18. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "19. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "19. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "20. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "20. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    }
+  ],
+  "ds_2": [
+    {
+      "en": {
+        "passage": "",
+        "question": "1. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "1. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "2. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "2. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "3. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "3. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "4. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "4. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "5. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "5. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "6. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "6. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "7. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "7. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "8. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "8. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "9. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "9. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "10. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "10. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "11. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "11. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "12. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "12. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "13. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "13. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "14. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "14. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "15. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "15. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "16. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "16. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "17. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "17. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "18. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "18. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "19. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "19. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "20. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "20. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    }
+  ],
+  "ds_3": [
+    {
+      "en": {
+        "passage": "",
+        "question": "1. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "1. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "2. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "2. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "3. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "3. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "4. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "4. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "5. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "5. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "6. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "6. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "7. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "7. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "8. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "8. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "9. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "9. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "10. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "10. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "11. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "11. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "12. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "12. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "13. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "13. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "14. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "14. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "15. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "15. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "16. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "16. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "17. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "17. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "18. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "18. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "19. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "19. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "20. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "20. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    }
+  ],
+  "verbal_1": [
+    {
+      "el": {
+        "passage": "1. Ο ψηφιακός μετασχηματισμός της οικονομίας της ΕΕ αναδιαμορφώνει τις βιομηχανίες, τη διακυβέρνηση και την καθημερινή ζωή. Με οδηγό τη στρατηγική της «Ψηφιακής Δεκαετίας», η ΕΕ στοχεύει το 80% των ενηλίκων να διαθέτει ψηφιακές δεξιότητες και το 75% των επιχειρήσεων της ΕΕ να χρησιμοποιεί cloud, τεχνητή νοημοσύνη (AI) ή μαζικά δεδομένα (big data) έως το 2030. Οι επενδύσεις μέσω του Μηχανισμού Ανάκαμψης και Ανθεκτικότητας (RRF) ιεραρχούν τις ψηφιακές υποδομές, την ηλεκτρονική διακυβέρνηση και την κυβερνοασφάλεια. Η Πράξη για τις Ψηφιακές Υπηρεσίες (DSA) και η Πράξη για τις Ψηφιακές Αγορές (DMA) διασφαλίζουν τον θεμιτό ανταγωνισμό και τη λογοδοσία στο διαδίκτυο.",
+        "question": "Ποιος είναι ένας από τους βασικούς στόχους της στρατηγικής της Ψηφιακής Δεκαετίας της ΕΕ έως το 2030;",
+        "options": [
+          "Πλήρης αυτοματοποίηση όλων των δημόσιων υπηρεσιών",
+          "Επίτευξη ουδετερότητας άνθρακα στις ψηφιακές τεχνολογίες",
+          "Το 80% των ενηλίκων να αποκτήσει βασικές ψηφιακές δεξιότητες",
+          "Αντικατάσταση των εθνικών νομισμάτων με ψηφιακά ευρώ"
+        ],
+        "answer": 2,
+        "explanation": "Το κείμενο αναφέρει ρητά ότι «η ΕΕ στοχεύει το 80% των ενηλίκων να διαθέτει ψηφιακές δεξιότητες έως το 2030»."
+      },
+      "en": {
+        "passage": "1. The digital transformation of the EU economy is reshaping industries, governance, and daily life. Driven by the Digital Decade strategy, the EU aims for 80% of adults to have digital skills and for 75% of EU businesses to use cloud, AI, or big data by 2030. Investments via the Recovery and Resilience Facility (RRF) prioritize digital infrastructures, e-governance, and cybersecurity. The Digital Services Act and Digital Markets Act ensure fair competition and accountability online. Meanwhile, the EU champions digital sovereignty, reducing dependence on non-EU tech giants.",
+        "question": "What is one of the key goals of the EU's Digital Decade strategy by 2030?",
+        "options": [
+          "Full automation of all public services",
+          "Achieving carbon neutrality in digital technologies",
+          "80% of adults acquiring basic digital skills",
+          "Replacing national currencies with digital euros"
+        ],
+        "answer": 2,
+        "explanation": "The passage explicitly states that \"the EU aims for 80% of adults to have digital skills by 2030.\""
+      }
+    },
+    {
+      "el": {
+        "passage": "2. Οι υποστηρικτές της δράσης της ΕΕ για το κλίμα υποστηρίζουν ότι οι φιλόδοξες πολιτικές, όπως η Ευρωπαϊκή Πράσινη Συμφωνία, είναι ζωτικής σημασίας για τη μακροπρόθεσμη βιωσιμότητα, την ενεργειακή ανεξαρτησία και την παγκόσμια ηγετική θέση. Τονίζουν ότι οι επενδύσεις στις ανανεώσιμες πηγές ενέργειας, την κυκλική οικονομία και την πράσινη καινοτομία δημιουργούν θέσεις εργασίας και μειώνουν τις εκπομπές. Οι επικριτές, ωστόσο, προειδοποιούν για οικονομικές διαταραχές, αυξημένο κόστος για τα νοικοκυριά και τις βιομηχανίες, και δυσανάλογες επιπτώσεις σε φτωχότερες περιοχές και τομείς όπως η γεωργία ή η βαριά βιομηχανία.",
+        "question": "Ποιο είναι το βασικό επιχείρημα που χρησιμοποιούν οι επικριτές των φιλόδοξων μέτρων της ΕΕ για το κλίμα;",
+        "options": [
+          "Η κλιματική αλλαγή δεν επηρεάζει σημαντικά την Ευρώπη",
+          "Οι πράσινες τεχνολογίες έχουν ήδη εφαρμοστεί πλήρως",
+          "Η μετάβαση ενδέχεται να επηρεάσει δυσανάλογα τους ευάλωτους τομείς",
+          "Τα ορυκτά καύσιμα είναι πιο βιώσιμα μακροπρόθεσμα"
+        ],
+        "answer": 2,
+        "explanation": "Το κείμενο αναφέρει ότι οι επικριτές «προειδοποιούν για... δυσανάλογες επιπτώσεις σε φτωχότερες περιοχές και τομείς»."
+      },
+      "en": {
+        "passage": "2. Proponents of EU climate action argue that ambitious policies like the European Green Deal are vital for long-term sustainability, energy independence, and global leadership. They emphasize that investments in renewable energy, circular economy, and green innovation create jobs and lower emissions. Critics, however, warn of economic disruptions, increased costs for households and industries, and disproportionate impacts on poorer regions and sectors like agriculture or heavy industry. They call for a more gradual transition, greater flexibility for member states, and safeguards for competitiveness.",
+        "question": "What is a key argument used by opponents of ambitious EU climate measures?",
+        "options": [
+          "Climate change does not affect Europe significantly",
+          "Green technologies are already fully implemented",
+          "The transition may disproportionately impact vulnerable sectors",
+          "Fossil fuels are more sustainable in the long run"
+        ],
+        "answer": 2,
+        "explanation": "The passage explicitly says opponents warn of disproportionate impacts on poorer regions and sectors."
+      }
+    },
+    {
+      "el": {
+        "passage": "3. Από την έναρξη ισχύος του το 2018, ο Γενικός Κανονισμός για την Προστασία Δεδομένων (GDPR) οδήγησε σε κατακόρυφη αύξηση της επιβολής της ιδιωτικότητας σε όλη την ΕΕ. Έως το 2024, είχαν εκδοθεί περισσότερα από 2.000 πρόστιμα, συνολικού ύψους άνω των 4,5 δισεκατομμυρίων ευρώ. Μεγάλες εταιρείες τεχνολογίας —Meta, Amazon, Google— αντιμετώπισαν μερικές από τις υψηλότερες ποινές, συχνά λόγω έλλειψης συγκατάθεσης των χρηστών, κακής διαχείρισης δεδομένων ή αδιαφανούς κατάρτισης προφίλ. Οι εθνικές αρχές προστασίας δεδομένων (DPA), ιδιαίτερα στην Ιρλανδία και τη Γαλλία, διαδραματίζουν βασικό ρόλο στην επιβολή.",
+        "question": "Από το 2024, ποια από τις ακόλουθες δηλώσεις αντικατοπτρίζει με ακρίβεια τις τάσεις επιβολής του GDPR;",
+        "options": [
+          "Τα συνολικά πρόστιμα που εκδόθηκαν βάσει του GDPR ανήλθαν σε περίπου 450 εκατομμύρια ευρώ",
+          "Η πλειονότητα των προστίμων δεν σχετιζόταν με μεγάλες εταιρείες τεχνολογίας",
+          "Το μέσο πρόστιμο του GDPR υπερέβη τα 2,5 εκατομμύρια ευρώ",
+          "Ορισμένες εθνικές αρχές προστασίας δεδομένων διαδραμάτισαν καθοριστικό ρόλο στην επιβολή"
+        ],
+        "answer": 3,
+        "explanation": "Οι εθνικές αρχές, όπως της Ιρλανδίας και της Γαλλίας, αναφέρονται ως παίκτες-κλειδιά στην επιβολή."
+      },
+      "en": {
+        "passage": "3. Since its enforcement in 2018, the General Data Protection Regulation (GDPR) has led to a surge in privacy enforcement across the EU. By 2024, more than 2,000 fines had been issued, totaling over €4.5 billion. Major tech companies—Meta, Amazon, Google—faced some of the highest penalties, often due to lack of user consent, data mishandling, or opaque profiling. National data protection authorities (DPAs), particularly in Ireland and France, play a key role in enforcement.",
+        "question": "As of 2024, which of the following statements accurately reflects GDPR enforcement trends?",
+        "options": [
+          "Total fines issued under GDPR amounted to approximately €450 million",
+          "The majority of fines were unrelated to large tech companies",
+          "The average GDPR fine exceeded €2.5 million",
+          "Some national data protection authorities have played a pivotal role in enforcement and fine collection"
+        ],
+        "answer": 3,
+        "explanation": "National authorities (DPAs) in countries like Ireland and France play a central role in enforcement."
+      }
+    },
+    {
+      "el": {
+        "passage": "4. Η Διαδικασία Διαβούλευσης της ΕΕ: Πριν από τη σύνταξη νέας νομοθεσίας, η Ευρωπαϊκή Επιτροπή ξεκινά συχνά μια διαδικασία διαβούλευσης, ζητώντας τη γνώμη πολιτών, ενδιαφερόμενων μερών, ΜΚΟ και εθνικών αρχών. Αυτή η συμμετοχική φάση διασφαλίζει ότι λαμβάνονται υπόψη ποικίλες προοπτικές από νωρίς, βελτιώνοντας τη συνάφεια και την αποτελεσματικότητα των προτεινόμενων νόμων.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις συνοψίζει καλύτερα τον σκοπό της διαδικασίας διαβούλευσης της ΕΕ;",
+        "options": [
+          "Η επιβολή της συμμόρφωσης με τη νομοθεσία της ΕΕ στα κράτη μέλη.",
+          "Η διασφάλιση ότι μόνο νομικοί εμπειρογνώμονες συμβάλλουν στη σύνταξη των νόμων της ΕΕ.",
+          "Η συλλογή ευρείας συμμετοχής που μπορεί να βελτιώσει την ποιότητα και την αποδοχή της νέας νομοθεσίας.",
+          "Η διενέργεια εσωτερικών ελέγχων εντός της Ευρωπαϊκής Επιτροπής μετά την ψήφιση των νόμων."
+        ],
+        "answer": 2,
+        "explanation": "Το κείμενο δίνει έμφαση στη συμμετοχή και τη βελτίωση της αποτελεσματικότητας μέσω διαφορετικών απόψεων."
+      },
+      "en": {
+        "passage": "4. The EU Consultation Process: Before drafting new legislation, the European Commission often launches a consultation process, seeking input from citizens, stakeholders, NGOs, and national authorities. This participatory phase ensures that diverse perspectives are considered early on, improving the relevance and effectiveness of proposed laws.",
+        "question": "Which of the following statements best summarizes the purpose of the EU consultation process?",
+        "options": [
+          "To enforce compliance with EU legislation among member states.",
+          "To ensure only legal experts contribute to the drafting of EU laws.",
+          "To gather broad input that can improve the quality and acceptance of new legislation.",
+          "To conduct internal reviews within the European Commission after laws are passed."
+        ],
+        "answer": 2,
+        "explanation": "Consultations make laws more legitimate by integrating varied societal perspectives."
+      }
+    },
+    {
+      "el": {
+        "passage": "5. Η Τεχνητή Νοημοσύνη (AI) αναμένεται να μεταμορφώσει την αγορά εργασίας της ΕΕ αυτοματοποιώντας εργασίες ρουτίνας, δημιουργώντας ζήτηση για νέες ψηφιακές δεξιότητες και αναδιαμορφώνοντας τα προφίλ των θέσεων εργασίας σε όλους τους τομείς. Οι εκτιμήσεις δείχνουν ότι το 14–25% των σημερινών θέσεων εργασίας διατρέχει υψηλό κίνδυνο αυτοματοποίησης, ιδιαίτερα στις μεταφορές, τη μεταποίηση και τις διοικητικές υπηρεσίες.",
+        "question": "Ποιος τομέας στην ΕΕ θεωρείται πιο ευάλωτος στην αυτοματοποίηση θέσεων εργασίας λόγω AI;",
+        "options": [
+          "Υγειονομική περίθαλψη",
+          "Δημιουργικές τέχνες",
+          "Διοικητικές υπηρεσίες",
+          "Μηχανική ανανεώσιμων πηγών ενέργειας"
+        ],
+        "answer": 2,
+        "explanation": "Το κείμενο αναφέρει ρητά ότι οι διοικητικές υπηρεσίες αντιμετωπίζουν υψηλό κίνδυνο."
+      },
+      "en": {
+        "passage": "5. Artificial Intelligence (AI) is expected to transform the EU labour market by automating routine tasks, creating demand for new digital skills, and reshaping job profiles across sectors. Estimates suggest that 14–25% of current jobs are at high risk of automation, particularly in transport, manufacturing, and administrative services.",
+        "question": "Which sector in the EU is considered most vulnerable to AI-driven job automation?",
+        "options": [
+          "Healthcare",
+          "Creative arts",
+          "Administrative services",
+          "Renewable energy engineering"
+        ],
+        "answer": 2,
+        "explanation": "The passage explicitly mentions administrative services as being at high risk."
+      }
+    },
+    {
+      "el": {
+        "passage": "6. Η Ευρωπαϊκή Επιτροπή δρομολόγησε πρόσφατα μια πρωτοβουλία με στόχο τη μείωση της σπατάλης τροφίμων στα κράτη μέλη. Αν και η πρωτοβουλία δεν επιβάλλει δεσμευτικούς στόχους, ενθαρρύνει εθελοντικές δεσμεύσεις από λιανοπωλητές, εστιατόρια και νοικοκυριά. Ορισμένοι επικριτές, ωστόσο, υποστηρίζουν ότι χωρίς εκτελεστά μέτρα, η πρόοδος θα είναι αργή και άνιση μεταξύ των κρατών μελών.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται καλύτερα από το κείμενο;",
+        "options": [
+          "Η ΕΕ κατέστησε υποχρεωτική τη μείωση της σπατάλης τροφίμων για τα νοικοκυριά",
+          "Οι επικριτές πιστεύουν ότι οι εθελοντικές δεσμεύσεις ενδέχεται να μην οδηγήσουν σε σταθερή πρόοδο.",
+          "Η κύρια ανησυχία της πρωτοβουλίας είναι η μείωση των απορριμμάτων συσκευασίας.",
+          "Η σπατάλη τροφίμων έχει μειωθεί σημαντικά σε χώρες με υψηλή επισιτιστική ανασφάλεια."
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ότι οι επικριτές θεωρούν πως χωρίς αναγκαστικά μέτρα, η πρόοδος θα είναι αργή."
+      },
+      "en": {
+        "passage": "6. The European Commission recently launched an initiative aimed at reducing food waste across member states. Although the initiative does not mandate binding targets, it encourages voluntary commitments from retailers, restaurants, and households. Some critics, however, contend that without enforceable measures, progress will be slow and uneven across member states.",
+        "question": "Which of the following statements is best supported by the text?",
+        "options": [
+          "The EU has made it mandatory for households to reduce food waste",
+          "Critics believe voluntary commitments may not lead to consistent progress.",
+          "The primary concern of the initiative is reducing packaging waste.",
+          "Food waste has significantly declined in countries with high food insecurity."
+        ],
+        "answer": 1,
+        "explanation": "Critics express doubt about the effectiveness of non-enforceable (voluntary) measures."
+      }
+    },
+    {
+      "el": {
+        "passage": "7. Ο Καρλομάγνος, γνωστός και ως Κάρολος ο Μέγας, κυβέρνησε μεγάλο μέρος της Δυτικής Ευρώπης από το 768 έως το 814. Στέφθηκε Αυτοκράτορας των Ρωμαίων το έτος 800 από τον Πάπα Λέοντα Γ΄.",
+        "question": "Ποιο έτος στέφθηκε ο Καρλομάγνος Αυτοκράτορας των Ρωμαίων;",
+        "options": [
+          "476",
+          "800",
+          "1066",
+          "843"
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ρητά τη στέψη του το έτος 800."
+      },
+      "en": {
+        "passage": "7. Charlemagne, also known as Charles the Great, ruled much of Western Europe from 768 to 814. He was crowned Emperor of the Romans in the year 800 by Pope Leo III.",
+        "question": "In what year was Charlemagne crowned Emperor of the Romans?",
+        "options": [
+          "476",
+          "800",
+          "1066",
+          "843"
+        ],
+        "answer": 1,
+        "explanation": "The passage explicitly states he was crowned in the year 800."
+      }
+    },
+    {
+      "el": {
+        "passage": "8. Μια πρόσφατη έκθεση του Ευρωπαϊκού Οργανισμού Περιβάλλοντος (ΕΟΠ) υπογραμμίζει τον άνισο ρυθμό υιοθέτησης της πράσινης τεχνολογίας στα κράτη μέλη. Ενώ οι βόρειες και δυτικές χώρες έχουν ενσωματώσει γρήγορα ανανεώσιμες πηγές ενέργειας και ηλεκτρικές μεταφορές, αρκετές νότιες και ανατολικές χώρες υστερούν λόγω υποδομών και οικονομικών περιορισμών.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται καλύτερα από το κείμενο;",
+        "options": [
+          "Ο ΕΟΠ πρότεινε νέους μηχανισμούς χρηματοδότησης για την πράσινη τεχνολογία.",
+          "Οι οικονομικές προκλήσεις είναι μεταξύ των λόγων για την πιο αργή υιοθέτηση πράσινης τεχνολογίας.",
+          "Οι βόρειες και δυτικές χώρες της ΕΕ έχουν μεταβεί πλήρως στις ηλεκτρικές μεταφορές.",
+          "Ο ΕΟΠ συνιστά κυρώσεις για τις χώρες που αποτυγχάνουν."
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ότι οι νότιες και ανατολικές χώρες υστερούν λόγω «υποδομών και οικονομικών περιορισμών»."
+      },
+      "en": {
+        "passage": "8. A recent report by the European Environment Agency (EEA) highlights the uneven pace of green technology adoption across EU member states. While northern and western countries have rapidly integrated renewable energy and electric transport, several southern and eastern countries lag behind due to infrastructural and economic constraints.",
+        "question": "Which of the following statements is best supported by the text?",
+        "options": [
+          "The EEA has proposed new funding mechanisms for green tech.",
+          "Economic challenges are among the reasons for slower green tech adoption in some parts of the EU.",
+          "Northern and western EU countries have fully transitioned to electric transport.",
+          "The EEA recommends penalties for countries failing to adopt green technology."
+        ],
+        "answer": 1,
+        "explanation": "The passage explicitly links the lag in adoption to economic and infrastructure constraints."
+      }
+    },
+    {
+      "el": {
+        "passage": "9. Οι Θρησκευτικοί Πόλεμοι στην Ευρώπη (16ος–17ος αιώνας) αντανακλούσαν μια πτητική σύντηξη θεολογικών αποκλίσεων και πολιτικού καιροσκοπισμού. Με έναυσμα την Προτεσταντική Μεταρρύθμιση, συγκρούσεις όπως ο Τριακονταετής Πόλεμος έγιναν λιγότερο θέμα δόγματος και περισσότερο θέμα ισορροπίας ισχύος.",
+        "question": "Ποιο από τα παρακάτω εξηγεί καλύτερα γιατί ο Τριακονταετής Πόλεμος εξελίχθηκε πέρα από μια καθαρά θρησκευτική σύγκρουση;",
+        "options": [
+          "Ο Προτεσταντισμός έπαψε να αποτελεί απειλή για την καθολική κυριαρχία",
+          "Τα εσωτερικά σχίσματα στην Καθολική Εκκλησία εξασθένησαν την επιρροή της",
+          "Τα κοσμικά συμφέροντα, όπως οι εδαφικές φιλοδοξίες, διαμόρφωσαν όλο και περισσότερο τις συμμαχίες",
+          "Ο παπισμός ανέκτησε τον έλεγχο επί των κοσμικών ηγεμόνων"
+        ],
+        "answer": 2,
+        "explanation": "Το κείμενο αναφέρει ότι οι συγκρούσεις έγιναν θέμα ισορροπίας ισχύος μεταξύ κρατών."
+      },
+      "en": {
+        "passage": "9. The Wars of Religion in Europe (16th–17th centuries) reflected a volatile fusion of theological divergence and political opportunism. Triggered by the Protestant Reformation, conflicts like the Thirty Years' War became less about dogma and more about the balance of power, particularly between the Habsburgs, France, and emerging Protestant states.",
+        "question": "Which of the following best explains why the Thirty Years' War evolved beyond purely religious conflict?",
+        "options": [
+          "Protestantism ceased to be a threat to Catholic dominance",
+          "Internal schisms within the Catholic Church weakened its influence",
+          "Secular interests, such as territorial ambition, increasingly shaped alliances",
+          "The papacy regained control over secular rulers"
+        ],
+        "answer": 2,
+        "explanation": "The text notes the conflict became a matter of the 'balance of power' between competing states."
+      }
+    },
+    {
+      "el": {
+        "passage": "10. Σε πρόσφατη ομιλία της, η Πρόεδρος της Ευρωπαϊκής Κεντρικής Τράπεζας τόνισε τη σημασία των ψηφιακών νομισμάτων. Αναγνωρίζοντας τους κινδύνους κυβερνοεπιθέσεων και τις ανησυχίες για την ιδιωτικότητα, υποστήριξε ότι ένα ψηφιακό ευρώ θα μπορούσε να ενισχύσει την αποτελεσματικότητα. Ορισμένοι αναλυτές, ωστόσο, προειδοποιούν ότι εάν εφαρμοστεί εσφαλμένα, μια τέτοια κίνηση θα μπορούσε να αποσταθεροποιήσει τα παραδοσιακά τραπεζικά συστήματα.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται λιγότερο από το κείμενο;",
+        "options": [
+          "Η ΕΚΤ βλέπει πιθανά πλεονεκτήματα στην εισαγωγή ενός ψηφιακού ευρώ.",
+          "Οι αναλυτές ενέκριναν ομόφωνα τη θέση της ΕΚΤ για τα ψηφιακά νομίσματα.",
+          "Υπάρχουν ανησυχίες σχετικά με τις επιπτώσεις στην ασφάλεια και την ιδιωτικότητα.",
+          "Η ΕΚΤ δεν έχει δεσμευτεί ακόμη για συγκεκριμένη ημερομηνία κυκλοφορίας."
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ότι ορισμένοι αναλυτές προειδοποιούν για κινδύνους, άρα δεν υπάρχει ομοφωνία."
+      },
+      "en": {
+        "passage": "10. In a recent speech, the President of the European Central Bank (ECB) highlighted the importance of digital currencies in the future of European finance. While acknowledging cyber risks and privacy concerns, the President argued that a digital euro could enhance payment efficiency. Some analysts, however, warn that if implemented incorrectly, such a move could destabilize traditional banking systems. No official timeline for the digital euro's launch has been announced.",
+        "question": "Which of the following statements is least supported by the passage?",
+        "options": [
+          "The ECB sees potential advantages in introducing a digital euro.",
+          "Analysts have unanimously endorsed the ECB's position on digital currencies.",
+          "There are concerns regarding the security and privacy implications of a digital euro.",
+          "The ECB has not yet committed to a specific launch date for the digital euro."
+        ],
+        "answer": 1,
+        "explanation": "The passage mentions that some analysts warn of potential destabilization, contradicting the idea of unanimous endorsement."
+      }
+    },
+    {
+      "el": {
+        "passage": "11. Η Γαλλική Επανάσταση (1789–1799) αναδιαμόρφωσε θεμελιωδώς τα πολιτικά και κοινωνικά ιδεώδη που στηρίζουν τη σύγχρονη Ευρωπαϊκή Ένωση. Αμφισβητώντας την απολυταρχία και τα φεουδαρχικά προνόμια, προάσπισε την ελευθερία, την ισότητα και τη λαϊκή κυριαρχία.",
+        "question": "Πώς η αρχή της λαϊκής κυριαρχίας αμφισβήτησε θεμελιωδώς τις προϋπάρχουσες πολιτικές τάξεις;",
+        "options": [
+          "Αντικαθιστώντας τη μοναρχική απολυταρχία με τη συμμετοχή των πολιτών ως πηγή πολιτικής νομιμότητας",
+          "Νομιμοποιώντας τη δυναστική εξουσία μέσω θείας επικύρωσης",
+          "Προωθώντας τον κεντρικό αυτοκρατορικό έλεγχο",
+          "Εγκρίνοντας την κληρονομική αριστοκρατία"
+        ],
+        "answer": 0,
+        "explanation": "Λαϊκή κυριαρχία σημαίνει ότι η εξουσία πηγάζει από το λαό, όχι από μονάρχες."
+      },
+      "en": {
+        "passage": "11. The French Revolution (1789–1799) fundamentally reshaped political and social ideals that underpin the modern European Union. By challenging absolutism and feudal privileges, it championed liberty, equality, and popular sovereignty—principles now embedded in EU values.",
+        "question": "How did the principle of popular sovereignty, advanced by the French Revolution, fundamentally challenge pre-existing political orders?",
+        "options": [
+          "By replacing monarchic absolutism with citizen participation as the source of political legitimacy",
+          "By legitimizing dynastic rule through divine sanction",
+          "By promoting centralized imperial control over regional identities",
+          "By endorsing hereditary aristocracy as the core of governance"
+        ],
+        "answer": 0,
+        "explanation": "Popular sovereignty means authority derives from the people, not monarchs."
+      }
+    },
+    {
+      "el": {
+        "passage": "12. Το 2025, η ΕΕ αντιμετωπίζει βασικές προθεσμίες στη μετάβασή της προς την πράσινη κινητικότητα. Η νέα νομοθεσία επιβάλλει μείωση 15% στις μέσες εκπομπές CO2 από νέα επιβατικά αυτοκίνητα σε σύγκριση με το 2021. Οι εκπομπές των οδικών μεταφορών θα ενταχθούν επίσης στο Σύστημα Εμπορίας Εκπομπών της ΕΕ (ETS), απαιτώντας παρακολούθηση.",
+        "question": "Ποιος είναι ο πρωταρχικός σκοπός της ένταξης των οδικών μεταφορών στο Σύστημα Εμπορίας Εκπομπών της ΕΕ (ETS);",
+        "options": [
+          "Η άμεση κατάργηση όλων των οχημάτων εσωτερικής καύσης",
+          "Η παρακολούθηση και η παροχή κινήτρων για μείωση των εκπομπών μέσω μηχανισμών της αγοράς",
+          "Η επιδότηση των κατασκευαστών αυτοκινήτων",
+          "Η απαλλαγή των ηλεκτρικών οχημάτων"
+        ],
+        "answer": 1,
+        "explanation": "Το ETS χρησιμοποιεί μηχανισμούς αγοράς για να δώσει κίνητρα μείωσης των ρύπων."
+      },
+      "en": {
+        "passage": "12. In 2025, the EU faces key deadlines in its transition to green mobility. New legislation mandates a 15% reduction in average CO2 emissions from new passenger cars. Road transport emissions will also enter the EU Emissions Trading System (ETS), requiring monitoring and reporting.",
+        "question": "What is the primary purpose of integrating road transport into the EU Emissions Trading System (ETS)?",
+        "options": [
+          "To eliminate all combustion engine vehicles immediately",
+          "To monitor and incentivize reductions in transport sector CO2 emissions through market mechanisms",
+          "To subsidize car manufacturers resisting emission targets",
+          "To exempt electric vehicles from environmental regulations"
+        ],
+        "answer": 1,
+        "explanation": "The ETS is a market-based tool that uses price signals rather than immediate bans."
+      }
+    },
+    {
+      "el": {
+        "passage": "13. Τα τελευταία χρόνια, η Ευρωπαϊκή Επιτροπή έχει δώσει έμφαση στη μείωση της περιττής γραφειοκρατίας. Τα μέτρα περιλαμβάνουν τον εξορθολογισμό των διοικητικών διαδικασιών και την απλούστευση των απαιτήσεων υποβολής εκθέσεων. Οι υποστηρικτές υποστηρίζουν ότι τέτοιες μεταρρυθμίσεις επιταχύνουν τη λήψη αποφάσεων, ενώ οι επικριτές προειδοποιούν για κινδύνους στη λογοδοσία.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται από το κείμενο;",
+        "options": [
+          "Οι μεταρρυθμίσεις θα εξαλείψουν όλα τα εμπόδια.",
+          "Οι απλουστευμένες διαδικασίες πιστεύεται ότι βελτιώνουν την αποτελεσματικότητα.",
+          "Οι επικριτές συμφωνούν ομόφωνα για αρνητικές συνέπειες.",
+          "Οι απαιτήσεις υποβολής εκθέσεων παραμένουν περίπλοκες."
+        ],
+        "answer": 1,
+        "explanation": "Η ηγεσία της Επιτροπής θεωρεί πως οι νέες διαδικασίες βελτιώνουν την αποτελεσματικότητα."
+      },
+      "en": {
+        "passage": "13. In recent years, the European Commission has emphasized reducing unnecessary bureaucracy. Measures have included streamlining administrative procedures and simplifying reporting requirements. Advocates assert that such reforms accelerate decision-making, while critics caution that rapid changes risk oversight.",
+        "question": "Which of the following statements is supported by the passage?",
+        "options": [
+          "The Commission's reforms will eliminate all bureaucratic hurdles.",
+          "Simplified procedures are believed to improve efficiency and accessibility.",
+          "Critics unanimously agree that reforms have only negative consequences.",
+          "Reporting requirements remain as complicated as before."
+        ],
+        "answer": 1,
+        "explanation": "The passage states that leadership claims the new processes make operations more efficient and accessible."
+      }
+    },
+    {
+      "el": {
+        "passage": "14. Εντός μεγάλων οργανισμών, η αποτελεσματικότητα της ηγεσίας εξετάζεται συχνά μέσω αντικρουόμενων πλαισίων. Ορισμένοι θεωρητικοί υποστηρίζουν ότι οι επιτυχημένοι ηγέτες διακρίνονται από το όραμα. Άλλοι υποστηρίζουν ότι απαιτείται προσαρμοστικότητα. Ωστόσο, πρόσφατες έρευνες δείχνουν ότι οι πιο σεβαστοί ηγέτες ενσωματώνουν και τις δύο προσεγγίσεις.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται από το κείμενο;",
+        "options": [
+          "Οι ηγέτες βασίζονται μόνο στο όραμα.",
+          "Η προσαρμοστικότητα δεν εκτιμάται.",
+          "Η ενσωμάτωση του οράματος με την προσαρμοστικότητα είναι σημαντική.",
+          "Οι κουλτούρες υποστηρίζουν πάντα συνδυασμό στυλ."
+        ],
+        "answer": 2,
+        "explanation": "Οι πιο σεβαστοί ηγέτες συνδυάζουν το όραμα με την προσαρμοστικότητα."
+      },
+      "en": {
+        "passage": "14. Within large organizations, leadership effectiveness is often viewed through competing frameworks. Some theorists argue that successful leaders excel primarily by articulating a compelling vision. Others contend that sustainable leadership requires adaptability. Recent research indicates that the most respected leaders integrate both approaches.",
+        "question": "Which of the following statements is supported by the passage?",
+        "options": [
+          "The most respected leaders rely only on charismatic vision.",
+          "Adaptability is hardly valued in large organizations.",
+          "Integrating vision with adaptability is important for respected leadership.",
+          "Institutional cultures always support a combination of leadership styles."
+        ],
+        "answer": 2,
+        "explanation": "The text highlights that respected leaders blend vision with openness to feedback and change."
+      }
+    },
+    {
+      "el": {
+        "passage": "15. Η επιλογή του νέου διευθυντή τμήματος πρέπει να γίνει από την Κεντρική Επιτροπή Αξιολόγησης. Αυτή η επιτροπή είναι η μόνη αρχή που έχει την εξουσία να δώσει την τελική έγκριση για τον διορισμό. Το συμβούλιο του τμήματος μπορεί να υποβάλει υποψηφίους, αλλά η τελική απόφαση δεν ανήκει σε αυτό.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις είναι συνεπής με το κείμενο;",
+        "options": [
+          "Μόνο η επιτροπή μπορεί να δώσει την τελική έγκριση.",
+          "Η επιτροπή δίνει έγκριση μόνο στο συμβούλιο.",
+          "Η επιτροπή δίνει μόνο την τελική έγκριση.",
+          "Το συμβούλιο δίνει τελική έγκριση με συγκατάθεση."
+        ],
+        "answer": 0,
+        "explanation": "Η επιτροπή αναφέρεται ως η «μόνη αρχή» για την έγκριση."
+      },
+      "en": {
+        "passage": "15. The selection of the new department director must be made by the Central Evaluation Committee. This committee is the only authority that has the power to give final approval for the appointment. The department council may submit candidates, but the final decision does not belong to it.",
+        "question": "Which of the following statements is consistent with the passage above?",
+        "options": [
+          "Only the committee can give final approval for the appointment.",
+          "The committee can give final approval only to the council.",
+          "The committee can give only the final approval to the council.",
+          "The council can give final approval, but only with the committee's consent."
+        ],
+        "answer": 0,
+        "explanation": "The passage states the committee is the 'only authority' for final approval."
+      }
+    },
+    {
+      "el": {
+        "passage": "16. Σε αντίθεση με τα κράτη μέλη που υποστηρίζουν την αυστηρή επικουρικότητα, η Ευρωπαϊκή Επιτροπή υποστηρίζει μια πιο συγκεντρωτική προσέγγιση λόγω της διασυνοριακής φύσης των απειλών. Ορισμένα δυτικά κράτη, παραδόξως, αν και έχουν καλές επιδόσεις, απορρίπτουν την περαιτέρω ενοποίηση.",
+        "question": "Ποια δήλωση υποστηρίζεται καλύτερα από το κείμενο;",
+        "options": [
+          "Όλη η Ανατολική Ευρώπη υποστηρίζει την Επιτροπή.",
+          "Το Κοινοβούλιο υποστηρίζει την πλήρη εθνική ευελιξία.",
+          "Ορισμένα δυτικά κράτη με καλές επιδόσεις ανθίστανται στην ενοποίηση.",
+          "Οι επιχειρήσεις θέλουν δεσμευτικούς στόχους."
+        ],
+        "answer": 2,
+        "explanation": "Το κείμενο αναφέρει ρητά την αντίσταση ορισμένων δυτικών κρατών στην ενοποίηση."
+      },
+      "en": {
+        "passage": "16. Contrary to Member States that advocate strict subsidiarity, the European Commission argues for a more centralized legislative approach, citing the transboundary nature of ecological threats. Certain Western European governments, paradoxically, boast stronger environmental records but reject further integration.",
+        "question": "Which of the following statements is best supported by the passage?",
+        "options": [
+          "All Eastern European governments now support the Commission's centralized approach.",
+          "The European Parliament fully endorses national discretion.",
+          "Some Western states with strong environmental records are resistant to further EU-level integration.",
+          "Business associations are in favour of binding EU-wide targets."
+        ],
+        "answer": 2,
+        "explanation": "The passage explicitly mentions this paradox regarding certain Western states."
+      }
+    },
+    {
+      "el": {
+        "passage": "17. Η Επιτροπή εισήγαγε μια Στρατηγική Ανοικτών Δεδομένων, στοχεύοντας σε 40 δισ. ευρώ ετησίως. Οι πληροφορίες των δημόσιων διοικήσεων έχουν αξία, όπως δείχνουν το Ηνωμένο Βασίλειο και η Γαλλία.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις είναι σωστή;",
+        "options": [
+          "Η ενίσχυση θα ήταν 200 εκατ. σε 5 έτη.",
+          "Τα δεδομένα ήταν πάντα διαθέσιμα επί πληρωμή.",
+          "Η οικονομική βιωσιμότητα έχει ήδη αποδειχθεί.",
+          "Η στρατηγική απαιτεί νέες τεχνολογίες."
+        ],
+        "answer": 2,
+        "explanation": "Το κείμενο αναφέρει ότι κράτη όπως το ΗΒ και η Γαλλία δείχνουν ήδη την αξία αυτή."
+      },
+      "en": {
+        "passage": "17. The Commission has introduced an Open Data Strategy for Europe, aiming to add €40 billion annually to the EU's economy. Large amounts of information held by public administrations represent untapped value, as shown by countries like the UK and France.",
+        "question": "Which of the following statements is correct?",
+        "options": [
+          "The strategy was expected to enhance the EU's economy by €200 million over five years.",
+          "Public data has historically been available to businesses willing to pay.",
+          "The financial viability of the Open Data Strategy has already been proven.",
+          "The strategy cannot be successful without new data-handling technologies."
+        ],
+        "answer": 2,
+        "explanation": "The passage states that the UK and France are already demonstrating this value, proving it is viable."
+      }
+    },
+    {
+      "el": {
+        "passage": "18. Οι καταναλωτές αναζητούν αυθεντικά προϊόντα. Μια γεωγραφική ένδειξη (ΓΕ) προσδιορίζει αγαθά που η ποιότητά τους συνδέεται με την προέλευση. Τα γεωργικά προϊόντα προστατεύονται σε όλη την ΕΕ, αλλά τα μη γεωργικά (π.χ. κεραμικά) δεν έχουν ενιαία προστασία μέχρι σήμερα.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις είναι σωστή;",
+        "options": [
+          "Τα κλωστοϋφαντουργικά προστατεύονται ήδη.",
+          "Οι καταναλωτές αδιαφορούν για την προέλευση.",
+          "Τα προϊόντα ΓΕ δεν παράγονται πουθενά αλλού.",
+          "Σε ορισμένες περιοχές έχουν αναπτυχθεί αγαθά με επιθυμητά χαρακτηριστικά."
+        ],
+        "answer": 3,
+        "explanation": "Η ύπαρξη ΓΕ προϋποθέτει ότι ορισμένα αγαθά έχουν χαρακτηριστικά λόγω της περιοχής τους."
+      },
+      "en": {
+        "passage": "18. In today's globalised world, consumers are looking for ways to identify authentic, original products. A geographical indication (GI) identifies goods as originating from a place where a particular quality is linked to its geographical origin. Agricultural products may be afforded EU-wide GI protection. However, non-agricultural products do not yet enjoy unitary GI protection at EU level.",
+        "question": "Which of the following statements is correct?",
+        "options": [
+          "Textiles and building materials enjoy GI protection at EU level.",
+          "Global customers are indifferent towards geographically specific products.",
+          "Protected products cannot be produced to the same quality outside the region.",
+          "In some geographical regions goods have been developed that have particularly desirable and specific characteristics."
+        ],
+        "answer": 3,
+        "explanation": "For a GI to exist, there must be regions where products have developed specific, desirable characteristics linked to that location."
+      }
+    },
+    {
+      "el": {
+        "passage": "19. Σύμφωνα με τους κανονισμούς, ο Προϊστάμενος δικαιούται να ζητήσει πρόσθετες πληροφορίες προτού ο φάκελος σταλεί στην επιτροπή. Εάν η τεκμηρίωση είναι ελλιπής, μπορεί να στείλει τον φάκελο μόνο μετά την παροχή των πληροφοριών. Η επιτροπή λαμβάνει την τελική απόφαση.",
+        "question": "Ποιο από τα παρακάτω είναι ΣΥΝΕΠΕΣ με το κείμενο;",
+        "options": [
+          "Ο Προϊστάμενος μπορεί να διατάξει την παροχή πληροφοριών.",
+          "Ο Προϊστάμενος δικαιούται να ζητήσει πρόσθετες πληροφορίες.",
+          "Ο Προϊστάμενος μπορεί να αρνηθεί την αποστολή αν δεν συμφωνήσει ο αιτών.",
+          "Ο Προϊστάμενος μπορεί να ανατρέψει την απόφαση."
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ρητά το δικαίωμα του Προϊσταμένου να ζητά πληροφορίες."
+      },
+      "en": {
+        "passage": "19. According to the agency's internal regulations, the Head of Unit is entitled to request additional information from the applicant before the application file is sent to the central committee. If the Head of Unit considers that the documentation is incomplete, he may forward the file only after the missing information has been provided. The central committee is responsible for making the final decision.",
+        "question": "Which of the following is CONSISTENT with the text?",
+        "options": [
+          "The Head of Unit has the right to order the applicant to provide additional information.",
+          "The Head of Unit has the right to request that the applicant provide additional information.",
+          "The Head of Unit has the right to refuse to send the file unless the applicant agrees.",
+          "The Head of Unit has the right to overturn the central committee's final decision."
+        ],
+        "answer": 1,
+        "explanation": "The text explicitly says the Head of Unit 'is entitled to request' information."
+      }
+    },
+    {
+      "el": {
+        "passage": "20. Τα χρήματα για το περιβάλλον πηγαίνουν στους αγρότες επειδή η ΚΑΠ είναι η πιο ολοκληρωμένη πολιτική και οι αγρότες διατηρούν το τοπίο. Η ΚΑΠ σήμερα είναι διαφορετική από την παλιά εικόνα των πλεονασμάτων, εστιάζοντας πλέον στην ασφάλεια τροφίμων και την ευημερία των ζώων.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις είναι σωστή;",
+        "options": [
+          "Ιστορικά, ο μοχλός ήταν η αποτελεσματικότητα.",
+          "Οι προσεγγίσεις της ΚΑΠ εξελίχθηκαν ώστε να βλέπουν τη γεωργία πιο ολιστικά.",
+          "Η ΚΑΠ είναι μηχανισμός ανταλλαγής γνώσεων.",
+          "Όλοι οι αγρότες ενθαρρύνονται να προστατεύουν το περιβάλλον."
+        ],
+        "answer": 1,
+        "explanation": "Η στροφή προς την ασφάλεια και την ευημερία δείχνει μια ολιστική εξέλιξη της πολιτικής."
+      },
+      "en": {
+        "passage": "20. Much of the money for preserving our natural environment goes to farmers both because the CAP is the most integrated of all EU policies and because farmers play a fundamental role in supplying basic foodstuffs and in maintaining the landscape. The CAP today is very different from the image many people still have of it as a source of surpluses. Ongoing reforms are ensuring a more balanced approach.",
+        "question": "Which of the following statements is correct?",
+        "options": [
+          "Historically, the main driver for the CAP was improving efficiency.",
+          "The operations of the CAP have evolved over time to view farming more holistically.",
+          "The CAP is an effective mechanism for sharing knowledge.",
+          "Farmers in all European countries are encouraged to protect the environment through the CAP."
+        ],
+        "answer": 1,
+        "explanation": "The reforms described point to a more balanced and comprehensive (holistic) view of agriculture."
+      }
+    }
+  ],
+  "verbal_2": [
+    {
+      "en": {
+        "passage": "1. The European Commission recently adopted a directive on pay transparency to close the gender pay gap. The directive requires companies with more than 250 employees to publish annual reports on pay differences. If the gap exceeds 5% and cannot be justified by objective factors, employers must conduct a pay assessment in cooperation with workers' representatives.",
+        "question": "What is the key condition for an employer to be required to conduct a pay assessment?",
+        "options": [
+          "Having more than 100 employees.",
+          "A pay gap exceeding 5% without objective justification.",
+          "A formal complaint from employees.",
+          "Failing to publish reports for two consecutive years."
+        ],
+        "answer": 1,
+        "explanation": "The directive mandates an assessment if the 5% gap is not objectively justified."
+      },
+      "el": {
+        "passage": "1. Η Ευρωπαϊκή Επιτροπή εξέδωσε πρόσφατα μια οδηγία για τη διαφάνεια των μισθών, με στόχο την εξάλειψη του χάσματος αμοιβών. Η οδηγία απαιτεί από τις εταιρείες με περισσότερους από 250 υπαλλήλους να δημοσιεύουν ετήσιες αναφορές. Εάν το χάσμα υπερβαίνει το 5% και δεν μπορεί να δικαιολογηθεί από αντικειμενικούς παράγοντες, οι εργοδότες θα πρέπει να διενεργούν μισθολογική αξιολόγηση.",
+        "question": "Ποια είναι η βασική προϋπόθεση για να υποχρεωθεί ένας εργοδότης σε μισθολογική αξιολόγηση;",
+        "options": [
+          "Να έχει περισσότερους από 100 υπαλλήλους.",
+          "Το μισθολογικό χάσμα να υπερβαίνει το 5% χωρίς αντικειμενική αιτιολόγηση.",
+          "Να υπάρχει καταγγελία από την πλευρά των εργαζομένων.",
+          "Να μην έχει δημοσιεύσει ετήσια αναφορά για δύο συνεχή έτη."
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ότι η αξιολόγηση απαιτείται αν το χάσμα υπερβαίνει το 5% και δεν δικαιολογείται αντικειμενικά."
+      }
+    },
+    {
+      "en": {
+        "passage": "2. The Maastricht Treaty (1992) was a milestone for European integration, creating the European Union and laying the foundations for the single currency. It introduced the three-pillar structure and also introduced the concept of EU citizenship, allowing citizens to move and reside freely between member states.",
+        "question": "Which of the following was NOT introduced by the Maastricht Treaty?",
+        "options": [
+          "The concept of EU citizenship.",
+          "The euro as a single currency in circulation.",
+          "The three-pillar structure.",
+          "Common Foreign and Security Policy."
+        ],
+        "answer": 1,
+        "explanation": "The treaty laid the foundation for the euro, but it was not yet in circulation in 1992."
+      },
+      "el": {
+        "passage": "2. Η Συνθήκη του Μάαστριχτ (1992) αποτέλεσε ορόσημο για την ευρωπαϊκή ενοποίηση, καθώς δημιούργησε την Ευρωπαϊκή Ένωση και έθεσε τις βάσεις για το ενιαίο νόμισμα. Εισήγαγε τη δομή των τριών πυλώνων και την έννοια της ευρωπαϊκής ιθαγένειας.",
+        "question": "Ποιο από τα παρακάτω ΔΕΝ εισήχθη με τη Συνθήκη του Μάαστριχτ;",
+        "options": [
+          "Η έννοια της ευρωπαϊκής ιθαγένειας.",
+          "Το ευρώ ως ενιαίο νόμισμα σε κυκλοφορία.",
+          "Η δομή των τριών πυλώνων.",
+          "Η Κοινή Εξωτερική Πολιτική και Πολιτική Ασφάλειας."
+        ],
+        "answer": 1,
+        "explanation": "Η συνθήκη έθεσε τις βάσεις για το νόμισμα, αλλά το ευρώ δεν τέθηκε σε κυκλοφορία το 1992."
+      }
+    },
+    {
+      "en": {
+        "passage": "3. The circular economy aims to minimize waste by redesigning products, recycling, and reusing materials. In the EU, this transition is considered essential for achieving climate neutrality by 2050.",
+        "question": "According to the text, what is the ultimate goal of the circular economy in the EU?",
+        "options": [
+          "Reducing production costs for industries.",
+          "Achieving climate neutrality by 2050.",
+          "Increasing textile exports.",
+          "Eliminating the use of plastics in construction."
+        ],
+        "answer": 1,
+        "explanation": "The text explicitly links the circular economy to the 2050 climate neutrality target."
+      },
+      "el": {
+        "passage": "3. Η κυκλική οικονομία στοχεύει στην ελαχιστοποίηση των αποβλήτων μέσω επανασχεδιασμού και ανακύκλωσης. Στην ΕΕ, η μετάβαση αυτή είναι απαραίτητη για την επίτευξη της κλιματικής ουδετερότητας έως το 2050.",
+        "question": "Σύμφωνα με το κείμενο, ποιος είναι ο απώτερος στόχος της κυκλικής οικονομίας στην ΕΕ;",
+        "options": [
+          "Η μείωση του κόστους παραγωγής για τις βιομηχανίες.",
+          "Η επίτευξη κλιματικής ουδετερότητας έως το 2050.",
+          "Η αύξηση των εξαγωγών κλωστοϋφαντουργικών προϊόντων.",
+          "Η κατάργηση της χρήσης πλαστικών στις κατασκευές."
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο συνδέει άμεσα την κυκλική οικονομία με τον στόχο της κλιματικής ουδετερότητας έως το 2050."
+      }
+    },
+    {
+      "en": {
+        "passage": "4. In February 2025, the European Commission introduced the Omnibus Simplification Package, aiming to streamline sustainability and corporate reporting requirements. While the Commission claims these changes will boost investment, some critics argue that the simplification results from narrowing the scope of rules, possibly undermining sustainability goals.",
+        "question": "Which of the following statements is supported by the passage?",
+        "options": [
+          "The Omnibus Simplification Package has been fully implemented by all EU member states.",
+          "Critics believe the simplification could limit the impact of sustainability initiatives.",
+          "The package does not address corporate reporting requirements.",
+          "Administrative costs are expected to increase under the new proposal."
+        ],
+        "answer": 1,
+        "explanation": "The passage notes that critics are concerned the narrowing of scope could undermine EU sustainability goals."
+      },
+      "el": {
+        "passage": "4. Τον Φεβρουάριο του 2025, η Ευρωπαϊκή Επιτροπή παρουσίασε το 'Πακέτο Απλούστευσης Omnibus'. Ορισμένοι επικριτές υποστηρίζουν ότι ο περιορισμός του πεδίου εφαρμογής μπορεί να υπονομεύσει τους στόχους βιωσιμότητας.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται από το κείμενο;",
+        "options": [
+          "Το Πακέτο Omnibus έχει εφαρμοστεί πλήρως από όλα τα κράτη μέλη.",
+          "Οι επικριτές πιστεύουν ότι η απλούστευση θα μπορούσε να περιορίσει τον αντίκτυπο των πρωτοβουλιών βιωσιμότητας.",
+          "Το πακέτο δεν αφορά τις απαιτήσεις εταιρικής αναφοράς.",
+          "Το διοικητικό κόστος αναμένεται να αυξηθεί."
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει την ανησυχία των επικριτών ότι ο περιορισμός μπορεί να υπονομεύσει τους στόχους βιωσιμότητας."
+      }
+    },
+    {
+      "en": {
+        "passage": "5. The rapid proliferation of drones has transformed modern warfare. The EU has stressed the need for common rules on drone exports and ethical frameworks for deployment. While some Member States push for strict EU-level controls, others argue national sovereignty in defence matters should prevail.",
+        "question": "Which statement is best supported by the passage?",
+        "options": [
+          "Drones are universally welcomed in the EU as a cheap and risk-free military tool.",
+          "The EU is committed to establishing common rules and ethical standards on drone use.",
+          "Member States unanimously favour centralized EU control over defense-related technologies.",
+          "Civil society organizations oppose the development of counter-drone technologies."
+        ],
+        "answer": 1,
+        "explanation": "The passage mentions the EU's stress on the need for common rules and ethical frameworks."
+      },
+      "el": {
+        "passage": "5. Η ταχεία εξάπλωση των drones έχει μεταμορφώσει τον σύγχρονο πόλεμο. Η ΕΕ έχει τονίσει την ανάγκη για κοινούς κανόνες και ηθικά πλαίσια. Ορισμένα κράτη μέλη υποστηρίζουν την εθνική κυριαρχία σε θέματα άμυνας.",
+        "question": "Ποια δήλωση υποστηρίζεται καλύτερα από το κείμενο;",
+        "options": [
+          "Τα drones είναι καθολικά ευπρόσδεκτα στην ΕΕ.",
+          "Η ΕΕ δεσμεύεται να θεσπίσει κοινούς κανόνες και ηθικά πρότυπα για τη χρήση drones.",
+          "Τα κράτη μέλη τάσσονται ομόφωνα υπέρ του κεντρικού ελέγχου.",
+          "Οι οργανώσεις αντιτίθενται στην ανάπτυξη τεχνολογιών αναχαίτισης."
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει την έμφαση της ΕΕ στην ανάγκη για κοινούς κανόνες και ηθικά πλαίσια."
+      }
+    },
+    {
+      "en": {
+        "passage": "6. Solidarity has to be at the core of EU asylum policy. In the first half of this year, over 75% of all asylum applications were made in only 6 Member States. Many EU members could take a far greater share of the responsibility.",
+        "question": "Which of the following statements is correct?",
+        "options": [
+          "A joined-up approach to asylum within the EU would see asylum seekers fairly distributed between EU countries.",
+          "Some EU countries are disproportionately more attractive to asylum seekers than others.",
+          "France, Germany, Belgium, the UK, Sweden and Italy each accepted around 12.5% of EU asylum seekers.",
+          "Long-term asylum planning is facilitated by the predictability of asylum requirements."
+        ],
+        "answer": 0,
+        "explanation": "The passage argues for greater shared responsibility through solidarity."
+      },
+      "el": {
+        "passage": "6. Η αλληλεγγύη πρέπει να βρίσκεται στον πυρήνα της πολιτικής ασύλου της ΕΕ. Το πρώτο εξάμηνο, πάνω από το 75% των αιτήσεων υποβλήθηκαν σε μόλις 6 κράτη μέλη.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις είναι σωστή;",
+        "options": [
+          "Μια κοινή προσέγγιση για το άσυλο θα έβλεπε τους αιτούντες να κατανέμονται δίκαια μεταξύ των χωρών.",
+          "Ορισμένες χώρες είναι δυσανάλογα πιο ελκυστικές.",
+          "Κάθε χώρα δέχθηκε περίπου το 12,5%.",
+          "Ο σχεδιασμός του ασύλου διευκολύνεται από την προβλεψιμότητα."
+        ],
+        "answer": 0,
+        "explanation": "Το κείμενο υποστηρίζει ότι η αλληλεγγύη θα οδηγούσε σε δικαιότερη κατανομή."
+      }
+    },
+    {
+      "en": {
+        "passage": "7. The use of biomass, biogas and biowaste in power plants will grow. The biggest growth in electricity production will most likely come from wind generation through more efficient turbines. With the expected growth in renewable fuels for transport, this sector will have a means of reducing its CO2 emissions.",
+        "question": "Which of the following statements is correct?",
+        "options": [
+          "The largest volume of renewable electricity produced will come from wind generation.",
+          "Growth is expected across a wide range of renewable energy sources.",
+          "There are limited options for incorporating renewable technologies into buildings.",
+          "Addressing CO2 emissions from the transport sector is unlikely."
+        ],
+        "answer": 1,
+        "explanation": "The passage lists multiple different sources where growth is expected."
+      },
+      "el": {
+        "passage": "7. Η χρήση βιομάζας και βιοαερίου θα αυξηθεί. Η μεγαλύτερη αύξηση στην παραγωγή ηλεκτρικής ενέργειας θα προέλθει πιθανότατα από την αιολική ενέργεια. Με την ανάπτυξη των ανανεώσιμων καυσίμων, ο τομέας των μεταφορών θα μειώσει τις εκπομπές CO2.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις είναι σωστή;",
+        "options": [
+          "Ο μεγαλύτερος όγκος ανανεώσιμης ενέργειας θα προέρχεται από αιολική παραγωγή.",
+          "Αναμένεται ανάπτυξη σε ένα ευρύ φάσμα ανανεώσιμων πηγών ενέργειας.",
+          "Υπάρχουν περιορισμένες επιλογές για τα κτίρια.",
+          "Η αντιμετώπιση των εκπομπών από τις μεταφορές είναι απίθανη."
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο απαριθμεί πολλές διαφορετικές πηγές ενέργειας που θα αναπτυχθούν."
+      }
+    },
+    {
+      "en": {
+        "passage": "8. The Digital Services Act and Digital Markets Act ensure fair competition and accountability online. Meanwhile, the EU champions digital sovereignty, reducing dependence on non-EU tech giants.",
+        "question": "Which EU legal framework aims to regulate online platforms and ensure fair digital markets?",
+        "options": [
+          "General Data Protection Regulation (GDPR)",
+          "European Green Deal",
+          "Digital Competence Framework",
+          "Digital Services Act and Digital Markets Act"
+        ],
+        "answer": 3,
+        "explanation": "The passage explicitly links the DSA and DMA to fair competition and accountability."
+      },
+      "el": {
+        "passage": "8. Η Πράξη για τις Ψηφιακές Υπηρεσίες (DSA) και η Πράξη για τις Ψηφιακές Αγορές (DMA) διασφαλίζουν τον θεμιτό ανταγωνισμό. Παράλληλα, η ΕΕ προασπίζεται την ψηφιακή κυριαρχία.",
+        "question": "Ποιο νομοθετικό πλαίσιο στοχεύει στη ρύθμιση των πλατφορμών και τη διασφάλιση δίκαιων ψηφιακών αγορών;",
+        "options": [
+          "Γενικός Κανονισμός για την Προστασία Δεδομένων (GDPR)",
+          "Ευρωπαϊκή Πράσινη Συμφωνία",
+          "Πλαίσιο Ψηφιακών Ικανοτήτων",
+          "Πράξη για τις Ψηφιακές Υπηρεσίες και Πράξη για τις Ψηφιακές Αγορές"
+        ],
+        "answer": 3,
+        "explanation": "Το κείμενο αναφέρει ότι οι DSA και DMA διασφαλίζουν τον θεμιτό ανταγωνισμό."
+      }
+    },
+    {
+      "en": {
+        "passage": "9. For over 400 years emigrants from Europe flocked to North and South America, Australasia and Africa seeking a better life. Today, the countries of the European Union are in turn a magnet for immigrants. Western European countries invited immigrants from former colonies to boost the workforce in the 1950s and 1960s.",
+        "question": "Which of the following statements is correct?",
+        "options": [
+          "Immigration tends to follow cyclical themes and patterns with people from different regions searching for a better life.",
+          "Immigrants from the Americas and Africa often have European ancestry.",
+          "The majority of immigration experienced in some EU countries is from other EU Member States.",
+          "Post-war European economic growth was hindered by an influx of immigrants."
+        ],
+        "answer": 0,
+        "explanation": "The passage describes the shift in migration flows as people search for prosperity over different eras."
+      },
+      "el": {
+        "passage": "9. Για πάνω από 400 χρόνια, Ευρωπαίοι μετανάστευαν αναζητώντας μια καλύτερη ζωή. Σήμερα, η ΕΕ αποτελεί πόλο έλξης για μετανάστες λόγω της ευημερίας της.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις είναι σωστή;",
+        "options": [
+          "Η μετανάστευση ακολουθεί κυκλικά πρότυπα ανθρώπων που αναζητούν μια καλύτερη ζωή.",
+          "Οι μετανάστες από την Αμερική έχουν συχνά ευρωπαϊκή καταγωγή.",
+          "Η πλειονότητα της μετανάστευσης προέρχεται από άλλα κράτη μέλη.",
+          "Η οικονομική ανάπτυξη παρεμποδίστηκε από την εισροή μεταναστών."
+        ],
+        "answer": 0,
+        "explanation": "Το κείμενο περιγράφει τη διαχρονική κίνηση των ανθρώπων προς την ευημερία."
+      }
+    },
+    {
+      "en": {
+        "passage": "10. A policy of flexicurity combines flexible hiring and firing rules for employers with high benefits for the unemployed. It is about creating a broader context where job mobility, especially upward mobility to jobs with higher pay, forms part of a normal career pattern.",
+        "question": "Which of the following statements is correct?",
+        "options": [
+          "In a competitive global marketplace employers need to respond flexibly to changing workforce requirements.",
+          "The uncertainty created for individuals by regular job changes can be offset by the confidence that adequate welfare will be available.",
+          "Increasingly flexible hiring and firing rules will lead to a loss of job security for most employees.",
+          "Moving regularly between short-term jobs is likely to be detrimental to an individual's career advancement."
+        ],
+        "answer": 0,
+        "explanation": "The passage suggests that flexibility is a necessary response to the globalized economy."
+      },
+      "el": {
+        "passage": "10. Η 'ευελιξία με ασφάλεια' (flexicurity) συνδυάζει ευέλικτους κανόνες για εργοδότες και υψηλά επιδόματα για εργαζομένους. Στόχος είναι η κινητικότητα να αποτελεί μέρος ενός φυσιολογικού προτύπου σταδιοδρομίας.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις είναι σωστή;",
+        "options": [
+          "Οι εργοδότες πρέπει να ανταποκρίνονται με ευελιξία στις μεταβαλλόμενες απαιτήσεις.",
+          "Η αβεβαιότητα μπορεί να αντισταθμιστεί από την εμπιστοσύνη στην επαρκή πρόνοια.",
+          "Οι ευέλικτοι κανόνες θα οδηγήσουν σε απώλεια της ασφάλειας.",
+          "Η τακτική μετακίνηση μεταξύ βραχυπρόθεσμων θέσεων βλάπτει την εξέλιξη."
+        ],
+        "answer": 0,
+        "explanation": "Το κείμενο υπονοεί ότι η ευελιξία είναι απαραίτητη απάντηση στις ανάγκες της αγοράς."
+      }
+    },
+    {
+      "en": {
+        "passage": "11. Artificial Intelligence (AI) is expected to transform the EU labour market by automating routine tasks. Estimates suggest that 14–25% of current jobs are at high risk of automation, particularly in transport, manufacturing, and administrative services. The EU promotes a 'human-centric' AI approach, aiming to boost productivity while protecting workers' rights.",
+        "question": "Which sector in the EU is considered most vulnerable to AI-driven job automation?",
+        "options": [
+          "Healthcare",
+          "Creative arts",
+          "Renewable energy engineering",
+          "Administrative services"
+        ],
+        "answer": 3,
+        "explanation": "The passage explicitly lists administrative services, along with transport and manufacturing, as being at high risk of automation."
+      },
+      "el": {
+        "passage": "11. Η Τεχνητή Νοημοσύνη (AI) αναμένεται να μετασχηματίσει την αγορά εργασίας. Οι εκτιμήσεις δείχνουν ότι το 14–25% των θέσεων εργασίας διατρέχει υψηλό κίνδυνο αυτοματοποίησης, ιδιαίτερα στους τομείς των μεταφορών, της μεταποίησης και των διοικητικών υπηρεσιών.",
+        "question": "Ποιος τομέας στην ΕΕ θεωρείται ο πλέον ευάλωτος στην αυτοματοποίηση θέσεων εργασίας λόγω AI;",
+        "options": [
+          "Υγειονομική περίθαλψη",
+          "Δημιουργικές τέχνες",
+          "Μηχανική ανανεώσιμων πηγών ενέργειας",
+          "Διοικητικές υπηρεσίες"
+        ],
+        "answer": 3,
+        "explanation": "Το κείμενο αναφέρει ρητά τις διοικητικές υπηρεσίες ως τομέα υψηλού κινδύνου."
+      }
+    },
+    {
+      "en": {
+        "passage": "12. Before drafting new legislation, the European Commission often initiates a consultation process, inviting input from citizens, stakeholders, NGOs, and national authorities. While not binding, the feedback collected often shapes the Commission's final proposal.",
+        "question": "Which of the following statements best summarizes the purpose of the EU consultation process?",
+        "options": [
+          "To enforce compliance with EU legislation among member states.",
+          "To ensure only legal experts contribute to the drafting of EU laws.",
+          "To gather broad input that can improve the quality and acceptance of new legislation.",
+          "To conduct internal reviews within the European Commission after laws are passed."
+        ],
+        "answer": 2,
+        "explanation": "The passage emphasizes that involving diverse perspectives improves the relevance and effectiveness of laws."
+      },
+      "el": {
+        "passage": "12. Πριν από τη σύνταξη νέας νομοθεσίας, η Ευρωπαϊκή Επιτροπή ξεκινά μια διαδικασία διαβούλευσης. Αν και δεν είναι δεσμευτικές, συχνά διαμορφώνουν την τελική πρόταση.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις συνοψίζει καλύτερα τον σκοπό της διαδικασίας διαβούλευσης της ΕΕ;",
+        "options": [
+          "Η επιβολή της συμμόρφωσης με τη νομοθεσία.",
+          "Η διασφάλιση ότι μόνο νομικοί εμπειρογνώμονες συμβάλλουν.",
+          "Η συλλογή ευρείας συμβολής που μπορεί να βελτιώσει την ποιότητα και την αποδοχή της νέας νομοθεσίας.",
+          "Η διενέργεια εσωτερικών ελέγχων μετά την ψήφιση των νόμων."
+        ],
+        "answer": 2,
+        "explanation": "Το κείμενο τονίζει ότι η συμμετοχή βελτιώνει τη συνάφεια και την αποτελεσματικότητα των νόμων."
+      }
+    },
+    {
+      "en": {
+        "passage": "13. Since its enforcement in 2018, the GDPR has led to a surge in privacy enforcement across the EU. By 2024, over 2,000 fines had been issued, totalling more than €4.5 billion. Major tech firms have faced some of the highest penalties, often for lack of user consent, data mismanagement, or opaque profiling.",
+        "question": "Which of the following is a common reason for GDPR fines imposed on major tech firms?",
+        "options": [
+          "Inadequate user consent mechanisms",
+          "Refusal to use blockchain technology",
+          "Excessive taxation on user data",
+          "Publishing encrypted datasets"
+        ],
+        "answer": 0,
+        "explanation": "The text lists 'lack of user consent' as a frequent reason for the high penalties faced by tech firms."
+      },
+      "el": {
+        "passage": "13. Από την εφαρμογή του το 2018, ο GDPR οδήγησε σε αύξηση της επιβολής. Μεγάλες εταιρείες τεχνολογίας αντιμετώπισαν υψηλές ποινές, συχνά για έλλειψη συναίνεσης των χρηστών ή κακή διαχείριση δεδομένων.",
+        "question": "Ποιος είναι ένας συνηθισμένος λόγος για τα πρόστιμα GDPR που επιβάλλονται σε μεγάλες εταιρείες τεχνολογίας;",
+        "options": [
+          "Οι ανεπαρκείς μηχανισμοί συναίνεσης των χρηστών.",
+          "Η άρνηση χρήσης τεχνολογίας blockchain.",
+          "Η υπερβολική φορολόγηση των δεδομένων.",
+          "Η δημοσίευση κρυπτογραφημένων συνόλων δεδομένων."
+        ],
+        "answer": 0,
+        "explanation": "Το κείμενο αναφέρει την 'έλλειψη συναίνεσης των χρηστών' ως βασικό λόγο."
+      }
+    },
+    {
+      "en": {
+        "passage": "14. The European Commission recently launched an initiative aimed at reducing food waste across member states. While the initiative does not impose binding targets, it encourages voluntary commitments. Some critics contend that without enforceable measures, progress will be slow and uneven among member states.",
+        "question": "Which of the following statements is best supported by the text?",
+        "options": [
+          "The EU has made it mandatory for households to reduce food waste.",
+          "Critics believe voluntary commitments may not lead to consistent progress.",
+          "The primary concern of the initiative is reducing packaging waste.",
+          "Food waste has significantly declined in countries with high food insecurity."
+        ],
+        "answer": 1,
+        "explanation": "The passage states that critics believe progress will be slow/uneven because the measures are not enforceable."
+      },
+      "el": {
+        "passage": "14. Η Ευρωπαϊκή Επιτροπή ξεκίνησε πρόσφατα μια πρωτοβουλία για τη μείωση της σπατάλης τροφίμων. Ορισμένοι επικριτές υποστηρίζουν ότι χωρίς εκτελεστά μέτρα, η πρόοδος θα είναι αργή.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται καλύτερα από το κείμενο;",
+        "options": [
+          "Η ΕΕ κατέστησε υποχρεωτική τη μείωση της σπατάλης.",
+          "Οι επικριτές πιστεύουν ότι οι εθελοντικές δεσμεύσεις μπορεί να μην οδηγήσουν σε σταθερή πρόοδο.",
+          "Το κύριο μέλημα είναι η μείωση των απορριμμάτων συσκευασίας.",
+          "Η σπατάλη τροφίμων έχει μειωθεί σημαντικά."
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ότι οι επικριτές ανησυχούν για αργή πρόοδο λόγω του εθελοντικού χαρακτήρα."
+      }
+    },
+    {
+      "en": {
+        "passage": "15. AI is expected to transform the EU labour market by automating routine tasks. The EU promotes a 'human-centric' approach to AI, aiming to boost productivity while protecting workers' rights.",
+        "question": "What is a core principle of the EU's approach to artificial intelligence in the workplace?",
+        "options": [
+          "Full replacement of human labour by 2040",
+          "Prioritising economic efficiency over ethics",
+          "A human-centric approach protecting workers' rights",
+          "Outsourcing AI development to third countries"
+        ],
+        "answer": 2,
+        "explanation": "The passage explicitly states that the EU promotes a 'human-centric' approach to protect workers' rights."
+      },
+      "el": {
+        "passage": "15. Το AI αναμένεται να μετασχηματίσει την αγορά εργασίας αυτοματοποιώντας εργασίες ρουτίνας. Η ΕΕ προωθεί μια 'ανθρωποκεντρική' προσέγγιση για την προστασία των δικαιωμάτων των εργαζομένων.",
+        "question": "Ποια είναι η βασική αρχή της προσέγγισης της ΕΕ για την τεχνητή νοημοσύνη στον εργασιακό χώρο;",
+        "options": [
+          "Πλήρης αντικατάσταση της ανθρώπινης εργασίας έως το 2040.",
+          "Προτεραιότητα στην οικονομική αποτελεσματικότητα έναντι της ηθικής.",
+          "Μια ανθρωποκεντρική προσέγγιση που προστατεύει τα δικαιώματα των εργαζομένων.",
+          "Ανάθεση της ανάπτυξης AI σε τρίτες χώρες."
+        ],
+        "answer": 2,
+        "explanation": "Το κείμενο αναφέρει ρητά ότι η ΕΕ προωθεί μια ανθρωποκεντρική προσέγγιση."
+      }
+    },
+    {
+      "en": {
+        "passage": "16. A recent report by the European Environment Agency (EEA) highlights the uneven pace of green technology adoption. While northern and western countries have rapidly integrated renewable energy sources, several southern and eastern countries lag behind due to infrastructural and economic constraints.",
+        "question": "Which of the following statements is best supported by the text?",
+        "options": [
+          "The EEA has proposed new funding mechanisms for southern and eastern EU countries.",
+          "Economic challenges are among the reasons for slower green tech adoption in some parts of the EU.",
+          "Northern and western EU countries have fully transitioned to electric transport.",
+          "The EEA recommends penalties for countries failing to adopt green technology."
+        ],
+        "answer": 1,
+        "explanation": "The passage mentions 'economic constraints' as a reason why some countries lag behind."
+      },
+      "el": {
+        "passage": "16. Πρόσφατη έκθεση του ΕΟΠ υπογραμμίζει τον άνισο ρυθμό υιοθέτησης πράσινης τεχνολογίας. Ορισμένες νότιες και ανατολικές χώρες υστερούν λόγω οικονομικών περιορισμών.",
+        "question": "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται καλύτερα από το κείμενο;",
+        "options": [
+          "Ο ΕΟΠ πρότεινε νέους μηχανισμούς χρηματοδότησης.",
+          "Οι οικονομικές προκλήσεις είναι μεταξύ των λόγων για την πιο αργή υιοθέτηση.",
+          "Οι βόρειες χώρες έχουν μεταβεί πλήρως στις ηλεκτρικές μεταφορές.",
+          "Ο ΕΟΠ συνιστά κυρώσεις."
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει τους 'οικονομικούς περιορισμούς' ως λόγο καθυστέρησης."
+      }
+    },
+    {
+      "en": {
+        "passage": "17. The Wars of Religion in Europe (16th–17th centuries) reflected a volatile fusion of theological divergence and political opportunism. The eventual Peace of Westphalia (1648) cemented the notion of state sovereignty and curbing papal influence in temporal affairs.",
+        "question": "What lasting principle did the Peace of Westphalia help institutionalize?",
+        "options": [
+          "The divine right of kings as a check against religious extremism",
+          "The subordination of state policy to church authority",
+          "The concept of supranational religious governance",
+          "The legal recognition of state sovereignty over religious affairs"
+        ],
+        "answer": 3,
+        "explanation": "The passage states the Peace 'cemented the notion of state sovereignty and curbed papal influence in temporal affairs.'"
+      },
+      "el": {
+        "passage": "17. Οι Θρησκευτικοί Πόλεμοι αντανακλούσαν ανάμειξη θεολογικών διαφορών και πολιτικού καιροσκοπισμού. Η Ειρήνη της Βεστφαλίας (1648) εδραίωσε την έννοια της κρατικής κυριαρχίας και περιόρισε την παπική επιρροή.",
+        "question": "Ποια διαρκή αρχή βοήθησε να θεσμοθετηθεί η Ειρήνη της Βεστφαλίας;",
+        "options": [
+          "Το θείο δικαίωμα των βασιλέων.",
+          "Η υποταγή της κρατικής πολιτικής στην εκκλησιαστική εξουσία.",
+          "Η έννοια της υπερεθνικής θρησκευτικής διακυβέρνησης.",
+          "Η νομική αναγνώριση της κρατικής κυριαρχίας επί των θρησκευτικών υποθέσεων."
+        ],
+        "answer": 3,
+        "explanation": "Το κείμενο αναφέρει ότι η Ειρήνη εδραίωσε την κρατική κυριαρχία και περιόρισε την παπική επιρροή."
+      }
+    },
+    {
+      "en": {
+        "passage": "18. A pilot study on urban mobility in three EU capitals found that introducing free public transport led to a 15% reduction in private car usage over six months. During the same period, fuel prices rose significantly and two major bridges in each city were closed for repairs. Independent analysts suggested that the data might not fully isolate the impact of the free fare scheme from other external variables.",
+        "question": "Which of the following best describes the statistical concern mentioned in the passage?",
+        "options": [
+          "The sample size of only three capitals was too small to draw any conclusions.",
+          "The study failed to account for the fact that car usage usually drops in winter.",
+          "The 15% reduction was actually a calculation error by the local authorities.",
+          "External factors like fuel prices and infrastructure changes may have skewed the results."
+        ],
+        "answer": 3,
+        "explanation": "The passage points out that external variables make it difficult to isolate the success of the free transport scheme."
+      },
+      "el": {
+        "passage": "18. Μια πιλοτική μελέτη σε τρεις πρωτεύουσες της ΕΕ διαπίστωσε ότι η δωρεάν δημόσια συγκοινωνία οδήγησε σε μείωση 15% στη χρήση αυτοκινήτων. Ωστόσο, τις ίδιες περιόδους τιμές καυσίμων αυξήθηκαν και γέφυρες έκλεισαν. Αναλυτές υποστηρίζουν ότι τα δεδομένα ενδέχεται να μην απομονώνουν τον αντίκτυπο από άλλες εξωτερικές μεταβλητές.",
+        "question": "Ποιο από τα ακόλουθα περιγράφει καλύτερα τη στατιστική ανησυχία;",
+        "options": [
+          "Το μέγεθος του δείγματος ήταν πολύ μικρό.",
+          "Η μελέτη δεν έλαβε υπόψη τη χειμερινή πτώση.",
+          "Η μείωση 15% ήταν υπολογιστικό λάθος.",
+          "Εξωτερικοί παράγοντες ενδέχεται να αλλοίωσαν τα αποτελέσματα."
+        ],
+        "answer": 3,
+        "explanation": "Εξωτερικοί παράγοντες καθιστούν δύσκολο τον προσδιορισμό της επιτυχίας του μέτρου."
+      }
+    },
+    {
+      "en": {
+        "passage": "19. Digital literacy programs launched in Member State A led to a 20% increase in senior citizens using e-government services. Policymakers in Member State B have decided to adopt the exact same curriculum, assuming identical results. Critics argue that Member State B has significantly lower high-speed internet penetration in rural areas compared to Member State A.",
+        "question": "Which logical reasoning flaw is demonstrated by the policymakers in Member State B?",
+        "options": [
+          "Assuming that what worked in one specific context will work in another without considering differing conditions.",
+          "Overestimating the ability of senior citizens to learn new digital skills.",
+          "Ignoring the fact that e-government services are becoming more complex.",
+          "Focusing only on the 20% increase while ignoring the 80% who did not participate."
+        ],
+        "answer": 0,
+        "explanation": "The policymakers assume identical results without accounting for the infrastructural differences between the two states."
+      },
+      "el": {
+        "passage": "19. Προγράμματα ψηφιακού γραμματισμού στο Κράτος-Μέλος Α οδήγησαν σε αύξηση 20%. Οι υπεύθυνοι στο Κράτος-Μέλος Β αποφάσισαν να υιοθετήσουν το ίδιο πρόγραμμα, αναμένοντας παρόμοια αποτελέσματα. Επικριτές επισημαίνουν ότι το Κράτος Β έχει πολύ χαμηλότερη διείσδυση ταχέως διαδικτύου.",
+        "question": "Ποιο σφάλμα λογικής επιδεικνύεται;",
+        "options": [
+          "Η υπόθεση ότι ό,τι λειτούργησε σε ένα πλαίσιο θα λειτουργήσει σε ένα άλλο χωρίς να ληφθούν υπόψη οι διαφορές.",
+          "Η υπερεκτίμηση της ικανότητας των ηλικιωμένων.",
+          "Η αγνόηση της πολυπλοκότητας των υπηρεσιών.",
+          "Η εστίαση μόνο στην αύξηση 20%."
+        ],
+        "answer": 0,
+        "explanation": "Οι υπεύθυνοι υποθέτουν πανομοιότυπα αποτελέσματα χωρίς να υπολογίζουν τις υποδομικές διαφορές."
+      }
+    },
+    {
+      "en": {
+        "passage": "20. The European Central Bank's move to adjust interest rates is primarily intended to curb inflation and stabilize the Eurozone economy. The policy surmises that commercial banks will pass these rate changes onto consumers, thereby influencing spending and saving patterns across the continent.",
+        "question": "What is an underlying assumption made by the author regarding the effectiveness of the interest rate policy?",
+        "options": [
+          "That inflation is the only threat to the Eurozone's economic growth.",
+          "That commercial banks will behave in a predictable manner by passing rate changes to their customers.",
+          "That Eurozone citizens prefer saving money over spending it during times of high interest.",
+          "That the European Central Bank is the only institution capable of stabilizing the economy."
+        ],
+        "answer": 1,
+        "explanation": "The text explicitly mentions that the policy 'assumes' commercial banks will pass the changes to consumers."
+      },
+      "el": {
+        "passage": "20. Η κίνηση της ΕΚΤ να προσαρμόσει τα επιτόκια αποσκοπεί στον περιορισμό του πληθωρισμού. Η πολιτική αυτή προϋποθέτει ότι οι εμπορικές τράπεζες θα μετακυλήσουν αυτές τις αλλαγές στους καταναλωτές.",
+        "question": "Ποια από τις ακόλουθες είναι η παραδοχή σχετικά με την αποτελεσματικότητα της πολιτικής;",
+        "options": [
+          "Ότι ο πληθωρισμός είναι η μόνη απειλή.",
+          "Ότι οι εμπορικές τράπεζες θα μεταφέρουν τις αλλαγές στους πελάτες τους.",
+          "Ότι οι πολίτες προτιμούν την αποταμίευση.",
+          "Ότι η ΕΚΤ είναι το μόνο ίδρυμα ικανό να σταθεροποιήσει την οικονομία."
+        ],
+        "answer": 1,
+        "explanation": "Το κείμενο αναφέρει ρητά ότι η πολιτική 'προϋποθέτει' ότι οι τράπεζες θα μετακυλήσουν τις αλλαγές."
+      }
+    }
+  ],
+  "verbal_3": [
+    {
+      "en": {
+        "passage": "",
+        "question": "1. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "1. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "2. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "2. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "3. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "3. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "4. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "4. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "5. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "5. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "6. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "6. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "7. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "7. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "8. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "8. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "9. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "9. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "10. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "10. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "11. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "11. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "12. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "12. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "13. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "13. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "14. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "14. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "15. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "15. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "16. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "16. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "17. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "17. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "18. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "18. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "19. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "19. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    },
+    {
+      "en": {
+        "passage": "",
+        "question": "20. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
+        "passage": "",
+        "question": "20. ",
+        "options": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "answer": 0,
+        "explanation": ""
+      }
+    }
+  ]
+}
