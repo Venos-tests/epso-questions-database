@@ -1886,524 +1886,324 @@
     }
   ],
   "ds_2": [
-    {
+   {
       "en": {
         "passage": "",
-        "question": "1. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "21. You receive an urgent email from 'IT Support' asking you to click a link to verify your credentials. The sender's address looks slightly unusual. What is the most appropriate action?",
+        "options": ["Click the link to ensure your account isn't locked", "Forward the email to your entire department to warn them", "Report the email to the actual IT security department and do not click", "Reply to the email asking for proof of identity"],
+        "answer": 2,
+        "explanation": "This is a classic phishing attempt. Reporting it through official channels is the standard security protocol for an EU administrator."
       },
       "el": {
         "passage": "",
-        "question": "1. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "21. Λαμβάνετε ένα επείγον email από την 'Υποστήριξη IT' που σας ζητά να πατήσετε έναν σύνδεσμο για επαλήθευση στοιχείων. Η διεύθυνση του αποστολέα φαίνεται ασυνήθιστη. Ποια είναι η πιο σωστή ενέργεια;",
+        "options": ["Πατάτε τον σύνδεσμο για να μην κλειδωθεί ο λογαριασμός σας", "Προωθείτε το email σε όλο το τμήμα για να τους προειδοποιήσετε", "Αναφέρετε το email στο επίσημο τμήμα ασφάλειας πληροφορικής και δεν πατάτε τίποτα", "Απαντάτε στο email ζητώντας αποδείξεις ταυτότητας"],
+        "answer": 2,
+        "explanation": "Πρόκειται για κλασική απόπειρα phishing. Η αναφορά μέσω των επίσημων καναλιών είναι το προβλεπόμενο πρωτόκολλο ασφαλείας."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "2. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "22. When creating a public-facing digital report, which practice best ensures 'digital accessibility' (Web Content Accessibility Guidelines)?",
+        "options": ["Using only high-resolution images without text", "Adding alternative text (Alt-text) to images and using clear heading structures", "Using many different bright colors to highlight text", "Saving the document as a scanned non-searchable image"],
+        "answer": 1,
+        "explanation": "Accessibility is an EU priority; Alt-text and proper headings allow screen readers for visually impaired users to process the content."
       },
       "el": {
         "passage": "",
-        "question": "2. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "22. Κατά τη δημιουργία μιας δημόσιας ψηφιακής αναφοράς, ποια πρακτική διασφαλίζει καλύτερα την 'ψηφιακή προσβασιμότητα' (WCAG);",
+        "options": ["Χρήση μόνο εικόνων υψηλής ανάλυσης χωρίς κείμενο", "Προσθήκη εναλλακτικού κειμένου (Alt-text) στις εικόνες και χρήση σαφών επικεφαλίδων", "Χρήση πολλών έντονων χρωμάτων για την ανάδειξη του κειμένου", "Αποθήκευση του εγγράφου ως σαρωμένη εικόνα χωρίς δυνατότητα αναζήτησης"],
+        "answer": 1,
+        "explanation": "Η προσβασιμότητα είναι προτεραιότητα της ΕΕ. Το Alt-text επιτρέπει σε αναγνώστες οθόνης για άτομα με προβλήματα όρασης να κατανοήσουν το περιεχόμενο."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "3. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "23. Which of the following is the most secure method for an Administrator to manage multiple complex passwords for different official platforms?",
+        "options": ["Using the same password for all platforms to avoid forgetting", "Writing passwords in a notebook kept in the office desk", "Using an approved password manager tool", "Saving a list of passwords in an unencrypted Word document"],
+        "answer": 2,
+        "explanation": "Password managers allow for unique, strong passwords for every service, significantly reducing the risk of credential theft."
       },
       "el": {
         "passage": "",
-        "question": "3. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "23. Ποια είναι η πιο ασφαλής μέθοδος για έναν Administrator να διαχειρίζεται πολλούς σύνθετους κωδικούς πρόσβασης;",
+        "options": ["Χρήση του ίδιου κωδικού παντού για να μην τον ξεχνάτε", "Καταγραφή των κωδικών σε ένα σημειωματάριο στο γραφείο", "Χρήση εγκεκριμένου εργαλείου διαχείρισης κωδικών (password manager)", "Αποθήκευση λίστας κωδικών σε ένα μη κρυπτογραφημένο έγγραφο Word"],
+        "answer": 2,
+        "explanation": "Οι διαχειριστές κωδικών επιτρέπουν τη χρήση μοναδικών και ισχυρών κωδικών για κάθε υπηρεσία, μειώνοντας τον κίνδυνο κλοπής στοιχείων."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "4. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "24. An EU institution's policy on 'Clean Desk and Clear Screen' primarily aims to mitigate which risk?",
+        "options": ["Physical tripping hazards in the office", "Unauthorized access to sensitive information", "High electricity consumption", "Slow internet speeds"],
+        "answer": 1,
+        "explanation": "Locking screens and removing sensitive papers prevent unauthorized individuals from viewing confidential data."
       },
       "el": {
         "passage": "",
-        "question": "4. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "24. Η πολιτική 'Clean Desk and Clear Screen' ενός θεσμικού οργάνου στοχεύει κυρίως στον περιορισμό ποιου κινδύνου;",
+        "options": ["Κίνδυνος πτώσης στο γραφείο", "Μη εξουσιοδοτημένη πρόσβαση σε ευαίσθητες πληροφορίες", "Υψηλή κατανάλωση ηλεκτρικού ρεύματος", "Χαμηλές ταχύτητες διαδικτύου"],
+        "answer": 1,
+        "explanation": "Το κλείδωμα της οθόνης και η απομάκρυνση εγγράφων εμποδίζουν τρίτους από το να δουν εμπιστευτικά δεδομένα."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "5. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "25. You are asked to present data to a working group. Which digital tool/format is best suited for demonstrating trends over time in an interactive way?",
+        "options": ["A static PDF table", "A spreadsheet with raw data only", "A data visualization dashboard (e.g., PowerBI or Tableau)", "A printed memo"],
+        "answer": 2,
+        "explanation": "Dashboards allow for interactive filtering and visual storytelling, which are key for modern administrative communication."
       },
       "el": {
         "passage": "",
-        "question": "5. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "25. Σας ζητείται να παρουσιάσετε δεδομένα σε μια ομάδα εργασίας. Ποιο ψηφιακό εργαλείο είναι καταλληλότερο για την ανάδειξη τάσεων με διαδραστικό τρόπο;",
+        "options": ["Ένας στατικός πίνακας PDF", "Ένα υπολογιστικό φύλλο μόνο με ακατέργαστα δεδομένα", "Ένας πίνακας ελέγχου οπτικοποίησης δεδομένων (π.χ. PowerBI)", "Ένα εκτυπωμένο σημείωμα"],
+        "answer": 2,
+        "explanation": "Τα dashboards επιτρέπουν διαδραστικά φίλτρα και οπτικοποίηση, απαραίτητα για τη σύγχρονη διοικητική επικοινωνία."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "6. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "26. What does the term 'Data Portability' under GDPR allow a citizen to do?",
+        "options": ["To delete their data from all internet records permanently", "To receive their personal data in a structured format and transmit it to another controller", "To change their legal name in government records online", "To avoid paying taxes for digital services"],
+        "answer": 1,
+        "explanation": "Data portability ensures citizens can move their data between different service providers easily."
       },
       "el": {
         "passage": "",
-        "question": "6. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "26. Τι επιτρέπει στον πολίτη ο όρος 'Φορητότητα Δεδομένων' βάσει του GDPR;",
+        "options": ["Να διαγράψει οριστικά τα δεδομένα του από το διαδίκτυο", "Να λάβει τα δεδομένα του σε δομημένο μορφότυπο και να τα διαβιβάσει σε άλλον υπεύθυνο", "Να αλλάξει το νόμιμο όνομά του σε κρατικά αρχεία online", "Να αποφύγει την πληρωμή φόρων για ψηφιακές υπηρεσίες"],
+        "answer": 1,
+        "explanation": "Η φορητότητα διασφαλίζει ότι οι πολίτες μπορούν να μεταφέρουν τα δεδομένα τους μεταξύ διαφορετικών παρόχων υπηρεσιών."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "7. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "27. In a collaborative online document, you notice another user has deleted a paragraph by mistake. What is the most efficient administrative solution?",
+        "options": ["Re-type the paragraph from memory", "Use the 'Version History' feature to restore the specific previous state", "Call the IT helpdesk to fix the file", "Ask all contributors to stop working until the file is recovered"],
+        "answer": 1,
+        "explanation": "Version history is the fastest way to recover specific data without disrupting the entire team's flow."
       },
       "el": {
         "passage": "",
-        "question": "7. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "27. Σε ένα κοινόχρηστο έγγραφο, παρατηρείτε ότι ένας άλλος χρήστης διέγραψε κατά λάθος μια παράγραφο. Ποια είναι η πιο αποτελεσματική διοικητική λύση;",
+        "options": ["Ξαναγράφετε την παράγραφο από μνήμης", "Χρησιμοποιείτε το 'Ιστορικό Εκδόσεων' για επαναφορά στην προηγούμενη κατάσταση", "Καλήτε το IT support να φτιάξει το αρχείο", "Ζητάτε από όλους να σταματήσουν την εργασία μέχρι να ανακτηθεί το αρχείο"],
+        "answer": 1,
+        "explanation": "Το ιστορικό εκδόσεων είναι ο ταχύτερος τρόπος ανάκτησης δεδομένων χωρίς να διακοπεί η ροή εργασίας της ομάδας."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "8. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "28. Which of the following digital behaviors best demonstrates 'Digital Wellbeing' in a professional setting?",
+        "options": ["Responding to emails 24/7, including during leave", "Setting focus hours and using 'Do Not Disturb' modes to complete complex tasks", "Attending multiple virtual meetings simultaneously using two screens", "Turning off all digital security features to speed up work"],
+        "answer": 1,
+        "explanation": "Digital wellbeing involves managing digital distractions to maintain productivity and mental health."
       },
       "el": {
         "passage": "",
-        "question": "8. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "28. Ποια συμπεριφορά αντανακλά καλύτερα την 'Ψηφιακή Ευημερία' (Digital Wellbeing) σε επαγγελματικό περιβάλλον;",
+        "options": ["Απάντηση σε email 24/7, ακόμα και σε άδεια", "Ορισμός ωρών συγκέντρωσης και χρήση λειτουργίας 'Μην ενοχλείτε' για σύνθετες εργασίες", "Συμμετοχή σε πολλές τηλεδιασκέψεις ταυτόχρονα με δύο οθόνες", "Απενεργοποίηση δικλείδων ασφαλείας για ταχύτερη εργασία"],
+        "answer": 1,
+        "explanation": "Η ψηφιακή ευημερία περιλαμβάνει τη διαχείριση των ψηφιακών περισπασμών για τη διατήρηση της παραγωγικότητας."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "9. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "29. When searching for reliable sources for an official briefing, which search strategy is most effective?",
+        "options": ["Using only the first result from a generic Google search", "Cross-referencing multiple academic/official databases and checking for peer review", "Using social media trends to determine facts", "Copying content from an anonymous blog"],
+        "answer": 1,
+        "explanation": "Administrators must verify information through multiple credible sources to ensure policy accuracy."
       },
       "el": {
         "passage": "",
-        "question": "9. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "29. Κατά την αναζήτηση αξιόπιστων πηγών για μια επίσημη ενημέρωση, ποια στρατηγική είναι η πιο αποτελεσματική;",
+        "options": ["Χρήση μόνο του πρώτου αποτελέσματος από μια απλή αναζήτηση στη Google", "Διασταύρωση πολλαπλών ακαδημαϊκών/επίσημων βάσεων δεδομένων", "Χρήση των τάσεων στα μέσα κοινωνικής δικτύωσης ως γεγονότα", "Αντιγραφή περιεχομένου από ένα ανώνυμο ιστολόγιο"],
+        "answer": 1,
+        "explanation": "Οι υπάλληλοι πρέπει να επαληθεύουν τις πληροφορίες μέσω πολλαπλών αξιόπιστων πηγών για τη διασφάλιση της ακρίβειας."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "10. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "30. Why is 'Multifactor Authentication' (MFA) considered essential for EU staff accounts?",
+        "options": ["It makes the login process faster", "It adds an extra layer of security, making stolen passwords alone useless", "It allows IT to track the physical location of every employee", "It is used to monitor how many hours an employee works"],
+        "answer": 1,
+        "explanation": "MFA requires a second proof of identity (like a code on a phone), preventing access even if a password is breached."
       },
       "el": {
         "passage": "",
-        "question": "10. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "30. Γιατί η 'Αυθεντικοποίηση Πολλαπλών Παραγόντων' (MFA) θεωρείται απαραίτητη για τους λογαριασμούς του προσωπικού της ΕΕ;",
+        "options": ["Κάνει τη διαδικασία σύνδεσης ταχύτερη", "Προσθέτει ένα επιπλέον επίπεδο ασφάλειας, καθιστώντας άχρηστο έναν κλεμμένο κωδικό", "Επιτρέπει στο IT να εντοπίζει τη φυσική θέση κάθε υπαλλήλου", "Χρησιμοποιείται για την παρακολούθηση των ωρών εργασίας"],
+        "answer": 1,
+        "explanation": "Το MFA απαιτεί μια δεύτερη απόδειξη ταυτότητας, εμποδίζοντας την πρόσβαση ακόμα και αν ο κωδικός κλαπεί."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "11. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "31. You are tasked with sharing a 500MB folder of documents with a partner institution. What is the most professional digital solution?",
+        "options": ["Try to send 50 separate emails with attachments", "Use a secure EU-approved cloud file-sharing service with access controls", "Copy the data to a non-encrypted USB stick and send it by mail", "Compress it to a ZIP file and hope the email server accepts it"],
+        "answer": 1,
+        "explanation": "Cloud sharing with permissions is secure, professional, and avoids email server limitations."
       },
       "el": {
         "passage": "",
-        "question": "11. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "31. Σας ανατίθεται να μοιραστείτε έναν φάκελο 500MB με ένα άλλο θεσμικό όργανο. Ποια είναι η πιο επαγγελματική ψηφιακή λύση;",
+        "options": ["Αποστολή 50 ξεχωριστών email με συνημμένα", "Χρήση ασφαλούς και εγκεκριμένης υπηρεσίας cloud με ελέγχους πρόσβασης", "Αντιγραφή σε μη κρυπτογραφημένο USB και αποστολή ταχυδρομικώς", "Συμπίεση σε αρχείο ZIP με ελπίδα να το δεχτεί ο διακομιστής email"],
+        "answer": 1,
+        "explanation": "Η κοινή χρήση μέσω cloud με δικαιώματα είναι ασφαλής και αποφεύγει τους περιορισμούς μεγέθους των email."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "12. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "32. A colleague asks you to install a free 'PDF converter' they found on a random website. What is the appropriate administrative response?",
+        "options": ["Install it immediately to save time", "Download it but only use it for non-confidential files", "Refuse and use only software approved and provided by the official IT catalogue", "Install it but run a scan with an online tool first"],
+        "answer": 2,
+        "explanation": "Unauthorized software can contain malware or backdoors. Only IT-approved software is permitted on official devices."
       },
       "el": {
         "passage": "",
-        "question": "12. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "32. Ένας συνάδελφος σας ζητά να εγκαταστήσετε έναν δωρεάν 'μετατροπέα PDF' που βρήκε τυχαία στο διαδίκτυο. Ποια είναι η σωστή διοικητική απάντηση;",
+        "options": ["Τον εγκαθιστάτε αμέσως για εξοικονόμηση χρόνου", "Τον κατεβάζετε αλλά τον χρησιμοποιείτε μόνο για μη εμπιστευτικά αρχεία", "Αρνείστε και χρησιμοποιείτε μόνο λογισμικό από τον επίσημο κατάλογο του IT", "Τον εγκαθιστάτε αφού τον ελέγξετε με ένα online εργαλείο"],
+        "answer": 2,
+        "explanation": "Το μη εξουσιοδοτημένο λογισμικό μπορεί να περιέχει κακόβουλο κώδικα. Επιτρέπεται μόνο το εγκεκριμένο λογισμικό."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "13. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "33. Which of the following best describes the 'Right to be Forgotten' (Right to Erasure)?",
+        "options": ["The right to stop paying for a digital service", "The right to have personal data erased under specific conditions, such as when it is no longer necessary", "The right to change your IP address daily", "The right to hide your social media profile from your employer"],
+        "answer": 1,
+        "explanation": "This right (Art. 17 GDPR) allows individuals to request data deletion when there is no compelling reason for its continued processing."
       },
       "el": {
         "passage": "",
-        "question": "13. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "33. Ποιο από τα παρακάτω περιγράφει καλύτερα το 'Δικαίωμα στη Λήθη' (Δικαίωμα Διαγραφής);",
+        "options": ["Το δικαίωμα να σταματήσετε να πληρώνετε για μια ψηφιακή υπηρεσία", "Το δικαίωμα διαγραφής προσωπικών δεδομένων υπό προϋποθέσεις, π.χ. όταν δεν είναι πλέον απαραίτητα", "Το δικαίωμα καθημερινής αλλαγής της διεύθυνσης IP", "Το δικαίωμα απόκρυψης του προφίλ σας στα social media από τον εργοδότη"],
+        "answer": 1,
+        "explanation": "Το δικαίωμα αυτό (Άρθρο 17 GDPR) επιτρέπει στα άτομα να ζητούν διαγραφή δεδομένων όταν δεν υπάρχει πλέον λόγος επεξεργασίας."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "14. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "34. What is a 'Data Protection Impact Assessment' (DPIA) primarily used for?",
+        "options": ["To calculate the financial cost of data storage", "To identify and minimize data protection risks for new projects with high-risk processing", "To speed up internet connection in the office", "To count how many employees use a specific database"],
+        "answer": 1,
+        "explanation": "DPIAs are a legal requirement for processing operations likely to result in a high risk to citizens' rights."
       },
       "el": {
         "passage": "",
-        "question": "14. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "34. Σε τι χρησιμεύει κυρίως η 'Εκτίμηση Αντικτύπου σχετικά με την Προστασία Δεδομένων' (DPIA);",
+        "options": ["Για τον υπολογισμό του οικονομικού κόστους αποθήκευσης", "Για τον εντοπισμό και την ελαχιστοποίηση κινδύνων σε νέα έργα υψηλής επικινδυνότητας", "Για την επιτάχυνση της σύνδεσης στο διαδίκτυο", "Για την καταμέτρηση των χρηστών μιας βάσης δεδομένων"],
+        "answer": 1,
+        "explanation": "Η DPIA είναι νομική απαίτηση για πράξεις επεξεργασίας που ενδέχεται να επιφέρουν υψηλό κίνδυνο στα δικαιώματα των πολιτών."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "15. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
+        "question": "35. You are working remotely on a public Wi-Fi network at an airport. Which security measure is most critical?",
+        "options": ["Using a Virtual Private Network (VPN)", "Turning up the brightness of your screen", "Disabling your firewall to connect faster", "Using private browsing mode (Incognito) only"],
         "answer": 0,
-        "explanation": ""
+        "explanation": "A VPN creates an encrypted tunnel for your data, protecting it from interception on insecure public networks."
       },
       "el": {
         "passage": "",
-        "question": "15. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
+        "question": "35. Εργάζεστε εξ αποστάσεως χρησιμοποιώντας το δημόσιο Wi-Fi ενός αεροδρομίου. Ποιο μέτρο ασφαλείας είναι το πιο κρίσιμο;",
+        "options": ["Χρήση Εικονικού Ιδιωτικού Δικτύου (VPN)", "Αύξηση της φωτεινότητας της οθόνης", "Απενεργοποίηση του firewall για ταχύτερη σύνδεση", "Χρήση μόνο της 'ανώνυμης περιήγησης' (Incognito)"],
         "answer": 0,
-        "explanation": ""
+        "explanation": "Το VPN δημιουργεί μια κρυπτογραφημένη σήραγγα για τα δεδομένα σας, προστατεύοντάς τα από υποκλοπές σε μη ασφαλή δίκτυα."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "16. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "36. When using Generative AI for drafting an internal briefing, what is the most important 'Human-in-the-loop' principle?",
+        "options": ["Ensuring the AI does the work while you focus on other tasks", "Reviewing, editing, and fact-checking every statement produced by the AI before use", "Sharing the AI-generated link directly with your supervisor", "Using only the most expensive AI model available"],
+        "answer": 1,
+        "explanation": "AI can hallucinate or produce biased data; human oversight is mandatory for accuracy and accountability in administration."
       },
       "el": {
         "passage": "",
-        "question": "16. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "36. Κατά τη χρήση Παραγωγικής ΤΝ για τη σύνταξη μιας ενημέρωσης, ποια είναι η πιο σημαντική αρχή 'Ανθρώπινης Παρέμβασης' (Human-in-the-loop);",
+        "options": ["Να αφήνετε την ΤΝ να κάνει τη δουλειά ενώ εσείς κάνετε κάτι άλλο", "Η αναθεώρηση, επεξεργασία και διασταύρωση κάθε δήλωσης της ΤΝ πριν τη χρήση", "Η απευθείας αποστολή του κειμένου της ΤΝ στον προϊστάμενο", "Η χρήση μόνο του πιο ακριβού μοντέλου ΤΝ"],
+        "answer": 1,
+        "explanation": "Η ΤΝ μπορεί να παράγει λανθασμένα στοιχεία· η ανθρώπινη επίβλεψη είναι υποχρεωτική για την ακρίβεια και τη λογοδοσία στη διοίκηση."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "17. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "37. Which of the following is an example of 'structured data' suitable for automated administrative processing?",
+        "options": ["A handwritten note", "An audio recording of a meeting", "A database record in XML or JSON format", "A scanned PDF document with images"],
+        "answer": 2,
+        "explanation": "Structured formats like XML/JSON allow different systems to exchange and process information automatically (interoperability)."
       },
       "el": {
         "passage": "",
-        "question": "17. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "37. Ποιο από τα παρακάτω είναι παράδειγμα 'δομημένων δεδομένων' κατάλληλων για αυτοματοποιημένη επεξεργασία;",
+        "options": ["Μια χειρόγραφη σημείωση", "Μια ηχογράφηση συνεδρίασης", "Μια εγγραφή βάσης δεδομένων σε μορφή XML ή JSON", "Ένα σαρωμένο έγγραφο PDF με εικόνες"],
+        "answer": 2,
+        "explanation": "Τα δομημένα μορφότυπα όπως το XML/JSON επιτρέπουν στα συστήματα να ανταλλάσσουν και να επεξεργάζονται πληροφορίες αυτόματα."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "18. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "38. What is the main purpose of the EU 'eIDAS' Regulation?",
+        "options": ["To regulate the prices of electronic devices", "To provide a predictable legal framework for electronic identification and trust services", "To ban paper documents in the EU", "To create a single EU social media platform"],
+        "answer": 1,
+        "explanation": "eIDAS ensures that electronic signatures and IDs are recognized across EU borders, facilitating digital administration."
       },
       "el": {
         "passage": "",
-        "question": "18. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "38. Ποιος είναι ο κύριος σκοπός του Κανονισμού 'eIDAS' της ΕΕ;",
+        "options": ["Η ρύθμιση των τιμών των ηλεκτρονικών συσκευών", "Η παροχή νομικού πλαισίου για την ηλεκτρονική ταυτοποίηση και τις υπηρεσίες εμπιστοσύνης", "Η απαγόρευση των έγχαρτων εγγράφων στην ΕΕ", "Η δημιουργία μιας ενιαίας ευρωπαϊκής πλατφόρμας social media"],
+        "answer": 1,
+        "explanation": "Ο eIDAS διασφαλίζει ότι οι ηλεκτρονικές υπογραφές και ταυτότητες αναγνωρίζονται διασυνοριακά, διευκολύνοντας την ψηφιακή διοίκηση."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "19. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "39. You need to organize a virtual meeting for 50 people across different time zones. Which practice is most effective for digital collaboration?",
+        "options": ["Send an invitation without an agenda to keep it flexible", "Record the meeting and use a collaborative whiteboard for live notes", "Ask everyone to keep their microphones on at all times", "Use only the chat function and disable video"],
+        "answer": 1,
+        "explanation": "Recording and collaborative tools ensure that those unable to attend or in different time zones can still follow and contribute."
       },
       "el": {
         "passage": "",
-        "question": "19. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "39. Πρέπει να οργανώσετε μια τηλεδιάσκεψη για 50 άτομα σε διαφορετικές ζώνες ώρας. Ποια πρακτική είναι πιο αποτελεσματική;",
+        "options": ["Αποστολή πρόσκλησης χωρίς ημερήσια διάταξη για ευελιξία", "Ηχογράφηση της συνάντησης και χρήση συνεργατικού πίνακα (whiteboard) για σημειώσεις", "Να ζητήσετε από όλους να έχουν τα μικρόφωνα ανοιχτά συνέχεια", "Χρήση μόνο του chat και απενεργοποίηση του βίντεο"],
+        "answer": 1,
+        "explanation": "Η ηχογράφηση και τα συνεργατικά εργαλεία επιτρέπουν σε όσους βρίσκονται σε άλλες ζώνες ώρας να παρακολουθήσουν και να συνεισφέρουν."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "20. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "40. When working with a spreadsheet containing budget data, what is the best practice to prevent calculation errors?",
+        "options": ["Manually calculate every cell with a handheld calculator", "Using cell references and formulas instead of typing fixed numbers", "Deleting all formulas before sharing the file", "Merging as many cells as possible to make it look pretty"],
+        "answer": 1,
+        "explanation": "Using formulas and references ensures that if one value changes, all related calculations update automatically and accurately."
       },
       "el": {
         "passage": "",
-        "question": "20. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "40. Κατά την εργασία με υπολογιστικό φύλλο που περιέχει προϋπολογισμό, ποια είναι η καλύτερη πρακτική αποφυγής σφαλμάτων;",
+        "options": ["Χειροκίνητος υπολογισμός κάθε κελιού με κομπιουτεράκι", "Χρήση αναφορών κελιών και τύπων αντί για πληκτρολόγηση σταθερών αριθμών", "Διαγραφή όλων των τύπων πριν την κοινή χρήση του αρχείου", "Συγχώνευση όσο το δυνατόν περισσότερων κελιών για ομορφιά"],
+        "answer": 1,
+        "explanation": "Η χρήση τύπων και αναφορών διασφαλίζει ότι αν αλλάξει μια τιμή, όλοι οι σχετικοί υπολογισμοί θα ενημερωθούν αυτόματα."
       }
     }
   ],
