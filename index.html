@@ -6,36 +6,18 @@
     <style>
         :root { 
             --eu-blue: #003399; 
-            --eu-blue-light: #0044cc;
             --eu-gold: #FFCC00; 
-            --eu-gold-light: #ffdb4d;
             --bg: #f0f4f8; 
         }
-        body { 
-            font-family: 'Segoe UI', Roboto, sans-serif; 
-            background: var(--bg); margin: 0; padding: 0; 
-            min-height: 100vh; color: #1a1a1a; 
-        }
+        body { font-family: 'Segoe UI', Roboto, sans-serif; background: var(--bg); margin: 0; padding: 0; min-height: 100vh; color: #1a1a1a; }
         .container { max-width: 1000px; margin: 0 auto; padding: 40px 20px; }
-        .view { 
-            display: none; background: white; padding: 45px; 
-            border-radius: 15px; box-shadow: 0 10px 25px rgba(0,51,153,0.1); 
-            border-top: 5px solid var(--eu-blue); 
-            min-height: 800px; box-sizing: border-box; 
-        }
+        .view { display: none; background: white; padding: 45px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,51,153,0.1); border-top: 5px solid var(--eu-blue); min-height: 800px; box-sizing: border-box; }
         #menu-view { display: block; min-height: 800px; }
         .header { display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid var(--eu-gold); padding-bottom: 15px; margin-bottom: 30px; }
         .section-container { margin-bottom: 30px; }
         .pack-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 15px; margin-top: 15px; }
-        .pack-card { 
-            background: white; padding: 25px; border-radius: 10px; border: 1px solid #d1d9e6; 
-            text-align: center; font-weight: 600; cursor: pointer; transition: 0.3s;
-            color: var(--eu-blue); box-shadow: 0 2px 5px rgba(0,0,0,0.02);
-        }
-        .pack-card:hover { 
-            background: var(--eu-blue); color: white; border-color: var(--eu-blue);
-            transform: translateY(-3px); box-shadow: 0 5px 15px rgba(0,51,153,0.2);
-        }
+        .pack-card { background: white; padding: 25px; border-radius: 10px; border: 1px solid #d1d9e6; text-align: center; font-weight: 600; cursor: pointer; transition: 0.3s; color: var(--eu-blue); box-shadow: 0 2px 5px rgba(0,0,0,0.02); }
+        .pack-card:hover { background: var(--eu-blue); color: white; border-color: var(--eu-blue); transform: translateY(-3px); box-shadow: 0 5px 15px rgba(0,51,153,0.2); }
         .pack-card.empty { opacity: 0.35; cursor: not-allowed; pointer-events: none; }
         .passage-box { background: #f8fbff; padding: 25px; border-radius: 8px; border: 1px solid #e1e8f0; margin-bottom: 25px; font-style: italic; line-height: 1.8; min-height: 150px; }
         .option { padding: 15px 20px; margin: 10px 0; border: 1px solid #d1d9e6; border-radius: 8px; cursor: pointer; transition: 0.2s; background: white; }
@@ -46,15 +28,12 @@
         .btn { padding: 12px 25px; border-radius: 6px; border: none; cursor: pointer; font-weight: bold; transition: 0.3s; text-transform: uppercase; }
         .btn-primary { background: var(--eu-blue); color: white; }
         .btn-gold { background: var(--eu-gold); color: #003399; }
-        #mode-modal { 
-            display: none; position: fixed; inset: 0; 
-            background: rgba(0,51,153,0.4); backdrop-filter: blur(5px); 
-            align-items: center; justify-content: center; z-index: 15000; 
-        }
+        #mode-modal { display: none; position: fixed; inset: 0; background: rgba(0,51,153,0.4); backdrop-filter: blur(5px); align-items: center; justify-content: center; z-index: 15000; }
         .modal-content { background: white; padding: 45px; border-radius: 20px; text-align: center; width: 400px; box-shadow: 0 20px 40px rgba(0,0,0,0.2); }
         #timer-box { position: fixed; top: 20px; right: 20px; background: var(--eu-blue); color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold; display: none; border-bottom: 3px solid var(--eu-gold); z-index: 1001; }
         #login-screen { position: fixed; inset: 0; background: var(--eu-blue); display: flex; align-items: center; justify-content: center; z-index: 20000; }
         .login-box { background: white; padding: 40px; border-radius: 12px; text-align: center; width: 350px; }
+        .hint-divider { border: none; border-top: 1px solid #eee; margin: 8px 0; }
     </style>
 </head>
 <body>
@@ -63,10 +42,14 @@
 
 <div id="login-screen">
     <div class="login-box">
-        <div style="color:var(--eu-blue); font-size: 2em; font-weight: bold; margin-bottom: 10px;">EUROPEAN PORTAL</div>
-        <p id="txt-login" style="font-size: 0.9em; color: #666; margin-bottom: 15px;"></p>
+        <div style="color:var(--eu-blue); font-size: 2em; font-weight: bold; margin-bottom: 15px;">EUROPEAN PORTAL</div>
+        <!-- Both hints always visible — Greek on top, English below -->
+        <p id="hint-el" style="font-size: 0.9em; color: #444; margin: 0 0 6px 0;"></p>
+        <hr class="hint-divider">
+        <p id="hint-en" style="font-size: 0.9em; color: #888; font-style: italic; margin: 6px 0 18px 0;"></p>
         <input type="text" id="pass-input" autocomplete="off" style="width:100%; padding:12px; margin-bottom:20px; border:1px solid #ccc; border-radius:4px; box-sizing: border-box;">
         <button onclick="unlock()" class="btn btn-primary" style="width:100%;">Access Portal</button>
+        <p id="login-status" style="font-size:0.8em; color:#999; margin-top:10px; min-height:1.2em;"></p>
     </div>
 </div>
 
@@ -115,8 +98,8 @@
     // ============================================================
     // PASSWORD SETTINGS — only change these 4 lines!
     // ============================================================
-    var correctPass    = "companies";  // the keyword students must type
-    var pageNumber     = 153;          // the page number in the hint
+    var correctPass    = "companies"; // the keyword students must type
+    var pageNumber     = 153;         // the page number in the hint
     var wordPositionEN = "first";     // English: "first", "last", "second"
     var wordPositionEL = "πρώτη";     // Greek:   "πρώτη", "τελευταία", "δεύτερη"
     // ============================================================
@@ -131,31 +114,52 @@
     var seconds = 0;
     var DATABASE = {};
     var dbLoaded = false;
+    var userUnlocked = false;
 
     async function loadDatabase() {
+        document.getElementById('login-status').innerText = '⏳ Loading...';
         try {
             var res = await fetch("https://raw.githubusercontent.com/Venos-tests/epso-questions-database/main/database.json");
             if (!res.ok) throw new Error("HTTP " + res.status);
             DATABASE = await res.json();
             dbLoaded = true;
-            updateUIStrings();
-            renderMenu();
+            document.getElementById('login-status').innerText = '';
+            if (userUnlocked) enterPortal();
         } catch(e) {
-            document.getElementById('all-packs').innerHTML =
-                '<p style="color:red;text-align:center;padding:40px;">Could not load database. Please refresh.<br><small>' + e.message + '</small></p>';
+            document.getElementById('login-status').innerText = 'Could not load. Please refresh.';
+            document.getElementById('login-status').style.color = 'red';
+            console.error("DB load error:", e);
         }
     }
 
-    function getHintEL() {
-        return 'Χρησιμοποιήστε ως κωδικό την <strong>' + wordPositionEL + '</strong> λέξη της σελίδας <strong>' + pageNumber + '</strong> του βιβλίου';
-}
+    function setLoginHints() {
+        document.getElementById('hint-el').innerHTML =
+            'Χρησιμοποιήστε ως κωδικό την <strong>' + wordPositionEL + '</strong> λέξη της σελίδας <strong>' + pageNumber + '</strong> του βιβλίου';
+        document.getElementById('hint-en').innerHTML =
+            'Use as password the <strong>' + wordPositionEN + '</strong> word on page <strong>' + pageNumber + '</strong> of the book';
+    }
 
-    function getHintEN() {
-        return 'Use as password the <strong>' + wordPositionEN + '</strong> word on page <strong>' + pageNumber + '</strong> of the book';
-}
+    function unlock() {
+        var userInput = document.getElementById('pass-input').value.trim().toLowerCase();
+        if (userInput === correctPass) {
+            if (dbLoaded) {
+                enterPortal();
+            } else {
+                userUnlocked = true;
+                document.getElementById('login-status').innerText = 'Please wait...';
+            }
+        } else {
+            alert('Λάθος λέξη-κλειδί! / Wrong keyword!\nCheck page ' + pageNumber + '.');
+        }
+    }
+
+    function enterPortal() {
+        document.getElementById('login-screen').style.display = 'none';
+        updateUIStrings();
+        renderMenu();
+    }
 
     function updateUIStrings() {
-        document.getElementById('txt-login').innerHTML = currentLang === 'el' ? getHintEL() : getHintEN();
         document.getElementById('txt-main-title').innerText   = currentLang === 'el' ? 'Πύλη Προετοιμασίας EPSO' : 'EPSO Prep Portal';
         document.getElementById('txt-mode-title').innerText   = currentLang === 'el' ? 'Επιλογή Λειτουργίας' : 'Select Mode';
         document.getElementById('btn-practice').innerText     = currentLang === 'el' ? 'Practice (Εξηγήσεις)' : 'Practice Mode';
@@ -169,19 +173,6 @@
         document.getElementById('btn-res-back').innerText     = currentLang === 'el' ? 'Αρχική' : 'Home';
     }
 
-    function unlock() {
-        var userInput = document.getElementById('pass-input').value.trim().toLowerCase();
-        if (userInput === correctPass) {
-            document.getElementById('login-screen').style.display = 'none';
-            updateUIStrings();
-            renderMenu();
-        } else {
-            alert(currentLang === 'el'
-                ? 'Λάθος λέξη-κλειδί! Ελέγξτε τη σελίδα ' + pageNumber + '.'
-                : 'Wrong keyword! Please check page ' + pageNumber + '.');
-        }
-    }
-
     function toggleLanguage() {
         currentLang = (currentLang === 'el') ? 'en' : 'el';
         updateUIStrings();
@@ -192,9 +183,9 @@
     function renderMenu() {
         var grid = document.getElementById('all-packs');
         var sections = [
-            { title: 'EU Knowledge',    keys: ['eu_1', 'eu_2'] },
-            { title: 'Digital Skills',  keys: ['ds_1', 'ds_2', 'ds_3'] },
-            { title: 'Verbal Reasoning',keys: ['verbal_1', 'verbal_2', 'verbal_3'] }
+            { title: 'EU Knowledge',     keys: ['eu_1', 'eu_2'] },
+            { title: 'Digital Skills',   keys: ['ds_1', 'ds_2', 'ds_3'] },
+            { title: 'Verbal Reasoning', keys: ['verbal_1', 'verbal_2', 'verbal_3'] }
         ];
         grid.innerHTML = sections.map(function(s) {
             return '<div class="section-container">'
@@ -253,7 +244,6 @@
                     passageBox.style.display = 'none';
                 }
             }
-
             if (progressInfo) progressInfo.innerText = (currentIndex + 1) + ' / ' + activeQuestions.length;
             if (questionText) questionText.innerText = qData.question;
 
@@ -342,6 +332,7 @@
     }
 
     document.addEventListener("DOMContentLoaded", function() {
+        setLoginHints();
         updateUIStrings();
         loadDatabase();
     });
