@@ -64,11 +64,8 @@
 <div id="login-screen">
     <div class="login-box">
         <div style="color:var(--eu-blue); font-size: 2em; font-weight: bold; margin-bottom: 10px;">EUROPEAN PORTAL</div>
-        <p id="txt-login" style="font-size: 0.9em; color: #666; margin-bottom: 15px;">
-            Type the first word on page 73 of the book <br>
-            (Εισάγετε την πρώτη λέξη στη σελίδα 73 του βιβλίου)
-        </p>
-        <input type="password" id="pass-input" style="width:100%; padding:12px; margin-bottom:20px; border:1px solid #ccc; border-radius:4px; box-sizing: border-box;">
+        <p id="txt-login" style="font-size: 0.9em; color: #666; margin-bottom: 15px;"></p>
+        <input type="text" id="pass-input" autocomplete="off" style="width:100%; padding:12px; margin-bottom:20px; border:1px solid #ccc; border-radius:4px; box-sizing: border-box;">
         <button onclick="unlock()" class="btn btn-primary" style="width:100%;">Access Portal</button>
     </div>
 </div>
@@ -115,6 +112,14 @@
 </div>
 
 <script>
+    // ============================================================
+    // ✏️  CHANGE PASSWORD SETTINGS HERE — nothing else to touch!
+    // ============================================================
+    const correctPass    = "question";   // ← the keyword students must type
+    const pageNumber     = 73;           // ← the page number shown in the hint
+    const wordPosition   = "first";      // ← e.g. "first", "last", "second"
+    // ============================================================
+
     let currentLang = 'el';
     let currentMode = '';
     let selectedTestKey = '';
@@ -124,9 +129,6 @@
     let timer;
     let seconds = 0;
 
-    // ============================================================
-    // DATABASE — ALL questions now use answer: index (0-based)
-    // ============================================================
     let DATABASE = {};
     let dbLoaded = false;
 
@@ -145,34 +147,31 @@
         }
     }
 
-    // ============================================================
-    // UI TEXT
-    // ============================================================
     const UI_TEXT = {
         el: {
-            login: "Κωδικός Πρόσβασης", btnLogin: "ΕΙΣΟΔΟΣ", mainTitle: "Πύλη Προετοιμασίας EPSO",
+            loginHint: `Χρησιμοποιήστε ως κωδικό την <strong>${wordPosition}</strong> λέξη της σελίδας <strong>${pageNumber}</strong> του βιβλίου`,
+            btnLogin: "ΕΙΣΟΔΟΣ", mainTitle: "Πύλη Προετοιμασίας EPSO",
             modeTitle: "Επιλογή Λειτουργίας", btnPrac: "Practice (Εξηγήσεις)", btnExam: "Exam (Χρόνος)", btnCancel: "Ακύρωση",
-            back: "Πίσω", next: "Επόμενο", prev: "Προηγούμενο", finish: "Τέλος", results: "Αποτελέσματα", resBack: "Αρχική", exp: "Επεξήγηση"
+            back: "Πίσω", next: "Επόμενο", prev: "Προηγούμενο", finish: "Τέλος", results: "Αποτελέσματα", resBack: "Αρχική", exp: "Επεξήγηση",
+            wrongPass: "Λάθος λέξη-κλειδί! Ελέγξτε τη σελίδα " + pageNumber + "."
         },
         en: {
-            login: "Enter Password", btnLogin: "LOGIN", mainTitle: "EPSO Prep Portal",
+            loginHint: `Use as password the <strong>${wordPosition}</strong> word on page <strong>${pageNumber}</strong> of the book`,
+            btnLogin: "LOGIN", mainTitle: "EPSO Prep Portal",
             modeTitle: "Select Mode", btnPrac: "Practice Mode", btnExam: "Exam Simulation", btnCancel: "Cancel",
-            back: "Back", next: "Next", prev: "Previous", finish: "Finish", results: "Results", resBack: "Home", exp: "Explanation"
+            back: "Back", next: "Next", prev: "Previous", finish: "Finish", results: "Results", resBack: "Home", exp: "Explanation",
+            wrongPass: "Wrong keyword! Please check page " + pageNumber + "."
         }
     };
 
-    // ============================================================
-    // CORE FUNCTIONS
-    // ============================================================
     function unlock() {
         const userInput = document.getElementById('pass-input').value.trim().toLowerCase();
-        const correctPass = "question";
         if (userInput === correctPass) {
             document.getElementById('login-screen').style.display = 'none';
             updateUIStrings();
             renderMenu();
         } else {
-            alert(currentLang === 'el' ? "Λάθος λέξη-κλειδί! Ελέγξτε τη σελίδα 73." : "Wrong keyword! Please check page 73.");
+            alert(currentLang === 'el' ? UI_TEXT.el.wrongPass : UI_TEXT.en.wrongPass);
         }
     }
 
@@ -185,7 +184,7 @@
 
     function updateUIStrings() {
         const t = UI_TEXT[currentLang];
-        document.getElementById('txt-login').innerText = t.login;
+        document.getElementById('txt-login').innerHTML = t.loginHint;
         document.getElementById('txt-main-title').innerText = t.mainTitle;
         document.getElementById('txt-mode-title').innerText = t.modeTitle;
         document.getElementById('btn-practice').innerText = t.btnPrac;
@@ -211,7 +210,8 @@
                 <h2 style="color:var(--eu-blue); border-left:4px solid var(--eu-gold); padding-left:15px;">${s.title}</h2>
                 <div class="pack-grid">
                     ${s.keys.map(k => {
-                        const isEmpty = !DATABASE[k] || DATABASE[k].length === 0;
+                        const isEmpty = !DATABASE[k] || DATABASE[k].length === 0 || 
+                                        (DATABASE[k].length > 0 && DATABASE[k][0][currentLang].question.trim() === "1.");
                         const label = isEmpty
                             ? `${k.toUpperCase().replace('_', ' ')} <span style="font-size:0.75em; font-weight:400;">(Coming Soon)</span>`
                             : k.toUpperCase().replace('_', ' ');
@@ -254,7 +254,6 @@
             const optCont = document.getElementById('options-container');
             const expArea = document.getElementById('explanation-area');
 
-            // Passage
             if (passageBox) {
                 if (qData.passage && qData.passage.trim() !== "") {
                     passageBox.innerHTML = qData.passage;
@@ -264,11 +263,9 @@
                 }
             }
 
-            // Progress & question
             if (progressInfo) progressInfo.innerText = `${currentIndex + 1} / ${activeQuestions.length}`;
             if (questionText) questionText.innerText = qData.question;
 
-            // Options — now always uses answer:index
             if (optCont) {
                 optCont.innerHTML = '';
                 qData.options.forEach((opt, idx) => {
@@ -294,7 +291,6 @@
                 });
             }
 
-            // Explanation
             if (expArea) {
                 if (currentMode === 'practice' && userAnswers[currentIndex] !== undefined && qData.explanation) {
                     expArea.innerHTML = `<strong>${t.exp}:</strong> ${qData.explanation}`;
@@ -304,7 +300,6 @@
                 }
             }
 
-            // Nav buttons
             document.getElementById('btn-finish').style.display = (currentIndex === activeQuestions.length - 1) ? 'inline-block' : 'none';
             document.getElementById('btn-next').style.display = (currentIndex === activeQuestions.length - 1) ? 'none' : 'inline-block';
             document.getElementById('btn-prev').style.display = (currentIndex === 0) ? 'none' : 'inline-block';
@@ -354,8 +349,9 @@
         document.getElementById('result-view').style.display = 'none';
         document.getElementById('menu-view').style.display = 'block';
     }
-    // Auto-load DB when page is ready
+
     document.addEventListener("DOMContentLoaded", function() {
+        updateUIStrings();
         loadDatabase();
     });
 </script>
