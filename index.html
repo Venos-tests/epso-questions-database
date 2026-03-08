@@ -115,8 +115,8 @@
     // ============================================================
     // PASSWORD SETTINGS — only change these 4 lines!
     // ============================================================
-    var correctPass    = "question";  // the keyword students must type
-    var pageNumber     = 73;          // the page number in the hint
+    var correctPass    = "companies";  // the keyword students must type
+    var pageNumber     = 153;          // the page number in the hint
     var wordPositionEN = "first";     // English: "first", "last", "second"
     var wordPositionEL = "πρώτη";     // Greek:   "πρώτη", "τελευταία", "δεύτερη"
     // ============================================================
@@ -147,12 +147,12 @@
     }
 
     function getHintEL() {
-        return 'Χρησιμοποιήστε ως κωδικό την <strong>' + πρώτη + '</strong> λέξη της σελίδας <strong>' + 153 + '</strong> του βιβλίου';
-    }
+        return 'Χρησιμοποιήστε ως κωδικό την <strong>' + wordPositionEL + '</strong> λέξη της σελίδας <strong>' + pageNumber + '</strong> του βιβλίου';
+}
 
     function getHintEN() {
-        return 'Use as password the <strong>' + first + '</strong> word on page <strong>' + 153 + '</strong> of the book';
-    }
+        return 'Use as password the <strong>' + wordPositionEN + '</strong> word on page <strong>' + pageNumber + '</strong> of the book';
+}
 
     function updateUIStrings() {
         document.getElementById('txt-login').innerHTML = currentLang === 'el' ? getHintEL() : getHintEN();
