@@ -1563,528 +1563,328 @@
       }
     }
   ],
-  "ds_1": [
+ "ds_1": [
     {
       "en": {
         "passage": "",
-        "question": "1. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "1. Which EU body is responsible for ensuring consistent application of GDPR across all Member States?",
+        "options": ["European Commission DG JUST", "European Data Protection Board (EDPB)", "European Court of Justice (ECJ)", "European Data Protection Supervisor (EDPS)"],
+        "answer": 1,
+        "explanation": "The EDPB is an independent European body that contributes to the consistent application of data protection rules throughout the EU (GDPR Art. 68-70)."
       },
       "el": {
         "passage": "",
-        "question": "1. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "1. Ποιο όργανο της ΕΕ είναι υπεύθυνο για τη διασφάλιση της ομοιόμορφης εφαρμογής του GDPR σε όλα τα κράτη μέλη;",
+        "options": ["Ευρωπαϊκή Επιτροπή DG JUST", "Ευρωπαϊκό Συμβούλιο Προστασίας Δεδομένων (EDPB)", "Δικαστήριο της Ευρωπαϊκής Ένωσης (ΔΕΕ)", "Ευρωπαίος Επόπτης Προστασίας Δεδομένων (ΕΕΠΔ)"],
+        "answer": 1,
+        "explanation": "Το EDPB είναι ένα ανεξάρτητο ευρωπαϊκό όργανο που συμβάλλει στη συνεκτική εφαρμογή των κανόνων προστασίας δεδομένων σε ολόκληρη την ΕΕ."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "2. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
+        "question": "2. According to the EU AI Act (2024), which AI system category is classified as 'high-risk'?",
+        "options": ["AI systems used for biometric identification in public spaces", "AI spam filters in email clients", "AI-enabled video game recommendation systems", "AI-powered inventory management systems"],
         "answer": 0,
-        "explanation": ""
+        "explanation": "Biometric identification in public spaces is considered high-risk (or even prohibited in some cases) due to its impact on fundamental rights."
       },
       "el": {
         "passage": "",
-        "question": "2. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
+        "question": "2. Σύμφωνα με την Πράξη της ΕΕ για την Τεχνητή Νοημοσύνη (2024), ποια κατηγορία συστημάτων ΤΝ ταξινομείται ως 'υψηλού κινδύνου';",
+        "options": ["Συστήματα ΤΝ για βιομετρική ταυτοποίηση σε δημόσιους χώρους", "Φίλτρα ανεπιθύμητης αλληλογραφίας (spam) σε email", "Συστήματα συστάσεων σε βιντεοπαιχνίδια", "Συστήματα διαχείρισης αποθεμάτων με ΤΝ"],
         "answer": 0,
-        "explanation": ""
+        "explanation": "Η βιομετρική ταυτοποίηση σε δημόσιους χώρους θεωρείται υψηλού κινδύνου λόγω του αντικτύπου της στα θεμελιώδη δικαιώματα."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "3. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "3. What is the primary goal of the European High-Performance Computing Joint Undertaking (EuroHPC JU)?",
+        "options": ["To regulate social media algorithms", "To develop quantum computers for military use only", "To build world-class supercomputing infrastructure in Europe", "To restrict the use of non-European cloud services"],
+        "answer": 2,
+        "explanation": "EuroHPC JU aims to make Europe a world leader in supercomputing by developing a competitive ecosystem."
       },
       "el": {
         "passage": "",
-        "question": "3. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "3. Ποιος είναι ο πρωταρχικός στόχος της Κοινής Επιχείρησης για την Ευρωπαϊκή Υπολογιστική Υψηλών Επιδόσεων (EuroHPC JU);",
+        "options": ["Η ρύθμιση των αλγορίθμων των μέσων κοινωνικής δικτύωσης", "Η ανάπτυξη κβαντικών υπολογιστών μόνο για στρατιωτική χρήση", "Η δημιουργία υποδομής υπερυπολογιστών παγκόσμιας κλάσης στην Ευρώπη", "Ο περιορισμός της χρήσης μη ευρωπαϊκών υπηρεσιών cloud"],
+        "answer": 2,
+        "explanation": "Η EuroHPC JU στοχεύει να καταστήσει την Ευρώπη παγκόσμιο ηγέτη στην υπερυπολογιστική."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "4. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "4. What is the maximum administrative fine under GDPR for the most serious infringements?",
+        "options": ["€10 million or 2% of annual global turnover", "€50 million or 5% of annual global turnover", "€100 million or 10% of annual global turnover", "€20 million or 4% of annual global turnover"],
+        "answer": 3,
+        "explanation": "Under Article 83(5), serious violations can result in fines up to €20m or 4% of worldwide turnover, whichever is higher."
       },
       "el": {
         "passage": "",
-        "question": "4. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "4. Ποιο είναι το μέγιστο διοικητικό πρόστιμο βάσει του GDPR για τις πιο σοβαρές παραβάσεις;",
+        "options": ["10 εκατ. € ή το 2% του παγκόσμιου ετήσιου κύκλου εργασιών", "50 εκατ. € ή το 5% του παγκόσμιου ετήσιου κύκλου εργασιών", "100 εκατ. € ή το 10% του παγκόσμιου ετήσιου κύκλου εργασιών", "20 εκατ. € ή το 4% του παγκόσμιου ετήσιου κύκλου εργασιών"],
+        "answer": 3,
+        "explanation": "Βάσει του Άρθρου 83(5), σοβαρές παραβάσεις επισύρουν πρόστιμα έως 20 εκατ. ευρώ ή το 4% του παγκόσμιου κύκλου εργασιών."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "5. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "5. According to the EU Cybersecurity Act (2019), which agency is responsible for EU cybersecurity certification schemes?",
+        "options": ["Europol", "CERT-EU", "ENISA", "European Defence Agency"],
+        "answer": 2,
+        "explanation": "ENISA (EU Agency for Cybersecurity) is tasked with preparing the technical grounds for certification schemes."
       },
       "el": {
         "passage": "",
-        "question": "5. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "5. Σύμφωνα με την Πράξη της ΕΕ για την Κυβερνοασφάλεια (2019), ποιος οργανισμός είναι υπεύθυνος για τα ευρωπαϊκά σχήματα πιστοποίησης κυβερνοασφάλειας;",
+        "options": ["Europol", "CERT-EU", "ENISA", "Ευρωπαϊκός Οργανισμός Άμυνας"],
+        "answer": 2,
+        "explanation": "Ο ENISA είναι αρμόδιος για την προετοιμασία του τεχνικού πλαισίου των σχημάτων πιστοποίησης."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "6. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
+        "question": "6. The Digital Services Act (DSA) applies to which category of online platforms?",
+        "options": ["All intermediary services, including hosting and online platforms", "Only social media platforms", "Only government websites", "Only e-commerce websites selling physical goods"],
         "answer": 0,
-        "explanation": ""
+        "explanation": "The DSA covers a wide range of intermediary services to ensure online safety and accountability."
       },
       "el": {
         "passage": "",
-        "question": "6. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
+        "question": "6. Σε ποια κατηγορία διαδικτυακών πλατφορμών εφαρμόζεται η Πράξη για τις Ψηφιακές Υπηρεσίες (DSA);",
+        "options": ["Σε όλες τις ενδιάμεσες υπηρεσίες, συμπεριλαμβανομένων των υπηρεσιών φιλοξενίας και πλατφορμών", "Μόνο σε πλατφόρμες κοινωνικής δικτύωσης", "Μόνο σε κυβερνητικούς ιστότοπους", "Μόνο σε ιστότοπους ηλεκτρονικού εμπορίου"],
         "answer": 0,
-        "explanation": ""
+        "explanation": "Η DSA καλύπτει ένα ευρύ φάσμα ενδιάμεσων υπηρεσιών για τη διασφάλιση της ασφάλειας στο διαδίκτυο."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "7. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "7. The European Digital Competence Framework (DigComp 2.2) identifies how many key competence areas?",
+        "options": ["3", "12", "5", "8"],
+        "answer": 2,
+        "explanation": "The 5 areas are: Information literacy, Communication, Content creation, Safety, and Problem solving."
       },
       "el": {
         "passage": "",
-        "question": "7. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "7. Πόσους βασικούς τομείς ικανοτήτων προσδιορίζει το Ευρωπαϊκό Πλαίσιο Ψηφιακών Ικανοτήτων (DigComp 2.2);",
+        "options": ["3", "12", "5", "8"],
+        "answer": 2,
+        "explanation": "Οι 5 τομείς είναι: Γραμματισμός πληροφοριών, Επικοινωνία, Δημιουργία περιεχομένου, Ασφάλεια και Επίλυση προβλημάτων."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "8. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "8. Under GDPR, what is the maximum time limit for notifying a supervisory authority of a personal data breach?",
+        "options": ["24 hours", "7 days", "30 days", "72 hours"],
+        "answer": 3,
+        "explanation": "Data controllers must notify the authority within 72 hours of becoming aware of the breach (Art. 33)."
       },
       "el": {
         "passage": "",
-        "question": "8. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "8. Βάσει του GDPR, ποιο είναι το μέγιστο χρονικό όριο για την ειδοποίηση της εποπτικής αρχής σχετικά με παραβίαση δεδομένων;",
+        "options": ["24 ώρες", "7 ημέρες", "30 ημέρες", "72 ώρες"],
+        "answer": 3,
+        "explanation": "Οι υπεύθυνοι επεξεργασίας οφείλουν να ειδοποιούν την αρχή εντός 72 ωρών από τη στιγμή που αντιλαμβάνονται την παραβίαση."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "9. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
+        "question": "9. What is the primary purpose of 'Algorithmic Transparency' under the Digital Services Act for large platforms?",
+        "options": ["To provide transparency on how recommender systems work", "To keep algorithms secret from non-EU competitors", "To ban all non-algorithmic recommendations", "To require human review of every single algorithmic decision"],
         "answer": 0,
-        "explanation": ""
+        "explanation": "Platforms must explain their recommendation parameters and provide options not based on profiling."
       },
       "el": {
         "passage": "",
-        "question": "9. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
+        "question": "9. Ποιος είναι ο κύριος σκοπός της 'Αλγοριθμικής Διαφάνειας' βάσει της DSA για τις μεγάλες πλατφόρμες;",
+        "options": ["Η παροχή διαφάνειας στον τρόπο λειτουργίας των συστημάτων συστάσεων", "Η διατήρηση των αλγορίθμων μυστικών από ανταγωνιστές", "Η απαγόρευση όλων των μη αλγοριθμικών συστάσεων", "Η απαίτηση ανθρώπινης αναθεώρησης για κάθε αλγοριθμική απόφαση"],
         "answer": 0,
-        "explanation": ""
+        "explanation": "Οι πλατφόρμες οφείλουν να εξηγούν τις παραμέτρους συστάσεων και να προσφέρουν επιλογές χωρίς προφίλ."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "10. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "10. Which EU initiative aims to develop common European data spaces in sectors like health and mobility?",
+        "options": ["Digital Markets Act", "General Data Protection Regulation", "European Data Strategy and Data Governance Act", "Cybersecurity Act"],
+        "answer": 2,
+        "explanation": "The Data Governance Act creates a framework for data sharing across the EU through sectoral data spaces."
       },
       "el": {
         "passage": "",
-        "question": "10. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "10. Ποια πρωτοβουλία της ΕΕ στοχεύει στην ανάπτυξη κοινών ευρωπαϊκών χώρων δεδομένων σε τομείς όπως η υγεία και η κινητικότητα;",
+        "options": ["Πράξη για τις Ψηφιακές Αγορές", "Γενικός Κανονισμός Προστασίας Δεδομένων", "Ευρωπαϊκή Στρατηγική Δεδομένων & Πράξη για τη Διακυβέρνηση Δεδομένων", "Πράξη για την Κυβερνοασφάλεια"],
+        "answer": 2,
+        "explanation": "Η Πράξη για τη Διακυβέρνηση Δεδομένων δημιουργεί το πλαίσιο για την ανταλλαγή δεδομένων μέσω τομεακών χώρων."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "11. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
+        "question": "11. You are preparing a public consultation survey. What should you prioritise for compliance?",
+        "options": ["Include a clear privacy notice, limit personal data, and use approved servers", "Allow anonymous responses only without providing processing information", "Disable all consent checkboxes to make the form faster", "Collect as many personal data fields as possible for segmentation"],
         "answer": 0,
-        "explanation": ""
+        "explanation": "This aligns with GDPR principles of data minimisation, purpose limitation, and transparency."
       },
       "el": {
         "passage": "",
-        "question": "11. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
+        "question": "11. Προετοιμάζετε μια έρευνα δημόσιας διαβούλευσης. Τι πρέπει να δώσετε προτεραιότητα για τη συμμόρφωση;",
+        "options": ["Σαφής δήλωση ιδιωτικότητας, ελαχιστοποίηση δεδομένων και χρήση εγκεκριμένων διακομιστών", "Ανώνυμες απαντήσεις χωρίς πληροφορίες επεξεργασίας", "Απενεργοποίηση πλαισίων συγκατάθεσης για ταχύτητα", "Συλλογή όσο το δυνατόν περισσότερων δεδομένων για τμηματοποίηση"],
         "answer": 0,
-        "explanation": ""
+        "explanation": "Αυτό ευθυγραμμίζεται με τις αρχές του GDPR για ελαχιστοποίηση των δεδομένων και διαφάνεια."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "12. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "12. What is a key requirement under the Cyber Resilience Act (CRA) for products with digital elements?",
+        "options": ["All software must be open source", "No security updates are required after sale", "Manufacturers must report actively exploited vulnerabilities within 24 hours", "Products can be sold without any security testing"],
+        "answer": 2,
+        "explanation": "The CRA mandates timely reporting of exploited vulnerabilities to ensure a rapid response across the EU."
       },
       "el": {
         "passage": "",
-        "question": "12. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "12. Ποια είναι μια βασική απαίτηση της Πράξης για την Κυβερνοανθεκτικότητα (CRA) για προϊόντα με ψηφιακά στοιχεία;",
+        "options": ["Όλο το λογισμικό πρέπει να είναι ανοιχτού κώδικα", "Δεν απαιτούνται ενημερώσεις ασφαλείας μετά την πώληση", "Οι κατασκευαστές πρέπει να αναφέρουν ενεργές ευπάθειες εντός 24 ωρών", "Τα προϊόντα μπορούν να πωλούνται χωρίς δοκιμές ασφαλείας"],
+        "answer": 2,
+        "explanation": "Η CRA επιβάλλει την έγκαιρη αναφορά ευπαθειών για τη διασφάλιση ταχείας απόκρισης σε όλη την ΕΕ."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "13. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "13. A team member accidentally overwrites a critical report on a shared cloud drive. What is the best first action?",
+        "options": ["Ask the administrator to block the member's account", "Restore the latest version from history and inform the team", "Create a new private folder with restricted edit rights", "Send a warning email to the team"],
+        "answer": 1,
+        "explanation": "Cloud version history is a core digital skill that resolves issues efficiently while maintaining collaboration."
       },
       "el": {
         "passage": "",
-        "question": "13. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "13. Ένα μέλος της ομάδας αντικαθιστά κατά λάθος μια κρίσιμη αναφορά σε ένα κοινόχρηστο cloud drive. Ποια είναι η καλύτερη πρώτη ενέργεια;",
+        "options": ["Αποκλεισμός του λογαριασμού του μέλους από τον διαχειριστή", "Επαναφορά της τελευταίας έκδοσης από το ιστορικό και ενημέρωση της ομάδας", "Δημιουργία νέου ιδιωτικού φακέλου με περιορισμένα δικαιώματα", "Αποστολή προειδοποιητικού email στην ομάδα"],
+        "answer": 1,
+        "explanation": "Το ιστορικό εκδόσεων είναι βασική ψηφιακή δεξιότητα για την αποτελεσματική επίλυση τέτοιων προβλημάτων."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "14. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "14. What is the primary benefit of using collaborative project management tools?",
+        "options": ["They escalate complexity", "They eliminate the need for planning", "They are appropriate for large teams only", "They facilitate communication and organization"],
+        "answer": 3,
+        "explanation": "These tools streamline workflows and enhance transparency within teams."
       },
       "el": {
         "passage": "",
-        "question": "14. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "14. Ποιο είναι το κύριο όφελος από τη χρήση εργαλείων συνεργατικής διαχείρισης έργων;",
+        "options": ["Αυξάνουν την πολυπλοκότητα", "Εξαλείφουν την ανάγκη για προγραμματισμό", "Είναι κατάλληλα μόνο για μεγάλες ομάδες", "Διευκολύνουν την επικοινωνία και την οργάνωση"],
+        "answer": 3,
+        "explanation": "Αυτά τα εργαλεία απλοποιούν τις ροές εργασίας και ενισχύουν τη διαφάνεια στις ομάδες."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "15. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "15. A colleague suggests sharing a confidential briefing link publicly to speed up feedback. What is the best response?",
+        "options": ["Agree, but remove the link after 24 hours", "Download the document and share it via personal email", "Refuse and grant access only to specific, named partners", "Accept, but suggest avoiding sensitive details"],
+        "answer": 2,
+        "explanation": "Restricting access to named users ensures accountability and follows EU security standards."
       },
       "el": {
         "passage": "",
-        "question": "15. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "15. Ένας συνάδελφος προτείνει τη δημόσια κοινοποίηση συνδέσμου εμπιστευτικής ενημέρωσης για ταχύτερο feedback. Ποια είναι η καλύτερη απάντηση;",
+        "options": ["Συμφωνία, αλλά αφαίρεση του συνδέσμου μετά από 24 ώρες", "Λήψη του εγγράφου και κοινοποίηση μέσω προσωπικού email", "Άρνηση και παροχή πρόσβασης μόνο σε συγκεκριμένους συνεργάτες", "Αποδοχή, με την παράκληση να αποφευχθούν ευαίσθητες λεπτομέρειες"],
+        "answer": 2,
+        "explanation": "Ο περιορισμός της πρόσβασης σε ονομαστικούς χρήστες διασφαλίζει τη λογοδοσία και την ασφάλεια."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "16. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
+        "question": "16. Your team uses a US-based tool storing data outside the EU with low transparency. What is the correct action?",
+        "options": ["Conduct a compliance and data transfer assessment", "Continue use without review", "Ban it immediately without alternative", "Migrate all data to personal drives"],
         "answer": 0,
-        "explanation": ""
+        "explanation": "Competent digital users must evaluate cross-border data transfer compliance (e.g., following Schrems II rulings)."
       },
       "el": {
         "passage": "",
-        "question": "16. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
+        "question": "16. Η ομάδα σας χρησιμοποιεί εργαλείο με έδρα τις ΗΠΑ που αποθηκεύει δεδομένα εκτός ΕΕ με χαμηλή διαφάνεια. Ποια είναι η σωστή ενέργεια;",
+        "options": ["Διενέργεια αξιολόγησης συμμόρφωσης και μεταφοράς δεδομένων", "Συνέχιση της χρήσης χωρίς έλεγχο", "Άμεση απαγόρευση χωρίς εναλλακτική", "Μεταφορά όλων των δεδομένων σε προσωπικούς δίσκους"],
         "answer": 0,
-        "explanation": ""
+        "explanation": "Οι ψηφιακά ικανοί χρήστες οφείλουν να αξιολογούν τη συμμόρφωση στις διασυνοριακές μεταφορές δεδομένων."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "17. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "17. Misleading statistical claims are spreading in your department's internal digital forum. How do you respond?",
+        "options": ["Delete the thread entirely", "Publicly correct the data with verifiable sources", "Escalate to disciplinary action immediately", "Privately message the author to remove it"],
+        "answer": 1,
+        "explanation": "Countering misinformation constructively with facts is a key digital participation competence."
       },
       "el": {
         "passage": "",
-        "question": "17. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "17. Παραπλανητικοί στατιστικοί ισχυρισμοί διαδίδονται στο εσωτερικό φόρουμ του τμήματός σας. Πώς ανταποκρίνεστε;",
+        "options": ["Διαγραφή ολόκληρου του θέματος", "Δημόσια διόρθωση των δεδομένων με επαληθεύσιμες πηγές", "Άμεση πειθαρχική δίωξη", "Προσωπικό μήνυμα στον συντάκτη για διαγραφή"],
+        "answer": 1,
+        "explanation": "Η εποικοδομητική αντιμετώπιση της παραπληροφόρησης με στοιχεία είναι βασική ψηφιακή ικανότητα."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "18. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "18. Generative AI underrepresents minority viewpoints in a project summary. What is the corrective action?",
+        "options": ["Ignore it since AI optimizes majority trends", "Remove AI from the workflow permanently", "Publish and issue a correction later", "Re-run prompt with clearer instructions and validate manually"],
+        "answer": 3,
+        "explanation": "Users must be aware of AI bias and take responsibility to mitigate distortions in automated outputs."
       },
       "el": {
         "passage": "",
-        "question": "18. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "18. Η παραγωγική ΤΝ υποεκπροσωπεί απόψεις μειονοτήτων σε μια σύνοψη έργου. Ποια είναι η διορθωτική ενέργεια;",
+        "options": ["Αγνόηση, καθώς η ΤΝ βελτιστοποιεί τις τάσεις της πλειοψηφίας", "Μόνιμη αφαίρεση της ΤΝ από τη ροή εργασίας", "Δημοσίευση και έκδοση διόρθωσης αργότερα", "Επαναδιατύπωση εντολής με σαφέστερες οδηγίες και χειροκίνητη επαλήθευση"],
+        "answer": 3,
+        "explanation": "Οι χρήστες πρέπει να γνωρίζουν τις προκαταλήψεις της ΤΝ και να μετριάζουν τις παραμορφώσεις στα αποτελέσματα."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "19. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "19. What is the main objective of the Cyber Resilience Act regarding digital products?",
+        "options": ["Forcing users to change passwords every 30 days", "Mandatory security requirements throughout the product lifecycle", "Banning all software developed outside the EU", "Creating mandatory EU-wide insurance for cyber-attacks"],
+        "answer": 1,
+        "explanation": "The CRA ensures products are secure from design through to their end-of-life support."
       },
       "el": {
         "passage": "",
-        "question": "19. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "19. Ποιος είναι ο κύριος στόχος της Πράξης για την Κυβερνοανθεκτικότητα σχετικά με τα ψηφιακά προϊόντα;",
+        "options": ["Υποχρεωτική αλλαγή κωδικών κάθε 30 ημέρες", "Υποχρεωτικές απαιτήσεις ασφαλείας καθ' όλο τον κύκλο ζωής του προϊόντος", "Απαγόρευση όλου του λογισμικού που αναπτύχθηκε εκτός ΕΕ", "Δημιουργία υποχρεωτικής ασφάλισης για κυβερνοεπιθέσεις"],
+        "answer": 1,
+        "explanation": "Η CRA διασφαλίζει ότι τα προϊόντα είναι ασφαλή από τον σχεδιασμό μέχρι το τέλος της υποστήριξής τους."
       }
     },
     {
       "en": {
         "passage": "",
-        "question": "20. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "20. Which data format is 'Machine-Readable' and most suitable for open data sharing?",
+        "options": ["Locked Excel (.xlsm) with macros", "PDF", "JSON or CSV", "Scanned Image (JPEG)"],
+        "answer": 2,
+        "explanation": "JSON and CSV are structured formats that allow automated processing by software, as required by the Open Data Directive."
       },
       "el": {
         "passage": "",
-        "question": "20. ",
-        "options": [
-          "",
-          "",
-          "",
-          ""
-        ],
-        "answer": 0,
-        "explanation": ""
+        "question": "20. Ποια μορφή δεδομένων θεωρείται 'Μηχαναγνώσιμη' και καταλληλότερη για ανταλλαγή ανοικτών δεδομένων;",
+        "options": ["Κλειδωμένο Excel (.xlsm) με μακροεντολές", "PDF", "JSON ή CSV", "Σαρωμένη εικόνα (JPEG)"],
+        "answer": 2,
+        "explanation": "Τα αρχεία JSON και CSV είναι δομημένα και επιτρέπουν την αυτοματοποιημένη επεξεργασία από λογισμικό."
       }
     }
-  ],
+  ]
   "ds_2": [
     {
       "en": {
