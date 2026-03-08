@@ -113,65 +113,72 @@
 
 <script>
     // ============================================================
-    // ✏️  CHANGE PASSWORD SETTINGS HERE — nothing else to touch!
+    // PASSWORD SETTINGS — only change these 4 lines!
     // ============================================================
-    const correctPass    = "question";   // ← the keyword students must type
-    const pageNumber     = 73;           // ← the page number shown in the hint
-    const wordPosition   = "first";      // ← e.g. "first", "last", "second"
+    var correctPass    = "question";  // the keyword students must type
+    var pageNumber     = 73;          // the page number in the hint
+    var wordPositionEN = "first";     // English: "first", "last", "second"
+    var wordPositionEL = "πρώτη";     // Greek:   "πρώτη", "τελευταία", "δεύτερη"
     // ============================================================
 
-    let currentLang = 'el';
-    let currentMode = '';
-    let selectedTestKey = '';
-    let currentIndex = 0;
-    let userAnswers = {};
-    let activeQuestions = [];
-    let timer;
-    let seconds = 0;
-
-    let DATABASE = {};
-    let dbLoaded = false;
+    var currentLang = 'el';
+    var currentMode = '';
+    var selectedTestKey = '';
+    var currentIndex = 0;
+    var userAnswers = {};
+    var activeQuestions = [];
+    var timer;
+    var seconds = 0;
+    var DATABASE = {};
+    var dbLoaded = false;
 
     async function loadDatabase() {
         try {
-            const res = await fetch("https://raw.githubusercontent.com/Venos-tests/epso-questions-database/main/database.json");
+            var res = await fetch("https://raw.githubusercontent.com/Venos-tests/epso-questions-database/main/database.json");
             if (!res.ok) throw new Error("HTTP " + res.status);
             DATABASE = await res.json();
             dbLoaded = true;
             updateUIStrings();
             renderMenu();
         } catch(e) {
-            document.getElementById('all-packs').innerHTML = 
-                '<p style="color:red; text-align:center; padding:40px;">⚠️ Could not load question database. Please check your internet connection and refresh.<br><small>' + e.message + '</small></p>';
-            console.error("DB load error:", e);
+            document.getElementById('all-packs').innerHTML =
+                '<p style="color:red;text-align:center;padding:40px;">Could not load database. Please refresh.<br><small>' + e.message + '</small></p>';
         }
     }
 
-    const UI_TEXT = {
-        el: {
-            loginHint: `Χρησιμοποιήστε ως κωδικό την <strong>${wordPosition}</strong> λέξη της σελίδας <strong>${pageNumber}</strong> του βιβλίου`,
-            btnLogin: "ΕΙΣΟΔΟΣ", mainTitle: "Πύλη Προετοιμασίας EPSO",
-            modeTitle: "Επιλογή Λειτουργίας", btnPrac: "Practice (Εξηγήσεις)", btnExam: "Exam (Χρόνος)", btnCancel: "Ακύρωση",
-            back: "Πίσω", next: "Επόμενο", prev: "Προηγούμενο", finish: "Τέλος", results: "Αποτελέσματα", resBack: "Αρχική", exp: "Επεξήγηση",
-            wrongPass: "Λάθος λέξη-κλειδί! Ελέγξτε τη σελίδα " + pageNumber + "."
-        },
-        en: {
-            loginHint: `Use as password the <strong>${wordPosition}</strong> word on page <strong>${pageNumber}</strong> of the book`,
-            btnLogin: "LOGIN", mainTitle: "EPSO Prep Portal",
-            modeTitle: "Select Mode", btnPrac: "Practice Mode", btnExam: "Exam Simulation", btnCancel: "Cancel",
-            back: "Back", next: "Next", prev: "Previous", finish: "Finish", results: "Results", resBack: "Home", exp: "Explanation",
-            wrongPass: "Wrong keyword! Please check page " + pageNumber + "."
-        }
-    };
+    function getHintEL() {
+        return 'Χρησιμοποιήστε ως κωδικό την <strong>' + wordPositionEL + '</strong> λέξη της σελίδας <strong>' + pageNumber + '</strong> του βιβλίου';
+    }
+
+    function getHintEN() {
+        return 'Use as password the <strong>' + wordPositionEN + '</strong> word on page <strong>' + pageNumber + '</strong> of the book';
+    }
+
+    function updateUIStrings() {
+        document.getElementById('txt-login').innerHTML = currentLang === 'el' ? getHintEL() : getHintEN();
+        document.getElementById('txt-main-title').innerText   = currentLang === 'el' ? 'Πύλη Προετοιμασίας EPSO' : 'EPSO Prep Portal';
+        document.getElementById('txt-mode-title').innerText   = currentLang === 'el' ? 'Επιλογή Λειτουργίας' : 'Select Mode';
+        document.getElementById('btn-practice').innerText     = currentLang === 'el' ? 'Practice (Εξηγήσεις)' : 'Practice Mode';
+        document.getElementById('btn-exam').innerText         = currentLang === 'el' ? 'Exam (Χρόνος)' : 'Exam Simulation';
+        document.getElementById('btn-cancel').innerText       = currentLang === 'el' ? 'Ακύρωση' : 'Cancel';
+        document.getElementById('btn-back').innerText         = currentLang === 'el' ? 'Πίσω' : 'Back';
+        document.getElementById('btn-next').innerText         = currentLang === 'el' ? 'Επόμενο' : 'Next';
+        document.getElementById('btn-prev').innerText         = currentLang === 'el' ? 'Προηγούμενο' : 'Previous';
+        document.getElementById('btn-finish').innerText       = currentLang === 'el' ? 'Τέλος' : 'Finish';
+        document.getElementById('txt-result-title').innerText = currentLang === 'el' ? 'Αποτελέσματα' : 'Results';
+        document.getElementById('btn-res-back').innerText     = currentLang === 'el' ? 'Αρχική' : 'Home';
+    }
 
     function unlock() {
-        const userInput = document.getElementById('pass-input').value.trim().toLowerCase();
+        var userInput = document.getElementById('pass-input').value.trim().toLowerCase();
         if (userInput === correctPass) {
             document.getElementById('login-screen').style.display = 'none';
             updateUIStrings();
             renderMenu();
         } else {
-            alert(currentLang === 'el' ? UI_TEXT.el.wrongPass : UI_TEXT.en.wrongPass);
+            alert(currentLang === 'el'
+                ? 'Λάθος λέξη-κλειδί! Ελέγξτε τη σελίδα ' + pageNumber + '.'
+                : 'Wrong keyword! Please check page ' + pageNumber + '.');
         }
     }
 
@@ -182,44 +189,28 @@
         else renderMenu();
     }
 
-    function updateUIStrings() {
-        const t = UI_TEXT[currentLang];
-        document.getElementById('txt-login').innerHTML = t.loginHint;
-        document.getElementById('txt-main-title').innerText = t.mainTitle;
-        document.getElementById('txt-mode-title').innerText = t.modeTitle;
-        document.getElementById('btn-practice').innerText = t.btnPrac;
-        document.getElementById('btn-exam').innerText = t.btnExam;
-        document.getElementById('btn-cancel').innerText = t.btnCancel;
-        document.getElementById('btn-back').innerText = t.back;
-        document.getElementById('btn-next').innerText = t.next;
-        document.getElementById('btn-prev').innerText = t.prev;
-        document.getElementById('btn-finish').innerText = t.finish;
-        document.getElementById('txt-result-title').innerText = t.results;
-        document.getElementById('btn-res-back').innerText = t.resBack;
-    }
-
     function renderMenu() {
-        const grid = document.getElementById('all-packs');
-        const sections = [
-            { title: "EU Knowledge", keys: ["eu_1", "eu_2"] },
-            { title: "Digital Skills", keys: ["ds_1", "ds_2", "ds_3"] },
-            { title: "Verbal Reasoning", keys: ["verbal_1", "verbal_2", "verbal_3"] }
+        var grid = document.getElementById('all-packs');
+        var sections = [
+            { title: 'EU Knowledge',    keys: ['eu_1', 'eu_2'] },
+            { title: 'Digital Skills',  keys: ['ds_1', 'ds_2', 'ds_3'] },
+            { title: 'Verbal Reasoning',keys: ['verbal_1', 'verbal_2', 'verbal_3'] }
         ];
-        grid.innerHTML = sections.map(s => `
-            <div class="section-container">
-                <h2 style="color:var(--eu-blue); border-left:4px solid var(--eu-gold); padding-left:15px;">${s.title}</h2>
-                <div class="pack-grid">
-                    ${s.keys.map(k => {
-                        const isEmpty = !DATABASE[k] || DATABASE[k].length === 0 || 
-                                        (DATABASE[k].length > 0 && DATABASE[k][0][currentLang].question.trim() === "1.");
-                        const label = isEmpty
-                            ? `${k.toUpperCase().replace('_', ' ')} <span style="font-size:0.75em; font-weight:400;">(Coming Soon)</span>`
-                            : k.toUpperCase().replace('_', ' ');
-                        return `<div class="pack-card${isEmpty ? ' empty' : ''}" ${isEmpty ? '' : `onclick="openModal('${k}')"`}>${label}</div>`;
-                    }).join('')}
-                </div>
-            </div>
-        `).join('');
+        grid.innerHTML = sections.map(function(s) {
+            return '<div class="section-container">'
+                + '<h2 style="color:var(--eu-blue);border-left:4px solid var(--eu-gold);padding-left:15px;">' + s.title + '</h2>'
+                + '<div class="pack-grid">'
+                + s.keys.map(function(k) {
+                    var isEmpty = !DATABASE[k] || DATABASE[k].length === 0
+                        || (DATABASE[k][0][currentLang] && DATABASE[k][0][currentLang].question.trim() === '1.');
+                    var label = isEmpty
+                        ? k.toUpperCase().replace('_',' ') + ' <span style="font-size:0.75em;font-weight:400;">(Coming Soon)</span>'
+                        : k.toUpperCase().replace('_',' ');
+                    return '<div class="pack-card' + (isEmpty ? ' empty' : '') + '" '
+                        + (isEmpty ? '' : 'onclick="openModal(\'' + k + '\')"') + '>' + label + '</div>';
+                }).join('')
+                + '</div></div>';
+        }).join('');
     }
 
     function openModal(key) {
@@ -234,7 +225,7 @@
     function startQuiz(mode) {
         currentMode = mode;
         activeQuestions = DATABASE[selectedTestKey];
-        if (!activeQuestions || activeQuestions.length === 0) { alert("Empty test."); closeModal(); return; }
+        if (!activeQuestions || activeQuestions.length === 0) { alert('Empty test.'); closeModal(); return; }
         currentIndex = 0;
         userAnswers = {};
         closeModal();
@@ -246,16 +237,16 @@
 
     function showQuestion() {
         try {
-            const qData = activeQuestions[currentIndex][currentLang];
-            const t = UI_TEXT[currentLang];
-            const passageBox = document.getElementById('passage-container');
-            const questionText = document.getElementById('question-text');
-            const progressInfo = document.getElementById('progress-info');
-            const optCont = document.getElementById('options-container');
-            const expArea = document.getElementById('explanation-area');
+            var qData = activeQuestions[currentIndex][currentLang];
+            var expLabel = currentLang === 'el' ? 'Επεξήγηση' : 'Explanation';
+            var passageBox = document.getElementById('passage-container');
+            var questionText = document.getElementById('question-text');
+            var progressInfo = document.getElementById('progress-info');
+            var optCont = document.getElementById('options-container');
+            var expArea = document.getElementById('explanation-area');
 
             if (passageBox) {
-                if (qData.passage && qData.passage.trim() !== "") {
+                if (qData.passage && qData.passage.trim() !== '') {
                     passageBox.innerHTML = qData.passage;
                     passageBox.style.display = 'block';
                 } else {
@@ -263,18 +254,18 @@
                 }
             }
 
-            if (progressInfo) progressInfo.innerText = `${currentIndex + 1} / ${activeQuestions.length}`;
+            if (progressInfo) progressInfo.innerText = (currentIndex + 1) + ' / ' + activeQuestions.length;
             if (questionText) questionText.innerText = qData.question;
 
             if (optCont) {
                 optCont.innerHTML = '';
-                qData.options.forEach((opt, idx) => {
-                    const div = document.createElement('div');
+                qData.options.forEach(function(opt, idx) {
+                    var div = document.createElement('div');
                     div.className = 'option';
                     div.innerText = opt;
                     if (userAnswers[currentIndex] !== undefined) {
-                        const isSelected = userAnswers[currentIndex] === idx;
-                        const isCorrect = idx === qData.answer;
+                        var isSelected = userAnswers[currentIndex] === idx;
+                        var isCorrect = idx === qData.answer;
                         if (currentMode === 'exam') {
                             if (isSelected) div.classList.add('selected-exam');
                         } else {
@@ -282,7 +273,7 @@
                             else if (isSelected) div.classList.add('wrong');
                         }
                     }
-                    div.onclick = () => {
+                    div.onclick = function() {
                         if (currentMode === 'practice' && userAnswers[currentIndex] !== undefined) return;
                         userAnswers[currentIndex] = idx;
                         showQuestion();
@@ -293,7 +284,7 @@
 
             if (expArea) {
                 if (currentMode === 'practice' && userAnswers[currentIndex] !== undefined && qData.explanation) {
-                    expArea.innerHTML = `<strong>${t.exp}:</strong> ${qData.explanation}`;
+                    expArea.innerHTML = '<strong>' + expLabel + ':</strong> ' + qData.explanation;
                     expArea.style.display = 'block';
                 } else {
                     expArea.style.display = 'none';
@@ -301,11 +292,11 @@
             }
 
             document.getElementById('btn-finish').style.display = (currentIndex === activeQuestions.length - 1) ? 'inline-block' : 'none';
-            document.getElementById('btn-next').style.display = (currentIndex === activeQuestions.length - 1) ? 'none' : 'inline-block';
-            document.getElementById('btn-prev').style.display = (currentIndex === 0) ? 'none' : 'inline-block';
+            document.getElementById('btn-next').style.display   = (currentIndex === activeQuestions.length - 1) ? 'none' : 'inline-block';
+            document.getElementById('btn-prev').style.display   = (currentIndex === 0) ? 'none' : 'inline-block';
 
-        } catch (error) {
-            console.error("Error in showQuestion:", error);
+        } catch(error) {
+            console.error('Error in showQuestion:', error);
         }
     }
 
@@ -318,32 +309,32 @@
 
     function startTimer() {
         seconds = 0;
-        const timerBox = document.getElementById('timer-box');
+        var timerBox = document.getElementById('timer-box');
         if (timerBox) timerBox.style.display = 'block';
-        timer = setInterval(() => {
+        timer = setInterval(function() {
             seconds++;
-            let m = Math.floor(seconds / 60);
-            let s = seconds % 60;
-            if (timerBox) timerBox.innerText = `${m}:${s < 10 ? '0' + s : s}`;
+            var m = Math.floor(seconds / 60);
+            var s = seconds % 60;
+            if (timerBox) timerBox.innerText = m + ':' + (s < 10 ? '0' + s : s);
         }, 1000);
     }
 
     function finishExam() {
         clearInterval(timer);
-        const timerBox = document.getElementById('timer-box');
+        var timerBox = document.getElementById('timer-box');
         if (timerBox) timerBox.style.display = 'none';
-        let score = 0;
-        activeQuestions.forEach((q, i) => {
+        var score = 0;
+        activeQuestions.forEach(function(q, i) {
             if (userAnswers[i] === q[currentLang].answer) score++;
         });
         document.getElementById('quiz-view').style.display = 'none';
         document.getElementById('result-view').style.display = 'block';
-        document.getElementById('final-score').innerText = `${score} / ${activeQuestions.length}`;
+        document.getElementById('final-score').innerText = score + ' / ' + activeQuestions.length;
     }
 
     function backToMenu() {
         clearInterval(timer);
-        const timerBox = document.getElementById('timer-box');
+        var timerBox = document.getElementById('timer-box');
         if (timerBox) timerBox.style.display = 'none';
         document.getElementById('quiz-view').style.display = 'none';
         document.getElementById('result-view').style.display = 'none';
