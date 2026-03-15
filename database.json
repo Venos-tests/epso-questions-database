@@ -3773,355 +3773,528 @@
       }
     }
   ],
-  // ══════════════════════════════════════════
-//  VERBAL REASONING – Section 3 (Q41–Q60)
-//  · Correct answers distributed across A/B/C/D
-//  · EPSO institutional Greek register
-// ══════════════════════════════════════════
-
-const verbal_3 = [
-
-  // Q41 — correct answer: B (index 1)
+"verbal_3": [
   {
-    passage: "The slow development of a universal home remote control system is somewhat surprising given the high expectations initially surrounding the technology. The prototype demonstrated the ability to control most household appliances through a single, simple, and user-friendly device. However, during large-scale manufacturing, numerous faults occurred on the production line, undetected by the manufacturer's quality control systems. As a result, thousands of units were returned by customers who had paid considerable amounts for the device but found that it could not reliably operate the appliances it was intended to control. In some cases, the system even activated the wrong electrical device, occasionally leading to damage. According to reports, the unsuccessful market launch was largely due to managerial shortcomings. Line managers failed to prioritise reliability and quality during production, while senior managers focused primarily on marketing and public relations rather than closely supervising manufacturing processes.",
-    passageGr: "Η αργή ανάπτυξη ενός οικουμενικού οικιακού τηλεχειριστηρίου είναι κάπως εκπληκτική, δεδομένων των υψηλών προσδοκιών που αρχικά περιέβαλαν την τεχνολογία. Το πρωτότυπο απέδειξε ότι μπορεί να ελέγχει τις περισσότερες οικιακές συσκευές μέσω μιας απλής και εύχρηστης διάταξης. Ωστόσο, κατά τη μαζική παραγωγή, σημειώθηκαν πολυάριθμα ελαττώματα στην παραγωγική γραμμή, τα οποία δεν εντοπίστηκαν από τα συστήματα ποιοτικού ελέγχου. Κατά συνέπεια, χιλιάδες μονάδες επεστράφησαν από πελάτες που είχαν πληρώσει σημαντικά ποσά για τη συσκευή, η οποία όμως αδυνατούσε να λειτουργεί αξιόπιστα. Σε ορισμένες περιπτώσεις, το σύστημα ενεργοποιούσε λανθασμένα τη συσκευή, ενίοτε προκαλώντας ζημιές. Σύμφωνα με αναφορές, η αποτυχημένη εμπορική λανσάρισμα οφειλόταν κυρίως σε διοικητικές αδυναμίες. Οι μεσαίοι διευθυντές δεν έδωσαν προτεραιότητα στην αξιοπιστία και την ποιότητα κατά την παραγωγή, ενώ η ανώτερη διοίκηση επικεντρώθηκε κυρίως στο μάρκετινγκ αντί να εποπτεύει στενά τις παραγωγικές διαδικασίες.",
-    q: "Which of the following conclusions is best supported by the passage?",
-    qGr: "Ποιο από τα ακόλουθα συμπεράσματα υποστηρίζεται καλύτερα από το κείμενο;",
-    opts: [
-      { t: "The universal remote control system failed mainly because the underlying technology was not sufficiently advanced.", tGr: "Το οικουμενικό τηλεχειριστήριο απέτυχε κυρίως επειδή η βασική τεχνολογία δεν ήταν αρκετά ανεπτυγμένη." },
-      { t: "The product's failure was primarily caused by manufacturing and managerial oversight rather than by the concept of the device itself.", tGr: "Η αποτυχία του προϊόντος οφειλόταν κυρίως σε παραγωγικές και διοικητικές αδυναμίες, και όχι στην ίδια την ιδέα της συσκευής." },
-      { t: "Customers returned the product mainly because they failed to understand how to use it.", tGr: "Οι πελάτες επέστρεψαν το προϊόν κυρίως επειδή δεν κατάφεραν να κατανοήσουν τον τρόπο χρήσης του." },
-      { t: "Manufacturing managers deliberately ignored product defects in order to accelerate the market launch.", tGr: "Οι διευθυντές παραγωγής αγνόησαν σκόπιμα τα ελαττώματα του προϊόντος προκειμένου να επιταχύνουν την εμπορική λανσάρισμα." }
-    ],
-    ans: 1,
-    exp: "The passage states that the prototype worked successfully, problems arose during mass production, and responsibility is attributed to both line managers and senior managers. The failure therefore reflects production and management failures, not the viability of the technology itself. Option A is wrong because the prototype worked. Option C is wrong because no user misunderstanding is mentioned. Option D is wrong because negligence, not deliberate concealment, is described.",
-    expGr: "Το κείμενο αναφέρει ότι το πρωτότυπο λειτουργούσε επιτυχώς, τα προβλήματα εμφανίστηκαν κατά τη μαζική παραγωγή, και η ευθύνη αποδίδεται στη διοίκηση. Η αποτυχία αντικατοπτρίζει παραγωγικές και διοικητικές αδυναμίες, όχι την ίδια την ιδέα. Η Α είναι εσφαλμένη διότι το πρωτότυπο λειτουργούσε. Η Γ είναι εσφαλμένη διότι δεν αναφέρεται παρανόηση εκ μέρους των χρηστών. Η Δ είναι εσφαλμένη διότι το κείμενο περιγράφει παράλειψη, όχι σκόπιμη απόκρυψη."
+    "en": {
+      "passage": "The slow development of a universal home remote control system is somewhat surprising given the high expectations initially surrounding the technology. The prototype demonstrated the ability to control most household appliances through a single, simple, and user-friendly device. However, during large-scale manufacturing, numerous faults occurred on the production line, undetected by the manufacturer's quality control systems. As a result, thousands of units were returned by customers who had paid considerable amounts for the device but found that it could not reliably operate the appliances it was intended to control. In some cases, the system even activated the wrong electrical device, occasionally leading to damage. According to reports, the unsuccessful market launch was largely due to managerial shortcomings. Line managers failed to prioritise reliability and quality during production, while senior managers focused primarily on marketing and public relations rather than closely supervising manufacturing processes.",
+      "question": "Which of the following conclusions is best supported by the passage?",
+      "options": [
+        "The universal remote control system failed mainly because the underlying technology was not sufficiently advanced.",
+        "The product's failure was primarily caused by manufacturing and managerial oversight rather than by the concept of the device itself.",
+        "Customers returned the product mainly because they failed to understand how to use it.",
+        "Manufacturing managers deliberately ignored product defects in order to accelerate the market launch."
+      ],
+      "answer": 1,
+      "explanation": "The passage states that the prototype worked successfully, problems arose during mass production, and responsibility is attributed to both line and senior managers. The failure reflects production and management failings, not the viability of the technology. A is wrong because the prototype worked. C is wrong because no user misunderstanding is mentioned. D is wrong because the passage describes negligence, not deliberate concealment."
+    },
+    "el": {
+      "passage": "Η αργή ανάπτυξη ενός οικουμενικού οικιακού τηλεχειριστηρίου είναι κάπως εκπληκτική, δεδομένων των υψηλών προσδοκιών που αρχικά περιέβαλαν την τεχνολογία. Το πρωτότυπο απέδειξε ότι μπορεί να ελέγχει τις περισσότερες οικιακές συσκευές μέσω μιας απλής και εύχρηστης διάταξης. Ωστόσο, κατά τη μαζική παραγωγή, σημειώθηκαν πολυάριθμα ελαττώματα στην παραγωγική γραμμή, τα οποία δεν εντοπίστηκαν από τα συστήματα ποιοτικού ελέγχου. Κατά συνέπεια, χιλιάδες μονάδες επεστράφησαν από πελάτες που είχαν πληρώσει σημαντικά ποσά για τη συσκευή, η οποία αδυνατούσε να λειτουργεί αξιόπιστα. Σε ορισμένες περιπτώσεις, το σύστημα ενεργοποιούσε λανθασμένα άλλη συσκευή, ενίοτε προκαλώντας ζημιές. Σύμφωνα με αναφορές, η αποτυχημένη κυκλοφορία οφειλόταν κυρίως σε διοικητικές αδυναμίες. Οι μεσαίοι διευθυντές δεν έδωσαν προτεραιότητα στην αξιοπιστία και την ποιότητα κατά την παραγωγή, ενώ η ανώτερη διοίκηση επικεντρώθηκε κυρίως στο μάρκετινγκ αντί να εποπτεύει στενά τις παραγωγικές διαδικασίες.",
+      "question": "Ποιο από τα ακόλουθα συμπεράσματα υποστηρίζεται καλύτερα από το κείμενο;",
+      "options": [
+        "Το οικουμενικό τηλεχειριστήριο απέτυχε κυρίως επειδή η βασική τεχνολογία δεν ήταν αρκετά ανεπτυγμένη.",
+        "Η αποτυχία του προϊόντος οφειλόταν κυρίως σε παραγωγικές και διοικητικές αδυναμίες, και όχι στην ίδια την ιδέα της συσκευής.",
+        "Οι πελάτες επέστρεψαν το προϊόν κυρίως επειδή δεν κατάφεραν να κατανοήσουν τον τρόπο χρήσης του.",
+        "Οι διευθυντές παραγωγής αγνόησαν σκόπιμα τα ελαττώματα του προϊόντος προκειμένου να επιταχύνουν την εμπορική κυκλοφορία."
+      ],
+      "answer": 1,
+      "explanation": "Το κείμενο αναφέρει ότι το πρωτότυπο λειτουργούσε επιτυχώς, τα προβλήματα εμφανίστηκαν κατά τη μαζική παραγωγή και η ευθύνη αποδίδεται στη διοίκηση. Η αποτυχία αντικατοπτρίζει παραγωγικές και διοικητικές αδυναμίες, όχι την ίδια την ιδέα. Η Α είναι εσφαλμένη διότι το πρωτότυπο λειτουργούσε. Η Γ είναι εσφαλμένη διότι δεν αναφέρεται παρανόηση εκ μέρους των χρηστών. Η Δ είναι εσφαλμένη διότι περιγράφεται παράλειψη, όχι σκόπιμη απόκρυψη."
+    }
   },
-
-  // Q42 — correct answer: C (index 2)
   {
-    passage: "The European Union has long promoted seamless telephone mobility across its member states, aiming to ensure that citizens can use their mobile phones abroad without excessive roaming charges. Recent regulations have significantly reduced the cost of roaming, effectively allowing users to make calls, send texts, and use data at domestic rates when travelling within the EU. While operators initially expressed concerns about revenue losses, many have adapted their business models to maintain profitability. These changes have encouraged more frequent travel and strengthened economic and social ties between member states. However, some challenges remain, including differences in network infrastructure and coverage quality across regions.",
-    passageGr: "Η Ευρωπαϊκή Ένωση προωθεί εδώ και καιρό την απρόσκοπτη κινητή επικοινωνία στα κράτη μέλη της, με στόχο να διασφαλίσει ότι οι πολίτες μπορούν να χρησιμοποιούν τα κινητά τους τηλέφωνα στο εξωτερικό χωρίς υπέρμετρες χρεώσεις περιαγωγής. Πρόσφατοι κανονισμοί μείωσαν σημαντικά το κόστος της περιαγωγής, επιτρέποντας στους χρήστες να πραγματοποιούν κλήσεις, να στέλνουν μηνύματα και να χρησιμοποιούν δεδομένα με εγχώριες χρεώσεις εντός της ΕΕ. Ενώ οι φορείς εξέφρασαν αρχικά ανησυχίες για απώλεια εσόδων, πολλοί προσάρμοσαν τα επιχειρηματικά τους μοντέλα. Οι αλλαγές αυτές ενθάρρυναν την κινητικότητα και ενίσχυσαν τους δεσμούς μεταξύ των κρατών μελών. Ωστόσο, εξακολουθούν να υφίστανται προκλήσεις, μεταξύ των οποίων οι διαφορές στην υποδομή δικτύου και την ποιότητα κάλυψης.",
-    q: "According to the passage, which of the following statements is most accurate?",
-    qGr: "Σύμφωνα με το κείμενο, ποια από τις ακόλουθες δηλώσεις είναι πλέον ακριβής;",
-    opts: [
-      { t: "EU regulations have completely eliminated the need for mobile operators to adapt their pricing models.", tGr: "Οι κανονισμοί της ΕΕ εξάλειψαν πλήρως την ανάγκη προσαρμογής των τιμολογιακών μοντέλων των φορέων κινητής τηλεφωνίας." },
-      { t: "The cost of roaming has increased due to operator concerns about profitability.", tGr: "Το κόστος περιαγωγής αυξήθηκε λόγω των ανησυχιών των φορέων σχετικά με την κερδοφορία." },
-      { t: "Citizens now enjoy domestic rates when using mobile phones throughout the EU, but infrastructure differences may still affect service quality.", tGr: "Οι πολίτες απολαμβάνουν πλέον εγχώριες χρεώσεις κατά τη χρήση κινητών τηλεφώνων σε ολόκληρη την ΕΕ, ωστόσο οι διαφορές στην υποδομή ενδέχεται να επηρεάζουν ακόμη την ποιότητα της υπηρεσίας." },
-      { t: "Roaming charges have been abolished worldwide due to EU regulations.", tGr: "Οι χρεώσεις περιαγωγής καταργήθηκαν παγκοσμίως χάρη στους κανονισμούς της ΕΕ." }
-    ],
-    ans: 2,
-    exp: "The passage confirms that EU regulations reduced roaming costs to domestic rates, while also noting ongoing challenges related to infrastructure and coverage. Option A is wrong because operators did need to adapt. Option B is wrong because costs decreased. Option D is wrong because the regulation applies only within the EU.",
-    expGr: "Το κείμενο επιβεβαιώνει ότι οι κανονισμοί της ΕΕ μείωσαν τις χρεώσεις περιαγωγής στα εγχώρια επίπεδα, ενώ επισημαίνει συνεχιζόμενες προκλήσεις υποδομής. Η Α είναι εσφαλμένη διότι οι φορείς χρειάστηκε να προσαρμοστούν. Η Β είναι εσφαλμένη διότι το κόστος μειώθηκε. Η Δ είναι εσφαλμένη διότι ο κανονισμός ισχύει μόνο εντός της ΕΕ."
+    "en": {
+      "passage": "The European Union has long promoted seamless telephone mobility across its member states, aiming to ensure that citizens can use their mobile phones abroad without excessive roaming charges. Recent regulations have significantly reduced the cost of roaming, effectively allowing users to make calls, send texts, and use data at domestic rates when travelling within the EU. While operators initially expressed concerns about revenue losses, many have adapted their business models to maintain profitability. These changes have encouraged more frequent travel and strengthened economic and social ties between member states. However, some challenges remain, including differences in network infrastructure and coverage quality across regions.",
+      "question": "According to the passage, which of the following statements is most accurate?",
+      "options": [
+        "EU regulations have completely eliminated the need for mobile operators to adapt their pricing models.",
+        "The cost of roaming has increased due to operator concerns about profitability.",
+        "Citizens now enjoy domestic rates when using mobile phones throughout the EU, but infrastructure differences may still affect service quality.",
+        "Roaming charges have been abolished worldwide due to EU regulations."
+      ],
+      "answer": 2,
+      "explanation": "The passage confirms that EU regulations reduced roaming costs to domestic rates while noting ongoing infrastructure challenges. A is wrong because operators did need to adapt. B is wrong because costs decreased. D is wrong because the regulation applies only within the EU."
+    },
+    "el": {
+      "passage": "Η Ευρωπαϊκή Ένωση προωθεί εδώ και καιρό την απρόσκοπτη κινητή επικοινωνία στα κράτη μέλη της, με στόχο να διασφαλίσει ότι οι πολίτες μπορούν να χρησιμοποιούν τα κινητά τους τηλέφωνα στο εξωτερικό χωρίς υπέρμετρες χρεώσεις περιαγωγής. Πρόσφατοι κανονισμοί μείωσαν σημαντικά το κόστος περιαγωγής, επιτρέποντας στους χρήστες να πραγματοποιούν κλήσεις, να στέλνουν μηνύματα και να χρησιμοποιούν δεδομένα με εγχώριες χρεώσεις εντός της ΕΕ. Ενώ οι φορείς εξέφρασαν αρχικά ανησυχίες για απώλεια εσόδων, πολλοί προσάρμοσαν τα επιχειρηματικά τους μοντέλα. Οι αλλαγές αυτές ενθάρρυναν την κινητικότητα και ενίσχυσαν τους δεσμούς μεταξύ των κρατών μελών. Ωστόσο, εξακολουθούν να υφίστανται προκλήσεις, μεταξύ των οποίων οι διαφορές στην υποδομή δικτύου και την ποιότητα κάλυψης.",
+      "question": "Σύμφωνα με το κείμενο, ποια από τις ακόλουθες δηλώσεις είναι πλέον ακριβής;",
+      "options": [
+        "Οι κανονισμοί της ΕΕ εξάλειψαν πλήρως την ανάγκη προσαρμογής των τιμολογιακών μοντέλων των φορέων κινητής τηλεφωνίας.",
+        "Το κόστος περιαγωγής αυξήθηκε λόγω των ανησυχιών των φορέων σχετικά με την κερδοφορία.",
+        "Οι πολίτες απολαμβάνουν πλέον εγχώριες χρεώσεις κατά τη χρήση κινητών τηλεφώνων σε ολόκληρη την ΕΕ, ωστόσο οι διαφορές στην υποδομή ενδέχεται να επηρεάζουν ακόμη την ποιότητα της υπηρεσίας.",
+        "Οι χρεώσεις περιαγωγής καταργήθηκαν παγκοσμίως χάρη στους κανονισμούς της ΕΕ."
+      ],
+      "answer": 2,
+      "explanation": "Το κείμενο επιβεβαιώνει τη μείωση των χρεώσεων στα εγχώρια επίπεδα, ενώ επισημαίνει συνεχιζόμενες προκλήσεις υποδομής. Η Α είναι εσφαλμένη διότι οι φορείς χρειάστηκε να προσαρμοστούν. Η Β είναι εσφαλμένη διότι το κόστος μειώθηκε. Η Δ είναι εσφαλμένη διότι ο κανονισμός ισχύει μόνο εντός της ΕΕ."
+    }
   },
-
-  // Q43 — correct answer: D (index 3)
   {
-    passage: "The Labour Party has decided to rebuild its public image ahead of the forthcoming election, particularly in areas where the Liberal Party has recently achieved stronger electoral performance. The party's strategy will involve both television advertising and a coordinated press campaign. Four motivational television commercials have been produced and will be broadcast alternately on selected channels each day for an initial period of eight weeks, which may be extended if necessary. A similar timeframe is planned for the press campaign. The messaging in both media channels will be consistent: the image conveyed in the television advertisements must correspond to that presented in the press materials. Both campaigns aim to communicate the party's reliability and trustworthiness. Following the campaign, a return-on-investment study will evaluate its effectiveness and is expected to inform the design of future political campaigns.",
-    passageGr: "Το Εργατικό Κόμμα αποφάσισε να ανασκευάσει τη δημόσια εικόνα του ενόψει των επικείμενων εκλογών, ιδίως σε περιοχές όπου το Φιλελεύθερο Κόμμα σημείωσε πρόσφατα ισχυρότερη εκλογική επίδοση. Η στρατηγική του κόμματος θα περιλαμβάνει τόσο τηλεοπτική διαφήμιση όσο και συντονισμένη εκστρατεία στον Τύπο. Τέσσερα τηλεοπτικά διαφημιστικά σποτ έχουν παραχθεί και θα μεταδίδονται εναλλάξ σε επιλεγμένα κανάλια για αρχική περίοδο οκτώ εβδομάδων, η οποία μπορεί να παραταθεί εφόσον κριθεί αναγκαίο. Παρόμοιο χρονοδιάγραμμα προβλέπεται για την εκστρατεία Τύπου. Τα μηνύματα και στα δύο μέσα θα είναι συνεκτικά: η εικόνα που θα αποδίδεται στις τηλεοπτικές διαφημίσεις πρέπει να αντιστοιχεί στην εικόνα που παρουσιάζεται στα έντυπα υλικά. Και οι δύο εκστρατείες στοχεύουν στην ανάδειξη της αξιοπιστίας και εντιμότητας του κόμματος. Μετά την εκστρατεία, μελέτη απόδοσης επένδυσης θα αξιολογήσει την αποτελεσματικότητά της.",
-    q: "Which of the following statements is best supported by the passage?",
-    qGr: "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται καλύτερα από το κείμενο;",
-    opts: [
-      { t: "The Labour Party has already decided to extend the campaign beyond the initial eight-week period.", tGr: "Το Εργατικό Κόμμα έχει ήδη αποφασίσει να παρατείνει την εκστρατεία πέραν της αρχικής περιόδου οκτώ εβδομάδων." },
-      { t: "The ROI study will determine whether the Liberal Party's strategy was more successful.", tGr: "Η μελέτη απόδοσης επένδυσης θα κρίνει κατά πόσον η στρατηγική του Φιλελεύθερου Κόμματος ήταν πιο επιτυχής." },
-      { t: "The press campaign will target different voters from those reached through the television advertisements.", tGr: "Η εκστρατεία Τύπου θα απευθύνεται σε διαφορετικούς ψηφοφόρους από εκείνους που στοχεύουν οι τηλεοπτικές διαφημίσεις." },
-      { t: "The campaign strategy seeks to ensure that the same core message is conveyed through different communication channels.", tGr: "Η στρατηγική της εκστρατείας επιδιώκει να διασφαλίσει ότι το ίδιο βασικό μήνυμα μεταδίδεται μέσω διαφορετικών καναλιών επικοινωνίας." }
-    ],
-    ans: 3,
-    exp: "The passage explicitly states that the image conveyed in both media channels must be consistent, indicating a deliberate cross-channel message strategy. Option A is wrong because extension is possible, not decided. Option B is wrong because the ROI study evaluates the Labour Party's own campaign. Option C is wrong because no differentiation of target audiences is mentioned.",
-    expGr: "Το κείμενο ορίζει ρητώς ότι η εικόνα και στα δύο μέσα πρέπει να είναι συνεκτική, υποδηλώνοντας σκόπιμη στρατηγική ενιαίου μηνύματος. Η Α είναι εσφαλμένη διότι η παράταση είναι πιθανή, όχι αποφασισμένη. Η Β είναι εσφαλμένη διότι η μελέτη αξιολογεί την εκστρατεία του Εργατικού Κόμματος. Η Γ είναι εσφαλμένη διότι δεν αναφέρεται διαφοροποίηση κοινού-στόχου."
+    "en": {
+      "passage": "The Labour Party has decided to rebuild its public image ahead of the forthcoming election, particularly in areas where the Liberal Party has recently achieved stronger electoral performance. The party's strategy will involve both television advertising and a coordinated press campaign. Four motivational television commercials have been produced and will be broadcast alternately on selected channels each day for an initial period of eight weeks, which may be extended if necessary. A similar timeframe is planned for the press campaign. The messaging in both media channels will be consistent: the image conveyed in the television advertisements must correspond to that presented in the press materials. Both campaigns aim to communicate the party's reliability and trustworthiness. Following the campaign, a return-on-investment study will evaluate its effectiveness and is expected to inform the design of future political campaigns.",
+      "question": "Which of the following statements is best supported by the passage?",
+      "options": [
+        "The Labour Party has already decided to extend the campaign beyond the initial eight-week period.",
+        "The ROI study will determine whether the Liberal Party's strategy was more successful.",
+        "The press campaign will target different voters from those reached through the television advertisements.",
+        "The campaign strategy seeks to ensure that the same core message is conveyed through different communication channels."
+      ],
+      "answer": 3,
+      "explanation": "The passage states that the image in both media channels must be consistent, indicating a deliberate cross-channel message strategy. A is wrong because extension is possible, not decided. B is wrong because the ROI study evaluates the Labour Party's own campaign. C is wrong because no differentiation of target audiences is mentioned."
+    },
+    "el": {
+      "passage": "Το Εργατικό Κόμμα αποφάσισε να ανασκευάσει τη δημόσια εικόνα του ενόψει των επικείμενων εκλογών, ιδίως σε περιοχές όπου το Φιλελεύθερο Κόμμα σημείωσε πρόσφατα ισχυρότερη εκλογική επίδοση. Η στρατηγική του κόμματος θα περιλαμβάνει τόσο τηλεοπτική διαφήμιση όσο και συντονισμένη εκστρατεία στον Τύπο. Τέσσερα τηλεοπτικά διαφημιστικά σποτ έχουν παραχθεί και θα μεταδίδονται εναλλάξ σε επιλεγμένα κανάλια για αρχική περίοδο οκτώ εβδομάδων, η οποία μπορεί να παραταθεί εφόσον κριθεί αναγκαίο. Παρόμοιο χρονοδιάγραμμα προβλέπεται για την εκστρατεία Τύπου. Τα μηνύματα και στα δύο μέσα θα είναι συνεκτικά: η εικόνα που αποδίδεται στις τηλεοπτικές διαφημίσεις πρέπει να αντιστοιχεί στην εικόνα που παρουσιάζεται στα έντυπα υλικά. Και οι δύο εκστρατείες στοχεύουν στην ανάδειξη της αξιοπιστίας και εντιμότητας του κόμματος. Μετά την εκστρατεία, μελέτη απόδοσης επένδυσης θα αξιολογήσει την αποτελεσματικότητά της.",
+      "question": "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται καλύτερα από το κείμενο;",
+      "options": [
+        "Το Εργατικό Κόμμα έχει ήδη αποφασίσει να παρατείνει την εκστρατεία πέραν της αρχικής περιόδου οκτώ εβδομάδων.",
+        "Η μελέτη απόδοσης επένδυσης θα κρίνει κατά πόσον η στρατηγική του Φιλελεύθερου Κόμματος ήταν πιο επιτυχής.",
+        "Η εκστρατεία Τύπου θα απευθύνεται σε διαφορετικούς ψηφοφόρους από εκείνους που στοχεύουν οι τηλεοπτικές διαφημίσεις.",
+        "Η στρατηγική της εκστρατείας επιδιώκει να διασφαλίσει ότι το ίδιο βασικό μήνυμα μεταδίδεται μέσω διαφορετικών καναλιών επικοινωνίας."
+      ],
+      "answer": 3,
+      "explanation": "Το κείμενο ορίζει ρητώς ότι η εικόνα και στα δύο μέσα πρέπει να είναι συνεκτική. Η Α είναι εσφαλμένη διότι η παράταση είναι πιθανή, όχι αποφασισμένη. Η Β είναι εσφαλμένη διότι η μελέτη αξιολογεί την εκστρατεία του ίδιου του Εργατικού Κόμματος. Η Γ είναι εσφαλμένη διότι δεν αναφέρεται διαφοροποίηση κοινού-στόχου."
+    }
   },
-
-  // Q44 — correct answer: A (index 0)
   {
-    passage: "E-learning systems have recently been adopted by many large corporations. In most cases, these systems are used as a cost-effective alternative to long-established corporate leadership development programmes. At the same time, the importance of leadership skills within organisations continues to increase, while budgets for individual or group training are frequently reduced. In such circumstances, e-learning offers a practical and relatively inexpensive solution. By providing interactive materials through internet-based platforms accessible from a personal computer and allowing learners to progress at their own pace, e-learning can in some cases be more effective than traditional forms of training. The content of such programmes varies considerably, but they are commonly used to introduce new technologies, improve management capabilities, and strengthen financial planning skills.",
-    passageGr: "Τα συστήματα ηλεκτρονικής μάθησης έχουν υιοθετηθεί πρόσφατα από πολλές μεγάλες επιχειρήσεις. Στις περισσότερες περιπτώσεις, χρησιμοποιούνται ως οικονομικά αποδοτική εναλλακτική λύση στα καθιερωμένα προγράμματα ανάπτυξης ηγετικών ικανοτήτων. Παράλληλα, η σημασία των ηγετικών δεξιοτήτων αυξάνεται, ενώ οι προϋπολογισμοί για ατομική ή ομαδική κατάρτιση μειώνονται συχνά. Σε αυτές τις συνθήκες, η ηλεκτρονική μάθηση προσφέρει μια πρακτική και σχετικά οικονομική λύση. Μέσω διαδραστικού υλικού σε διαδικτυακές πλατφόρμες προσβάσιμες από προσωπικό υπολογιστή και με δυνατότητα αυτορρύθμιστης μάθησης, η ηλεκτρονική μάθηση μπορεί σε ορισμένες περιπτώσεις να είναι πιο αποτελεσματική από τις παραδοσιακές μορφές κατάρτισης. Το περιεχόμενο ποικίλλει σημαντικά, αλλά χρησιμοποιείται συχνά για εισαγωγή σε νέες τεχνολογίες, βελτίωση διοικητικών ικανοτήτων και ενίσχυση δεξιοτήτων χρηματοοικονομικού σχεδιασμού.",
-    q: "Which of the following statements is best supported by the passage?",
-    qGr: "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται καλύτερα από το κείμενο;",
-    opts: [
-      { t: "Corporations are increasingly turning to e-learning partly because it offers a more economical training solution.", tGr: "Οι επιχειρήσεις στρέφονται ολοένα και περισσότερο στην ηλεκτρονική μάθηση εν μέρει επειδή προσφέρει πιο οικονομική λύση κατάρτισης." },
-      { t: "E-learning programmes have completely replaced traditional leadership development programmes in large corporations.", tGr: "Τα προγράμματα ηλεκτρονικής μάθησης έχουν αντικαταστήσει πλήρως τα παραδοσιακά προγράμματα ανάπτυξης ηγετικών ικανοτήτων στις μεγάλες επιχειρήσεις." },
-      { t: "E-learning is always more effective than traditional forms of corporate training.", tGr: "Η ηλεκτρονική μάθηση είναι πάντοτε πιο αποτελεσματική από τις παραδοσιακές μορφές εταιρικής κατάρτισης." },
-      { t: "Most e-learning programmes focus exclusively on financial planning.", tGr: "Τα περισσότερα προγράμματα ηλεκτρονικής μάθησης εστιάζουν αποκλειστικά στον χρηματοοικονομικό σχεδιασμό." }
-    ],
-    ans: 0,
-    exp: "The passage links budget reductions with the adoption of cost-effective e-learning alternatives, directly supporting option A. Option B is wrong because the passage says 'alternative', not 'replacement'. Option C is wrong because the passage says 'in some cases'. Option D is wrong because financial planning is only one of several areas mentioned.",
-    expGr: "Το κείμενο συνδέει τις μειώσεις προϋπολογισμού με την υιοθέτηση οικονομικά αποδοτικών λύσεων ηλεκτρονικής μάθησης, υποστηρίζοντας άμεσα την επιλογή Α. Η Β είναι εσφαλμένη διότι χρησιμοποιείται ο όρος «εναλλακτική», όχι «αντικατάσταση». Η Γ είναι εσφαλμένη διότι το κείμενο αναφέρει «σε ορισμένες περιπτώσεις». Η Δ είναι εσφαλμένη διότι ο χρηματοοικονομικός σχεδιασμός είναι μόνο ένας από τους τομείς που αναφέρονται."
+    "en": {
+      "passage": "E-learning systems have recently been adopted by many large corporations. In most cases, these systems are used as a cost-effective alternative to long-established corporate leadership development programmes. At the same time, the importance of leadership skills within organisations continues to increase, while budgets for individual or group training are frequently reduced. In such circumstances, e-learning offers a practical and relatively inexpensive solution. By providing interactive materials through internet-based platforms accessible from a personal computer and allowing learners to progress at their own pace, e-learning can in some cases be more effective than traditional forms of training. The content of such programmes varies considerably, but they are commonly used to introduce new technologies, improve management capabilities, and strengthen financial planning skills.",
+      "question": "Which of the following statements is best supported by the passage?",
+      "options": [
+        "Corporations are increasingly turning to e-learning partly because it offers a more economical training solution.",
+        "E-learning programmes have completely replaced traditional leadership development programmes in large corporations.",
+        "E-learning is always more effective than traditional forms of corporate training.",
+        "Most e-learning programmes focus exclusively on financial planning."
+      ],
+      "answer": 0,
+      "explanation": "The passage links budget reductions with the adoption of cost-effective e-learning alternatives, directly supporting A. B is wrong because the passage says 'alternative', not 'replacement'. C is wrong because the passage says 'in some cases'. D is wrong because financial planning is only one of several areas mentioned."
+    },
+    "el": {
+      "passage": "Τα συστήματα ηλεκτρονικής μάθησης έχουν υιοθετηθεί πρόσφατα από πολλές μεγάλες επιχειρήσεις. Στις περισσότερες περιπτώσεις, χρησιμοποιούνται ως οικονομικά αποδοτική εναλλακτική λύση στα καθιερωμένα προγράμματα ανάπτυξης ηγετικών ικανοτήτων. Παράλληλα, η σημασία των ηγετικών δεξιοτήτων αυξάνεται, ενώ οι προϋπολογισμοί για ατομική ή ομαδική κατάρτιση μειώνονται συχνά. Σε αυτές τις συνθήκες, η ηλεκτρονική μάθηση προσφέρει μια πρακτική και σχετικά οικονομική λύση. Μέσω διαδραστικού υλικού σε διαδικτυακές πλατφόρμες προσβάσιμες από προσωπικό υπολογιστή και με δυνατότητα αυτορρύθμιστης μάθησης, η ηλεκτρονική μάθηση μπορεί σε ορισμένες περιπτώσεις να είναι πιο αποτελεσματική από τις παραδοσιακές μορφές κατάρτισης. Το περιεχόμενο ποικίλλει σημαντικά, αλλά χρησιμοποιείται συχνά για εισαγωγή σε νέες τεχνολογίες, βελτίωση διοικητικών ικανοτήτων και ενίσχυση δεξιοτήτων χρηματοοικονομικού σχεδιασμού.",
+      "question": "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται καλύτερα από το κείμενο;",
+      "options": [
+        "Οι επιχειρήσεις στρέφονται ολοένα και περισσότερο στην ηλεκτρονική μάθηση εν μέρει επειδή προσφέρει πιο οικονομική λύση κατάρτισης.",
+        "Τα προγράμματα ηλεκτρονικής μάθησης έχουν αντικαταστήσει πλήρως τα παραδοσιακά προγράμματα ανάπτυξης ηγετικών ικανοτήτων στις μεγάλες επιχειρήσεις.",
+        "Η ηλεκτρονική μάθηση είναι πάντοτε πιο αποτελεσματική από τις παραδοσιακές μορφές εταιρικής κατάρτισης.",
+        "Τα περισσότερα προγράμματα ηλεκτρονικής μάθησης εστιάζουν αποκλειστικά στον χρηματοοικονομικό σχεδιασμό."
+      ],
+      "answer": 0,
+      "explanation": "Το κείμενο συνδέει τις μειώσεις προϋπολογισμού με την υιοθέτηση οικονομικά αποδοτικών λύσεων ηλεκτρονικής μάθησης. Η Β είναι εσφαλμένη διότι χρησιμοποιείται ο όρος «εναλλακτική», όχι «αντικατάσταση». Η Γ είναι εσφαλμένη διότι το κείμενο αναφέρει «σε ορισμένες περιπτώσεις». Η Δ είναι εσφαλμένη διότι ο χρηματοοικονομικός σχεδιασμός είναι μόνο ένας από τους τομείς που αναφέρονται."
+    }
   },
-
-  // Q45 — correct answer: B (index 1)
   {
-    passage: "The European Union has invested heavily in its aerospace programme to strengthen research, innovation, and industrial competitiveness. Initiatives such as the Clean Sky and SESAR projects aim to reduce aviation's environmental impact while improving air traffic management across Europe. By fostering collaboration among member states, the EU hopes to maintain its leadership in aerospace technology, despite competition from global players. While funding and coordination challenges remain, these programmes are considered essential for sustainable growth in the sector.",
-    passageGr: "Η Ευρωπαϊκή Ένωση έχει επενδύσει σημαντικά στο διαστημικό και αεροναυτικό πρόγραμμά της για να ενισχύσει την έρευνα, την καινοτομία και τη βιομηχανική ανταγωνιστικότητα. Πρωτοβουλίες όπως τα έργα Clean Sky και SESAR στοχεύουν στη μείωση των περιβαλλοντικών επιπτώσεων της αεροπορίας και στη βελτίωση της διαχείρισης εναέριας κυκλοφορίας. Μέσω της ενίσχυσης της συνεργασίας μεταξύ κρατών μελών, η ΕΕ ελπίζει να διατηρήσει την ηγετική της θέση, παρά τον διεθνή ανταγωνισμό. Αν και παραμένουν προκλήσεις χρηματοδότησης και συντονισμού, τα προγράμματα αυτά θεωρούνται απαραίτητα για τη βιώσιμη ανάπτυξη του κλάδου.",
-    q: "Which of the following statements best reflects the passage's main idea?",
-    qGr: "Ποια από τις ακόλουθες δηλώσεις αντικατοπτρίζει καλύτερα την κεντρική ιδέα του κειμένου;",
-    opts: [
-      { t: "The EU's aerospace programme focuses mostly on military applications.", tGr: "Το αεροδιαστημικό πρόγραμμα της ΕΕ επικεντρώνεται κυρίως σε στρατιωτικές εφαρμογές." },
-      { t: "Collaboration among member states is central to Europe's competitiveness in aerospace technology.", tGr: "Η συνεργασία μεταξύ κρατών μελών είναι κεντρική για την ανταγωνιστικότητα της Ευρώπης στην αεροδιαστημική τεχνολογία." },
-      { t: "The EU has abandoned efforts to reduce aviation's environmental impact.", tGr: "Η ΕΕ έχει εγκαταλείψει τις προσπάθειες για τη μείωση των περιβαλλοντικών επιπτώσεων της αεροπορίας." },
-      { t: "Global competition has made EU aerospace initiatives unnecessary.", tGr: "Ο παγκόσμιος ανταγωνισμός έχει καταστήσει τις αεροδιαστημικές πρωτοβουλίες της ΕΕ περιττές." }
-    ],
-    ans: 1,
-    exp: "The passage emphasises collaboration among member states as the mechanism for maintaining EU aerospace leadership. Option A is wrong because no military applications are mentioned. Option C is false because environmental goals are explicitly stated. Option D contradicts the passage, which presents global competition as a reason to invest, not to abandon efforts.",
-    expGr: "Το κείμενο τονίζει τη συνεργασία μεταξύ κρατών μελών ως τον μηχανισμό για τη διατήρηση της ηγεσίας της ΕΕ. Η Α είναι εσφαλμένη διότι δεν αναφέρονται στρατιωτικές εφαρμογές. Η Γ είναι εσφαλμένη διότι οι περιβαλλοντικοί στόχοι αναφέρονται ρητά. Η Δ αντιφάσκει με το κείμενο, που παρουσιάζει τον ανταγωνισμό ως λόγο επένδυσης."
+    "en": {
+      "passage": "The European Union has invested heavily in its aerospace programme to strengthen research, innovation, and industrial competitiveness. Initiatives such as the Clean Sky and SESAR projects aim to reduce aviation's environmental impact while improving air traffic management across Europe. By fostering collaboration among member states, the EU hopes to maintain its leadership in aerospace technology, despite competition from global players. While funding and coordination challenges remain, these programmes are considered essential for sustainable growth in the sector.",
+      "question": "Which of the following statements best reflects the passage's main idea?",
+      "options": [
+        "The EU's aerospace programme focuses mostly on military applications.",
+        "Collaboration among member states is central to Europe's competitiveness in aerospace technology.",
+        "The EU has abandoned efforts to reduce aviation's environmental impact.",
+        "Global competition has made EU aerospace initiatives unnecessary."
+      ],
+      "answer": 1,
+      "explanation": "The passage emphasises collaboration among member states as the mechanism for maintaining EU aerospace leadership. A is wrong because no military applications are mentioned. C is false because environmental goals are explicitly stated. D contradicts the passage, which presents global competition as a reason to invest, not to abandon efforts."
+    },
+    "el": {
+      "passage": "Η Ευρωπαϊκή Ένωση έχει επενδύσει σημαντικά στο αεροδιαστημικό πρόγραμμά της για να ενισχύσει την έρευνα, την καινοτομία και τη βιομηχανική ανταγωνιστικότητα. Πρωτοβουλίες όπως τα έργα Clean Sky και SESAR στοχεύουν στη μείωση των περιβαλλοντικών επιπτώσεων της αεροπορίας και στη βελτίωση της διαχείρισης εναέριας κυκλοφορίας. Μέσω της ενίσχυσης της συνεργασίας μεταξύ κρατών μελών, η ΕΕ ελπίζει να διατηρήσει την ηγετική της θέση, παρά τον διεθνή ανταγωνισμό. Αν και παραμένουν προκλήσεις χρηματοδότησης και συντονισμού, τα προγράμματα αυτά θεωρούνται απαραίτητα για τη βιώσιμη ανάπτυξη του κλάδου.",
+      "question": "Ποια από τις ακόλουθες δηλώσεις αντικατοπτρίζει καλύτερα την κεντρική ιδέα του κειμένου;",
+      "options": [
+        "Το αεροδιαστημικό πρόγραμμα της ΕΕ επικεντρώνεται κυρίως σε στρατιωτικές εφαρμογές.",
+        "Η συνεργασία μεταξύ κρατών μελών είναι κεντρική για την ανταγωνιστικότητα της Ευρώπης στην αεροδιαστημική τεχνολογία.",
+        "Η ΕΕ έχει εγκαταλείψει τις προσπάθειες για τη μείωση των περιβαλλοντικών επιπτώσεων της αεροπορίας.",
+        "Ο παγκόσμιος ανταγωνισμός έχει καταστήσει τις αεροδιαστημικές πρωτοβουλίες της ΕΕ περιττές."
+      ],
+      "answer": 1,
+      "explanation": "Το κείμενο τονίζει τη συνεργασία μεταξύ κρατών μελών ως τον μηχανισμό για τη διατήρηση της ηγεσίας της ΕΕ. Η Α είναι εσφαλμένη διότι δεν αναφέρονται στρατιωτικές εφαρμογές. Η Γ είναι εσφαλμένη διότι οι περιβαλλοντικοί στόχοι αναφέρονται ρητά. Η Δ αντιφάσκει με το κείμενο, που παρουσιάζει τον ανταγωνισμό ως λόγο επένδυσης."
+    }
   },
-
-  // Q46 — correct answer: C (index 2)
   {
-    passage: "Chess is a strategy game that has been played for centuries, requiring players to anticipate opponents' moves and plan several steps ahead. While luck plays virtually no role, cognitive skills such as memory, pattern recognition, and critical thinking are essential. Modern research suggests that regular chess practice can enhance problem-solving abilities and may even delay cognitive decline in older adults. Despite the rise of computer-based entertainment, chess continues to attract a global community of players of all ages.",
-    passageGr: "Το σκάκι είναι ένα παιχνίδι στρατηγικής που παίζεται εδώ και αιώνες, απαιτώντας από τους παίκτες να προβλέπουν τις κινήσεις των αντιπάλων και να σχεδιάζουν αρκετά βήματα μπροστά. Ενώ η τύχη παίζει πρακτικά ανύπαρκτο ρόλο, γνωστικές δεξιότητες όπως η μνήμη, η αναγνώριση προτύπων και η κριτική σκέψη είναι απαραίτητες. Σύγχρονες έρευνες υποδηλώνουν ότι η τακτική εξάσκηση στο σκάκι μπορεί να ενισχύσει τις ικανότητες επίλυσης προβλημάτων και ακόμη και να επιβραδύνει την γνωστική έκπτωση σε ηλικιωμένους. Παρά την άνοδο της ψηφιακής ψυχαγωγίας, το σκάκι εξακολουθεί να προσελκύει παίκτες όλων των ηλικιών παγκοσμίως.",
-    q: "Which of the following can be inferred from the passage?",
-    qGr: "Τι μπορεί να συναχθεί από το κείμενο;",
-    opts: [
-      { t: "Chess is primarily a game of chance rather than skill.", tGr: "Το σκάκι είναι κυρίως παιχνίδι τύχης παρά δεξιότητας." },
-      { t: "Computer games have completely replaced traditional chess among younger generations.", tGr: "Τα ηλεκτρονικά παιχνίδια έχουν πλήρως αντικαταστήσει το σκάκι στις νεότερες γενιές." },
-      { t: "Playing chess may offer cognitive benefits beyond its value as entertainment.", tGr: "Η εξάσκηση στο σκάκι ενδέχεται να προσφέρει γνωστικά οφέλη πέραν της αξίας του ως ψυχαγωγίας." },
-      { t: "Memory is not an important skill for playing chess effectively.", tGr: "Η μνήμη δεν αποτελεί σημαντική δεξιότητα για την αποτελεσματική εξάσκηση στο σκάκι." }
-    ],
-    ans: 2,
-    exp: "The passage explicitly states that chess can enhance problem-solving abilities and delay cognitive decline, indicating benefits beyond entertainment. Option A contradicts the passage, which states luck plays virtually no role. Option B is false because the passage notes that chess continues to attract players globally. Option D contradicts the passage, which lists memory as a key cognitive skill.",
-    expGr: "Το κείμενο αναφέρει ρητά ότι το σκάκι μπορεί να βελτιώσει ικανότητες επίλυσης προβλημάτων και να επιβραδύνει τη γνωστική έκπτωση. Η Α αντιφάσκει με το κείμενο. Η Β είναι εσφαλμένη διότι το σκάκι εξακολουθεί να προσελκύει παίκτες παγκοσμίως. Η Δ αντιφάσκει με το κείμενο, που αναφέρει τη μνήμη ως βασική δεξιότητα."
+    "en": {
+      "passage": "Chess is a strategy game that has been played for centuries, requiring players to anticipate opponents' moves and plan several steps ahead. While luck plays virtually no role, cognitive skills such as memory, pattern recognition, and critical thinking are essential. Modern research suggests that regular chess practice can enhance problem-solving abilities and may even delay cognitive decline in older adults. Despite the rise of computer-based entertainment, chess continues to attract a global community of players of all ages.",
+      "question": "Which of the following can be inferred from the passage?",
+      "options": [
+        "Chess is primarily a game of chance rather than skill.",
+        "Computer games have completely replaced traditional chess among younger generations.",
+        "Playing chess may offer cognitive benefits beyond its value as entertainment.",
+        "Memory is not an important skill for playing chess effectively."
+      ],
+      "answer": 2,
+      "explanation": "The passage explicitly states that chess can enhance problem-solving abilities and delay cognitive decline, indicating benefits beyond entertainment. A contradicts the passage, which states luck plays virtually no role. B is false because chess continues to attract players globally. D contradicts the passage, which lists memory as a key cognitive skill."
+    },
+    "el": {
+      "passage": "Το σκάκι είναι ένα παιχνίδι στρατηγικής που παίζεται εδώ και αιώνες, απαιτώντας από τους παίκτες να προβλέπουν τις κινήσεις των αντιπάλων και να σχεδιάζουν αρκετά βήματα μπροστά. Ενώ η τύχη παίζει πρακτικά ανύπαρκτο ρόλο, γνωστικές δεξιότητες όπως η μνήμη, η αναγνώριση προτύπων και η κριτική σκέψη είναι απαραίτητες. Σύγχρονες έρευνες υποδηλώνουν ότι η τακτική εξάσκηση στο σκάκι μπορεί να ενισχύσει τις ικανότητες επίλυσης προβλημάτων και ακόμη και να επιβραδύνει τη γνωστική έκπτωση σε ηλικιωμένους. Παρά την άνοδο της ψηφιακής ψυχαγωγίας, το σκάκι εξακολουθεί να προσελκύει παίκτες όλων των ηλικιών παγκοσμίως.",
+      "question": "Τι μπορεί να συναχθεί από το κείμενο;",
+      "options": [
+        "Το σκάκι είναι κυρίως παιχνίδι τύχης παρά δεξιότητας.",
+        "Τα ηλεκτρονικά παιχνίδια έχουν πλήρως αντικαταστήσει το σκάκι στις νεότερες γενιές.",
+        "Η εξάσκηση στο σκάκι ενδέχεται να προσφέρει γνωστικά οφέλη πέραν της αξίας του ως ψυχαγωγίας.",
+        "Η μνήμη δεν αποτελεί σημαντική δεξιότητα για την αποτελεσματική εξάσκηση στο σκάκι."
+      ],
+      "answer": 2,
+      "explanation": "Το κείμενο αναφέρει ρητά ότι το σκάκι μπορεί να βελτιώσει ικανότητες επίλυσης προβλημάτων και να επιβραδύνει τη γνωστική έκπτωση. Η Α αντιφάσκει με το κείμενο. Η Β είναι εσφαλμένη διότι το σκάκι εξακολουθεί να προσελκύει παίκτες παγκοσμίως. Η Δ αντιφάσκει με το κείμενο, που αναφέρει τη μνήμη ως βασική δεξιότητα."
+    }
   },
-
-  // Q47 — correct answer: D (index 3)
   {
-    passage: "Some companies adopt AI aggressively, while others avoid it altogether. Those that adopt AI are not necessarily better performers in every industry, yet it would be incorrect to assume that avoiding AI guarantees inferior results. Industries differ, and context often dictates whether AI adoption is beneficial or even necessary.",
-    passageGr: "Ορισμένες εταιρείες υιοθετούν εντατικά την τεχνητή νοημοσύνη, ενώ άλλες την αποφεύγουν εντελώς. Εκείνες που υιοθετούν ΤΝ δεν επιτυγχάνουν κατ' ανάγκη καλύτερες επιδόσεις σε κάθε κλάδο, ωστόσο θα ήταν εσφαλμένο να υποθέσουμε ότι η αποφυγή της ΤΝ εγγυάται κατώτερα αποτελέσματα. Οι κλάδοι διαφέρουν μεταξύ τους, και το πλαίσιο συχνά καθορίζει εάν η υιοθέτηση ΤΝ είναι ωφέλιμη ή και αναγκαία.",
-    q: "Which conclusion is best drawn from the passage?",
-    qGr: "Ποιο συμπέρασμα προκύπτει καλύτερα από το κείμενο;",
-    opts: [
-      { t: "Adopting AI always leads to superior business performance.", tGr: "Η υιοθέτηση τεχνητής νοημοσύνης οδηγεί πάντοτε σε ανώτερη επιχειρηματική απόδοση." },
-      { t: "Avoiding AI always results in poor organisational performance.", tGr: "Η αποφυγή της τεχνητής νοημοσύνης οδηγεί πάντοτε σε κακή οργανωτική απόδοση." },
-      { t: "All industries will benefit equally from the adoption of AI technologies.", tGr: "Όλοι οι κλάδοι θα ωφεληθούν εξίσου από την υιοθέτηση τεχνολογιών τεχνητής νοημοσύνης." },
-      { t: "The impact of AI adoption on performance depends on the specific industry context.", tGr: "Ο αντίκτυπος της υιοθέτησης τεχνητής νοημοσύνης στην απόδοση εξαρτάται από το συγκεκριμένο κλαδικό πλαίσιο." }
-    ],
-    ans: 3,
-    exp: "The passage explicitly states that context often dictates whether AI adoption is beneficial or necessary, and that AI adopters are not necessarily better performers in every industry. Options A and B are overgeneralisations contradicted by the passage. Option C ignores the context-dependent nature of AI benefits that the passage emphasises.",
-    expGr: "Το κείμενο δηλώνει ρητά ότι το πλαίσιο καθορίζει συχνά εάν η υιοθέτηση ΤΝ είναι ωφέλιμη και ότι η υιοθέτησή της δεν εγγυάται υπεροχή σε κάθε κλάδο. Οι επιλογές Α και Β αποτελούν υπεργενικεύσεις που αντιφάσκουν με το κείμενο. Η Γ αγνοεί τη συναρτώμενη με το πλαίσιο φύση των ωφελειών της ΤΝ."
+    "en": {
+      "passage": "Some companies adopt AI aggressively, while others avoid it altogether. Those that adopt AI are not necessarily better performers in every industry, yet it would be incorrect to assume that avoiding AI guarantees inferior results. Industries differ, and context often dictates whether AI adoption is beneficial or even necessary.",
+      "question": "Which conclusion is best drawn from the passage?",
+      "options": [
+        "Adopting AI always leads to superior business performance.",
+        "Avoiding AI always results in poor organisational performance.",
+        "All industries will benefit equally from the adoption of AI technologies.",
+        "The impact of AI adoption on performance depends on the specific industry context."
+      ],
+      "answer": 3,
+      "explanation": "The passage explicitly states that context often dictates whether AI adoption is beneficial or necessary, and that AI adopters are not necessarily better performers in every industry. A and B are overgeneralisations contradicted by the passage. C ignores the context-dependent nature of AI benefits that the passage emphasises."
+    },
+    "el": {
+      "passage": "Ορισμένες εταιρείες υιοθετούν εντατικά την τεχνητή νοημοσύνη, ενώ άλλες την αποφεύγουν εντελώς. Εκείνες που υιοθετούν ΤΝ δεν επιτυγχάνουν κατ' ανάγκη καλύτερες επιδόσεις σε κάθε κλάδο, ωστόσο θα ήταν εσφαλμένο να υποθέσουμε ότι η αποφυγή της ΤΝ εγγυάται κατώτερα αποτελέσματα. Οι κλάδοι διαφέρουν μεταξύ τους, και το πλαίσιο συχνά καθορίζει εάν η υιοθέτηση ΤΝ είναι ωφέλιμη ή και αναγκαία.",
+      "question": "Ποιο συμπέρασμα προκύπτει καλύτερα από το κείμενο;",
+      "options": [
+        "Η υιοθέτηση τεχνητής νοημοσύνης οδηγεί πάντοτε σε ανώτερη επιχειρηματική απόδοση.",
+        "Η αποφυγή της τεχνητής νοημοσύνης οδηγεί πάντοτε σε κακή οργανωτική απόδοση.",
+        "Όλοι οι κλάδοι θα ωφεληθούν εξίσου από την υιοθέτηση τεχνολογιών τεχνητής νοημοσύνης.",
+        "Ο αντίκτυπος της υιοθέτησης τεχνητής νοημοσύνης στην απόδοση εξαρτάται από το συγκεκριμένο κλαδικό πλαίσιο."
+      ],
+      "answer": 3,
+      "explanation": "Το κείμενο δηλώνει ρητά ότι το πλαίσιο καθορίζει συχνά εάν η υιοθέτηση ΤΝ είναι ωφέλιμη και ότι η υιοθέτησή της δεν εγγυάται υπεροχή σε κάθε κλάδο. Οι επιλογές Α και Β αποτελούν υπεργενικεύσεις που αντιφάσκουν με το κείμενο. Η Γ αγνοεί τη συναρτώμενη με το πλαίσιο φύση των ωφελειών της ΤΝ."
+    }
   },
-
-  // Q48 — correct answer: A (index 0)
   {
-    passage: "The Arctic region is experiencing unprecedented changes due to climate warming. Sea ice is shrinking at a faster rate than previously predicted, affecting both wildlife and human activities. Indigenous communities rely on traditional hunting and fishing, which are increasingly disrupted by changing ice patterns. In addition, new shipping routes are opening as ice retreats, raising concerns about environmental damage, oil spills, and threats to fragile ecosystems. Scientists stress that without urgent global action, the Arctic's biodiversity and the livelihoods of its inhabitants could be irreversibly harmed.",
-    passageGr: "Η αρκτική περιοχή βιώνει πρωτοφανείς αλλαγές λόγω της κλιματικής αύξησης της θερμοκρασίας. Ο θαλάσσιος πάγος συρρικνώνεται με ταχύτερο ρυθμό από ό,τι είχε προβλεφθεί, επηρεάζοντας τόσο την άγρια ζωή όσο και τις ανθρώπινες δραστηριότητες. Οι αυτόχθονες κοινότητες εξαρτώνται από την παραδοσιακή κυνηγεσία και αλιεία, που διαταράσσονται ολοένα και περισσότερο από τις μεταβαλλόμενες συνθήκες πάγου. Επιπλέον, νέες θαλάσσιες οδοί ανοίγονται καθώς ο πάγος υποχωρεί, εγείροντας ανησυχίες για περιβαλλοντικές ζημιές, διαρροές πετρελαίου και απειλές για εύθραυστα οικοσυστήματα. Επιστήμονες τονίζουν ότι χωρίς επειγόμενη παγκόσμια δράση, η βιοποικιλότητα της Αρκτικής και οι βίοι των κατοίκων της θα μπορούσαν να πληγούν ανεπανόρθωτα.",
-    q: "Which of the following statements is most accurate based on the passage?",
-    qGr: "Ποια από τις ακόλουθες δηλώσεις είναι πλέον ακριβής βάσει του κειμένου;",
-    opts: [
-      { t: "The melting of Arctic ice has consequences for both local communities and the broader environment.", tGr: "Η τήξη των πάγων στην Αρκτική έχει συνέπειες τόσο για τις τοπικές κοινότητες όσο και για το ευρύτερο περιβάλλον." },
-      { t: "Arctic sea ice is expanding, creating new opportunities for commercial shipping.", tGr: "Ο θαλάσσιος πάγος της Αρκτικής διευρύνεται, δημιουργώντας νέες ευκαιρίες για εμπορική ναυτιλία." },
-      { t: "Indigenous communities are largely unaffected by climate change in the Arctic.", tGr: "Οι αυτόχθονες κοινότητες επηρεάζονται σε μεγάλο βαθμό ελάχιστα από την κλιματική αλλαγή στην Αρκτική." },
-      { t: "Scientists believe that Arctic ecosystems are sufficiently resilient to withstand current changes.", tGr: "Επιστήμονες πιστεύουν ότι τα αρκτικά οικοσυστήματα είναι αρκετά ανθεκτικά ώστε να αντέξουν τις τρέχουσες αλλαγές." }
-    ],
-    ans: 0,
-    exp: "The passage describes impacts on wildlife, indigenous livelihoods, and the environment, making option A the accurate synthesis. Option B is wrong because ice is shrinking, not expanding. Option C is wrong because the passage explicitly states that indigenous communities are disrupted. Option D contradicts the passage, which warns of irreversible harm.",
-    expGr: "Το κείμενο περιγράφει επιπτώσεις στην άγρια ζωή, στα μέσα διαβίωσης των αυτόχθονων και στο περιβάλλον, καθιστώντας την Α ακριβή σύνθεση. Η Β είναι εσφαλμένη διότι ο πάγος συρρικνώνεται. Η Γ είναι εσφαλμένη διότι οι αυτόχθονες κοινότητες επηρεάζονται άμεσα. Η Δ αντιφάσκει με το κείμενο, που προειδοποιεί για ανεπανόρθωτη ζημιά."
+    "en": {
+      "passage": "The Arctic region is experiencing unprecedented changes due to climate warming. Sea ice is shrinking at a faster rate than previously predicted, affecting both wildlife and human activities. Indigenous communities rely on traditional hunting and fishing, which are increasingly disrupted by changing ice patterns. In addition, new shipping routes are opening as ice retreats, raising concerns about environmental damage, oil spills, and threats to fragile ecosystems. Scientists stress that without urgent global action, the Arctic's biodiversity and the livelihoods of its inhabitants could be irreversibly harmed.",
+      "question": "Which of the following statements is most accurate based on the passage?",
+      "options": [
+        "The melting of Arctic ice has consequences for both local communities and the broader environment.",
+        "Arctic sea ice is expanding, creating new opportunities for commercial shipping.",
+        "Indigenous communities are largely unaffected by climate change in the Arctic.",
+        "Scientists believe that Arctic ecosystems are sufficiently resilient to withstand current changes."
+      ],
+      "answer": 0,
+      "explanation": "The passage describes impacts on wildlife, indigenous livelihoods, and the environment, making A the accurate synthesis. B is wrong because ice is shrinking, not expanding. C is wrong because the passage explicitly states that indigenous communities are disrupted. D contradicts the passage, which warns of irreversible harm."
+    },
+    "el": {
+      "passage": "Η αρκτική περιοχή βιώνει πρωτοφανείς αλλαγές λόγω της κλιματικής αύξησης της θερμοκρασίας. Ο θαλάσσιος πάγος συρρικνώνεται με ταχύτερο ρυθμό από ό,τι είχε προβλεφθεί, επηρεάζοντας τόσο την άγρια ζωή όσο και τις ανθρώπινες δραστηριότητες. Οι αυτόχθονες κοινότητες εξαρτώνται από την παραδοσιακή κυνηγεσία και αλιεία, που διαταράσσονται ολοένα και περισσότερο από τις μεταβαλλόμενες συνθήκες πάγου. Επιπλέον, νέες θαλάσσιες οδοί ανοίγονται καθώς ο πάγος υποχωρεί, εγείροντας ανησυχίες για περιβαλλοντικές ζημιές και απειλές για εύθραυστα οικοσυστήματα. Επιστήμονες τονίζουν ότι χωρίς επειγόμενη παγκόσμια δράση, η βιοποικιλότητα της Αρκτικής και τα μέσα διαβίωσης των κατοίκων της θα μπορούσαν να πληγούν ανεπανόρθωτα.",
+      "question": "Ποια από τις ακόλουθες δηλώσεις είναι πλέον ακριβής βάσει του κειμένου;",
+      "options": [
+        "Η τήξη των πάγων στην Αρκτική έχει συνέπειες τόσο για τις τοπικές κοινότητες όσο και για το ευρύτερο περιβάλλον.",
+        "Ο θαλάσσιος πάγος της Αρκτικής διευρύνεται, δημιουργώντας νέες ευκαιρίες για εμπορική ναυτιλία.",
+        "Οι αυτόχθονες κοινότητες επηρεάζονται ελάχιστα από την κλιματική αλλαγή στην Αρκτική.",
+        "Επιστήμονες πιστεύουν ότι τα αρκτικά οικοσυστήματα είναι αρκετά ανθεκτικά ώστε να αντέξουν τις τρέχουσες αλλαγές."
+      ],
+      "answer": 0,
+      "explanation": "Το κείμενο περιγράφει επιπτώσεις στην άγρια ζωή, στα μέσα διαβίωσης των αυτόχθονων και στο περιβάλλον. Η Β είναι εσφαλμένη διότι ο πάγος συρρικνώνεται. Η Γ είναι εσφαλμένη διότι οι αυτόχθονες κοινότητες επηρεάζονται άμεσα. Η Δ αντιφάσκει με το κείμενο, που προειδοποιεί για ανεπανόρθωτη ζημιά."
+    }
   },
-
-  // Q49 — correct answer: B (index 1)
   {
-    passage: "The European Union has implemented various measures to protect wild fauna, including the Habitats Directive and the Natura 2000 network. These frameworks aim to conserve species and habitats that are threatened or declining. Member states are required to establish protected areas and implement management plans, ensuring that human activities do not jeopardise vulnerable populations. Despite these efforts, challenges such as habitat fragmentation, poaching, and climate change continue to threaten Europe's biodiversity. Cooperation among countries is considered essential to achieving long-term protection goals.",
-    passageGr: "Η Ευρωπαϊκή Ένωση έχει εφαρμόσει διάφορα μέτρα για την προστασία της άγριας πανίδας, συμπεριλαμβανομένης της Οδηγίας για τους Οικοτόπους και του δικτύου Natura 2000. Αυτά τα πλαίσια στοχεύουν στη διατήρηση ειδών και οικοτόπων που απειλούνται ή μειώνονται. Τα κράτη μέλη υποχρεούνται να ορίσουν προστατευόμενες περιοχές και να εφαρμόσουν σχέδια διαχείρισης, ώστε οι ανθρώπινες δραστηριότητες να μη θέτουν σε κίνδυνο ευάλωτους πληθυσμούς. Παρά τις προσπάθειες αυτές, προκλήσεις όπως η κατακερματισμός οικοτόπων, η λαθροθηρία και η κλιματική αλλαγή εξακολουθούν να απειλούν τη βιοποικιλότητα της Ευρώπης. Η συνεργασία μεταξύ κρατών θεωρείται απαραίτητη για την επίτευξη μακροπρόθεσμων στόχων προστασίας.",
-    q: "Which statement can be correctly inferred from the passage?",
-    qGr: "Ποια δήλωση μπορεί να συναχθεί ορθά από το κείμενο;",
-    opts: [
-      { t: "EU legislation guarantees that all wildlife in Europe is completely safe from harm.", tGr: "Η νομοθεσία της ΕΕ εγγυάται ότι όλη η άγρια ζωή στην Ευρώπη είναι απολύτως προστατευμένη." },
-      { t: "Protecting wild fauna in the EU requires coordination between member states.", tGr: "Η προστασία της άγριας πανίδας στην ΕΕ απαιτεί συντονισμό μεταξύ των κρατών μελών." },
-      { t: "Poaching and habitat fragmentation have been eliminated thanks to EU directives.", tGr: "Η λαθροθηρία και ο κατακερματισμός οικοτόπων έχουν εξαλειφθεί χάρη στις οδηγίες της ΕΕ." },
-      { t: "Only a limited number of species benefit from EU wildlife protection measures.", tGr: "Μόνο περιορισμένος αριθμός ειδών επωφελείται από τα μέτρα προστασίας άγριας ζωής της ΕΕ." }
-    ],
-    ans: 1,
-    exp: "The passage explicitly states that cooperation among countries is essential for long-term protection goals. Option A is wrong because challenges still persist. Option C is false because poaching and fragmentation are described as ongoing threats. Option D is wrong because the frameworks target multiple species and habitats broadly.",
-    expGr: "Το κείμενο αναφέρει ρητά ότι η συνεργασία μεταξύ κρατών είναι απαραίτητη. Η Α είναι εσφαλμένη διότι οι προκλήσεις εξακολουθούν να υφίστανται. Η Γ είναι εσφαλμένη διότι η λαθροθηρία και ο κατακερματισμός περιγράφονται ως συνεχιζόμενες απειλές. Η Δ είναι εσφαλμένη διότι τα πλαίσια αφορούν ευρύ φάσμα ειδών."
+    "en": {
+      "passage": "The European Union has implemented various measures to protect wild fauna, including the Habitats Directive and the Natura 2000 network. These frameworks aim to conserve species and habitats that are threatened or declining. Member states are required to establish protected areas and implement management plans, ensuring that human activities do not jeopardise vulnerable populations. Despite these efforts, challenges such as habitat fragmentation, poaching, and climate change continue to threaten Europe's biodiversity. Cooperation among countries is considered essential to achieving long-term protection goals.",
+      "question": "Which statement can be correctly inferred from the passage?",
+      "options": [
+        "EU legislation guarantees that all wildlife in Europe is completely safe from harm.",
+        "Protecting wild fauna in the EU requires coordination between member states.",
+        "Poaching and habitat fragmentation have been eliminated thanks to EU directives.",
+        "Only a limited number of species benefit from EU wildlife protection measures."
+      ],
+      "answer": 1,
+      "explanation": "The passage explicitly states that cooperation among countries is essential for long-term protection goals. A is wrong because challenges still persist. C is false because poaching and fragmentation are described as ongoing threats. D is wrong because the frameworks target multiple species and habitats broadly."
+    },
+    "el": {
+      "passage": "Η Ευρωπαϊκή Ένωση έχει εφαρμόσει διάφορα μέτρα για την προστασία της άγριας πανίδας, συμπεριλαμβανομένης της Οδηγίας για τους Οικοτόπους και του δικτύου Natura 2000. Αυτά τα πλαίσια στοχεύουν στη διατήρηση ειδών και οικοτόπων που απειλούνται ή μειώνονται. Τα κράτη μέλη υποχρεούνται να ορίσουν προστατευόμενες περιοχές και να εφαρμόσουν σχέδια διαχείρισης, ώστε οι ανθρώπινες δραστηριότητες να μη θέτουν σε κίνδυνο ευάλωτους πληθυσμούς. Παρά τις προσπάθειες αυτές, προκλήσεις όπως ο κατακερματισμός οικοτόπων, η λαθροθηρία και η κλιματική αλλαγή εξακολουθούν να απειλούν τη βιοποικιλότητα της Ευρώπης. Η συνεργασία μεταξύ κρατών θεωρείται απαραίτητη για την επίτευξη μακροπρόθεσμων στόχων προστασίας.",
+      "question": "Ποια δήλωση μπορεί να συναχθεί ορθά από το κείμενο;",
+      "options": [
+        "Η νομοθεσία της ΕΕ εγγυάται ότι όλη η άγρια ζωή στην Ευρώπη είναι απολύτως προστατευμένη.",
+        "Η προστασία της άγριας πανίδας στην ΕΕ απαιτεί συντονισμό μεταξύ των κρατών μελών.",
+        "Η λαθροθηρία και ο κατακερματισμός οικοτόπων έχουν εξαλειφθεί χάρη στις οδηγίες της ΕΕ.",
+        "Μόνο περιορισμένος αριθμός ειδών επωφελείται από τα μέτρα προστασίας άγριας ζωής της ΕΕ."
+      ],
+      "answer": 1,
+      "explanation": "Το κείμενο αναφέρει ρητά ότι η συνεργασία μεταξύ κρατών είναι απαραίτητη. Η Α είναι εσφαλμένη διότι οι προκλήσεις εξακολουθούν να υφίστανται. Η Γ είναι εσφαλμένη διότι η λαθροθηρία και ο κατακερματισμός περιγράφονται ως συνεχιζόμενες απειλές. Η Δ είναι εσφαλμένη διότι τα πλαίσια αφορούν ευρύ φάσμα ειδών."
+    }
   },
-
-  // Q50 — correct answer: C (index 2)
   {
-    passage: "Kaliningrad is a Russian exclave located between Poland and Lithuania on the Baltic Sea. Despite being geographically separated from mainland Russia, it plays a crucial role in regional security and trade. The exclave's location has led to complex relations with the European Union and neighbouring countries, particularly regarding transit, border controls, and economic cooperation. While some view Kaliningrad as strategically important for Russia, others argue that its position makes it vulnerable to regional tensions and dependent on agreements with EU member states.",
-    passageGr: "Το Καλίνινγκραντ είναι ένας ρωσικός θύλακας που βρίσκεται μεταξύ Πολωνίας και Λιθουανίας στη Βαλτική Θάλασσα. Παρά τον γεωγραφικό διαχωρισμό από την ηπειρωτική Ρωσία, διαδραματίζει καθοριστικό ρόλο στην περιφερειακή ασφάλεια και το εμπόριο. Η θέση του θύλακα έχει οδηγήσει σε σύνθετες σχέσεις με την Ευρωπαϊκή Ένωση και τις γειτονικές χώρες, ιδίως όσον αφορά τη διέλευση, τους ελέγχους συνόρων και την οικονομική συνεργασία. Ενώ ορισμένοι θεωρούν το Καλίνινγκραντ στρατηγικά σημαντικό για τη Ρωσία, άλλοι υποστηρίζουν ότι η θέση του το καθιστά ευάλωτο σε περιφερειακές εντάσεις και εξαρτώμενο από συμφωνίες με κράτη μέλη της ΕΕ.",
-    q: "Which of the following statements is most supported by the passage?",
-    qGr: "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται καλύτερα από το κείμενο;",
-    opts: [
-      { t: "Kaliningrad is geographically contiguous with the rest of Russia.", tGr: "Το Καλίνινγκραντ συνορεύει γεωγραφικά με την υπόλοιπη Ρωσία." },
-      { t: "The EU fully controls Kaliningrad's trade and security arrangements.", tGr: "Η ΕΕ ελέγχει πλήρως τις εμπορικές και αμυντικές ρυθμίσεις του Καλίνινγκραντ." },
-      { t: "Kaliningrad's geographic position creates both strategic opportunities and potential vulnerabilities for Russia.", tGr: "Η γεωγραφική θέση του Καλίνινγκραντ δημιουργεί τόσο στρατηγικές ευκαιρίες όσο και δυνητικές τρωτότητες για τη Ρωσία." },
-      { t: "Russia has no strategic interest in Kaliningrad due to its distance from the mainland.", tGr: "Η Ρωσία δεν έχει στρατηγικό ενδιαφέρον για το Καλίνινγκραντ λόγω της απόστασής του από την ηπειρωτική χώρα." }
-    ],
-    ans: 2,
-    exp: "The passage presents two perspectives: Kaliningrad as strategically important and simultaneously vulnerable to tensions. Option A is wrong because it is an exclave, separated from mainland Russia. Option B is wrong because the EU does not control it. Option D contradicts the passage, which clearly states Russia views it as strategically important.",
-    expGr: "Το κείμενο παρουσιάζει δύο οπτικές: το Καλίνινγκραντ ως στρατηγικά σημαντικό και ταυτόχρονα ευάλωτο. Η Α είναι εσφαλμένη διότι είναι θύλακας. Η Β είναι εσφαλμένη διότι η ΕΕ δεν το ελέγχει. Η Δ αντιφάσκει με το κείμενο, που το χαρακτηρίζει στρατηγικά σημαντικό για τη Ρωσία."
+    "en": {
+      "passage": "Kaliningrad is a Russian exclave located between Poland and Lithuania on the Baltic Sea. Despite being geographically separated from mainland Russia, it plays a crucial role in regional security and trade. The exclave's location has led to complex relations with the European Union and neighbouring countries, particularly regarding transit, border controls, and economic cooperation. While some view Kaliningrad as strategically important for Russia, others argue that its position makes it vulnerable to regional tensions and dependent on agreements with EU member states.",
+      "question": "Which of the following statements is most supported by the passage?",
+      "options": [
+        "Kaliningrad is geographically contiguous with the rest of Russia.",
+        "The EU fully controls Kaliningrad's trade and security arrangements.",
+        "Kaliningrad's geographic position creates both strategic opportunities and potential vulnerabilities for Russia.",
+        "Russia has no strategic interest in Kaliningrad due to its distance from the mainland."
+      ],
+      "answer": 2,
+      "explanation": "The passage presents two perspectives: Kaliningrad as strategically important and simultaneously vulnerable. A is wrong because it is an exclave, separated from mainland Russia. B is wrong because the EU does not control it. D contradicts the passage, which clearly states Russia views it as strategically important."
+    },
+    "el": {
+      "passage": "Το Καλίνινγκραντ είναι ένας ρωσικός θύλακας που βρίσκεται μεταξύ Πολωνίας και Λιθουανίας στη Βαλτική Θάλασσα. Παρά τον γεωγραφικό διαχωρισμό από την ηπειρωτική Ρωσία, διαδραματίζει καθοριστικό ρόλο στην περιφερειακή ασφάλεια και το εμπόριο. Η θέση του θύλακα έχει οδηγήσει σε σύνθετες σχέσεις με την Ευρωπαϊκή Ένωση και τις γειτονικές χώρες, ιδίως όσον αφορά τη διέλευση, τους ελέγχους συνόρων και την οικονομική συνεργασία. Ενώ ορισμένοι θεωρούν το Καλίνινγκραντ στρατηγικά σημαντικό για τη Ρωσία, άλλοι υποστηρίζουν ότι η θέση του το καθιστά ευάλωτο σε περιφερειακές εντάσεις και εξαρτώμενο από συμφωνίες με κράτη μέλη της ΕΕ.",
+      "question": "Ποια από τις ακόλουθες δηλώσεις υποστηρίζεται καλύτερα από το κείμενο;",
+      "options": [
+        "Το Καλίνινγκραντ συνορεύει γεωγραφικά με την υπόλοιπη Ρωσία.",
+        "Η ΕΕ ελέγχει πλήρως τις εμπορικές και αμυντικές ρυθμίσεις του Καλίνινγκραντ.",
+        "Η γεωγραφική θέση του Καλίνινγκραντ δημιουργεί τόσο στρατηγικές ευκαιρίες όσο και δυνητικές τρωτότητες για τη Ρωσία.",
+        "Η Ρωσία δεν έχει στρατηγικό ενδιαφέρον για το Καλίνινγκραντ λόγω της απόστασής του από την ηπειρωτική χώρα."
+      ],
+      "answer": 2,
+      "explanation": "Το κείμενο παρουσιάζει δύο οπτικές: το Καλίνινγκραντ ως στρατηγικά σημαντικό και ταυτόχρονα ευάλωτο. Η Α είναι εσφαλμένη διότι είναι θύλακας. Η Β είναι εσφαλμένη διότι η ΕΕ δεν το ελέγχει. Η Δ αντιφάσκει με το κείμενο, που το χαρακτηρίζει στρατηγικά σημαντικό για τη Ρωσία."
+    }
   },
-
-  // Q51 — correct answer: D (index 3)
   {
-    passage: "Nuclear energy remains a significant component of the European Union's energy mix, providing low-carbon electricity in several member states. Supporters argue that nuclear power contributes to energy security and helps reduce greenhouse gas emissions, while opponents raise concerns about radioactive waste, plant safety, and high costs. Different countries within the EU have diverging policies: some plan to phase out nuclear energy, whereas others intend to maintain or even expand their nuclear capacity. Coordinated EU-level strategies are challenging due to these national differences, despite shared climate and energy objectives.",
-    passageGr: "Η πυρηνική ενέργεια παραμένει σημαντικό στοιχείο του ενεργειακού μείγματος της Ευρωπαϊκής Ένωσης, παρέχοντας ηλεκτρισμό χαμηλού άνθρακα σε αρκετά κράτη μέλη. Οι υποστηρικτές υποστηρίζουν ότι η πυρηνική ενέργεια συμβάλλει στην ενεργειακή ασφάλεια και στη μείωση εκπομπών αερίων θερμοκηπίου, ενώ οι αντίπαλοι εγείρουν ανησυχίες για ραδιενεργά απόβλητα, ασφάλεια εγκαταστάσεων και υψηλό κόστος. Διαφορετικές χώρες της ΕΕ ακολουθούν αποκλίνουσες πολιτικές: ορισμένες σχεδιάζουν να εγκαταλείψουν την πυρηνική ενέργεια, ενώ άλλες σκοπεύουν να διατηρήσουν ή και να επεκτείνουν την πυρηνική τους δυναμικότητα. Οι συντονισμένες στρατηγικές σε επίπεδο ΕΕ είναι δύσκολες λόγω αυτών των εθνικών διαφορών, παρά τους κοινούς κλιματικούς και ενεργειακούς στόχους.",
-    q: "Which of the following conclusions is most accurate according to the passage?",
-    qGr: "Ποιο από τα ακόλουθα συμπεράσματα είναι πλέον ακριβές σύμφωνα με το κείμενο;",
-    opts: [
-      { t: "All EU member states are planning to expand their nuclear energy capacity.", tGr: "Όλα τα κράτη μέλη της ΕΕ σχεδιάζουν να επεκτείνουν την πυρηνική τους ικανότητα." },
-      { t: "Nuclear energy makes no contribution to reducing greenhouse gas emissions.", tGr: "Η πυρηνική ενέργεια δεν συμβάλλει καθόλου στη μείωση εκπομπών αερίων θερμοκηπίου." },
-      { t: "Safety concerns and radioactive waste are irrelevant to EU nuclear policy debates.", tGr: "Οι ανησυχίες ασφάλειας και τα ραδιενεργά απόβλητα είναι άσχετα με τις συζητήσεις πολιτικής για την πυρηνική ενέργεια στην ΕΕ." },
-      { t: "Diverging national policies on nuclear energy make EU-wide coordination difficult.", tGr: "Οι αποκλίνουσες εθνικές πολιτικές για την πυρηνική ενέργεια δυσχεραίνουν τον συντονισμό σε επίπεδο ΕΕ." }
-    ],
-    ans: 3,
-    exp: "The passage explicitly states that diverging national policies make EU-level coordination challenging. Option A is wrong because some countries are phasing out nuclear energy. Option B is wrong because nuclear is described as low-carbon. Option C is wrong because safety and waste concerns are specifically listed as key issues in the debate.",
-    expGr: "Το κείμενο αναφέρει ρητά ότι οι αποκλίνουσες εθνικές πολιτικές δυσχεραίνουν τον συντονισμό. Η Α είναι εσφαλμένη διότι ορισμένες χώρες εγκαταλείπουν την πυρηνική ενέργεια. Η Β είναι εσφαλμένη διότι η πυρηνική ενέργεια χαρακτηρίζεται ως χαμηλού άνθρακα. Η Γ είναι εσφαλμένη διότι οι ανησυχίες ασφάλειας και αποβλήτων αναφέρονται ρητά."
+    "en": {
+      "passage": "Nuclear energy remains a significant component of the European Union's energy mix, providing low-carbon electricity in several member states. Supporters argue that nuclear power contributes to energy security and helps reduce greenhouse gas emissions, while opponents raise concerns about radioactive waste, plant safety, and high costs. Different countries within the EU have diverging policies: some plan to phase out nuclear energy, whereas others intend to maintain or even expand their nuclear capacity. Coordinated EU-level strategies are challenging due to these national differences, despite shared climate and energy objectives.",
+      "question": "Which of the following conclusions is most accurate according to the passage?",
+      "options": [
+        "All EU member states are planning to expand their nuclear energy capacity.",
+        "Nuclear energy makes no contribution to reducing greenhouse gas emissions.",
+        "Safety concerns and radioactive waste are irrelevant to EU nuclear policy debates.",
+        "Diverging national policies on nuclear energy make EU-wide coordination difficult."
+      ],
+      "answer": 3,
+      "explanation": "The passage explicitly states that diverging national policies make EU-level coordination challenging. A is wrong because some countries are phasing out nuclear energy. B is wrong because nuclear is described as low-carbon. C is wrong because safety and waste concerns are specifically listed as key issues."
+    },
+    "el": {
+      "passage": "Η πυρηνική ενέργεια παραμένει σημαντικό στοιχείο του ενεργειακού μείγματος της Ευρωπαϊκής Ένωσης, παρέχοντας ηλεκτρισμό χαμηλού άνθρακα σε αρκετά κράτη μέλη. Οι υποστηρικτές υποστηρίζουν ότι η πυρηνική ενέργεια συμβάλλει στην ενεργειακή ασφάλεια και στη μείωση εκπομπών αερίων θερμοκηπίου, ενώ οι αντίπαλοι εγείρουν ανησυχίες για ραδιενεργά απόβλητα, ασφάλεια εγκαταστάσεων και υψηλό κόστος. Διαφορετικές χώρες της ΕΕ ακολουθούν αποκλίνουσες πολιτικές: ορισμένες σχεδιάζουν να εγκαταλείψουν την πυρηνική ενέργεια, ενώ άλλες σκοπεύουν να διατηρήσουν ή και να επεκτείνουν την πυρηνική τους δυναμικότητα. Οι συντονισμένες στρατηγικές σε επίπεδο ΕΕ είναι δύσκολες λόγω αυτών των εθνικών διαφορών, παρά τους κοινούς κλιματικούς και ενεργειακούς στόχους.",
+      "question": "Ποιο από τα ακόλουθα συμπεράσματα είναι πλέον ακριβές σύμφωνα με το κείμενο;",
+      "options": [
+        "Όλα τα κράτη μέλη της ΕΕ σχεδιάζουν να επεκτείνουν την πυρηνική τους ικανότητα.",
+        "Η πυρηνική ενέργεια δεν συμβάλλει καθόλου στη μείωση εκπομπών αερίων θερμοκηπίου.",
+        "Οι ανησυχίες ασφάλειας και τα ραδιενεργά απόβλητα είναι άσχετα με τις συζητήσεις πολιτικής για την πυρηνική ενέργεια στην ΕΕ.",
+        "Οι αποκλίνουσες εθνικές πολιτικές για την πυρηνική ενέργεια δυσχεραίνουν τον συντονισμό σε επίπεδο ΕΕ."
+      ],
+      "answer": 3,
+      "explanation": "Το κείμενο αναφέρει ρητά ότι οι αποκλίνουσες εθνικές πολιτικές δυσχεραίνουν τον συντονισμό. Η Α είναι εσφαλμένη διότι ορισμένες χώρες εγκαταλείπουν την πυρηνική ενέργεια. Η Β είναι εσφαλμένη διότι η πυρηνική ενέργεια χαρακτηρίζεται ως χαμηλού άνθρακα. Η Γ είναι εσφαλμένη διότι οι ανησυχίες ασφάλειας και αποβλήτων αναφέρονται ρητά."
+    }
   },
-
-  // Q52 — correct answer: A (index 0)
   {
-    passage: "The European Union requires that genetically modified (GM) foods be clearly labelled, allowing consumers to make informed choices. Some manufacturers challenged this requirement in court and won certain cases, arguing that the regulation imposed unfair costs or restrictions. However, these legal victories are considered Pyrrhic: although the manufacturers won in the short term, the rulings delayed the implementation of the labelling law. This allowed competitors who did not use GM ingredients to explicitly advertise 'non-GM' products on their packaging, gaining a competitive marketing advantage.",
-    passageGr: "Η Ευρωπαϊκή Ένωση απαιτεί τη σαφή επισήμανση γενετικά τροποποιημένων (ΓΤ) τροφίμων, επιτρέποντας στους καταναλωτές να κάνουν ενημερωμένες επιλογές. Ορισμένοι κατασκευαστές αμφισβήτησαν αυτή την απαίτηση δικαστικά και κέρδισαν ορισμένες υποθέσεις, υποστηρίζοντας ότι ο κανονισμός επέβαλε άδικο κόστος ή περιορισμούς. Ωστόσο, οι νομικές αυτές νίκες θεωρούνται Πύρρειες: αν και οι κατασκευαστές κέρδισαν βραχυπρόθεσμα, οι αποφάσεις καθυστέρησαν την εφαρμογή της νομοθεσίας επισήμανσης. Αυτό επέτρεψε σε ανταγωνιστές που δεν χρησιμοποιούσαν ΓΤ συστατικά να διαφημίσουν ρητά τα προϊόντα τους ως «μη-ΓΤ» στη συσκευασία τους, αποκτώντας ανταγωνιστικό πλεονέκτημα στο μάρκετινγκ.",
-    q: "Why is the court victory described as a Pyrrhic win?",
-    qGr: "Γιατί η δικαστική νίκη χαρακτηρίζεται ως Πύρρεια;",
-    opts: [
-      { t: "Although manufacturers prevailed legally, the delay gave competitors an advantage in marketing non-GM products.", tGr: "Αν και οι κατασκευαστές επικράτησαν νομικά, η καθυστέρηση έδωσε στους ανταγωνιστές πλεονέκτημα στο μάρκετινγκ μη-ΓΤ προϊόντων." },
-      { t: "The court fully overturned the EU labelling requirement, forcing all manufacturers to remove labels.", tGr: "Το δικαστήριο ακύρωσε πλήρως την απαίτηση επισήμανσης της ΕΕ, αναγκάζοντας όλους τους κατασκευαστές να αφαιρέσουν ετικέτες." },
-      { t: "Winning the case prevented competitors from advertising non-GM products on their packaging.", tGr: "Η νίκη στη δίκη εμπόδισε τους ανταγωνιστές να διαφημίσουν μη-ΓΤ προϊόντα στη συσκευασία τους." },
-      { t: "The ruling immediately caused equal financial harm to all manufacturers involved.", tGr: "Η απόφαση προκάλεσε άμεσα ισόποση οικονομική ζημία σε όλους τους εμπλεκόμενους κατασκευαστές." }
-    ],
-    ans: 0,
-    exp: "A Pyrrhic victory is a win that comes at a damaging cost. Here, the legal win delayed the labelling law, which allowed competitors to market 'non-GM' products first and gain a competitive edge — the very outcome the manufacturers sought to prevent. Option B is wrong because the court did not fully overturn labelling. Option C is wrong because competitors did gain the ability to advertise. Option D is wrong because the harm was strategic, not immediate financial.",
-    expGr: "Μια Πύρρεια νίκη είναι μια επιτυχία που έρχεται με βαρύ κόστος. Εδώ, η νομική νίκη καθυστέρησε την επισήμανση, επιτρέποντας στους ανταγωνιστές να κυκλοφορήσουν πρώτοι «μη-ΓΤ» προϊόντα — αποτέλεσμα που οι κατασκευαστές ήθελαν να αποτρέψουν. Η Β είναι εσφαλμένη διότι το δικαστήριο δεν ακύρωσε πλήρως την επισήμανση. Η Γ είναι εσφαλμένη διότι οι ανταγωνιστές όντως κέρδισαν το δικαίωμα διαφήμισης. Η Δ είναι εσφαλμένη διότι η ζημία ήταν στρατηγική, όχι άμεση οικονομική."
+    "en": {
+      "passage": "The European Union requires that genetically modified (GM) foods be clearly labelled, allowing consumers to make informed choices. Some manufacturers challenged this requirement in court and won certain cases, arguing that the regulation imposed unfair costs or restrictions. However, these legal victories are considered Pyrrhic: although the manufacturers won in the short term, the rulings delayed the implementation of the labelling law. This allowed competitors who did not use GM ingredients to explicitly advertise 'non-GM' products on their packaging, gaining a competitive marketing advantage.",
+      "question": "Why is the court victory described as a Pyrrhic win?",
+      "options": [
+        "Although manufacturers prevailed legally, the delay gave competitors an advantage in marketing non-GM products.",
+        "The court fully overturned the EU labelling requirement, forcing all manufacturers to remove labels.",
+        "Winning the case prevented competitors from advertising non-GM products on their packaging.",
+        "The ruling immediately caused equal financial harm to all manufacturers involved."
+      ],
+      "answer": 0,
+      "explanation": "A Pyrrhic victory is a win that comes at a damaging cost. The legal win delayed the labelling law, allowing competitors to market 'non-GM' products first and gain a competitive edge. B is wrong because the court did not fully overturn labelling. C is wrong because competitors did gain the ability to advertise. D is wrong because the harm was strategic, not immediate financial."
+    },
+    "el": {
+      "passage": "Η Ευρωπαϊκή Ένωση απαιτεί τη σαφή επισήμανση γενετικά τροποποιημένων (ΓΤ) τροφίμων, επιτρέποντας στους καταναλωτές να κάνουν ενημερωμένες επιλογές. Ορισμένοι κατασκευαστές αμφισβήτησαν αυτή την απαίτηση δικαστικά και κέρδισαν ορισμένες υποθέσεις, υποστηρίζοντας ότι ο κανονισμός επέβαλε άδικο κόστος ή περιορισμούς. Ωστόσο, οι νομικές αυτές νίκες θεωρούνται Πύρρειες: αν και οι κατασκευαστές κέρδισαν βραχυπρόθεσμα, οι αποφάσεις καθυστέρησαν την εφαρμογή της νομοθεσίας επισήμανσης. Αυτό επέτρεψε σε ανταγωνιστές που δεν χρησιμοποιούσαν ΓΤ συστατικά να διαφημίσουν ρητά τα προϊόντα τους ως «μη-ΓΤ», αποκτώντας ανταγωνιστικό πλεονέκτημα.",
+      "question": "Γιατί η δικαστική νίκη χαρακτηρίζεται ως Πύρρεια;",
+      "options": [
+        "Αν και οι κατασκευαστές επικράτησαν νομικά, η καθυστέρηση έδωσε στους ανταγωνιστές πλεονέκτημα στο μάρκετινγκ μη-ΓΤ προϊόντων.",
+        "Το δικαστήριο ακύρωσε πλήρως την απαίτηση επισήμανσης της ΕΕ, αναγκάζοντας όλους τους κατασκευαστές να αφαιρέσουν ετικέτες.",
+        "Η νίκη στη δίκη εμπόδισε τους ανταγωνιστές να διαφημίσουν μη-ΓΤ προϊόντα στη συσκευασία τους.",
+        "Η απόφαση προκάλεσε άμεσα ισόποση οικονομική ζημία σε όλους τους εμπλεκόμενους κατασκευαστές."
+      ],
+      "answer": 0,
+      "explanation": "Μια Πύρρεια νίκη είναι μια επιτυχία που έρχεται με βαρύ κόστος. Η νομική νίκη καθυστέρησε την επισήμανση, επιτρέποντας στους ανταγωνιστές να κυκλοφορήσουν πρώτοι «μη-ΓΤ» προϊόντα. Η Β είναι εσφαλμένη διότι το δικαστήριο δεν ακύρωσε πλήρως την επισήμανση. Η Γ είναι εσφαλμένη διότι οι ανταγωνιστές όντως κέρδισαν το δικαίωμα διαφήμισης. Η Δ είναι εσφαλμένη διότι η ζημία ήταν στρατηγική, όχι άμεση οικονομική."
+    }
   },
-
-  // Q53 — correct answer: B (index 1)
   {
-    passage: "The European Green Deal, unveiled in 2019 and revised through 2024, is the EU's flagship strategy to achieve climate neutrality by 2050. It encompasses measures to reduce greenhouse gas emissions, promote circular economies, and accelerate the transition to renewable energy. Recent amendments have tightened targets for emissions and land use, while introducing a Carbon Border Adjustment Mechanism to address carbon leakage from imports. While the plan has drawn praise for its ambition, critics argue that implementation gaps, uneven member state commitment, and social pushback — especially from farming and transport sectors — may undermine its impact.",
-    passageGr: "Η Ευρωπαϊκή Πράσινη Συμφωνία, που παρουσιάστηκε το 2019 και αναθεωρήθηκε έως το 2024, είναι η εμβληματική στρατηγική της ΕΕ για την επίτευξη κλιματικής ουδετερότητας έως το 2050. Περιλαμβάνει μέτρα για τη μείωση εκπομπών αερίων θερμοκηπίου, την προώθηση κυκλικών οικονομιών και την επιτάχυνση της μετάβασης στις ανανεώσιμες πηγές ενέργειας. Πρόσφατες τροπολογίες αύξησαν τους στόχους για εκπομπές και χρήση γης, εισάγοντας παράλληλα Μηχανισμό Άνθρακα στα Σύνορα για την αντιμετώπιση της διαρροής άνθρακα. Ενώ το σχέδιο έχει επαινεθεί για τη φιλοδοξία του, επικριτές υποστηρίζουν ότι κενά εφαρμογής, ανομοιόμορφη δέσμευση κρατών μελών και κοινωνικές αντιδράσεις — ιδίως από τους τομείς της γεωργίας και των μεταφορών — ενδέχεται να υπονομεύσουν τον αντίκτυπό της.",
-    q: "Which of the following is the primary topic of the passage?",
-    qGr: "Ποιο είναι το κύριο θέμα του κειμένου;",
-    opts: [
-      { t: "The consequences of climate change in southern EU member states.", tGr: "Οι συνέπειες της κλιματικής αλλαγής στα νότια κράτη μέλη της ΕΕ." },
-      { t: "The scope, evolution, and implementation challenges of the European Green Deal.", tGr: "Το πεδίο εφαρμογής, η εξέλιξη και οι προκλήσεις εφαρμογής της Ευρωπαϊκής Πράσινης Συμφωνίας." },
-      { t: "The central role of agriculture in European renewable energy markets.", tGr: "Ο κεντρικός ρόλος της γεωργίας στις ευρωπαϊκές αγορές ανανεώσιμης ενέργειας." },
-      { t: "The legal enforcement mechanisms of EU environmental treaties.", tGr: "Οι μηχανισμοί νομικής επιβολής των περιβαλλοντικών συνθηκών της ΕΕ." }
-    ],
-    ans: 1,
-    exp: "The passage covers what the Green Deal is, how it has been revised, and what challenges threaten its implementation — making B the accurate summary of the primary topic. Option A is too narrow and not mentioned. Option C is a distortion: agriculture is mentioned only as a sector reacting to the plan. Option D is wrong because legal enforcement mechanisms are not discussed.",
-    expGr: "Το κείμενο καλύπτει το τι είναι η Πράσινη Συμφωνία, πώς αναθεωρήθηκε και ποιες προκλήσεις απειλούν την εφαρμογή της. Η Α είναι υπερβολικά στενή. Η Γ παραμορφώνει το κείμενο: η γεωργία αναφέρεται μόνο ως τομέας αντίδρασης. Η Δ είναι εσφαλμένη διότι δεν συζητούνται μηχανισμοί νομικής επιβολής."
+    "en": {
+      "passage": "The European Green Deal, unveiled in 2019 and revised through 2024, is the EU's flagship strategy to achieve climate neutrality by 2050. It encompasses measures to reduce greenhouse gas emissions, promote circular economies, and accelerate the transition to renewable energy. Recent amendments have tightened targets for emissions and land use, while introducing a Carbon Border Adjustment Mechanism to address carbon leakage from imports. While the plan has drawn praise for its ambition, critics argue that implementation gaps, uneven member state commitment, and social pushback — especially from farming and transport sectors — may undermine its impact.",
+      "question": "Which of the following is the primary topic of the passage?",
+      "options": [
+        "The consequences of climate change in southern EU member states.",
+        "The scope, evolution, and implementation challenges of the European Green Deal.",
+        "The central role of agriculture in European renewable energy markets.",
+        "The legal enforcement mechanisms of EU environmental treaties."
+      ],
+      "answer": 1,
+      "explanation": "The passage covers what the Green Deal is, how it has been revised, and what challenges threaten its implementation. A is too narrow and not discussed. C is a distortion: agriculture is mentioned only as a reacting sector. D is wrong because legal enforcement mechanisms are not discussed."
+    },
+    "el": {
+      "passage": "Η Ευρωπαϊκή Πράσινη Συμφωνία, που παρουσιάστηκε το 2019 και αναθεωρήθηκε έως το 2024, είναι η εμβληματική στρατηγική της ΕΕ για την επίτευξη κλιματικής ουδετερότητας έως το 2050. Περιλαμβάνει μέτρα για τη μείωση εκπομπών αερίων θερμοκηπίου, την προώθηση κυκλικών οικονομιών και την επιτάχυνση της μετάβασης στις ανανεώσιμες πηγές ενέργειας. Πρόσφατες τροπολογίες αύξησαν τους στόχους για εκπομπές και χρήση γης, εισάγοντας παράλληλα Μηχανισμό Άνθρακα στα Σύνορα. Ενώ το σχέδιο έχει επαινεθεί για τη φιλοδοξία του, επικριτές υποστηρίζουν ότι κενά εφαρμογής, ανομοιόμορφη δέσμευση κρατών μελών και κοινωνικές αντιδράσεις — ιδίως από τους τομείς της γεωργίας και των μεταφορών — ενδέχεται να υπονομεύσουν τον αντίκτυπό της.",
+      "question": "Ποιο είναι το κύριο θέμα του κειμένου;",
+      "options": [
+        "Οι συνέπειες της κλιματικής αλλαγής στα νότια κράτη μέλη της ΕΕ.",
+        "Το πεδίο εφαρμογής, η εξέλιξη και οι προκλήσεις εφαρμογής της Ευρωπαϊκής Πράσινης Συμφωνίας.",
+        "Ο κεντρικός ρόλος της γεωργίας στις ευρωπαϊκές αγορές ανανεώσιμης ενέργειας.",
+        "Οι μηχανισμοί νομικής επιβολής των περιβαλλοντικών συνθηκών της ΕΕ."
+      ],
+      "answer": 1,
+      "explanation": "Το κείμενο καλύπτει το τι είναι η Πράσινη Συμφωνία, πώς αναθεωρήθηκε και ποιες προκλήσεις απειλούν την εφαρμογή της. Η Α είναι υπερβολικά στενή. Η Γ παραμορφώνει το κείμενο: η γεωργία αναφέρεται μόνο ως τομέας αντίδρασης. Η Δ είναι εσφαλμένη διότι δεν συζητούνται μηχανισμοί νομικής επιβολής."
+    }
   },
-
-  // Q54 — correct answer: C (index 2)
   {
-    passage: "In the European Union, all officially recognised minority languages are protected under the Charter for Regional or Minority Languages. However, not all protected languages are granted the status of working languages within EU institutions. Some working languages, such as French or German, are also dominant national languages and are therefore not classified as minority tongues. Interestingly, no unrecognised language is protected, though a few protected ones are not widely spoken. Additionally, some minority cultures receive EU funding for preservation efforts, but no culture receives funding without being affiliated to a protected language community.",
-    passageGr: "Στην Ευρωπαϊκή Ένωση, όλες οι επίσημα αναγνωρισμένες μειονοτικές γλώσσες προστατεύονται βάσει του Χάρτη Περιφερειακών ή Μειονοτικών Γλωσσών. Ωστόσο, δεν αποκτούν όλες καθεστώς εργαζόμενης γλώσσας στα θεσμικά όργανα της ΕΕ. Ορισμένες εργαζόμενες γλώσσες, όπως η γαλλική ή η γερμανική, είναι επίσης κυρίαρχες εθνικές γλώσσες και επομένως δεν κατατάσσονται ως μειονοτικές. Αξιοσημείωτα, καμία μη αναγνωρισμένη γλώσσα δεν προστατεύεται, αν και ορισμένες προστατευόμενες δεν ομιλούνται ευρέως. Επιπλέον, ορισμένοι μειονοτικοί πολιτισμοί λαμβάνουν χρηματοδότηση της ΕΕ για προσπάθειες διατήρησης, αλλά κανένας πολιτισμός δεν λαμβάνει χρηματοδότηση χωρίς να συνδέεται με μια προστατευόμενη γλωσσική κοινότητα.",
-    q: "Which of the following can be correctly inferred from the passage?",
-    qGr: "Ποιο από τα ακόλουθα μπορεί να συναχθεί ορθά από το κείμενο;",
-    opts: [
-      { t: "All protected languages in the EU are also designated as working languages of EU institutions.", tGr: "Όλες οι προστατευόμενες γλώσσες στην ΕΕ ορίζονται επίσης ως εργαζόμενες γλώσσες των θεσμικών οργάνων." },
-      { t: "Some working languages of the EU are neither protected nor classified as minority languages.", tGr: "Ορισμένες εργαζόμενες γλώσσες της ΕΕ δεν είναι ούτε προστατευόμενες ούτε κατηγοριοποιούνται ως μειονοτικές." },
-      { t: "No cultural group is eligible for EU funding unless its language is officially protected.", tGr: "Καμία πολιτισμική ομάδα δεν δικαιούται χρηματοδότηση από την ΕΕ εκτός εάν η γλώσσα της είναι επίσημα προστατευόμενη." },
-      { t: "All unrecognised languages in the EU are widely spoken by large populations.", tGr: "Όλες οι μη αναγνωρισμένες γλώσσες στην ΕΕ ομιλούνται ευρέως από μεγάλους πληθυσμούς." }
-    ],
-    ans: 2,
-    exp: "The passage states explicitly that no culture receives funding without being affiliated to a protected language community — a direct basis for option C. Option A is wrong because not all protected languages are working languages. Option B is tempting but not supported: the passage notes some working languages are not minority tongues, but does not confirm they are unprotected. Option D is unsupported: the passage says some protected languages are not widely spoken, but says nothing about unrecognised ones.",
-    expGr: "Το κείμενο δηλώνει ρητά ότι κανένας πολιτισμός δεν λαμβάνει χρηματοδότηση χωρίς να συνδέεται με προστατευόμενη γλωσσική κοινότητα — άμεση βάση για την επιλογή Γ. Η Α είναι εσφαλμένη διότι δεν είναι όλες οι προστατευόμενες εργαζόμενες γλώσσες. Η Β είναι παραπλανητική αλλά δεν τεκμηριώνεται: το κείμενο δεν επιβεβαιώνει ότι οι μη μειονοτικές εργαζόμενες γλώσσες είναι απροστάτευτες. Η Δ δεν υποστηρίζεται: το κείμενο δεν αναφέρει τίποτα για τη χρήση των μη αναγνωρισμένων γλωσσών."
+    "en": {
+      "passage": "In the European Union, all officially recognised minority languages are protected under the Charter for Regional or Minority Languages. However, not all protected languages are granted the status of working languages within EU institutions. Some working languages, such as French or German, are also dominant national languages and are therefore not classified as minority tongues. Interestingly, no unrecognised language is protected, though a few protected ones are not widely spoken. Additionally, some minority cultures receive EU funding for preservation efforts, but no culture receives funding without being affiliated to a protected language community.",
+      "question": "Which of the following can be correctly inferred from the passage?",
+      "options": [
+        "All protected languages in the EU are also designated as working languages of EU institutions.",
+        "Some working languages of the EU are neither protected nor classified as minority languages.",
+        "No cultural group is eligible for EU funding unless its language is officially protected.",
+        "All unrecognised languages in the EU are widely spoken by large populations."
+      ],
+      "answer": 2,
+      "explanation": "The passage states explicitly that no culture receives funding without being affiliated to a protected language community, directly supporting C. A is wrong because not all protected languages are working languages. B is tempting but not supported: the passage does not confirm that non-minority working languages are unprotected. D is unsupported: the passage says nothing about how widely unrecognised languages are spoken."
+    },
+    "el": {
+      "passage": "Στην Ευρωπαϊκή Ένωση, όλες οι επίσημα αναγνωρισμένες μειονοτικές γλώσσες προστατεύονται βάσει του Χάρτη Περιφερειακών ή Μειονοτικών Γλωσσών. Ωστόσο, δεν αποκτούν όλες καθεστώς εργαζόμενης γλώσσας στα θεσμικά όργανα της ΕΕ. Ορισμένες εργαζόμενες γλώσσες, όπως η γαλλική ή η γερμανική, είναι επίσης κυρίαρχες εθνικές γλώσσες και επομένως δεν κατατάσσονται ως μειονοτικές. Αξιοσημείωτα, καμία μη αναγνωρισμένη γλώσσα δεν προστατεύεται, αν και ορισμένες προστατευόμενες δεν ομιλούνται ευρέως. Επιπλέον, κανένας πολιτισμός δεν λαμβάνει χρηματοδότηση χωρίς να συνδέεται με μια προστατευόμενη γλωσσική κοινότητα.",
+      "question": "Ποιο από τα ακόλουθα μπορεί να συναχθεί ορθά από το κείμενο;",
+      "options": [
+        "Όλες οι προστατευόμενες γλώσσες στην ΕΕ ορίζονται επίσης ως εργαζόμενες γλώσσες των θεσμικών οργάνων.",
+        "Ορισμένες εργαζόμενες γλώσσες της ΕΕ δεν είναι ούτε προστατευόμενες ούτε κατηγοριοποιούνται ως μειονοτικές.",
+        "Καμία πολιτισμική ομάδα δεν δικαιούται χρηματοδότηση από την ΕΕ εκτός εάν η γλώσσα της είναι επίσημα προστατευόμενη.",
+        "Όλες οι μη αναγνωρισμένες γλώσσες στην ΕΕ ομιλούνται ευρέως από μεγάλους πληθυσμούς."
+      ],
+      "answer": 2,
+      "explanation": "Το κείμενο δηλώνει ρητά ότι κανένας πολιτισμός δεν λαμβάνει χρηματοδότηση χωρίς να συνδέεται με προστατευόμενη γλωσσική κοινότητα — άμεση βάση για την επιλογή Γ. Η Α είναι εσφαλμένη. Η Β είναι παραπλανητική αλλά δεν τεκμηριώνεται. Η Δ δεν υποστηρίζεται από το κείμενο."
+    }
   },
-
-  // Q55 — correct answer: D (index 3)
   {
-    passage: "While many associate classical music with the Germanic canon — Beethoven, Bach, and Brahms — Europe's musical heritage is far more geographically diverse. Italy gave rise to Vivaldi and Verdi, whose styles shaped both the Baroque concerto and Romantic opera. France, too, played a pivotal role through composers like Debussy, who broke with traditional harmony to explore musical impressionism. Although many of these composers influenced one another, not all were contemporaries; Bach and Vivaldi shared a time period, but Verdi lived a century later. Despite stylistic differences, most major European composers worked within structures shaped by court patronage, church commissions, or emerging public concert culture.",
-    passageGr: "Ενώ πολλοί συνδέουν την κλασική μουσική με το γερμανικό κανόνα — Beethoven, Bach και Brahms — η μουσική κληρονομιά της Ευρώπης είναι πολύ πιο γεωγραφικά ποικιλόμορφη. Η Ιταλία ανέδειξε τον Vivaldi και τον Verdi, των οποίων τα στιλ διαμόρφωσαν τόσο το μπαρόκ κοντσέρτο όσο και τη ρομαντική όπερα. Η Γαλλία, επίσης, διαδραμάτισε κεντρικό ρόλο μέσω συνθετών όπως ο Debussy, που έσπασε με την παραδοσιακή αρμονία για να εξερευνήσει τον μουσικό ιμπρεσιονισμό. Αν και πολλοί από αυτούς τους συνθέτες επηρέαζαν ο ένας τον άλλον, δεν ήταν όλοι σύγχρονοι· ο Bach και ο Vivaldi έζησαν στην ίδια εποχή, αλλά ο Verdi έζησε έναν αιώνα αργότερα. Παρά τις στιλιστικές διαφορές, οι περισσότεροι μεγάλοι Ευρωπαίοι συνθέτες εργάστηκαν εντός δομών που διαμορφώθηκαν από αυλική προστασία, εκκλησιαστικές παραγγελίες ή αναδυόμενο δημόσιο πολιτισμό συναυλιών.",
-    q: "Which of the following statements is correct according to the passage?",
-    qGr: "Ποια από τις ακόλουθες δηλώσεις είναι ορθή σύμφωνα με το κείμενο;",
-    opts: [
-      { t: "All major European composers lived and worked during the same historical period.", tGr: "Όλοι οι μεγάλοι Ευρωπαίοι συνθέτες έζησαν και εργάστηκαν την ίδια ιστορική περίοδο." },
-      { t: "German composers were the principal architects of the entire European classical music tradition.", tGr: "Οι Γερμανοί συνθέτες υπήρξαν οι κύριοι αρχιτέκτονες ολόκληρης της ευρωπαϊκής κλασικής μουσικής παράδοσης." },
-      { t: "Verdi and Bach were close contemporaries who influenced each other's compositions.", tGr: "Ο Verdi και ο Bach ήταν στενοί σύγχρονοι που επηρέασαν ο ένας τις συνθέσεις του άλλου." },
-      { t: "The emergence of public concert culture was among the structures within which classical composers worked.", tGr: "Η ανάδυση της δημόσιας κουλτούρας συναυλιών ήταν μία από τις δομές εντός των οποίων εργάστηκαν οι κλασικοί συνθέτες." }
-    ],
-    ans: 3,
-    exp: "The passage's final sentence explicitly mentions 'emerging public concert culture' as one of the frameworks within which most major composers worked, directly supporting option D. Option A is wrong because Verdi lived a century after Bach. Option B is wrong because the passage emphasises geographical diversity. Option C is wrong because the passage states Verdi and Bach were not contemporaries.",
-    expGr: "Η τελευταία πρόταση του κειμένου αναφέρει ρητά την «αναδυόμενη δημόσια κουλτούρα συναυλιών» ως ένα από τα πλαίσια εργασίας. Η Α είναι εσφαλμένη διότι ο Verdi έζησε έναν αιώνα μετά τον Bach. Η Β είναι εσφαλμένη διότι το κείμενο τονίζει τη γεωγραφική ποικιλομορφία. Η Γ είναι εσφαλμένη διότι ο Verdi και ο Bach δεν ήταν σύγχρονοι."
+    "en": {
+      "passage": "While many associate classical music with the Germanic canon — Beethoven, Bach, and Brahms — Europe's musical heritage is far more geographically diverse. Italy gave rise to Vivaldi and Verdi, whose styles shaped both the Baroque concerto and Romantic opera. France, too, played a pivotal role through composers like Debussy, who broke with traditional harmony to explore musical impressionism. Although many of these composers influenced one another, not all were contemporaries; Bach and Vivaldi shared a time period, but Verdi lived a century later. Despite stylistic differences, most major European composers worked within structures shaped by court patronage, church commissions, or emerging public concert culture.",
+      "question": "Which of the following statements is correct according to the passage?",
+      "options": [
+        "All major European composers lived and worked during the same historical period.",
+        "German composers were the principal architects of the entire European classical music tradition.",
+        "Verdi and Bach were close contemporaries who influenced each other's compositions.",
+        "The emergence of public concert culture was among the structures within which classical composers worked."
+      ],
+      "answer": 3,
+      "explanation": "The passage's final sentence explicitly mentions 'emerging public concert culture' as one of the frameworks within which major composers worked, directly supporting D. A is wrong because Verdi lived a century after Bach. B is wrong because the passage emphasises geographical diversity. C is wrong because the passage states Verdi and Bach were not contemporaries."
+    },
+    "el": {
+      "passage": "Ενώ πολλοί συνδέουν την κλασική μουσική με το γερμανικό κανόνα — Beethoven, Bach και Brahms — η μουσική κληρονομιά της Ευρώπης είναι πολύ πιο γεωγραφικά ποικιλόμορφη. Η Ιταλία ανέδειξε τον Vivaldi και τον Verdi, των οποίων τα στιλ διαμόρφωσαν τόσο το μπαρόκ κοντσέρτο όσο και τη ρομαντική όπερα. Η Γαλλία διαδραμάτισε κεντρικό ρόλο μέσω συνθετών όπως ο Debussy. Αν και πολλοί από αυτούς τους συνθέτες επηρέαζαν ο ένας τον άλλον, δεν ήταν όλοι σύγχρονοι· ο Bach και ο Vivaldi έζησαν στην ίδια εποχή, αλλά ο Verdi έζησε έναν αιώνα αργότερα. Παρά τις στιλιστικές διαφορές, οι περισσότεροι μεγάλοι Ευρωπαίοι συνθέτες εργάστηκαν εντός δομών που διαμορφώθηκαν από αυλική προστασία, εκκλησιαστικές παραγγελίες ή αναδυόμενο δημόσιο πολιτισμό συναυλιών.",
+      "question": "Ποια από τις ακόλουθες δηλώσεις είναι ορθή σύμφωνα με το κείμενο;",
+      "options": [
+        "Όλοι οι μεγάλοι Ευρωπαίοι συνθέτες έζησαν και εργάστηκαν την ίδια ιστορική περίοδο.",
+        "Οι Γερμανοί συνθέτες υπήρξαν οι κύριοι αρχιτέκτονες ολόκληρης της ευρωπαϊκής κλασικής μουσικής παράδοσης.",
+        "Ο Verdi και ο Bach ήταν στενοί σύγχρονοι που επηρέασαν ο ένας τις συνθέσεις του άλλου.",
+        "Η ανάδυση της δημόσιας κουλτούρας συναυλιών ήταν μία από τις δομές εντός των οποίων εργάστηκαν οι κλασικοί συνθέτες."
+      ],
+      "answer": 3,
+      "explanation": "Η τελευταία πρόταση του κειμένου αναφέρει ρητά την «αναδυόμενη δημόσια κουλτούρα συναυλιών» ως ένα από τα πλαίσια εργασίας. Η Α είναι εσφαλμένη διότι ο Verdi έζησε έναν αιώνα μετά τον Bach. Η Β είναι εσφαλμένη διότι το κείμενο τονίζει τη γεωγραφική ποικιλομορφία. Η Γ είναι εσφαλμένη διότι ο Verdi και ο Bach δεν ήταν σύγχρονοι."
+    }
   },
-
-  // Q56 — correct answer: A (index 0)
   {
-    passage: "Philosophy, though often dismissed as abstract speculation, remains central to shaping human inquiry. From the ethics of artificial intelligence to debates on free will, philosophy frames the very questions science seeks to answer. While empirical research can reveal how the world functions, it cannot resolve why certain values should guide human choices. Without philosophical reflection, technological progress risks becoming aimless or even dangerous, as innovation devoid of ethical grounding may harm rather than benefit society.",
-    passageGr: "Η φιλοσοφία, αν και συχνά απορρίπτεται ως αφηρημένη σκέψη, παραμένει κεντρική για τη διαμόρφωση της ανθρώπινης διερεύνησης. Από την ηθική της τεχνητής νοημοσύνης έως τις συζητήσεις για την ελεύθερη βούληση, η φιλοσοφία ορίζει τα ερωτήματα που επιδιώκει να απαντήσει η επιστήμη. Ενώ η εμπειρική έρευνα μπορεί να αποκαλύψει πώς λειτουργεί ο κόσμος, δεν μπορεί να επιλύσει το γιατί ορισμένες αξίες πρέπει να καθοδηγούν τις ανθρώπινες επιλογές. Χωρίς φιλοσοφική αναστοχασμό, η τεχνολογική πρόοδος κινδυνεύει να γίνει αδιέξοδη ή και επικίνδυνη, καθώς η καινοτομία χωρίς ηθική θεμελίωση ενδέχεται να βλάψει αντί να ωφελήσει την κοινωνία.",
-    q: "Which of the following does the passage suggest?",
-    qGr: "Τι υποδηλώνει το κείμενο;",
-    opts: [
-      { t: "Philosophy provides an ethical framework necessary for guiding scientific and technological progress.", tGr: "Η φιλοσοφία παρέχει το ηθικό πλαίσιο που είναι απαραίτητο για την καθοδήγηση της επιστημονικής και τεχνολογικής προόδου." },
-      { t: "Science is fully capable of resolving both factual and moral questions.", tGr: "Η επιστήμη είναι πλήρως ικανή να επιλύει τόσο πραγματολογικά όσο και ηθικά ζητήματα." },
-      { t: "Abstract philosophical speculation has no meaningful role in practical human affairs.", tGr: "Η αφηρημένη φιλοσοφική σκέψη δεν έχει ουσιαστικό ρόλο στις πρακτικές ανθρώπινες υποθέσεις." },
-      { t: "Technological progress is always beneficial to society, regardless of its ethical grounding.", tGr: "Η τεχνολογική πρόοδος είναι πάντοτε ωφέλιμη για την κοινωνία, ανεξαρτήτως ηθικής θεμελίωσης." }
-    ],
-    ans: 0,
-    exp: "The passage explicitly states that without philosophical reflection, innovation risks becoming dangerous, and that science cannot resolve why certain values should guide choices. This supports option A as the correct inference. Option B is wrong because the passage says science cannot resolve moral questions. Options C and D directly contradict the text.",
-    expGr: "Το κείμενο δηλώνει ρητά ότι χωρίς φιλοσοφική σκέψη η καινοτομία κινδυνεύει να γίνει επικίνδυνη, και ότι η επιστήμη δεν μπορεί να επιλύσει ηθικά ζητήματα. Αυτό υποστηρίζει την επιλογή Α. Η Β είναι εσφαλμένη διότι το κείμενο αναφέρει ρητά το αντίθετο. Οι επιλογές Γ και Δ αντιφάσκουν άμεσα με το κείμενο."
+    "en": {
+      "passage": "Philosophy, though often dismissed as abstract speculation, remains central to shaping human inquiry. From the ethics of artificial intelligence to debates on free will, philosophy frames the very questions science seeks to answer. While empirical research can reveal how the world functions, it cannot resolve why certain values should guide human choices. Without philosophical reflection, technological progress risks becoming aimless or even dangerous, as innovation devoid of ethical grounding may harm rather than benefit society.",
+      "question": "Which of the following does the passage suggest?",
+      "options": [
+        "Philosophy provides an ethical framework necessary for guiding scientific and technological progress.",
+        "Science is fully capable of resolving both factual and moral questions.",
+        "Abstract philosophical speculation has no meaningful role in practical human affairs.",
+        "Technological progress is always beneficial to society, regardless of its ethical grounding."
+      ],
+      "answer": 0,
+      "explanation": "The passage explicitly states that without philosophical reflection, innovation risks becoming dangerous, and that science cannot resolve why certain values should guide choices, supporting A. B is wrong because the passage says science cannot resolve moral questions. C and D directly contradict the text."
+    },
+    "el": {
+      "passage": "Η φιλοσοφία, αν και συχνά απορρίπτεται ως αφηρημένη σκέψη, παραμένει κεντρική για τη διαμόρφωση της ανθρώπινης διερεύνησης. Από την ηθική της τεχνητής νοημοσύνης έως τις συζητήσεις για την ελεύθερη βούληση, η φιλοσοφία ορίζει τα ερωτήματα που επιδιώκει να απαντήσει η επιστήμη. Ενώ η εμπειρική έρευνα μπορεί να αποκαλύψει πώς λειτουργεί ο κόσμος, δεν μπορεί να επιλύσει το γιατί ορισμένες αξίες πρέπει να καθοδηγούν τις ανθρώπινες επιλογές. Χωρίς φιλοσοφικό αναστοχασμό, η τεχνολογική πρόοδος κινδυνεύει να γίνει αδιέξοδη ή και επικίνδυνη.",
+      "question": "Τι υποδηλώνει το κείμενο;",
+      "options": [
+        "Η φιλοσοφία παρέχει το ηθικό πλαίσιο που είναι απαραίτητο για την καθοδήγηση της επιστημονικής και τεχνολογικής προόδου.",
+        "Η επιστήμη είναι πλήρως ικανή να επιλύει τόσο πραγματολογικά όσο και ηθικά ζητήματα.",
+        "Η αφηρημένη φιλοσοφική σκέψη δεν έχει ουσιαστικό ρόλο στις πρακτικές ανθρώπινες υποθέσεις.",
+        "Η τεχνολογική πρόοδος είναι πάντοτε ωφέλιμη για την κοινωνία, ανεξαρτήτως ηθικής θεμελίωσης."
+      ],
+      "answer": 0,
+      "explanation": "Το κείμενο δηλώνει ρητά ότι χωρίς φιλοσοφική σκέψη η καινοτομία κινδυνεύει να γίνει επικίνδυνη και ότι η επιστήμη δεν μπορεί να επιλύσει ηθικά ζητήματα. Η Β είναι εσφαλμένη. Οι επιλογές Γ και Δ αντιφάσκουν άμεσα με το κείμενο."
+    }
   },
-
-  // Q57 — correct answer: B (index 1)
   {
-    passage: "E-learning systems have recently been adopted by many large corporations. In most cases, these systems are used as a cost-effective alternative to long-established corporate leadership development programmes. At the same time, the importance of leadership skills within organisations continues to increase, while budgets for individual or group training are frequently reduced. In such circumstances, e-learning offers a practical and relatively inexpensive solution. By providing interactive materials through internet-based platforms accessible from a personal computer and allowing learners to progress at their own pace, e-learning can in some cases be more effective than traditional forms of training. The content of such programmes varies considerably, but they are commonly used to introduce new technologies, improve management capabilities, and strengthen financial planning skills.",
-    passageGr: "Τα συστήματα ηλεκτρονικής μάθησης υιοθετούνται πρόσφατα από πολλές μεγάλες επιχειρήσεις. Στις περισσότερες περιπτώσεις, χρησιμοποιούνται ως οικονομικά αποδοτική εναλλακτική λύση στα καθιερωμένα προγράμματα ανάπτυξης ηγετικών ικανοτήτων. Παράλληλα, η σημασία των ηγετικών δεξιοτήτων αυξάνεται, ενώ οι προϋπολογισμοί για κατάρτιση μειώνονται συχνά. Σε αυτές τις συνθήκες, η ηλεκτρονική μάθηση προσφέρει μια πρακτική και σχετικά οικονομική λύση. Μέσω διαδραστικού υλικού σε διαδικτυακές πλατφόρμες που είναι προσβάσιμες από προσωπικό υπολογιστή και επιτρέπουν αυτορρύθμιστη μάθηση, η ηλεκτρονική μάθηση μπορεί σε ορισμένες περιπτώσεις να είναι πιο αποτελεσματική από την παραδοσιακή κατάρτιση. Το περιεχόμενο ποικίλλει σημαντικά, αλλά χρησιμοποιείται συχνά για εισαγωγή σε νέες τεχνολογίες, βελτίωση διοικητικών ικανοτήτων και ενίσχυση δεξιοτήτων χρηματοοικονομικού σχεδιασμού.",
-    q: "Which of the following can be most reasonably inferred from the passage?",
-    qGr: "Ποιο από τα ακόλουθα μπορεί να συναχθεί με τον πλέον εύλογο τρόπο από το κείμενο;",
-    opts: [
-      { t: "Corporations that adopt e-learning typically abandon all forms of traditional training.", tGr: "Οι επιχειρήσεις που υιοθετούν ηλεκτρονική μάθηση συνήθως εγκαταλείπουν όλες τις παραδοσιακές μορφές κατάρτισης." },
-      { t: "Budget pressures have led corporations to explore more economical alternatives to traditional training.", tGr: "Οι πιέσεις προϋπολογισμού ώθησαν τις επιχειρήσεις να αναζητήσουν πιο οικονομικές εναλλακτικές λύσεις στην παραδοσιακή κατάρτιση." },
-      { t: "The effectiveness of e-learning depends primarily on the learner's access to a personal computer.", tGr: "Η αποτελεσματικότητα της ηλεκτρονικής μάθησης εξαρτάται κυρίως από την πρόσβαση του εκπαιδευόμενου σε προσωπικό υπολογιστή." },
-      { t: "E-learning programmes are designed primarily to replace leadership development programmes.", tGr: "Τα προγράμματα ηλεκτρονικής μάθησης σχεδιάζονται κυρίως για να αντικαταστήσουν τα προγράμματα ανάπτυξης ηγετικών ικανοτήτων." }
-    ],
-    ans: 1,
-    exp: "The passage links reduced budgets with the adoption of cost-effective e-learning alternatives, directly supporting option B. Option A is an overgeneralisation: the passage uses the word 'alternative', not 'replacement'. Option C is unsupported: personal computers are mentioned as a means of access, not as the primary determinant of effectiveness. Option D is wrong because the passage describes e-learning as a cost-effective alternative, not a designed replacement.",
-    expGr: "Το κείμενο συνδέει τις μειωμένες δαπάνες με την υιοθέτηση οικονομικά αποδοτικής ηλεκτρονικής μάθησης. Η Α είναι υπεργενίκευση: το κείμενο χρησιμοποιεί τον όρο «εναλλακτική», όχι «αντικατάσταση». Η Γ δεν υποστηρίζεται: οι υπολογιστές αναφέρονται ως μέσο πρόσβασης, όχι ως κύριος παράγοντας αποτελεσματικότητας. Η Δ είναι εσφαλμένη διότι η ηλεκτρονική μάθηση περιγράφεται ως εναλλακτική, όχι ως σχεδιαστική αντικατάσταση."
+    "en": {
+      "passage": "E-learning systems have recently been adopted by many large corporations. In most cases, these systems are used as a cost-effective alternative to long-established corporate leadership development programmes. At the same time, the importance of leadership skills within organisations continues to increase, while budgets for individual or group training are frequently reduced. In such circumstances, e-learning offers a practical and relatively inexpensive solution. By providing interactive materials through internet-based platforms accessible from a personal computer and allowing learners to progress at their own pace, e-learning can in some cases be more effective than traditional forms of training. The content of such programmes varies considerably, but they are commonly used to introduce new technologies, improve management capabilities, and strengthen financial planning skills.",
+      "question": "Which of the following can be most reasonably inferred from the passage?",
+      "options": [
+        "Corporations that adopt e-learning typically abandon all forms of traditional training.",
+        "Budget pressures have led corporations to explore more economical alternatives to traditional training.",
+        "The effectiveness of e-learning depends primarily on the learner's access to a personal computer.",
+        "E-learning programmes are designed primarily to replace leadership development programmes."
+      ],
+      "answer": 1,
+      "explanation": "The passage links reduced budgets with the adoption of cost-effective e-learning alternatives, directly supporting B. A is an overgeneralisation: the passage uses 'alternative', not 'replacement'. C is unsupported: personal computers are mentioned as a means of access, not as the primary determinant of effectiveness. D is wrong because the passage describes e-learning as an alternative, not a designed replacement."
+    },
+    "el": {
+      "passage": "Τα συστήματα ηλεκτρονικής μάθησης υιοθετούνται πρόσφατα από πολλές μεγάλες επιχειρήσεις. Στις περισσότερες περιπτώσεις, χρησιμοποιούνται ως οικονομικά αποδοτική εναλλακτική λύση στα καθιερωμένα προγράμματα ανάπτυξης ηγετικών ικανοτήτων. Παράλληλα, η σημασία των ηγετικών δεξιοτήτων αυξάνεται, ενώ οι προϋπολογισμοί για κατάρτιση μειώνονται συχνά. Σε αυτές τις συνθήκες, η ηλεκτρονική μάθηση προσφέρει μια πρακτική και σχετικά οικονομική λύση. Μέσω διαδραστικού υλικού σε διαδικτυακές πλατφόρμες που επιτρέπουν αυτορρύθμιστη μάθηση, η ηλεκτρονική μάθηση μπορεί σε ορισμένες περιπτώσεις να είναι πιο αποτελεσματική από την παραδοσιακή κατάρτιση.",
+      "question": "Ποιο από τα ακόλουθα μπορεί να συναχθεί με τον πλέον εύλογο τρόπο από το κείμενο;",
+      "options": [
+        "Οι επιχειρήσεις που υιοθετούν ηλεκτρονική μάθηση συνήθως εγκαταλείπουν όλες τις παραδοσιακές μορφές κατάρτισης.",
+        "Οι πιέσεις προϋπολογισμού ώθησαν τις επιχειρήσεις να αναζητήσουν πιο οικονομικές εναλλακτικές λύσεις στην παραδοσιακή κατάρτιση.",
+        "Η αποτελεσματικότητα της ηλεκτρονικής μάθησης εξαρτάται κυρίως από την πρόσβαση του εκπαιδευόμενου σε προσωπικό υπολογιστή.",
+        "Τα προγράμματα ηλεκτρονικής μάθησης σχεδιάζονται κυρίως για να αντικαταστήσουν τα προγράμματα ανάπτυξης ηγετικών ικανοτήτων."
+      ],
+      "answer": 1,
+      "explanation": "Το κείμενο συνδέει τις μειωμένες δαπάνες με την υιοθέτηση οικονομικά αποδοτικής ηλεκτρονικής μάθησης. Η Α είναι υπεργενίκευση. Η Γ δεν υποστηρίζεται. Η Δ είναι εσφαλμένη διότι η ηλεκτρονική μάθηση περιγράφεται ως εναλλακτική, όχι ως σχεδιαστική αντικατάσταση."
+    }
   },
-
-  // Q58 — correct answer: C (index 2)
   {
-    passage: "Most cells in the body have a fixed structure and carry out a specific function, but stem cells are different. They possess unique characteristics: unlike regular specialised cells, stem cells can replicate many times. Additionally, they can differentiate into various types of specialised cells, such as muscle cells or red blood cells. Because of these abilities, stem cells could potentially repair the body by multiplying and replacing damaged tissue. In the future, research on stem cells may transform medicine, making it possible to regenerate tissues or even grow replacement organs.",
-    passageGr: "Τα περισσότερα κύτταρα του σώματος έχουν σταθερή δομή και επιτελούν συγκεκριμένη λειτουργία, αλλά τα βλαστοκύτταρα είναι διαφορετικά. Διαθέτουν μοναδικά χαρακτηριστικά: σε αντίθεση με τα κανονικά εξειδικευμένα κύτταρα, τα βλαστοκύτταρα μπορούν να αναπαράγονται πολλές φορές. Επιπλέον, μπορούν να διαφοροποιηθούν σε διάφορους τύπους εξειδικευμένων κυττάρων, όπως μυικά κύτταρα ή ερυθρά αιμοσφαίρια. Χάρη σε αυτές τις ικανότητες, τα βλαστοκύτταρα θα μπορούσαν ενδεχομένως να επισκευάσουν το σώμα πολλαπλασιαζόμενα και αντικαθιστώντας κατεστραμμένο ιστό. Στο μέλλον, η έρευνα για τα βλαστοκύτταρα ενδέχεται να μεταμορφώσει την ιατρική, καθιστώντας δυνατή την αναγέννηση ιστών ή ακόμη και την ανάπτυξη ανταλλακτικών οργάνων.",
-    q: "Which of the following statements is correct according to the passage?",
-    qGr: "Ποια από τις ακόλουθες δηλώσεις είναι ορθή σύμφωνα με το κείμενο;",
-    opts: [
-      { t: "The only difference between stem cells and other cells is that stem cells do not perform a specialised function.", tGr: "Η μόνη διαφορά μεταξύ βλαστοκυττάρων και άλλων κυττάρων είναι ότι τα βλαστοκύτταρα δεν επιτελούν εξειδικευμένη λειτουργία." },
-      { t: "A muscle cell that originated from a stem cell may transform back into a stem cell.", tGr: "Ένα μυικό κύτταρο που προήλθε από βλαστοκύτταρο μπορεί να μετατραπεί εκ νέου σε βλαστοκύτταρο." },
-      { t: "Stem cells could repair damaged tissue by multiplying and replacing the affected cells.", tGr: "Τα βλαστοκύτταρα θα μπορούσαν να επισκευάσουν κατεστραμμένο ιστό πολλαπλασιαζόμενα και αντικαθιστώντας τα επηρεαζόμενα κύτταρα." },
-      { t: "Stem cells are the only cells in the body capable of any form of self-repair.", tGr: "Τα βλαστοκύτταρα είναι τα μόνα κύτταρα στο σώμα που είναι ικανά για οποιαδήποτε μορφή αυτοεπιδιόρθωσης." }
-    ],
-    ans: 2,
-    exp: "The passage explicitly states that stem cells could repair the body by multiplying and replacing damaged tissue, directly supporting option C. Option A is wrong because two differences are mentioned: replication capacity and differentiation ability. Option B is wrong because there is no indication that specialised cells can revert to stem cells. Option D is wrong because the passage does not claim stem cells are the only cells with repair capacity.",
-    expGr: "Το κείμενο αναφέρει ρητά ότι τα βλαστοκύτταρα θα μπορούσαν να επισκευάσουν το σώμα πολλαπλασιαζόμενα και αντικαθιστώντας κατεστραμμένο ιστό. Η Α είναι εσφαλμένη διότι αναφέρονται δύο διαφορές. Η Β είναι εσφαλμένη διότι δεν υπάρχει ένδειξη αντιστροφής εξειδικευμένων κυττάρων σε βλαστοκύτταρα. Η Δ είναι εσφαλμένη διότι το κείμενο δεν υποστηρίζει κάτι τέτοιο."
+    "en": {
+      "passage": "Most cells in the body have a fixed structure and carry out a specific function, but stem cells are different. They possess unique characteristics: unlike regular specialised cells, stem cells can replicate many times. Additionally, they can differentiate into various types of specialised cells, such as muscle cells or red blood cells. Because of these abilities, stem cells could potentially repair the body by multiplying and replacing damaged tissue. In the future, research on stem cells may transform medicine, making it possible to regenerate tissues or even grow replacement organs.",
+      "question": "Which of the following statements is correct according to the passage?",
+      "options": [
+        "The only difference between stem cells and other cells is that stem cells do not perform a specialised function.",
+        "A muscle cell that originated from a stem cell may transform back into a stem cell.",
+        "Stem cells could repair damaged tissue by multiplying and replacing the affected cells.",
+        "Stem cells are the only cells in the body capable of any form of self-repair."
+      ],
+      "answer": 2,
+      "explanation": "The passage explicitly states that stem cells could repair the body by multiplying and replacing damaged tissue, directly supporting C. A is wrong because two differences are mentioned: replication capacity and differentiation ability. B is wrong because there is no indication that specialised cells can revert to stem cells. D is wrong because the passage does not claim stem cells are the only cells with repair capacity."
+    },
+    "el": {
+      "passage": "Τα περισσότερα κύτταρα του σώματος έχουν σταθερή δομή και επιτελούν συγκεκριμένη λειτουργία, αλλά τα βλαστοκύτταρα είναι διαφορετικά. Διαθέτουν μοναδικά χαρακτηριστικά: σε αντίθεση με τα κανονικά εξειδικευμένα κύτταρα, τα βλαστοκύτταρα μπορούν να αναπαράγονται πολλές φορές. Επιπλέον, μπορούν να διαφοροποιηθούν σε διάφορους τύπους εξειδικευμένων κυττάρων, όπως μυικά κύτταρα ή ερυθρά αιμοσφαίρια. Χάρη σε αυτές τις ικανότητες, τα βλαστοκύτταρα θα μπορούσαν ενδεχομένως να επισκευάσουν το σώμα πολλαπλασιαζόμενα και αντικαθιστώντας κατεστραμμένο ιστό. Στο μέλλον, η έρευνα για τα βλαστοκύτταρα ενδέχεται να μεταμορφώσει την ιατρική.",
+      "question": "Ποια από τις ακόλουθες δηλώσεις είναι ορθή σύμφωνα με το κείμενο;",
+      "options": [
+        "Η μόνη διαφορά μεταξύ βλαστοκυττάρων και άλλων κυττάρων είναι ότι τα βλαστοκύτταρα δεν επιτελούν εξειδικευμένη λειτουργία.",
+        "Ένα μυικό κύτταρο που προήλθε από βλαστοκύτταρο μπορεί να μετατραπεί εκ νέου σε βλαστοκύτταρο.",
+        "Τα βλαστοκύτταρα θα μπορούσαν να επισκευάσουν κατεστραμμένο ιστό πολλαπλασιαζόμενα και αντικαθιστώντας τα επηρεαζόμενα κύτταρα.",
+        "Τα βλαστοκύτταρα είναι τα μόνα κύτταρα στο σώμα που είναι ικανά για οποιαδήποτε μορφή αυτοεπιδιόρθωσης."
+      ],
+      "answer": 2,
+      "explanation": "Το κείμενο αναφέρει ρητά ότι τα βλαστοκύτταρα θα μπορούσαν να επισκευάσουν το σώμα πολλαπλασιαζόμενα και αντικαθιστώντας κατεστραμμένο ιστό. Η Α είναι εσφαλμένη διότι αναφέρονται δύο διαφορές. Η Β είναι εσφαλμένη διότι δεν υπάρχει ένδειξη αντιστροφής. Η Δ είναι εσφαλμένη διότι το κείμενο δεν το υποστηρίζει."
+    }
   },
-
-  // Q59 — correct answer: D (index 3)
   {
-    passage: "Several European countries aim to achieve 100% renewable energy by 2050. While some critics argue that these targets are unrealistic, governments have emphasised that not meeting interim milestones does not mean the ultimate goal will be abandoned. Investors are encouraged to consider long-term returns, as short-term delays may mask eventual success.",
-    passageGr: "Αρκετές ευρωπαϊκές χώρες στοχεύουν στην επίτευξη 100% ανανεώσιμης ενέργειας έως το 2050. Ενώ ορισμένοι επικριτές υποστηρίζουν ότι οι στόχοι αυτοί είναι μη ρεαλιστικοί, οι κυβερνήσεις έχουν τονίσει ότι η μη επίτευξη ενδιάμεσων οροσήμων δεν σημαίνει εγκατάλειψη του τελικού στόχου. Στους επενδυτές συνιστάται να λαμβάνουν υπόψη τις μακροπρόθεσμες αποδόσεις, καθώς οι βραχυπρόθεσμες καθυστερήσεις ενδέχεται να αποκρύπτουν εν τέλει επιτυχία.",
-    q: "Which of the following can be inferred from the passage?",
-    qGr: "Τι μπορεί να συναχθεί από το κείμενο;",
-    opts: [
-      { t: "Critics are in agreement that the 2050 renewable energy target is easily attainable.", tGr: "Οι επικριτές συμφωνούν ότι ο στόχος ανανεώσιμης ενέργειας για το 2050 είναι εύκολα επιτεύξιμος." },
-      { t: "Failure to meet short-term milestones guarantees that the 2050 target will not be achieved.", tGr: "Η αποτυχία επίτευξης βραχυπρόθεσμων οροσήμων εγγυάται ότι ο στόχος του 2050 δεν θα επιτευχθεί." },
-      { t: "Investors should disregard long-term projections and focus exclusively on immediate returns.", tGr: "Οι επενδυτές πρέπει να αγνοούν τις μακροπρόθεσμες προβλέψεις και να εστιάζουν αποκλειστικά στις άμεσες αποδόσεις." },
-      { t: "Governments consider the long-term objective more important than the achievement of interim milestones.", tGr: "Οι κυβερνήσεις θεωρούν τον μακροπρόθεσμο στόχο πιο σημαντικό από την επίτευξη ενδιάμεσων οροσήμων." }
-    ],
-    ans: 3,
-    exp: "The passage states that governments emphasise that missing interim milestones does not mean abandoning the ultimate goal, and that investors should focus on long-term returns. This supports option D. Option A is wrong because critics find targets unrealistic. Option B directly contradicts the passage. Option C contradicts the advice given to investors in the passage.",
-    expGr: "Το κείμενο αναφέρει ότι οι κυβερνήσεις τονίζουν πως η μη επίτευξη ενδιάμεσων στόχων δεν σημαίνει εγκατάλειψη του τελικού στόχου, υποστηρίζοντας την επιλογή Δ. Η Α είναι εσφαλμένη διότι οι επικριτές θεωρούν τους στόχους μη ρεαλιστικούς. Η Β αντιφάσκει άμεσα με το κείμενο. Η Γ αντιφάσκει με τη σύσταση του κειμένου προς τους επενδυτές."
+    "en": {
+      "passage": "Several European countries aim to achieve 100% renewable energy by 2050. While some critics argue that these targets are unrealistic, governments have emphasised that not meeting interim milestones does not mean the ultimate goal will be abandoned. Investors are encouraged to consider long-term returns, as short-term delays may mask eventual success.",
+      "question": "Which of the following can be inferred from the passage?",
+      "options": [
+        "Critics are in agreement that the 2050 renewable energy target is easily attainable.",
+        "Failure to meet short-term milestones guarantees that the 2050 target will not be achieved.",
+        "Investors should disregard long-term projections and focus exclusively on immediate returns.",
+        "Governments consider the long-term objective more important than the achievement of interim milestones."
+      ],
+      "answer": 3,
+      "explanation": "The passage states that governments emphasise that missing interim milestones does not mean abandoning the ultimate goal, and that investors should focus on long-term returns, supporting D. A is wrong because critics find targets unrealistic. B directly contradicts the passage. C contradicts the advice given to investors."
+    },
+    "el": {
+      "passage": "Αρκετές ευρωπαϊκές χώρες στοχεύουν στην επίτευξη 100% ανανεώσιμης ενέργειας έως το 2050. Ενώ ορισμένοι επικριτές υποστηρίζουν ότι οι στόχοι αυτοί είναι μη ρεαλιστικοί, οι κυβερνήσεις έχουν τονίσει ότι η μη επίτευξη ενδιάμεσων οροσήμων δεν σημαίνει εγκατάλειψη του τελικού στόχου. Στους επενδυτές συνιστάται να λαμβάνουν υπόψη τις μακροπρόθεσμες αποδόσεις, καθώς οι βραχυπρόθεσμες καθυστερήσεις ενδέχεται να αποκρύπτουν εν τέλει επιτυχία.",
+      "question": "Τι μπορεί να συναχθεί από το κείμενο;",
+      "options": [
+        "Οι επικριτές συμφωνούν ότι ο στόχος ανανεώσιμης ενέργειας για το 2050 είναι εύκολα επιτεύξιμος.",
+        "Η αποτυχία επίτευξης βραχυπρόθεσμων οροσήμων εγγυάται ότι ο στόχος του 2050 δεν θα επιτευχθεί.",
+        "Οι επενδυτές πρέπει να αγνοούν τις μακροπρόθεσμες προβλέψεις και να εστιάζουν αποκλειστικά στις άμεσες αποδόσεις.",
+        "Οι κυβερνήσεις θεωρούν τον μακροπρόθεσμο στόχο πιο σημαντικό από την επίτευξη ενδιάμεσων οροσήμων."
+      ],
+      "answer": 3,
+      "explanation": "Το κείμενο αναφέρει ότι οι κυβερνήσεις τονίζουν πως η μη επίτευξη ενδιάμεσων στόχων δεν σημαίνει εγκατάλειψη του τελικού στόχου. Η Α είναι εσφαλμένη. Η Β αντιφάσκει άμεσα. Η Γ αντιφάσκει με τη σύσταση του κειμένου προς τους επενδυτές."
+    }
   },
-
-  // Q60 — correct answer: A (index 0)
   {
-    passage: "The EU has consistently invested in satellite technology to improve weather forecasting, security, and communications. Not all member states contribute equally, and some have expressed that their participation does not necessarily guarantee equal influence over decision-making. While no country can fully withdraw from the benefits of EU space programmes, the level of control remains dependent on each state's contribution.",
-    passageGr: "Η ΕΕ έχει επενδύσει σταθερά στην τεχνολογία δορυφόρων για τη βελτίωση μετεωρολογικών προβλέψεων, της ασφάλειας και των επικοινωνιών. Δεν συνεισφέρουν εξίσου όλα τα κράτη μέλη, και ορισμένα έχουν εκφράσει ότι η συμμετοχή τους δεν εγγυάται κατ' ανάγκη ίση επιρροή στη λήψη αποφάσεων. Ενώ καμία χώρα δεν μπορεί να αποσυρθεί πλήρως από τα οφέλη των διαστημικών προγραμμάτων της ΕΕ, το επίπεδο ελέγχου παραμένει εξαρτώμενο από τη συνεισφορά κάθε κράτους.",
-    q: "Which of the following statements must be true based on the passage?",
-    qGr: "Ποια από τις ακόλουθες δηλώσεις πρέπει να είναι αληθής βάσει του κειμένου;",
-    opts: [
-      { t: "A member state's level of influence over EU space programmes is linked to the size of its contribution.", tGr: "Το επίπεδο επιρροής ενός κράτους μέλους στα διαστημικά προγράμματα της ΕΕ συνδέεται με το μέγεθος της συνεισφοράς του." },
-      { t: "No EU member state receives any benefit from EU space programmes.", tGr: "Κανένα κράτος μέλος της ΕΕ δεν αποκομίζει κανένα όφελος από τα διαστημικά προγράμματα της ΕΕ." },
-      { t: "Every EU member state holds equal decision-making power within EU space programmes.", tGr: "Κάθε κράτος μέλος της ΕΕ διαθέτει ίση εξουσία λήψης αποφάσεων εντός των διαστημικών προγραμμάτων της ΕΕ." },
-      { t: "A member state may fully withdraw from the benefits of EU space programmes if it chooses.", tGr: "Ένα κράτος μέλος μπορεί να αποσυρθεί πλήρως από τα οφέλη των διαστημικών προγραμμάτων της ΕΕ, εφόσον το επιθυμεί." }
-    ],
-    ans: 0,
-    exp: "The passage states that some states' participation does not guarantee equal influence, and that the level of control depends on contribution — directly supporting option A. Option B is wrong because the passage states all countries benefit. Option C is wrong because the passage explicitly says influence is unequal. Option D is wrong because the passage says no country can fully withdraw from benefits.",
-    expGr: "Το κείμενο δηλώνει ότι η συμμετοχή δεν εγγυάται ίση επιρροή και ότι το επίπεδο ελέγχου εξαρτάται από τη συνεισφορά — υποστηρίζοντας άμεσα την Α. Η Β είναι εσφαλμένη διότι όλες οι χώρες αποκομίζουν οφέλη. Η Γ είναι εσφαλμένη διότι η επιρροή είναι άνιση. Η Δ είναι εσφαλμένη διότι καμία χώρα δεν μπορεί να αποσυρθεί πλήρως."
+    "en": {
+      "passage": "The EU has consistently invested in satellite technology to improve weather forecasting, security, and communications. Not all member states contribute equally, and some have expressed that their participation does not necessarily guarantee equal influence over decision-making. While no country can fully withdraw from the benefits of EU space programmes, the level of control remains dependent on each state's contribution.",
+      "question": "Which of the following statements must be true based on the passage?",
+      "options": [
+        "A member state's level of influence over EU space programmes is linked to the size of its contribution.",
+        "No EU member state receives any benefit from EU space programmes.",
+        "Every EU member state holds equal decision-making power within EU space programmes.",
+        "A member state may fully withdraw from the benefits of EU space programmes if it chooses."
+      ],
+      "answer": 0,
+      "explanation": "The passage states that some states' participation does not guarantee equal influence, and that control depends on contribution, directly supporting A. B is wrong because all countries benefit. C is wrong because the passage explicitly says influence is unequal. D is wrong because no country can fully withdraw from benefits."
+    },
+    "el": {
+      "passage": "Η ΕΕ έχει επενδύσει σταθερά στην τεχνολογία δορυφόρων για τη βελτίωση μετεωρολογικών προβλέψεων, της ασφάλειας και των επικοινωνιών. Δεν συνεισφέρουν εξίσου όλα τα κράτη μέλη, και ορισμένα έχουν εκφράσει ότι η συμμετοχή τους δεν εγγυάται κατ' ανάγκη ίση επιρροή στη λήψη αποφάσεων. Ενώ καμία χώρα δεν μπορεί να αποσυρθεί πλήρως από τα οφέλη των διαστημικών προγραμμάτων της ΕΕ, το επίπεδο ελέγχου παραμένει εξαρτώμενο από τη συνεισφορά κάθε κράτους.",
+      "question": "Ποια από τις ακόλουθες δηλώσεις πρέπει να είναι αληθής βάσει του κειμένου;",
+      "options": [
+        "Το επίπεδο επιρροής ενός κράτους μέλους στα διαστημικά προγράμματα της ΕΕ συνδέεται με το μέγεθος της συνεισφοράς του.",
+        "Κανένα κράτος μέλος της ΕΕ δεν αποκομίζει κανένα όφελος από τα διαστημικά προγράμματα της ΕΕ.",
+        "Κάθε κράτος μέλος της ΕΕ διαθέτει ίση εξουσία λήψης αποφάσεων εντός των διαστημικών προγραμμάτων της ΕΕ.",
+        "Ένα κράτος μέλος μπορεί να αποσυρθεί πλήρως από τα οφέλη των διαστημικών προγραμμάτων της ΕΕ, εφόσον το επιθυμεί."
+      ],
+      "answer": 0,
+      "explanation": "Το κείμενο δηλώνει ότι η συμμετοχή δεν εγγυάται ίση επιρροή και ότι το επίπεδο ελέγχου εξαρτάται από τη συνεισφορά. Η Β είναι εσφαλμένη διότι όλες οι χώρες αποκομίζουν οφέλη. Η Γ είναι εσφαλμένη διότι η επιρροή είναι άνιση. Η Δ είναι εσφαλμένη διότι καμία χώρα δεν μπορεί να αποσυρθεί πλήρως."
+    }
   }
-
-];
+],
   "verbal_4": [
     {
       "en": {
