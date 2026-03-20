@@ -98,8 +98,8 @@
     // ============================================================
     // PASSWORD SETTINGS — only change these 4 lines!
     // ============================================================
-    var correctPass    = "choice"; // the keyword students must type
-    var pageNumber     = 99;         // the page number in the hint
+    var correctPass    = "brothers"; // the keyword students must type
+    var pageNumber     = 89;         // the page number in the hint
     var wordPositionEN = "last";     // English: "first", "last", "second"
     var wordPositionEL = "τελευταία";     // Greek:   "πρώτη", "τελευταία", "δεύτερη"
     // ============================================================
@@ -299,16 +299,26 @@
     }
 
     function startTimer() {
-        seconds = 0;
-        var timerBox = document.getElementById('timer-box');
-        if (timerBox) timerBox.style.display = 'block';
-        timer = setInterval(function() {
-            seconds++;
-            var m = Math.floor(seconds / 60);
-            var s = seconds % 60;
-            if (timerBox) timerBox.innerText = m + ':' + (s < 10 ? '0' + s : s);
-        }, 1000);
-    }
+    var totalSeconds = getTimerLimit();
+    seconds = totalSeconds;
+    var timerBox = document.getElementById('timer-box');
+    if (timerBox) timerBox.style.display = 'block';
+    timer = setInterval(function() {
+        seconds--;
+        var m = Math.floor(seconds / 60);
+        var s = seconds % 60;
+        if (timerBox) timerBox.innerText = m + ':' + (s < 10 ? '0' + s : s);
+        if (seconds <= 0) { clearInterval(timer); finishExam(); }
+    }, 1000);
+}
+
+function getTimerLimit() {
+    if (selectedTestKey.startsWith('num'))    return 10 * 120;
+    if (selectedTestKey.startsWith('verbal')) return 20 * 110;
+    if (selectedTestKey.startsWith('eu'))     return 30 * 80;
+    if (selectedTestKey.startsWith('ds'))     return 20 * 45;
+    return 20 * 60;
+}
 
     function finishExam() {
         clearInterval(timer);
