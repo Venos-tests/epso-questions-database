@@ -4884,8 +4884,8 @@
         "explanation": "To find the weighted average, account for the number of projects in each DG. Step 1 — calculate total points per DG: DG CONNECT: 120 × 8.5 = 1,020. DG CLIMA: 80 × 7.0 = 560. DG GROW: 50 × 6.0 = 300. Step 2 — sum all points: 1,020 + 560 + 300 = 1,880. Step 3 — divide by total projects: 1,880 / 250 = 7.52. Option A (7.16) is the simple average trap ((8.5+7.0+6.0)/3). In EU policy evaluation, a smaller DG with high scores should not skew the overall average as much as a larger one — the weighted average provides a realistic picture of portfolio performance."
       },
       "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Αντίκτυπος Έργων ΓΔ &amp; Κατανομή του «Ταμείου Πράσινης Ψηφιακής Μετάβασης ΕΕ» (2025)</caption><thead><tr style='background:#e8f0fe;'><th>Γενική Διεύθυνση (ΓΔ)</th><th>Αριθμός Έργων</th><th>Μέση Βαθμολογία Αντικτύπου (1–10)</th><th>Βάρος Κατανομής</th></tr></thead><tbody><tr><td><strong>ΓΔ CONNECT</strong></td><td>120</td><td>8,5</td><td>40%</td></tr><tr><td><strong>ΓΔ CLIMA</strong></td><td>80</td><td>7,0</td><td>35%</td></tr><tr><td><strong>ΓΔ GROW</strong></td><td>50</td><td>6,0</td><td>25%</td></tr><tr><td><strong>Σύνολο / Μέσος</strong></td><td>250</td><td>?</td><td>100%</td></tr></tbody></table>",
-        "question": "3. Ποιος είναι ο σταθμισμένος μέσος όρος βαθμολογίας αντικτύπου για τα 250 έργα συνολικά;",
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Αντίκτυπος Έργων ΓΔ &amp; Κατανομή του «Ταμείου Πράσινης Ψηφιακής Μετάβασης ΕΕ» (2025)</caption><thead><tr style='background:#e8f0fe;'><th>Γενική Διεύθυνση (ΓΔ)</th><th>Αριθμός Έργων</th><th>Μέση Εκτίμηση Επιπτώσεων (1–10)</th><th>Βαρύτητα Κατανομής</th></tr></thead><tbody><tr><td><strong>ΓΔ CONNECT</strong></td><td>120</td><td>8,5</td><td>40%</td></tr><tr><td><strong>ΓΔ CLIMA</strong></td><td>80</td><td>7,0</td><td>35%</td></tr><tr><td><strong>ΓΔ GROW</strong></td><td>50</td><td>6,0</td><td>25%</td></tr><tr><td><strong>Σύνολο / Μέσος</strong></td><td>250</td><td>?</td><td>100%</td></tr></tbody></table>",
+        "question": "3. Ποιος είναι ο σταθμισμένος μέσος όρος εκτίμησης επιπτώσεων για τα 250 έργα συνολικά;",
         "options": [
           "7,16",
           "7,52",
@@ -4893,7 +4893,7 @@
           "8,10"
         ],
         "answer": 1,
-        "explanation": "Για τον σταθμισμένο μέσο όρο λαμβάνουμε υπόψη τον αριθμό έργων κάθε ΓΔ. Βήμα 1 — σύνολο βαθμών: ΓΔ CONNECT: 120 × 8,5 = 1.020. ΓΔ CLIMA: 80 × 7,0 = 560. ΓΔ GROW: 50 × 6,0 = 300. Βήμα 2 — άθροισμα: 1.880. Βήμα 3 — διαίρεση: 1.880 / 250 = 7,52. Η επιλογή Α (7,16) είναι η παγίδα του απλού μέσου ((8,5+7,0+6,0)/3). Στην αξιολόγηση πολιτικής ΕΕ, ο σταθμισμένος μέσος αντικατοπτρίζει ρεαλιστικά την απόδοση του χαρτοφυλακίου."
+        "explanation": "Για τον σταθμισμένο μέσο όρο λαμβάνουμε υπόψη τον αριθμό έργων κάθε ΓΔ. Βήμα 1 — σύνολο βαθμών: ΓΔ CONNECT: 120 × 8,5 = 1.020. ΓΔ CLIMA: 80 × 7,0 = 560. ΓΔ GROW: 50 × 6,0 = 300. Βήμα 2 — άθροισμα: 1.880. Βήμα 3 — διαίρεση: 1.880 / 250 = 7,52. Η επιλογή Α (7,16) είναι η παγίδα του απλού μέσου ((8,5+7,0+6,0)/3). Στην αξιολόγηση πολιτικής ΕΕ, ο σταθμισμένος μέσος αντικατοπτρίζει ρεαλιστικά την απόδοση ενός χαρτοφυλακίου."
       }
     },
     {
@@ -4962,8 +4962,8 @@
         "explanation": "Focus only on the Eastern Partnership row. Staff cost (6 months): 12 FTE × €3,800 × 6 = €273,600. Taxed hardware: €220,000 × 1.08 = €237,600. Grand total: €273,600 + €237,600 = €511,200. A key EPSO skill is filtering out irrelevant data — three-quarters of this table is distractor information designed to slow you down."
       },
       "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>EEAS — Κόστη Ανάπτυξης Ψηφιακής Υποδομής 2024</caption><thead><tr style='background:#e8f0fe;'><th>Περιφερειακός Κόμβος</th><th>Τεχν. Προσωπικό (FTE)</th><th>Μηνιαίος Μισθός/FTE (€)</th><th>Κόστος Εξοπλισμού (€)</th><th>Τοπικός Ψηφιακός Φόρος (%)</th></tr></thead><tbody><tr><td><strong>Δυτικά Βαλκάνια</strong></td><td>8</td><td>4.200</td><td>150.000</td><td>5</td></tr><tr><td><strong>Ανατολική Εταιρική Σχέση</strong></td><td>12</td><td>3.800</td><td>220.000</td><td>8</td></tr><tr><td><strong>Μεσόγειος</strong></td><td>10</td><td>4.500</td><td>185.000</td><td>6</td></tr><tr><td><strong>Υποσαχάρια Αφρική</strong></td><td>15</td><td>3.200</td><td>310.000</td><td>12</td></tr></tbody></table>",
-        "question": "6. Ποιο είναι το συνολικό κόστος (Μισθοί + Φορολογημένος Εξοπλισμός) για ανάπτυξη 6 μηνών στον κόμβο Ανατολικής Εταιρικής Σχέσης;",
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>EEAS — Κόστη Ανάπτυξης Ψηφιακής Υποδομής 2024</caption><thead><tr style='background:#e8f0fe;'><th>Περιφερειακός Κόμβος</th><th>Τεχν. Προσωπικό (FTE)</th><th>Μηνιαίος Μισθός/FTE (€)</th><th>Κόστος Εξοπλισμού (€)</th><th>Τοπικός Ψηφιακός Φόρος (%)</th></tr></thead><tbody><tr><td><strong>Δυτικά Βαλκάνια</strong></td><td>8</td><td>4.200</td><td>150.000</td><td>5</td></tr><tr><td><strong>Ανατολική Σύμπραξη</strong></td><td>12</td><td>3.800</td><td>220.000</td><td>8</td></tr><tr><td><strong>Μεσόγειος</strong></td><td>10</td><td>4.500</td><td>185.000</td><td>6</td></tr><tr><td><strong>Υποσαχάρια Αφρική</strong></td><td>15</td><td>3.200</td><td>310.000</td><td>12</td></tr></tbody></table>",
+        "question": "6. Ποιο είναι το συνολικό κόστος (Μισθοί + Φορολογημένος Εξοπλισμός) για ανάπτυξη 6 μηνών στον κόμβο Ανατολικής Σύμπραξης;",
         "options": [
           "€273.600",
           "€528.400",
@@ -4971,7 +4971,7 @@
           "€511.200"
         ],
         "answer": 3,
-        "explanation": "Εστιάζουμε μόνο στη γραμμή Ανατολικής Εταιρικής Σχέσης. Κόστος προσωπικού (6 μήνες): 12 × €3.800 × 6 = €273.600. Φορολογημένος εξοπλισμός: €220.000 × 1,08 = €237.600. Σύνολο: €273.600 + €237.600 = €511.200. Βασική δεξιότητα EPSO: φιλτράρισμα άσχετων δεδομένων — τα 3/4 του πίνακα είναι παραπλανητικές πληροφορίες."
+        "explanation": "Εστιάζουμε μόνο στη γραμμή Ανατολικής Σύμπραξης. Κόστος προσωπικού (6 μήνες): 12 × €3.800 × 6 = €273.600. Κόστος εξοπλισμού μετά φόρων: €220.000 × 1,08 = €237.600. Σύνολο: €273.600 + €237.600 = €511.200. Βασική δεξιότητα EPSO: φιλτράρισμα άσχετων δεδομένων — τα 3/4 του πίνακα είναι μη χρήσιμες πληροφορίες."
       }
     },
     {
@@ -4997,7 +4997,7 @@
           "€2,0 εκατ."
         ],
         "answer": 1,
-        "explanation": "Βήμα 1 — εφαρμογή δείκτη 2024 στο βασικό ποσό. ΕΚΤ δείκτης 125: €40εκ. × 1,25 = €50,0εκ. ΕΤΕπ δείκτης 122: €40εκ. × 1,22 = €48,8εκ. Βήμα 2 — διαφορά: €50,0εκ. − €48,8εκ. = €1,2εκ. Οι αριθμοί δείκτη είναι κεντρικό εργαλείο του Πολυετούς Δημοσιονομικού Πλαισίου (ΠΔΠ) της ΕΕ."
+        "explanation": "Βήμα 1 — εφαρμογή δείκτη 2024 στο βασικό ποσό. ΕΚΤ δείκτης 125: €40εκ. × 1,25 = €50,0εκ. ΕΤΕπ δείκτης 122: €40εκ. × 1,22 = €48,8εκ. Βήμα 2 — διαφορά: €50,0εκ. − €48,8εκ. = €1,2εκ. Οι (αριθμο)δείκτες αποτελούν κεντρικό εργαλείο του Πολυετούς Δημοσιονομικού Πλαισίου (ΠΔΠ) της ΕΕ."
       }
     },
     {
@@ -5040,8 +5040,8 @@
         "explanation": "Apply each criterion systematically. Criterion 1 (FTE > 15): Gamma (14 FTE) is eliminated. Criterion 2 (cost per project < €12,000): Alpha: €425k/30 = €14,167 ❌. Beta: €520k/50 = €10,400 ✅. Delta: €480k/40 = €12,000 ❌ (not less than). Epsilon: €405k/35 = €11,571 ✅. Zeta: €620k/60 = €10,333 ✅. Criterion 3 (budget growth ≥ 6.5%): Beta: (520−490)/490 = 6.12% ❌. Epsilon: (405−380)/380 = 6.58% ✅. Zeta: (620−600)/600 = 3.33% ❌. Only Hub Epsilon passes all three criteria. Total qualifying budget: €405,000."
       },
       "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Ευρωπαϊκοί Κόμβοι Ψηφιακής Καινοτομίας (EDIH) — Μετρικές Απόδοσης (2023–2024). Προϋπολογισμοί σε €000.</caption><thead><tr style='background:#e8f0fe;'><th>Ψηφιακός Κόμβος</th><th>Προσωπικό (FTE)</th><th>Προϋπολογισμός 2023 (€000)</th><th>Προϋπολογισμός 2024 (€000)</th><th>Σύνολο Έργων (2024)</th></tr></thead><tbody><tr><td><strong>Κόμβος Άλφα</strong></td><td>18</td><td>400</td><td>425</td><td>30</td></tr><tr><td><strong>Κόμβος Βήτα</strong></td><td>22</td><td>490</td><td>520</td><td>50</td></tr><tr><td><strong>Κόμβος Γάμμα</strong></td><td>14</td><td>300</td><td>320</td><td>25</td></tr><tr><td><strong>Κόμβος Δέλτα</strong></td><td>20</td><td>450</td><td>480</td><td>40</td></tr><tr><td><strong>Κόμβος Έψιλον</strong></td><td>16</td><td>380</td><td>405</td><td>35</td></tr><tr><td><strong>Κόμβος Ζήτα</strong></td><td>25</td><td>600</td><td>620</td><td>60</td></tr></tbody></table>",
-        "question": "9. Για το Ειδικό Μπόνους, ένας Κόμβος πρέπει να πληροί ΟΛΑ τα κριτήρια: (1) περισσότερα από 15 FTE· (2) κόστος ανά έργο 2024 κάτω από €12.000· (3) ετήσια αύξηση προϋπολογισμού τουλάχιστον 6,5%. Ποιος είναι ο συνολικός προϋπολογισμός 2024 των κόμβων που δικαιούνται μπόνους;",
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Ευρωπαϊκοί Κόμβοι Ψηφιακής Καινοτομίας (EDIH) — Δείκτες Απόδοσης (2023–2024). Προϋπολογισμοί σε €000.</caption><thead><tr style='background:#e8f0fe;'><th>Ψηφιακός Κόμβος</th><th>Προσωπικό (FTE)</th><th>Προϋπολογισμός 2023 (€000)</th><th>Προϋπολογισμός 2024 (€000)</th><th>Σύνολο Έργων (2024)</th></tr></thead><tbody><tr><td><strong>Κόμβος Άλφα</strong></td><td>18</td><td>400</td><td>425</td><td>30</td></tr><tr><td><strong>Κόμβος Βήτα</strong></td><td>22</td><td>490</td><td>520</td><td>50</td></tr><tr><td><strong>Κόμβος Γάμμα</strong></td><td>14</td><td>300</td><td>320</td><td>25</td></tr><tr><td><strong>Κόμβος Δέλτα</strong></td><td>20</td><td>450</td><td>480</td><td>40</td></tr><tr><td><strong>Κόμβος Έψιλον</strong></td><td>16</td><td>380</td><td>405</td><td>35</td></tr><tr><td><strong>Κόμβος Ζήτα</strong></td><td>25</td><td>600</td><td>620</td><td>60</td></tr></tbody></table>",
+        "question": "9. Για το Ειδικό Μπόνους, ένας Κόμβος πρέπει να πληροί ΟΛΑ τα ακόλουθα κριτήρια: (1) περισσότερα από 15 FTE· (2) κόστος ανά έργο 2024 κάτω από €12.000· (3) ετήσια αύξηση προϋπολογισμού τουλάχιστον 6,5%. Ποιος είναι ο συνολικός προϋπολογισμός 2024 των κόμβων που δικαιούνται μπόνους;",
         "options": [
           "€405.000",
           "€1.405.000",
@@ -5055,7 +5055,7 @@
     {
       "en": {
         "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Resource Requirements per Unit — EU Chips Act Pilot Production Line</caption><thead><tr style='background:#e8f0fe;'><th>Microchip Type</th><th>Silicon Wafer (Units)</th><th>Processing Time (Hours)</th><th>Testing Time (Hours)</th><th>Digital Value (€)</th></tr></thead><tbody><tr><td><strong>Alpha</strong></td><td>2</td><td>4</td><td>1</td><td>200</td></tr><tr><td><strong>Beta</strong></td><td>3</td><td>2</td><td>2</td><td>180</td></tr><tr><td><strong>Gamma</strong></td><td>1</td><td>5</td><td>2</td><td>210</td></tr><tr><td><strong>Total Weekly Resources</strong></td><td>600 units</td><td>800 hours</td><td>500 hours</td><td>—</td></tr></tbody></table>",
-        "question": "10. The facility must first produce 100 Alpha chips for a priority Sovereignty Contract. All remaining resources are then dedicated exclusively to Gamma chips. What is the maximum number of Gamma chips that can be produced?",
+        "question": "10. The facility must first produce 100 Alpha chips for a priority Sovereignty Contract. All remaining resources are then dedicated exclusively to Gamma chips. What is the maximum number of Gamma chips that can be produced in a week?",
         "options": [
           "80",
           "100",
@@ -5067,7 +5067,7 @@
       },
       "el": {
         "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Απαιτήσεις Πόρων ανά Μονάδα — Πιλοτική Γραμμή Παραγωγής EU Chips Act</caption><thead><tr style='background:#e8f0fe;'><th>Τύπος Μικροτσίπ</th><th>Πλακίδια Πυριτίου (Μονάδες)</th><th>Χρόνος Επεξεργασίας (Ώρες)</th><th>Χρόνος Δοκιμών (Ώρες)</th><th>Ψηφιακή Αξία (€)</th></tr></thead><tbody><tr><td><strong>Άλφα</strong></td><td>2</td><td>4</td><td>1</td><td>200</td></tr><tr><td><strong>Βήτα</strong></td><td>3</td><td>2</td><td>2</td><td>180</td></tr><tr><td><strong>Γάμμα</strong></td><td>1</td><td>5</td><td>2</td><td>210</td></tr><tr><td><strong>Σύνολο Εβδομαδιαίων Πόρων</strong></td><td>600 μονάδες</td><td>800 ώρες</td><td>500 ώρες</td><td>—</td></tr></tbody></table>",
-        "question": "10. Η εγκατάσταση πρέπει πρώτα να παράγει 100 τσίπ Άλφα για συμβόλαιο προτεραιότητας. Οι υπόλοιποι πόροι διατίθενται αποκλειστικά για τσίπ Γάμμα. Ποιος είναι ο μέγιστος αριθμός τσίπ Γάμμα που μπορεί να παραχθεί;",
+        "question": "10. Η εγκατάσταση πρέπει πρώτα να παράγει 100 τσίπ Άλφα για συμβόλαιο προτεραιότητας. Οι υπόλοιποι πόροι διατίθενται αποκλειστικά για τσίπ Γάμμα. Ποιος είναι ο μέγιστος αριθμός τσίπ Γάμμα που μπορεί να παραχθεί σε μία εβδομάδα;",
         "options": [
           "80",
           "100",
@@ -5075,7 +5075,7 @@
           "150"
         ],
         "answer": 0,
-        "explanation": "Βήμα 1 — πόροι για 100 τσίπ Άλφα: Πλακίδια: 200. Επεξεργασία: 400ω. Δοκιμές: 100ω. Βήμα 2 — υπόλοιποι πόροι: Πλακίδια: 400. Επεξεργασία: 400ω. Δοκιμές: 400ω. Βήμα 3 — εντοπισμός σημείου συμφόρησης για Γάμμα: Πλακίδια: 400/1 = 400. Επεξεργασία: 400/5 = 80. Δοκιμές: 400/2 = 200. Ο χρόνος επεξεργασίας είναι ο περιοριστικός παράγοντας. Μέγιστος αριθμός τσίπ Γάμμα: 80."
+        "explanation": "Βήμα 1 — πόροι για 100 τσίπ Άλφα: Πλακίδια πυριτίου: 200. Επεξεργασία: 400ω. Δοκιμές: 100ω. Βήμα 2 — υπόλοιποι πόροι: Πλακίδια πυριτίου: 400. Επεξεργασία: 400ω. Δοκιμές: 400ω. Βήμα 3 — εντοπισμός σημείου συμφόρησης (bottleneck) για Γάμμα: Πλακίδια: 400/1 = 400. Επεξεργασία: 400/5 = 80. Δοκιμές: 400/2 = 200. Ο χρόνος επεξεργασίας είναι ο περιοριστικός παράγοντας. Μέγιστος αριθμός τσίπ Γάμμα: 80."
       }
     }
   ],
