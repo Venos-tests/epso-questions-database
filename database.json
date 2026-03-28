@@ -4817,268 +4817,268 @@
       }
     }
   ],
-  "num_1": [
+"num_1": [
     {
       "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><thead><tr style='background:#e8f0fe;'><th></th><th>Col A</th><th>Col B</th><th>Col C</th><th>Col D</th></tr></thead><tbody><tr><td><strong>Row 1</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 2</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 3</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 4</strong></td><td></td><td></td><td></td><td></td></tr></tbody></table>",
-        "question": "1. ",
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>% of Population Using E-Government Services in selected EU Member States (2022–2024)</caption><thead><tr style='background:#e8f0fe;'><th>Country</th><th>2022 (%)</th><th>2023 (%)</th><th>2024 (%)</th></tr></thead><tbody><tr><td><strong>Denmark</strong></td><td>88</td><td>91</td><td>92</td></tr><tr><td><strong>Greece</strong></td><td>45</td><td>52</td><td>58</td></tr><tr><td><strong>Estonia</strong></td><td>78</td><td>80</td><td>83</td></tr><tr><td><strong>France</strong></td><td>68</td><td>71</td><td>75</td></tr></tbody></table>",
+        "question": "1. Between 2022 and 2024, what was the percentage point increase in the adoption of E-Government services in Greece?",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "13.0",
+          "22.2",
+          "28.8",
+          "11.5"
         ],
         "answer": 0,
-        "explanation": ""
+        "explanation": "Percentage point change is the simple arithmetic difference between two percentage values: 58 − 45 = 13. Option C (28.8) is the trap — it represents the percentage change formula ((58−45)/45 × 100). An increase from 45% to 58% is 13 percentage points, but a 28.8% increase in adoption rate. Mixing these up can lead to significant misinformation in EU policy briefings."
       },
       "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><thead><tr style='background:#e8f0fe;'><th></th><th>Col A</th><th>Col B</th><th>Col C</th><th>Col D</th></tr></thead><tbody><tr><td><strong>Row 1</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 2</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 3</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 4</strong></td><td></td><td></td><td></td><td></td></tr></tbody></table>",
-        "question": "1. ",
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>% Πληθυσμού που χρησιμοποιεί Ηλεκτρονικές Δημόσιες Υπηρεσίες σε επιλεγμένα κράτη μέλη ΕΕ (2022–2024)</caption><thead><tr style='background:#e8f0fe;'><th>Χώρα</th><th>2022 (%)</th><th>2023 (%)</th><th>2024 (%)</th></tr></thead><tbody><tr><td><strong>Δανία</strong></td><td>88</td><td>91</td><td>92</td></tr><tr><td><strong>Ελλάδα</strong></td><td>45</td><td>52</td><td>58</td></tr><tr><td><strong>Εσθονία</strong></td><td>78</td><td>80</td><td>83</td></tr><tr><td><strong>Γαλλία</strong></td><td>68</td><td>71</td><td>75</td></tr></tbody></table>",
+        "question": "1. Μεταξύ 2022 και 2024, ποια ήταν η αύξηση σε ποσοστιαίες μονάδες στην υιοθέτηση Ηλεκτρονικών Δημόσιων Υπηρεσιών στην Ελλάδα;",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "13,0",
+          "22,2",
+          "28,8",
+          "11,5"
         ],
         "answer": 0,
-        "explanation": ""
+        "explanation": "Η μεταβολή σε ποσοστιαίες μονάδες είναι η απλή αριθμητική διαφορά: 58 − 45 = 13. Η επιλογή Γ (28,8) είναι η παγίδα — αντιπροσωπεύει την ποσοστιαία μεταβολή ((58−45)/45 × 100). Η αύξηση από 45% σε 58% είναι 13 ποσοστιαίες μονάδες, αλλά αύξηση 28,8% στο ποσοστό υιοθέτησης. Η σύγχυση αυτών των δύο εννοιών μπορεί να οδηγήσει σε σοβαρή παραπληροφόρηση στις εκθέσεις πολιτικής ΕΕ."
       }
     },
     {
       "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><thead><tr style='background:#e8f0fe;'><th></th><th>Col A</th><th>Col B</th><th>Col C</th><th>Col D</th></tr></thead><tbody><tr><td><strong>Row 1</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 2</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 3</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 4</strong></td><td></td><td></td><td></td><td></td></tr></tbody></table>",
-        "question": "2. ",
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>% of Population Using E-Government Services in selected EU Member States (2022–2024)</caption><thead><tr style='background:#e8f0fe;'><th>Country</th><th>2022 (%)</th><th>2023 (%)</th><th>2024 (%)</th></tr></thead><tbody><tr><td><strong>Belgium</strong></td><td>62</td><td>65</td><td>68</td></tr><tr><td><strong>Denmark</strong></td><td>88</td><td>91</td><td>92</td></tr><tr><td><strong>Greece</strong></td><td>45</td><td>52</td><td>58</td></tr><tr><td><strong>Estonia</strong></td><td>78</td><td>80</td><td>83</td></tr><tr><td><strong>France</strong></td><td>68</td><td>71</td><td>75</td></tr></tbody></table>",
+        "question": "2. Which country recorded the greatest percentage change in the adoption of E-Government services between 2022 and 2024?",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Belgium",
+          "Greece",
+          "France",
+          "Estonia"
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 1,
+        "explanation": "To find the greatest percentage change, use the formula (new − old) / old × 100. Belgium: 6/62 ≈ 9.7%. Greece: 13/45 ≈ 28.9%. France: 7/68 ≈ 10.3%. Estonia: 5/78 ≈ 6.4%. Greece has the highest percentage change. Even though Greece's absolute level (58%) is still well below Denmark (92%), its high rate of change signals that digital transition policies are working effectively and the gap is closing rapidly — a key distinction for EU policy analysis."
       },
       "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><thead><tr style='background:#e8f0fe;'><th></th><th>Col A</th><th>Col B</th><th>Col C</th><th>Col D</th></tr></thead><tbody><tr><td><strong>Row 1</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 2</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 3</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 4</strong></td><td></td><td></td><td></td><td></td></tr></tbody></table>",
-        "question": "2. ",
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>% Πληθυσμού που χρησιμοποιεί Ηλεκτρονικές Δημόσιες Υπηρεσίες σε επιλεγμένα κράτη μέλη ΕΕ (2022–2024)</caption><thead><tr style='background:#e8f0fe;'><th>Χώρα</th><th>2022 (%)</th><th>2023 (%)</th><th>2024 (%)</th></tr></thead><tbody><tr><td><strong>Βέλγιο</strong></td><td>62</td><td>65</td><td>68</td></tr><tr><td><strong>Δανία</strong></td><td>88</td><td>91</td><td>92</td></tr><tr><td><strong>Ελλάδα</strong></td><td>45</td><td>52</td><td>58</td></tr><tr><td><strong>Εσθονία</strong></td><td>78</td><td>80</td><td>83</td></tr><tr><td><strong>Γαλλία</strong></td><td>68</td><td>71</td><td>75</td></tr></tbody></table>",
+        "question": "2. Ποια χώρα κατέγραψε τη μεγαλύτερη ποσοστιαία μεταβολή στην υιοθέτηση Ηλεκτρονικών Δημόσιων Υπηρεσιών μεταξύ 2022 και 2024;",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "Βέλγιο",
+          "Ελλάδα",
+          "Γαλλία",
+          "Εσθονία"
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 1,
+        "explanation": "Για τη μεγαλύτερη ποσοστιαία μεταβολή χρησιμοποιούμε τον τύπο (νέο − παλιό) / παλιό × 100. Βέλγιο: 6/62 ≈ 9,7%. Ελλάδα: 13/45 ≈ 28,9%. Γαλλία: 7/68 ≈ 10,3%. Εσθονία: 5/78 ≈ 6,4%. Η Ελλάδα έχει τη μεγαλύτερη ποσοστιαία μεταβολή — ακόμα κι αν το απόλυτο επίπεδό της (58%) υπολείπεται της Δανίας (92%), ο υψηλός ρυθμός μεταβολής δείχνει ότι οι πολιτικές ψηφιακής μετάβασης αποδίδουν."
       }
     },
     {
       "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><thead><tr style='background:#e8f0fe;'><th></th><th>Col A</th><th>Col B</th><th>Col C</th><th>Col D</th></tr></thead><tbody><tr><td><strong>Row 1</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 2</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 3</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 4</strong></td><td></td><td></td><td></td><td></td></tr></tbody></table>",
-        "question": "3. ",
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>DG Project Impact &amp; Allocation of the EU Green Digital Transition Fund (2025)</caption><thead><tr style='background:#e8f0fe;'><th>Directorate-General (DG)</th><th>Number of Projects</th><th>Average Impact Score (1–10)</th><th>Allocation Weight</th></tr></thead><tbody><tr><td><strong>DG CONNECT</strong></td><td>120</td><td>8.5</td><td>40%</td></tr><tr><td><strong>DG CLIMA</strong></td><td>80</td><td>7.0</td><td>35%</td></tr><tr><td><strong>DG GROW</strong></td><td>50</td><td>6.0</td><td>25%</td></tr><tr><td><strong>Total / Average</strong></td><td>250</td><td>?</td><td>100%</td></tr></tbody></table>",
+        "question": "3. What is the weighted average Impact Score for the total 250 projects across all three DGs?",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "7.16",
+          "7.52",
+          "7.70",
+          "8.10"
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 1,
+        "explanation": "To find the weighted average, account for the number of projects in each DG. Step 1 — calculate total points per DG: DG CONNECT: 120 × 8.5 = 1,020. DG CLIMA: 80 × 7.0 = 560. DG GROW: 50 × 6.0 = 300. Step 2 — sum all points: 1,020 + 560 + 300 = 1,880. Step 3 — divide by total projects: 1,880 / 250 = 7.52. Option A (7.16) is the simple average trap ((8.5+7.0+6.0)/3). In EU policy evaluation, a smaller DG with high scores should not skew the overall average as much as a larger one — the weighted average provides a realistic picture of portfolio performance."
       },
       "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><thead><tr style='background:#e8f0fe;'><th></th><th>Col A</th><th>Col B</th><th>Col C</th><th>Col D</th></tr></thead><tbody><tr><td><strong>Row 1</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 2</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 3</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 4</strong></td><td></td><td></td><td></td><td></td></tr></tbody></table>",
-        "question": "3. ",
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Αντίκτυπος Έργων ΓΔ &amp; Κατανομή του «Ταμείου Πράσινης Ψηφιακής Μετάβασης ΕΕ» (2025)</caption><thead><tr style='background:#e8f0fe;'><th>Γενική Διεύθυνση (ΓΔ)</th><th>Αριθμός Έργων</th><th>Μέση Βαθμολογία Αντικτύπου (1–10)</th><th>Βάρος Κατανομής</th></tr></thead><tbody><tr><td><strong>ΓΔ CONNECT</strong></td><td>120</td><td>8,5</td><td>40%</td></tr><tr><td><strong>ΓΔ CLIMA</strong></td><td>80</td><td>7,0</td><td>35%</td></tr><tr><td><strong>ΓΔ GROW</strong></td><td>50</td><td>6,0</td><td>25%</td></tr><tr><td><strong>Σύνολο / Μέσος</strong></td><td>250</td><td>?</td><td>100%</td></tr></tbody></table>",
+        "question": "3. Ποιος είναι ο σταθμισμένος μέσος όρος βαθμολογίας αντικτύπου για τα 250 έργα συνολικά;",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "7,16",
+          "7,52",
+          "7,70",
+          "8,10"
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 1,
+        "explanation": "Για τον σταθμισμένο μέσο όρο λαμβάνουμε υπόψη τον αριθμό έργων κάθε ΓΔ. Βήμα 1 — σύνολο βαθμών: ΓΔ CONNECT: 120 × 8,5 = 1.020. ΓΔ CLIMA: 80 × 7,0 = 560. ΓΔ GROW: 50 × 6,0 = 300. Βήμα 2 — άθροισμα: 1.880. Βήμα 3 — διαίρεση: 1.880 / 250 = 7,52. Η επιλογή Α (7,16) είναι η παγίδα του απλού μέσου ((8,5+7,0+6,0)/3). Στην αξιολόγηση πολιτικής ΕΕ, ο σταθμισμένος μέσος αντικατοπτρίζει ρεαλιστικά την απόδοση του χαρτοφυλακίου."
       }
     },
     {
       "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><thead><tr style='background:#e8f0fe;'><th></th><th>Col A</th><th>Col B</th><th>Col C</th><th>Col D</th></tr></thead><tbody><tr><td><strong>Row 1</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 2</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 3</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 4</strong></td><td></td><td></td><td></td><td></td></tr></tbody></table>",
-        "question": "4. ",
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Digital Skills Training — Participant Satisfaction Rate</caption><thead><tr style='background:#e8f0fe;'><th>Directorate-General (DG)</th><th>Number of Participants</th><th>Satisfaction Rate (%)</th></tr></thead><tbody><tr><td><strong>DG CONNECT</strong></td><td>400</td><td>85</td></tr><tr><td><strong>DG DIGIT</strong></td><td>250</td><td>90</td></tr><tr><td><strong>DG EMPL</strong></td><td>350</td><td>75</td></tr><tr><td><strong>DG HR</strong></td><td>200</td><td>?</td></tr><tr><td><strong>Total / Weighted Avg.</strong></td><td>1,200</td><td>82</td></tr></tbody></table>",
+        "question": "4. The overall weighted satisfaction rate for the year is 82%. What was the Satisfaction Rate for DG HR that produced this result?",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "76%",
+          "81%",
+          "78%",
+          "83%"
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 2,
+        "explanation": "Step 1 — find total satisfaction points needed: 1,200 × 82 = 98,400. Step 2 — calculate points already accounted for: DG CONNECT: 400 × 85 = 34,000. DG DIGIT: 250 × 90 = 22,500. DG EMPL: 350 × 75 = 26,250. Sub-total: 82,750. Step 3 — find missing points: 98,400 − 82,750 = 15,650. Step 4 — calculate DG HR rate: 15,650 / 200 = 78.25% ≈ 78%. The trap is option B (81%) — the result of using a simple average instead of weighted. EU Administrators working with KPIs must identify which department needs to improve its performance to pull up the institutional average."
       },
       "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><thead><tr style='background:#e8f0fe;'><th></th><th>Col A</th><th>Col B</th><th>Col C</th><th>Col D</th></tr></thead><tbody><tr><td><strong>Row 1</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 2</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 3</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 4</strong></td><td></td><td></td><td></td><td></td></tr></tbody></table>",
-        "question": "4. ",
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Κατάρτιση Ψηφιακών Δεξιοτήτων — Ποσοστό Ικανοποίησης Συμμετεχόντων</caption><thead><tr style='background:#e8f0fe;'><th>Γενική Διεύθυνση (ΓΔ)</th><th>Αριθμός Συμμετεχόντων</th><th>Ποσοστό Ικανοποίησης (%)</th></tr></thead><tbody><tr><td><strong>ΓΔ CONNECT</strong></td><td>400</td><td>85</td></tr><tr><td><strong>ΓΔ DIGIT</strong></td><td>250</td><td>90</td></tr><tr><td><strong>ΓΔ EMPL</strong></td><td>350</td><td>75</td></tr><tr><td><strong>ΓΔ HR</strong></td><td>200</td><td>?</td></tr><tr><td><strong>Σύνολο / Σταθμ. Μέσος</strong></td><td>1.200</td><td>82</td></tr></tbody></table>",
+        "question": "4. Το συνολικό σταθμισμένο ποσοστό ικανοποίησης είναι 82%. Ποιο ήταν το ποσοστό ικανοποίησης της ΓΔ HR που οδήγησε σε αυτό το αποτέλεσμα;",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "76%",
+          "81%",
+          "78%",
+          "83%"
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 2,
+        "explanation": "Βήμα 1 — σύνολο βαθμών που απαιτούνται: 1.200 × 82 = 98.400. Βήμα 2 — γνωστοί βαθμοί: ΓΔ CONNECT: 34.000. ΓΔ DIGIT: 22.500. ΓΔ EMPL: 26.250. Υποσύνολο: 82.750. Βήμα 3 — διαφορά: 98.400 − 82.750 = 15.650. Βήμα 4 — ποσοστό ΓΔ HR: 15.650 / 200 = 78,25% ≈ 78%. Η παγίδα είναι η επιλογή Β (81%) — αποτέλεσμα απλού μέσου αντί σταθμισμένου."
       }
     },
     {
       "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><thead><tr style='background:#e8f0fe;'><th></th><th>Col A</th><th>Col B</th><th>Col C</th><th>Col D</th></tr></thead><tbody><tr><td><strong>Row 1</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 2</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 3</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 4</strong></td><td></td><td></td><td></td><td></td></tr></tbody></table>",
-        "question": "5. ",
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Agency Staffing and IT Expenditure (2024)</caption><thead><tr style='background:#e8f0fe;'><th>Agency</th><th>Total Staff</th><th>Ratio (IT Spec : Admin)</th><th>Annual IT Budget (€)</th></tr></thead><tbody><tr><td><strong>EMA (Medicines)</strong></td><td>900</td><td>1:8</td><td>2,250,000</td></tr><tr><td><strong>EASA (Aviation)</strong></td><td>600</td><td>1:4</td><td>1,800,000</td></tr><tr><td><strong>EFSA (Food Safety)</strong></td><td>540</td><td>1:5</td><td>1,620,000</td></tr><tr><td><strong>EUIPO (IP)</strong></td><td>1,100</td><td>1:10</td><td>3,300,000</td></tr></tbody></table>",
+        "question": "5. What is the difference between the number of IT Specialists employed at EASA and those employed at EMA?",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "20",
+          "30",
+          "100",
+          "220"
         ],
         "answer": 0,
-        "explanation": ""
+        "explanation": "To find IT specialists, understand that Total Staff is the sum of both parts of the ratio. EASA ratio 1:4 means 1 IT specialist per 5 total staff (1+4). EASA IT Specialists: 600 / 5 = 120. EMA ratio 1:8 means 1 IT specialist per 9 total staff (1+8). EMA IT Specialists: 900 / 9 = 100. Difference: 120 − 100 = 20. In EU agency headcount management, understanding the ratio of technical to administrative profiles determines digital maturity and justifies the annual IT budget allocation."
       },
       "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><thead><tr style='background:#e8f0fe;'><th></th><th>Col A</th><th>Col B</th><th>Col C</th><th>Col D</th></tr></thead><tbody><tr><td><strong>Row 1</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 2</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 3</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 4</strong></td><td></td><td></td><td></td><td></td></tr></tbody></table>",
-        "question": "5. ",
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Στελέχωση Οργανισμών &amp; Δαπάνες Πληροφορικής (2024)</caption><thead><tr style='background:#e8f0fe;'><th>Οργανισμός</th><th>Σύνολο Προσωπικού</th><th>Αναλογία (Ειδικοί ΠΤ : Διοικητικοί)</th><th>Ετήσιος Προϋπολογισμός ΠΤ (€)</th></tr></thead><tbody><tr><td><strong>EMA (Φάρμακα)</strong></td><td>900</td><td>1:8</td><td>2.250.000</td></tr><tr><td><strong>EASA (Αεροπορία)</strong></td><td>600</td><td>1:4</td><td>1.800.000</td></tr><tr><td><strong>EFSA (Ασφάλεια Τροφίμων)</strong></td><td>540</td><td>1:5</td><td>1.620.000</td></tr><tr><td><strong>EUIPO (Πνευμ. Ιδιοκτησία)</strong></td><td>1.100</td><td>1:10</td><td>3.300.000</td></tr></tbody></table>",
+        "question": "5. Ποια είναι η διαφορά μεταξύ του αριθμού Ειδικών Πληροφορικής που απασχολεί η EASA και εκείνων που απασχολεί η EMA;",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "20",
+          "30",
+          "100",
+          "220"
         ],
         "answer": 0,
-        "explanation": ""
+        "explanation": "Για να βρούμε τους ειδικούς ΠΤ, κατανοούμε ότι το σύνολο προσωπικού είναι το άθροισμα και των δύο μερών της αναλογίας. EASA αναλογία 1:4 → 1 ειδικός ανά 5 άτομα: 600 / 5 = 120 ειδικοί. EMA αναλογία 1:8 → 1 ειδικός ανά 9 άτομα: 900 / 9 = 100 ειδικοί. Διαφορά: 120 − 100 = 20."
       }
     },
     {
       "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><thead><tr style='background:#e8f0fe;'><th></th><th>Col A</th><th>Col B</th><th>Col C</th><th>Col D</th></tr></thead><tbody><tr><td><strong>Row 1</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 2</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 3</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 4</strong></td><td></td><td></td><td></td><td></td></tr></tbody></table>",
-        "question": "6. ",
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>EEAS Digital Infrastructure Deployment 2024 Costs</caption><thead><tr style='background:#e8f0fe;'><th>Regional Hub</th><th>Tech Staff Needed (FTE)</th><th>Monthly Salary per FTE (€)</th><th>Hardware Cost (€)</th><th>Local Digital Tax (%)</th></tr></thead><tbody><tr><td><strong>Western Balkans</strong></td><td>8</td><td>4,200</td><td>150,000</td><td>5</td></tr><tr><td><strong>Eastern Partnership</strong></td><td>12</td><td>3,800</td><td>220,000</td><td>8</td></tr><tr><td><strong>Mediterranean</strong></td><td>10</td><td>4,500</td><td>185,000</td><td>6</td></tr><tr><td><strong>Sub-Saharan Africa</strong></td><td>15</td><td>3,200</td><td>310,000</td><td>12</td></tr></tbody></table>",
+        "question": "6. What is the total cost (Staff Salaries + Taxed Hardware) for a 6-month deployment in the Eastern Partnership hub?",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "€273,600",
+          "€528,400",
+          "€493,600",
+          "€511,200"
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 3,
+        "explanation": "Focus only on the Eastern Partnership row. Staff cost (6 months): 12 FTE × €3,800 × 6 = €273,600. Taxed hardware: €220,000 × 1.08 = €237,600. Grand total: €273,600 + €237,600 = €511,200. A key EPSO skill is filtering out irrelevant data — three-quarters of this table is distractor information designed to slow you down."
       },
       "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><thead><tr style='background:#e8f0fe;'><th></th><th>Col A</th><th>Col B</th><th>Col C</th><th>Col D</th></tr></thead><tbody><tr><td><strong>Row 1</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 2</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 3</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 4</strong></td><td></td><td></td><td></td><td></td></tr></tbody></table>",
-        "question": "6. ",
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>EEAS — Κόστη Ανάπτυξης Ψηφιακής Υποδομής 2024</caption><thead><tr style='background:#e8f0fe;'><th>Περιφερειακός Κόμβος</th><th>Τεχν. Προσωπικό (FTE)</th><th>Μηνιαίος Μισθός/FTE (€)</th><th>Κόστος Εξοπλισμού (€)</th><th>Τοπικός Ψηφιακός Φόρος (%)</th></tr></thead><tbody><tr><td><strong>Δυτικά Βαλκάνια</strong></td><td>8</td><td>4.200</td><td>150.000</td><td>5</td></tr><tr><td><strong>Ανατολική Εταιρική Σχέση</strong></td><td>12</td><td>3.800</td><td>220.000</td><td>8</td></tr><tr><td><strong>Μεσόγειος</strong></td><td>10</td><td>4.500</td><td>185.000</td><td>6</td></tr><tr><td><strong>Υποσαχάρια Αφρική</strong></td><td>15</td><td>3.200</td><td>310.000</td><td>12</td></tr></tbody></table>",
+        "question": "6. Ποιο είναι το συνολικό κόστος (Μισθοί + Φορολογημένος Εξοπλισμός) για ανάπτυξη 6 μηνών στον κόμβο Ανατολικής Εταιρικής Σχέσης;",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "€273.600",
+          "€528.400",
+          "€493.600",
+          "€511.200"
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 3,
+        "explanation": "Εστιάζουμε μόνο στη γραμμή Ανατολικής Εταιρικής Σχέσης. Κόστος προσωπικού (6 μήνες): 12 × €3.800 × 6 = €273.600. Φορολογημένος εξοπλισμός: €220.000 × 1,08 = €237.600. Σύνολο: €273.600 + €237.600 = €511.200. Βασική δεξιότητα EPSO: φιλτράρισμα άσχετων δεδομένων — τα 3/4 του πίνακα είναι παραπλανητικές πληροφορίες."
       }
     },
     {
       "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><thead><tr style='background:#e8f0fe;'><th></th><th>Col A</th><th>Col B</th><th>Col C</th><th>Col D</th></tr></thead><tbody><tr><td><strong>Row 1</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 2</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 3</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 4</strong></td><td></td><td></td><td></td><td></td></tr></tbody></table>",
-        "question": "7. ",
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Digital Infrastructure Investment Index (2020–2024). Base year 2020 = 100.</caption><thead><tr style='background:#e8f0fe;'><th>Institution</th><th>2020 (Base)</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr></thead><tbody><tr><td><strong>ECB</strong></td><td>100</td><td>105</td><td>112</td><td>118</td><td>125</td></tr><tr><td><strong>EIB</strong></td><td>100</td><td>102</td><td>108</td><td>115</td><td>122</td></tr><tr><td><strong>Court of Justice</strong></td><td>100</td><td>110</td><td>115</td><td>120</td><td>128</td></tr><tr><td><strong>Court of Auditors</strong></td><td>100</td><td>104</td><td>107</td><td>110</td><td>114</td></tr><tr><td><strong>European Council</strong></td><td>100</td><td>108</td><td>114</td><td>122</td><td>135</td></tr></tbody></table>",
+        "question": "7. If both the ECB and the EIB each spent €40 million on digital infrastructure in 2020, by how much did ECB spending exceed EIB spending in 2024?",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "€1.0 million",
+          "€1.2 million",
+          "€1.5 million",
+          "€2.0 million"
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 1,
+        "explanation": "Step 1 — apply the 2024 index to the base amount. ECB index 125 means 125% of base: €40M × 1.25 = €50.0M. EIB index 122 means 122% of base: €40M × 1.22 = €48.8M. Step 2 — find the difference: €50.0M − €48.8M = €1.2M. Index numbers are central to the EU's Multiannual Financial Framework (MFF), allowing the Commission to track whether spending keeps pace with institutional growth targets without listing billions of euros in every cell."
       },
       "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><thead><tr style='background:#e8f0fe;'><th></th><th>Col A</th><th>Col B</th><th>Col C</th><th>Col D</th></tr></thead><tbody><tr><td><strong>Row 1</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 2</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 3</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 4</strong></td><td></td><td></td><td></td><td></td></tr></tbody></table>",
-        "question": "7. ",
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Δείκτης Επενδύσεων Ψηφιακής Υποδομής (2020–2024). Έτος βάσης 2020 = 100.</caption><thead><tr style='background:#e8f0fe;'><th>Θεσμικό Όργανο</th><th>2020 (Βάση)</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr></thead><tbody><tr><td><strong>ΕΚΤ</strong></td><td>100</td><td>105</td><td>112</td><td>118</td><td>125</td></tr><tr><td><strong>ΕΤΕπ</strong></td><td>100</td><td>102</td><td>108</td><td>115</td><td>122</td></tr><tr><td><strong>Δικαστήριο ΕΕ</strong></td><td>100</td><td>110</td><td>115</td><td>120</td><td>128</td></tr><tr><td><strong>Ελεγκτικό Συνέδριο</strong></td><td>100</td><td>104</td><td>107</td><td>110</td><td>114</td></tr><tr><td><strong>Ευρωπαϊκό Συμβούλιο</strong></td><td>100</td><td>108</td><td>114</td><td>122</td><td>135</td></tr></tbody></table>",
+        "question": "7. Αν τόσο η ΕΚΤ όσο και η ΕΤΕπ δαπάνησαν από €40 εκατ. για ψηφιακή υποδομή το 2020, κατά πόσο υπερέβησαν οι δαπάνες ΕΚΤ εκείνες της ΕΤΕπ το 2024;",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "€1,0 εκατ.",
+          "€1,2 εκατ.",
+          "€1,5 εκατ.",
+          "€2,0 εκατ."
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 1,
+        "explanation": "Βήμα 1 — εφαρμογή δείκτη 2024 στο βασικό ποσό. ΕΚΤ δείκτης 125: €40εκ. × 1,25 = €50,0εκ. ΕΤΕπ δείκτης 122: €40εκ. × 1,22 = €48,8εκ. Βήμα 2 — διαφορά: €50,0εκ. − €48,8εκ. = €1,2εκ. Οι αριθμοί δείκτη είναι κεντρικό εργαλείο του Πολυετούς Δημοσιονομικού Πλαισίου (ΠΔΠ) της ΕΕ."
       }
     },
     {
       "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><thead><tr style='background:#e8f0fe;'><th></th><th>Col A</th><th>Col B</th><th>Col C</th><th>Col D</th></tr></thead><tbody><tr><td><strong>Row 1</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 2</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 3</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 4</strong></td><td></td><td></td><td></td><td></td></tr></tbody></table>",
-        "question": "8. ",
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Digital Infrastructure Investment Index (2020–2024). Base year 2020 = 100.</caption><thead><tr style='background:#e8f0fe;'><th>Institution</th><th>2020 (Base)</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr></thead><tbody><tr><td><strong>ECB</strong></td><td>100</td><td>105</td><td>112</td><td>118</td><td>125</td></tr><tr><td><strong>EIB</strong></td><td>100</td><td>102</td><td>108</td><td>115</td><td>122</td></tr><tr><td><strong>Court of Justice</strong></td><td>100</td><td>110</td><td>115</td><td>120</td><td>128</td></tr><tr><td><strong>Court of Auditors</strong></td><td>100</td><td>104</td><td>107</td><td>110</td><td>114</td></tr><tr><td><strong>European Council</strong></td><td>100</td><td>108</td><td>114</td><td>122</td><td>135</td></tr></tbody></table>",
+        "question": "8. Which institution showed the highest percentage growth in digital investment between 2021 and 2023?",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "ECB",
+          "EIB",
+          "Court of Auditors",
+          "European Council"
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 3,
+        "explanation": "Do not simply subtract index points — calculate the percentage change of the index between the two years. ECB: (118−105)/105 = 12.38%. EIB: (115−102)/102 = 12.74%. Court of Auditors: (110−104)/104 = 5.76%. European Council: (122−108)/108 = 12.96%. The European Council has the highest momentum in this period. Even though the ECB has a higher absolute index in 2024 (125 vs 135), the rate of acceleration between 2021 and 2023 was highest for the European Council."
       },
       "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><thead><tr style='background:#e8f0fe;'><th></th><th>Col A</th><th>Col B</th><th>Col C</th><th>Col D</th></tr></thead><tbody><tr><td><strong>Row 1</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 2</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 3</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 4</strong></td><td></td><td></td><td></td><td></td></tr></tbody></table>",
-        "question": "8. ",
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Δείκτης Επενδύσεων Ψηφιακής Υποδομής (2020–2024). Έτος βάσης 2020 = 100.</caption><thead><tr style='background:#e8f0fe;'><th>Θεσμικό Όργανο</th><th>2020 (Βάση)</th><th>2021</th><th>2022</th><th>2023</th><th>2024</th></tr></thead><tbody><tr><td><strong>ΕΚΤ</strong></td><td>100</td><td>105</td><td>112</td><td>118</td><td>125</td></tr><tr><td><strong>ΕΤΕπ</strong></td><td>100</td><td>102</td><td>108</td><td>115</td><td>122</td></tr><tr><td><strong>Δικαστήριο ΕΕ</strong></td><td>100</td><td>110</td><td>115</td><td>120</td><td>128</td></tr><tr><td><strong>Ελεγκτικό Συνέδριο</strong></td><td>100</td><td>104</td><td>107</td><td>110</td><td>114</td></tr><tr><td><strong>Ευρωπαϊκό Συμβούλιο</strong></td><td>100</td><td>108</td><td>114</td><td>122</td><td>135</td></tr></tbody></table>",
+        "question": "8. Ποιο θεσμικό όργανο εμφάνισε τη μεγαλύτερη ποσοστιαία αύξηση επενδύσεων μεταξύ 2021 και 2023;",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "ΕΚΤ",
+          "ΕΤΕπ",
+          "Ελεγκτικό Συνέδριο",
+          "Ευρωπαϊκό Συμβούλιο"
         ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 3,
+        "explanation": "Δεν αφαιρούμε απλώς τους δείκτες — υπολογίζουμε την ποσοστιαία μεταβολή. ΕΚΤ: (118−105)/105 = 12,38%. ΕΤΕπ: (115−102)/102 = 12,74%. Ελεγκτικό Συνέδριο: (110−104)/104 = 5,76%. Ευρωπαϊκό Συμβούλιο: (122−108)/108 = 12,96%. Το Ευρωπαϊκό Συμβούλιο έχει τη μεγαλύτερη δυναμική στην περίοδο αυτή."
       }
     },
     {
       "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><thead><tr style='background:#e8f0fe;'><th></th><th>Col A</th><th>Col B</th><th>Col C</th><th>Col D</th></tr></thead><tbody><tr><td><strong>Row 1</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 2</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 3</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 4</strong></td><td></td><td></td><td></td><td></td></tr></tbody></table>",
-        "question": "9. ",
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>EU Digital Innovation Hubs (EDIH) Performance Metrics (2023–2024). Budgets in €000.</caption><thead><tr style='background:#e8f0fe;'><th>Digital Hub</th><th>FTE Staff</th><th>2023 Budget (€000)</th><th>2024 Budget (€000)</th><th>Total Projects (2024)</th></tr></thead><tbody><tr><td><strong>Hub Alpha</strong></td><td>18</td><td>400</td><td>425</td><td>30</td></tr><tr><td><strong>Hub Beta</strong></td><td>22</td><td>490</td><td>520</td><td>50</td></tr><tr><td><strong>Hub Gamma</strong></td><td>14</td><td>300</td><td>320</td><td>25</td></tr><tr><td><strong>Hub Delta</strong></td><td>20</td><td>450</td><td>480</td><td>40</td></tr><tr><td><strong>Hub Epsilon</strong></td><td>16</td><td>380</td><td>405</td><td>35</td></tr><tr><td><strong>Hub Zeta</strong></td><td>25</td><td>600</td><td>620</td><td>60</td></tr></tbody></table>",
+        "question": "9. To receive the Special Bonus, a Hub must meet ALL three criteria: (1) more than 15 FTE staff; (2) 2024 cost per project below €12,000; (3) annual budget increase of at least 6.5%. What is the total 2024 budget of all qualifying Hubs?",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "€405,000",
+          "€1,405,000",
+          "€1,525,000",
+          "€925,000"
         ],
         "answer": 0,
-        "explanation": ""
+        "explanation": "Apply each criterion systematically. Criterion 1 (FTE > 15): Gamma (14 FTE) is eliminated. Criterion 2 (cost per project < €12,000): Alpha: €425k/30 = €14,167 ❌. Beta: €520k/50 = €10,400 ✅. Delta: €480k/40 = €12,000 ❌ (not less than). Epsilon: €405k/35 = €11,571 ✅. Zeta: €620k/60 = €10,333 ✅. Criterion 3 (budget growth ≥ 6.5%): Beta: (520−490)/490 = 6.12% ❌. Epsilon: (405−380)/380 = 6.58% ✅. Zeta: (620−600)/600 = 3.33% ❌. Only Hub Epsilon passes all three criteria. Total qualifying budget: €405,000."
       },
       "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><thead><tr style='background:#e8f0fe;'><th></th><th>Col A</th><th>Col B</th><th>Col C</th><th>Col D</th></tr></thead><tbody><tr><td><strong>Row 1</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 2</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 3</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 4</strong></td><td></td><td></td><td></td><td></td></tr></tbody></table>",
-        "question": "9. ",
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Ευρωπαϊκοί Κόμβοι Ψηφιακής Καινοτομίας (EDIH) — Μετρικές Απόδοσης (2023–2024). Προϋπολογισμοί σε €000.</caption><thead><tr style='background:#e8f0fe;'><th>Ψηφιακός Κόμβος</th><th>Προσωπικό (FTE)</th><th>Προϋπολογισμός 2023 (€000)</th><th>Προϋπολογισμός 2024 (€000)</th><th>Σύνολο Έργων (2024)</th></tr></thead><tbody><tr><td><strong>Κόμβος Άλφα</strong></td><td>18</td><td>400</td><td>425</td><td>30</td></tr><tr><td><strong>Κόμβος Βήτα</strong></td><td>22</td><td>490</td><td>520</td><td>50</td></tr><tr><td><strong>Κόμβος Γάμμα</strong></td><td>14</td><td>300</td><td>320</td><td>25</td></tr><tr><td><strong>Κόμβος Δέλτα</strong></td><td>20</td><td>450</td><td>480</td><td>40</td></tr><tr><td><strong>Κόμβος Έψιλον</strong></td><td>16</td><td>380</td><td>405</td><td>35</td></tr><tr><td><strong>Κόμβος Ζήτα</strong></td><td>25</td><td>600</td><td>620</td><td>60</td></tr></tbody></table>",
+        "question": "9. Για το Ειδικό Μπόνους, ένας Κόμβος πρέπει να πληροί ΟΛΑ τα κριτήρια: (1) περισσότερα από 15 FTE· (2) κόστος ανά έργο 2024 κάτω από €12.000· (3) ετήσια αύξηση προϋπολογισμού τουλάχιστον 6,5%. Ποιος είναι ο συνολικός προϋπολογισμός 2024 των κόμβων που δικαιούνται μπόνους;",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "€405.000",
+          "€1.405.000",
+          "€1.525.000",
+          "€925.000"
         ],
         "answer": 0,
-        "explanation": ""
+        "explanation": "Εφαρμόζουμε κάθε κριτήριο συστηματικά. Κριτήριο 1 (FTE > 15): Γάμμα (14 FTE) αποκλείεται. Κριτήριο 2 (κόστος/έργο < €12.000): Άλφα: €14.167 ❌. Βήτα: €10.400 ✅. Δέλτα: €12.000 ❌ (όχι μικρότερο). Έψιλον: €11.571 ✅. Ζήτα: €10.333 ✅. Κριτήριο 3 (αύξηση ≥ 6,5%): Βήτα: 6,12% ❌. Έψιλον: 6,58% ✅. Ζήτα: 3,33% ❌. Μόνο ο Κόμβος Έψιλον πληροί και τα τρία κριτήρια. Συνολικός προϋπολογισμός: €405.000."
       }
     },
     {
       "en": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><thead><tr style='background:#e8f0fe;'><th></th><th>Col A</th><th>Col B</th><th>Col C</th><th>Col D</th></tr></thead><tbody><tr><td><strong>Row 1</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 2</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 3</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 4</strong></td><td></td><td></td><td></td><td></td></tr></tbody></table>",
-        "question": "10. ",
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Resource Requirements per Unit — EU Chips Act Pilot Production Line</caption><thead><tr style='background:#e8f0fe;'><th>Microchip Type</th><th>Silicon Wafer (Units)</th><th>Processing Time (Hours)</th><th>Testing Time (Hours)</th><th>Digital Value (€)</th></tr></thead><tbody><tr><td><strong>Alpha</strong></td><td>2</td><td>4</td><td>1</td><td>200</td></tr><tr><td><strong>Beta</strong></td><td>3</td><td>2</td><td>2</td><td>180</td></tr><tr><td><strong>Gamma</strong></td><td>1</td><td>5</td><td>2</td><td>210</td></tr><tr><td><strong>Total Weekly Resources</strong></td><td>600 units</td><td>800 hours</td><td>500 hours</td><td>—</td></tr></tbody></table>",
+        "question": "10. The facility must first produce 100 Alpha chips for a priority Sovereignty Contract. All remaining resources are then dedicated exclusively to Gamma chips. What is the maximum number of Gamma chips that can be produced?",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "80",
+          "100",
+          "120",
+          "150"
         ],
         "answer": 0,
-        "explanation": ""
+        "explanation": "Step 1 — resources consumed by 100 Alpha chips: Wafers: 100×2 = 200. Processing: 100×4 = 400h. Testing: 100×1 = 100h. Step 2 — remaining resources: Wafers: 600−200 = 400 units. Processing: 800−400 = 400h. Testing: 500−100 = 400h. Step 3 — identify the bottleneck for Gamma. Each Gamma chip needs: 1 wafer (400/1 = 400 possible), 5h processing (400/5 = 80 possible), 2h testing (400/2 = 200 possible). Processing time is the binding constraint at 80 units. Production must stop when processing hours are exhausted. Maximum Gamma chips: 80."
       },
       "el": {
-        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><thead><tr style='background:#e8f0fe;'><th></th><th>Col A</th><th>Col B</th><th>Col C</th><th>Col D</th></tr></thead><tbody><tr><td><strong>Row 1</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 2</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 3</strong></td><td></td><td></td><td></td><td></td></tr><tr><td><strong>Row 4</strong></td><td></td><td></td><td></td><td></td></tr></tbody></table>",
-        "question": "10. ",
+        "passage": "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%;font-size:0.95em;margin-bottom:10px;'><caption style='font-weight:bold;margin-bottom:6px;font-size:0.97em;'>Απαιτήσεις Πόρων ανά Μονάδα — Πιλοτική Γραμμή Παραγωγής EU Chips Act</caption><thead><tr style='background:#e8f0fe;'><th>Τύπος Μικροτσίπ</th><th>Πλακίδια Πυριτίου (Μονάδες)</th><th>Χρόνος Επεξεργασίας (Ώρες)</th><th>Χρόνος Δοκιμών (Ώρες)</th><th>Ψηφιακή Αξία (€)</th></tr></thead><tbody><tr><td><strong>Άλφα</strong></td><td>2</td><td>4</td><td>1</td><td>200</td></tr><tr><td><strong>Βήτα</strong></td><td>3</td><td>2</td><td>2</td><td>180</td></tr><tr><td><strong>Γάμμα</strong></td><td>1</td><td>5</td><td>2</td><td>210</td></tr><tr><td><strong>Σύνολο Εβδομαδιαίων Πόρων</strong></td><td>600 μονάδες</td><td>800 ώρες</td><td>500 ώρες</td><td>—</td></tr></tbody></table>",
+        "question": "10. Η εγκατάσταση πρέπει πρώτα να παράγει 100 τσίπ Άλφα για συμβόλαιο προτεραιότητας. Οι υπόλοιποι πόροι διατίθενται αποκλειστικά για τσίπ Γάμμα. Ποιος είναι ο μέγιστος αριθμός τσίπ Γάμμα που μπορεί να παραχθεί;",
         "options": [
-          "",
-          "",
-          "",
-          ""
+          "80",
+          "100",
+          "120",
+          "150"
         ],
         "answer": 0,
-        "explanation": ""
+        "explanation": "Βήμα 1 — πόροι για 100 τσίπ Άλφα: Πλακίδια: 200. Επεξεργασία: 400ω. Δοκιμές: 100ω. Βήμα 2 — υπόλοιποι πόροι: Πλακίδια: 400. Επεξεργασία: 400ω. Δοκιμές: 400ω. Βήμα 3 — εντοπισμός σημείου συμφόρησης για Γάμμα: Πλακίδια: 400/1 = 400. Επεξεργασία: 400/5 = 80. Δοκιμές: 400/2 = 200. Ο χρόνος επεξεργασίας είναι ο περιοριστικός παράγοντας. Μέγιστος αριθμός τσίπ Γάμμα: 80."
       }
     }
-  ],
+  ]
   "num_2": [
     {
       "en": {
