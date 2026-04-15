@@ -1563,6 +1563,789 @@
       }
     }
   ],
+ {
+  "eu_3": [
+    {
+      "en": {
+        "passage": "1. The EU AI Act, which entered into force in August 2024, follows a phased implementation schedule that prioritises the most urgent risks first.",
+        "question": "When did the prohibitions on unacceptable-risk AI systems under the EU AI Act begin to apply?",
+        "options": [
+          "February 2025",
+          "August 2024",
+          "August 2025",
+          "February 2026"
+        ],
+        "answer": 0,
+        "explanation": "While the EU AI Act entered into force in August 2024, the prohibitions on unacceptable-risk AI systems began applying in February 2025. This graduated timeline gives organisations time to adapt while addressing the most urgent risks first."
+      },
+      "el": {
+        "passage": "1. Ο Κανονισμός ΤΝ της ΕΕ, που τέθηκε σε ισχύ τον Αύγουστο του 2024, ακολουθεί ένα σταδιακό χρονοδιάγραμμα εφαρμογής που δίνει προτεραιότητα στους πλέον επείγοντες κινδύνους.",
+        "question": "Πότε άρχισαν να εφαρμόζονται οι απαγορεύσεις για συστήματα ΤΝ μη αποδεκτού κινδύνου βάσει του Κανονισμού ΤΝ της ΕΕ;",
+        "options": [
+          "Φεβρουάριος 2025",
+          "Αύγουστος 2024",
+          "Αύγουστος 2025",
+          "Φεβρουάριος 2026"
+        ],
+        "answer": 0,
+        "explanation": "Αν και ο Κανονισμός ΤΝ τέθηκε σε ισχύ τον Αύγουστο του 2024, οι απαγορεύσεις για συστήματα μη αποδεκτού κινδύνου άρχισαν να εφαρμόζονται τον Φεβρουάριο του 2025. Το σταδιακό χρονοδιάγραμμα δίνει στους οργανισμούς χρόνο προσαρμογής."
+      }
+    },
+    {
+      "en": {
+        "passage": "2. The European Climate Law provides the legal framework for achieving climate neutrality by 2050. In 2025 the Commission proposed an intermediate 2040 target to bridge the gap between the existing 2030 goal and the 2050 horizon.",
+        "question": "What is the proposed EU emissions reduction target for 2040 that would amend the European Climate Law?",
+        "options": [
+          "At least 75% reduction compared to 1990 levels",
+          "At least 85% reduction compared to 1990 levels",
+          "At least 95% reduction compared to 1990 levels",
+          "At least 90% reduction compared to 1990 levels"
+        ],
+        "answer": 3,
+        "explanation": "In 2025 the Commission proposed amending the European Climate Law to set a 2040 target of at least 90% emissions reduction compared to 1990 levels, based on advice from the European Scientific Advisory Board on Climate Change (ESABCC). This target aligns with carbon neutrality by 2050 and the 1.5°C temperature goal."
+      },
+      "el": {
+        "passage": "2. Ο Ευρωπαϊκός Νόμος για το Κλίμα παρέχει το νομικό πλαίσιο για την επίτευξη κλιματικής ουδετερότητας έως το 2050. Το 2025 η Επιτροπή πρότεινε ενδιάμεσο στόχο για το 2040.",
+        "question": "Ποιος είναι ο προτεινόμενος στόχος της ΕΕ για μείωση εκπομπών το 2040 που θα τροποποιεί τον Ευρωπαϊκό Νόμο για το Κλίμα;",
+        "options": [
+          "Μείωση τουλάχιστον 75% σε σχέση με τα επίπεδα του 1990",
+          "Μείωση τουλάχιστον 85% σε σχέση με τα επίπεδα του 1990",
+          "Μείωση τουλάχιστον 95% σε σχέση με τα επίπεδα του 1990",
+          "Μείωση τουλάχιστον 90% σε σχέση με τα επίπεδα του 1990"
+        ],
+        "answer": 3,
+        "explanation": "Το 2025, η Επιτροπή πρότεινε τροποποίηση του Ευρωπαϊκού Νόμου για το Κλίμα με στόχο μείωσης εκπομπών τουλάχιστον 90% έως το 2040 σε σχέση με τα επίπεδα του 1990, βάσει συμβουλής του ESABCC. Ο στόχος αυτός είναι συνεπής με την κλιματική ουδετερότητα το 2050."
+      }
+    },
+    {
+      "en": {
+        "passage": "3. EU enlargement in the Western Balkans advanced significantly in late 2025, with several countries reaching key milestones in their accession negotiations.",
+        "question": "Which Western Balkan country overtook Serbia in the EU integration process by opening all negotiation chapters in November 2025?",
+        "options": [
+          "Albania",
+          "Montenegro",
+          "North Macedonia",
+          "Bosnia and Herzegovina"
+        ],
+        "answer": 0,
+        "explanation": "In mid-November 2025, Albania achieved a milestone by opening all negotiation chapters, becoming a frontrunner alongside Montenegro. Enlargement Commissioner Marta Kos noted that the success came from the combined efforts of authorities, civil society, and citizens demanding reforms."
+      },
+      "el": {
+        "passage": "3. Η διεύρυνση της ΕΕ στα Δυτικά Βαλκάνια σημείωσε σημαντική πρόοδο στα τέλη του 2025, με αρκετές χώρες να φτάνουν σε βασικά ορόσημα.",
+        "question": "Ποια χώρα των Δυτικών Βαλκανίων ξεπέρασε τη Σερβία στη διαδικασία ένταξης στην ΕΕ ανοίγοντας όλα τα κεφάλαια διαπραγματεύσεων τον Νοέμβριο του 2025;",
+        "options": [
+          "Αλβανία",
+          "Μαυροβούνιο",
+          "Βόρεια Μακεδονία",
+          "Βοσνία-Ερζεγοβίνη"
+        ],
+        "answer": 0,
+        "explanation": "Στα μέσα Νοεμβρίου 2025, η Αλβανία κατάφερε να ανοίξει όλα τα κεφάλαια διαπραγματεύσεων, αναδεικνύοντάς την σε πρωτοπόρο μαζί με το Μαυροβούνιο. Η Επίτροπος Διεύρυνσης Μάρτα Κος τόνισε ότι η επιτυχία ήταν αποτέλεσμα συλλογικής προσπάθειας."
+      }
+    },
+    {
+      "en": {
+        "passage": "4. The 2024 reform of EU fiscal rules replaced the rigid annual targets of the old Stability and Growth Pact with country-specific, medium-term fiscal-structural plans (MTFSPs).",
+        "question": "Under the 2024 reform of EU fiscal rules, what is the single operational indicator used to calibrate national fiscal-structural plans?",
+        "options": [
+          "Gross domestic product (GDP) growth rate",
+          "Public debt-to-GDP ratio",
+          "Structural deficit",
+          "Net expenditure growth"
+        ],
+        "answer": 3,
+        "explanation": "The 2024 reform introduced medium-term fiscal-structural plans (MTFSPs) with net expenditure growth as the single operational indicator, replacing rigid annual targets with country-specific, medium-term anchors."
+      },
+      "el": {
+        "passage": "4. Η μεταρρύθμιση των δημοσιονομικών κανόνων της ΕΕ το 2024 αντικατέστησε τους αυστηρούς ετήσιους στόχους του παλαιού Συμφώνου Σταθερότητας με χώρα-ανά-χώρα μεσοπρόθεσμα δημοσιονομικά-διαρθρωτικά σχέδια.",
+        "question": "Στο πλαίσιο της μεταρρύθμισης των δημοσιονομικών κανόνων της ΕΕ το 2024, ποιος είναι ο μοναδικός επιχειρησιακός δείκτης για τη βαθμονόμηση των εθνικών δημοσιονομικών-διαρθρωτικών σχεδίων;",
+        "options": [
+          "Ρυθμός ανάπτυξης του ΑΕΠ",
+          "Λόγος δημόσιου χρέους προς ΑΕΠ",
+          "Διαρθρωτικό έλλειμμα",
+          "Αύξηση καθαρών δαπανών"
+        ],
+        "answer": 3,
+        "explanation": "Η μεταρρύθμιση του 2024 εισήγαγε μεσοπρόθεσμα δημοσιονομικά-διαρθρωτικά σχέδια με μοναδικό επιχειρησιακό δείκτη την αύξηση καθαρών δαπανών, αντικαθιστώντας τους άκαμπτους ετήσιους στόχους με χώρα-ανά-χώρα μεσοπρόθεσμες αγκύρωσεις."
+      }
+    },
+    {
+      "en": {
+        "passage": "5. The ReArm Europe initiative, launched in March 2025, allowed member states to increase defence spending beyond their normal fiscal paths by invoking a special flexibility clause.",
+        "question": "How many EU member states activated the national escape clause in 2025 to accommodate higher defence spending under the ReArm Europe initiative?",
+        "options": [
+          "17 member states",
+          "10 member states",
+          "13 member states",
+          "20 member states"
+        ],
+        "answer": 0,
+        "explanation": "In March 2025, the Commission invited member states to activate the national escape clause for defence spending. Seventeen EU member states (including 13 euro area countries) applied and were granted temporary deviations from their expenditure paths, capped at 1.5% of GDP over 2025–2028."
+      },
+      "el": {
+        "passage": "5. Η πρωτοβουλία ReArm Europe, που ξεκίνησε τον Μάρτιο του 2025, επέτρεψε στα κράτη μέλη να αυξήσουν τις αμυντικές δαπάνες πέραν των κανονικών δημοσιονομικών τους ορίων.",
+        "question": "Πόσα κράτη μέλη της ΕΕ ενεργοποίησαν την εθνική ρήτρα διαφυγής το 2025 για να αυξήσουν τις αμυντικές δαπάνες στο πλαίσιο της πρωτοβουλίας ReArm Europe;",
+        "options": [
+          "17 κράτη μέλη",
+          "10 κράτη μέλη",
+          "13 κράτη μέλη",
+          "20 κράτη μέλη"
+        ],
+        "answer": 0,
+        "explanation": "Τον Μάρτιο 2025, η Επιτροπή κάλεσε τα κράτη μέλη να ενεργοποιήσουν την εθνική ρήτρα διαφυγής για αμυντικές δαπάνες. Δεκαεπτά κράτη μέλη (εκ των οποίων 13 της ευρωζώνης) εγκρίθηκαν, με προσωρινή απόκλιση έως 1,5% του ΑΕΠ για την περίοδο 2025–2028."
+      }
+    },
+    {
+      "en": {
+        "passage": "6. The EU Soil Monitoring and Resilience Directive, proposed in July 2023 as part of the European Green Deal, aimed to establish a common framework for monitoring and improving soil health across the EU.",
+        "question": "What is the status of the EU Soil Monitoring and Resilience Directive proposed in July 2023?",
+        "options": [
+          "Adopted and in force",
+          "Rejected by the European Parliament",
+          "Common text agreed but formal approval pending",
+          "Withdrawn by the Commission"
+        ],
+        "answer": 2,
+        "explanation": "Nearly two years after the proposal was published (COM(2023)416 of 5 July 2023), the European Parliament and Council agreed on a common text for the Soil Monitoring Law, but formal approval remained pending. This delay exemplifies the challenges in completing Green Deal legislation."
+      },
+      "el": {
+        "passage": "6. Η Οδηγία Παρακολούθησης και Ανθεκτικότητας Εδαφών, που προτάθηκε τον Ιούλιο 2023 στο πλαίσιο της Ευρωπαϊκής Πράσινης Συμφωνίας, επιδίωκε να δημιουργήσει κοινό πλαίσιο για τη βελτίωση της υγείας των εδαφών.",
+        "question": "Ποια είναι η κατάσταση της Οδηγίας ΕΕ για την Παρακολούθηση και Ανθεκτικότητα Εδαφών που προτάθηκε τον Ιούλιο 2023;",
+        "options": [
+          "Εγκρίθηκε και βρίσκεται σε ισχύ",
+          "Απορρίφθηκε από το Ευρωπαϊκό Κοινοβούλιο",
+          "Κοινό κείμενο συμφωνήθηκε αλλά εκκρεμεί επίσημη έγκριση",
+          "Αποσύρθηκε από την Επιτροπή"
+        ],
+        "answer": 2,
+        "explanation": "Σχεδόν δύο χρόνια μετά τη δημοσίευση της πρότασης (COM(2023)416), το Ευρωπαϊκό Κοινοβούλιο και το Συμβούλιο συμφώνησαν σε κοινό κείμενο για τον Νόμο Παρακολούθησης Εδαφών, αλλά η επίσημη έγκριση εκκρεμούσε."
+      }
+    },
+    {
+      "en": {
+        "passage": "7. Effective return of irregular migrants has been a persistent challenge for the EU, with only about 30% of return decisions being executed. The Commission acted in 2025 to address this gap.",
+        "question": "What new system did the Commission propose in March 2025 to address the persistently low execution rate of return decisions in the EU?",
+        "options": [
+          "European Return Agency",
+          "Common European System for Returns",
+          "Automatic Deportation Directive",
+          "Border Return Fund"
+        ],
+        "answer": 1,
+        "explanation": "In March 2025, the Commission proposed a Common European System for Returns to address the persistent challenge that only approximately 30% of return decisions were being executed. The proposal includes mutual recognition of return decisions and the concept of 'return hubs'."
+      },
+      "el": {
+        "passage": "7. Η αποτελεσματική επιστροφή παράτυπων μεταναστών αποτελεί επίμονη πρόκληση για την ΕΕ, καθώς εκτελείται μόνο περίπου το 30% των αποφάσεων επιστροφής.",
+        "question": "Ποιο νέο σύστημα πρότεινε η Επιτροπή τον Μάρτιο 2025 για να αντιμετωπίσει τον χαμηλό ρυθμό εκτέλεσης αποφάσεων επιστροφής στην ΕΕ;",
+        "options": [
+          "Ευρωπαϊκή Υπηρεσία Επιστροφών",
+          "Κοινό Ευρωπαϊκό Σύστημα Επιστροφών",
+          "Οδηγία Αυτόματης Απέλασης",
+          "Ταμείο Συνοριακών Επιστροφών"
+        ],
+        "answer": 1,
+        "explanation": "Τον Μάρτιο 2025, η Επιτροπή πρότεινε Κοινό Ευρωπαϊκό Σύστημα Επιστροφών για να αντιμετωπίσει το χρόνιο πρόβλημα εκτέλεσης μόνο του 30% των αποφάσεων επιστροφής. Η πρόταση περιλαμβάνει αμοιβαία αναγνώριση αποφάσεων και «κόμβους επιστροφής»."
+      }
+    },
+    {
+      "en": {
+        "passage": "8. The Digital Services Act (DSA) establishes a tiered system of obligations for online platforms, with the strictest requirements applying to 'Very Large Online Platforms' (VLOPs) that reach more than 45 million monthly active users in the EU.",
+        "question": "Under the Digital Services Act (DSA), what is a primary obligation for 'Very Large Online Platforms' (VLOPs)?",
+        "options": [
+          "To provide free high-speed internet to all users",
+          "To share 50% of their advertising revenue with the European Commission",
+          "To appoint a government official to their Board of Directors",
+          "To analyse and mitigate systemic risks such as the spread of illegal content or disinformation"
+        ],
+        "answer": 3,
+        "explanation": "The DSA imposes stricter transparency and accountability requirements on platforms with more than 45 million monthly active users in the EU, including an obligation to assess and mitigate systemic risks such as the spread of illegal content, disinformation, and harms to fundamental rights."
+      },
+      "el": {
+        "passage": "8. Ο Νόμος για τις Ψηφιακές Υπηρεσίες (DSA) θεσπίζει ένα σύστημα διαβαθμισμένων υποχρεώσεων για τις διαδικτυακές πλατφόρμες, με τις αυστηρότερες απαιτήσεις να εφαρμόζονται στις «Πολύ Μεγάλες Διαδικτυακές Πλατφόρμες» (VLOPs).",
+        "question": "Βάσει του Νόμου για τις Ψηφιακές Υπηρεσίες (DSA), ποια είναι μια πρωταρχική υποχρέωση για τις «Πολύ Μεγάλες Διαδικτυακές Πλατφόρμες» (VLOPs);",
+        "options": [
+          "Παροχή δωρεάν διαδικτύου υψηλής ταχύτητας σε όλους τους χρήστες",
+          "Απόδοση 50% των διαφημιστικών εσόδων στην Ευρωπαϊκή Επιτροπή",
+          "Διορισμός κυβερνητικού αξιωματούχου στο Διοικητικό Συμβούλιο",
+          "Ανάλυση και μετριασμός συστημικών κινδύνων όπως η διάδοση παράνομου περιεχομένου ή παραπληροφόρησης"
+        ],
+        "answer": 3,
+        "explanation": "Ο DSA επιβάλλει αυστηρότερες απαιτήσεις διαφάνειας στις πλατφόρμες με πάνω από 45 εκατομμύρια μηνιαίους ενεργούς χρήστες στην ΕΕ, συμπεριλαμβανομένης της υποχρέωσης αξιολόγησης και μετριασμού συστημικών κινδύνων."
+      }
+    },
+    {
+      "en": {
+        "passage": "9. The Energy Taxation Directive revision is one of the last pending files of the Fit for 55 legislative package, which sought to align EU energy tax rules with climate objectives.",
+        "question": "What is the current status of the Energy Taxation Directive revision, part of the Fit for 55 package?",
+        "options": [
+          "Stalled with no substantial progress despite Belgian Presidency efforts",
+          "Adopted in 2024",
+          "Pending trilogue negotiations",
+          "Withdrawn and replaced by a new proposal"
+        ],
+        "answer": 0,
+        "explanation": "The Energy Taxation Directive is one of the few remaining files of the Fit for 55 package where negotiations have not progressed substantially, despite the Belgian Presidency's efforts to revamp talks before the 2024 EU elections."
+      },
+      "el": {
+        "passage": "9. Η αναθεώρηση της Οδηγίας Φορολογίας Ενέργειας είναι ένα από τα τελευταία εκκρεμή αρχεία του νομοθετικού πακέτου Fit for 55.",
+        "question": "Ποια είναι η τρέχουσα κατάσταση της αναθεώρησης της Οδηγίας Φορολογίας Ενέργειας, μέρους του πακέτου Fit for 55;",
+        "options": [
+          "Αδιέξοδο χωρίς ουσιαστική πρόοδο παρά τις προσπάθειες της Βελγικής Προεδρίας",
+          "Εγκρίθηκε το 2024",
+          "Εκκρεμούν διαπραγματεύσεις τριμερούς",
+          "Αποσύρθηκε και αντικαταστάθηκε από νέα πρόταση"
+        ],
+        "answer": 0,
+        "explanation": "Η Οδηγία Φορολογίας Ενέργειας είναι ένα από τα λίγα εναπομείναντα αρχεία του Fit for 55 όπου οι διαπραγματεύσεις δεν σημείωσαν ουσιαστική πρόοδο, παρά τις προσπάθειες της Βελγικής Προεδρίας."
+      }
+    },
+    {
+      "en": {
+        "passage": "10. The Stability and Growth Pact (SGP) forms the cornerstone of EU economic governance, establishing fiscal reference values that all member states are expected to respect.",
+        "question": "What are the reference values established under the Stability and Growth Pact (SGP) that member states must observe?",
+        "options": [
+          "Budget surplus at all times and debt below 40% of GDP",
+          "Deficit not exceeding 3% of GDP and public debt not exceeding 60% of GDP",
+          "All member states must adopt the euro within five years of joining",
+          "The EU budget must always be larger than the combined budgets of the member states"
+        ],
+        "answer": 1,
+        "explanation": "The Stability and Growth Pact establishes two key reference values intended to maintain fiscal discipline within the Economic and Monetary Union: a general government deficit not exceeding 3% of GDP and a public debt-to-GDP ratio not exceeding 60%. These originate from the Maastricht convergence criteria."
+      },
+      "el": {
+        "passage": "10. Το Σύμφωνο Σταθερότητας και Ανάπτυξης (ΣΣΑ) αποτελεί τον ακρογωνιαίο λίθο της οικονομικής διακυβέρνησης της ΕΕ, θεσπίζοντας δημοσιονομικές τιμές αναφοράς.",
+        "question": "Ποιες είναι οι τιμές αναφοράς του Συμφώνου Σταθερότητας και Ανάπτυξης (ΣΣΑ) που πρέπει να τηρούν τα κράτη μέλη;",
+        "options": [
+          "Δημοσιονομικό πλεόνασμα ανά πάσα στιγμή και χρέος κάτω από 40% του ΑΕΠ",
+          "Έλλειμμα που δεν υπερβαίνει το 3% του ΑΕΠ και δημόσιο χρέος που δεν υπερβαίνει το 60% του ΑΕΠ",
+          "Όλα τα κράτη μέλη υποχρεούνται να υιοθετήσουν το ευρώ εντός πέντε ετών από την ένταξη",
+          "Ο προϋπολογισμός της ΕΕ πρέπει πάντα να είναι μεγαλύτερος από τους συνολικούς προϋπολογισμούς των κρατών μελών"
+        ],
+        "answer": 1,
+        "explanation": "Το ΣΣΑ θεσπίζει δύο βασικές τιμές αναφοράς για τη δημοσιονομική πειθαρχία στην ΟΝΕ: έλλειμμα γενικής κυβέρνησης που δεν υπερβαίνει το 3% του ΑΕΠ και δημόσιο χρέος έως 60% του ΑΕΠ, που απορρέουν από τα κριτήρια σύγκλισης του Μάαστριχτ."
+      }
+    },
+    {
+      "en": {
+        "passage": "11. EU–NATO cooperation intensified in early 2025 following damage to undersea cables in the Baltic Sea. Both organisations coordinated their response to protect critical infrastructure.",
+        "question": "What new operational activity did NATO launch in January 2025 to protect critical undersea infrastructure in the Baltic Sea?",
+        "options": [
+          "Operation Sea Guardian",
+          "Baltic Sentry",
+          "Aegean Activity",
+          "Enhanced Forward Presence"
+        ],
+        "answer": 1,
+        "explanation": "In January 2025, NATO launched Baltic Sentry in response to damage to undersea cables connecting Estonia and Finland on 25 December 2024. This multi-domain activity aims to deter future attempts by state or non-state actors to damage critical undersea infrastructure."
+      },
+      "el": {
+        "passage": "11. Η συνεργασία ΕΕ–ΝΑΤΟ εντάθηκε στις αρχές του 2025 μετά από ζημιές σε υποθαλάσσια καλώδια στη Βαλτική Θάλασσα.",
+        "question": "Ποια νέα επιχειρησιακή δραστηριότητα ξεκίνησε το ΝΑΤΟ τον Ιανουάριο 2025 για την προστασία κρίσιμων υποθαλάσσιων υποδομών στη Βαλτική Θάλασσα;",
+        "options": [
+          "Επιχείρηση Sea Guardian",
+          "Baltic Sentry",
+          "Aegean Activity",
+          "Enhanced Forward Presence"
+        ],
+        "answer": 1,
+        "explanation": "Τον Ιανουάριο 2025, το ΝΑΤΟ ξεκίνησε την επιχείρηση Baltic Sentry ως απάντηση στις ζημιές σε υποθαλάσσια καλώδια που συνδέουν Εσθονία και Φινλανδία (25 Δεκεμβρίου 2024). Η πολυτομεακή αυτή δραστηριότητα αποσκοπεί στην αποτροπή μελλοντικών επιθέσεων σε κρίσιμες υποδομές."
+      }
+    },
+    {
+      "en": {
+        "passage": "12. The EU and WHO have long cooperated on global health initiatives. In October 2025 they deepened this partnership through a new agreement focused on digital health infrastructure.",
+        "question": "In October 2025, the EU and WHO launched a new €8 million collaboration (2025–2028) to advance what specific initiative?",
+        "options": [
+          "COVID-19 vaccine distribution in sub-Saharan Africa",
+          "Global Digital Health Certification Network (GDHCN)",
+          "Universal Health Coverage Partnership Phase IV",
+          "Pandemic Treaty implementation"
+        ],
+        "answer": 1,
+        "explanation": "The EU and WHO announced a new agreement to support the digital transformation of health systems through WHO's Global Digital Health Certification Network (GDHCN), building on the EU Digital COVID Certificate framework. The system enables secure cross-border verification of digital health credentials."
+      },
+      "el": {
+        "passage": "12. Η ΕΕ και ο ΠΟΥ συνεργάζονται εδώ και καιρό σε παγκόσμιες πρωτοβουλίες υγείας. Τον Οκτώβριο 2025 εμβάθυναν αυτή τη συνεργασία με νέα συμφωνία για ψηφιακή υγεία.",
+        "question": "Τον Οκτώβριο 2025, η ΕΕ και ο ΠΟΥ ξεκίνησαν νέα συνεργασία 8 εκατομμυρίων ευρώ (2025–2028) για την προώθηση ποιας συγκεκριμένης πρωτοβουλίας;",
+        "options": [
+          "Διανομή εμβολίων COVID-19 στην υποσαχάρια Αφρική",
+          "Παγκόσμιο Δίκτυο Ψηφιακής Πιστοποίησης Υγείας (GDHCN)",
+          "Εταιρική Σχέση Καθολικής Κάλυψης Υγείας Φάση IV",
+          "Εφαρμογή της Συνθήκης Πανδημίας"
+        ],
+        "answer": 1,
+        "explanation": "Η ΕΕ και ο ΠΟΥ ανακοίνωσαν νέα συμφωνία για την υποστήριξη του Παγκόσμιου Δικτύου Ψηφιακής Πιστοποίησης Υγείας (GDHCN) του ΠΟΥ, βασιζόμενη στο πλαίσιο του Ευρωπαϊκού Ψηφιακού Πιστοποιητικού COVID. Το σύστημα επιτρέπει ασφαλή διασυνοριακή επαλήθευση ψηφιακών διαπιστευτηρίων υγείας."
+      }
+    },
+    {
+      "en": {
+        "passage": "13. The Global Gateway is the EU's strategy to boost smart, clean, and secure links in digital, climate and energy, transport, health, and education sectors worldwide. The October 2025 Forum showcased key partnerships.",
+        "question": "At the October 2025 Global Gateway Forum, how many initial joint infrastructure projects did the European Commission and World Bank Group agree to collaborate on?",
+        "options": [
+          "8 projects",
+          "12 projects",
+          "18 projects",
+          "25 projects"
+        ],
+        "answer": 2,
+        "explanation": "At the Global Gateway Forum in Brussels (9–10 October 2025), the European Commission and World Bank Group deepened their strategic partnership with an initial pipeline of 18 high-impact investments in energy, transport, and digital infrastructure across Africa, Asia and the Pacific, and Latin America and the Caribbean."
+      },
+      "el": {
+        "passage": "13. Το Global Gateway είναι η στρατηγική της ΕΕ για την ενίσχυση έξυπνων, καθαρών και ασφαλών συνδέσεων σε τομείς ψηφιακής τεχνολογίας, ενέργειας και υποδομών παγκοσμίως.",
+        "question": "Στο Φόρουμ Global Gateway τον Οκτώβριο 2025, για πόσα αρχικά κοινά έργα υποδομής συμφώνησαν να συνεργαστούν η Ευρωπαϊκή Επιτροπή και ο Όμιλος της Παγκόσμιας Τράπεζας;",
+        "options": [
+          "8 έργα",
+          "12 έργα",
+          "18 έργα",
+          "25 έργα"
+        ],
+        "answer": 2,
+        "explanation": "Στο Φόρουμ Global Gateway στις Βρυξέλλες (9–10 Οκτωβρίου 2025), η Ευρωπαϊκή Επιτροπή και ο Όμιλος της Παγκόσμιας Τράπεζας εμβάθυναν τη στρατηγική τους εταιρική σχέση με αρχική δέσμη 18 επενδύσεων υψηλού αντίκτυπου σε ενέργεια, μεταφορές και ψηφιακές υποδομές."
+      }
+    },
+    {
+      "en": {
+        "passage": "14. The OECD and the EU collaborate on a range of policy areas, including environmental governance in Eastern Partnership countries through dedicated task forces.",
+        "question": "What is the name of the OECD task force that collaborates with the EU on green economy and environmental policy alignment in Eastern Partnership countries?",
+        "options": [
+          "GREEN Action Task Force",
+          "EU4Green Initiative",
+          "Climate Transition Partnership",
+          "Eastern Green Deal Platform"
+        ],
+        "answer": 0,
+        "explanation": "The GREEN Action Task Force is the OECD's platform for implementing EU-funded projects in Eastern Europe and Central Asia, including 'Promoting Green Deal Readiness in the EU's Eastern Partnership Countries' (PROGRESS), 'EU4ClimateResilience,' and 'EU4Green Recovery East'."
+      },
+      "el": {
+        "passage": "14. Ο ΟΟΣΑ και η ΕΕ συνεργάζονται σε διάφορους τομείς πολιτικής, συμπεριλαμβανομένης της περιβαλλοντικής διακυβέρνησης στις χώρες της Ανατολικής Εταιρικής Σχέσης.",
+        "question": "Ποιο είναι το όνομα της ομάδας εργασίας του ΟΟΣΑ που συνεργάζεται με την ΕΕ για την πράσινη οικονομία και την εναρμόνιση περιβαλλοντικής πολιτικής στις χώρες της Ανατολικής Εταιρικής Σχέσης;",
+        "options": [
+          "GREEN Action Task Force",
+          "EU4Green Initiative",
+          "Climate Transition Partnership",
+          "Eastern Green Deal Platform"
+        ],
+        "answer": 0,
+        "explanation": "Η GREEN Action Task Force είναι η πλατφόρμα του ΟΟΣΑ για την υλοποίηση έργων χρηματοδοτούμενων από την ΕΕ στην Ανατολική Ευρώπη και Κεντρική Ασία, συμπεριλαμβανομένων των PROGRESS, EU4ClimateResilience και EU4Green Recovery East."
+      }
+    },
+    {
+      "en": {
+        "passage": "15. The EU–ILO partnership focuses on promoting decent work, social protection, labour migration, and skills development globally. The EU is the ILO's largest contributor.",
+        "question": "As of December 2025, how many active projects were ongoing under the EU–ILO partnership and across how many countries?",
+        "options": [
+          "45 projects in 38 countries",
+          "59 projects in 52 countries",
+          "69 projects in 59 countries",
+          "82 projects in 67 countries"
+        ],
+        "answer": 2,
+        "explanation": "According to the ILO's December 2025 dashboard, the EU–ILO partnership had 69 active projects in 59 countries with a total budget of US$458 million. The EU is the ILO's top contributor in 2025, with key projects in Bosnia and Herzegovina, Türkiye, Tunisia, North Macedonia, and Bangladesh."
+      },
+      "el": {
+        "passage": "15. Η εταιρική σχέση ΕΕ–ΔΟΕ επικεντρώνεται στην προώθηση της αξιοπρεπούς εργασίας, της κοινωνικής προστασίας και της εργασιακής μετανάστευσης παγκοσμίως.",
+        "question": "Από τον Δεκέμβριο 2025, πόσα ενεργά έργα υλοποιούνταν στο πλαίσιο της εταιρικής σχέσης ΕΕ–ΔΟΕ και σε πόσες χώρες;",
+        "options": [
+          "45 έργα σε 38 χώρες",
+          "59 έργα σε 52 χώρες",
+          "69 έργα σε 59 χώρες",
+          "82 έργα σε 67 χώρες"
+        ],
+        "answer": 2,
+        "explanation": "Σύμφωνα με τον πίνακα ελέγχου της ΔΟΕ για τον Δεκέμβριο 2025, η εταιρική σχέση ΕΕ–ΔΟΕ περιελάμβανε 69 ενεργά έργα σε 59 χώρες με συνολικό προϋπολογισμό 458 εκατ. δολαρίων. Η ΕΕ είναι ο κορυφαίος χρηματοδότης της ΔΟΕ το 2025."
+      }
+    },
+    {
+      "en": {
+        "passage": "16. The Digital Markets Act (DMA) aims to ensure fair and contestable digital markets by imposing obligations on large platform companies designated as 'gatekeepers'. The first enforcement actions were taken in 2025.",
+        "question": "In April 2025, what were the combined fines issued by the EU to Apple and Meta under the Digital Markets Act (DMA) for anti-competitive practices?",
+        "options": [
+          "€200 million",
+          "€500 million",
+          "€700 million",
+          "€1.2 billion"
+        ],
+        "answer": 2,
+        "explanation": "On 23 April 2025, the European Commission issued €700 million in total fines under the DMA — €500 million to Apple for preventing app makers from directing users to cheaper options outside its App Store, and €200 million to Meta for its 'pay or consent' advertising model. These were the first DMA fines ever issued."
+      },
+      "el": {
+        "passage": "16. Ο Νόμος για τις Ψηφιακές Αγορές (DMA) στοχεύει στη διασφάλιση δίκαιων και ανταγωνιστικών ψηφιακών αγορών, επιβάλλοντας υποχρεώσεις σε μεγάλες πλατφόρμες που ορίζονται ως «φύλακες πυλών».",
+        "question": "Τον Απρίλιο 2025, ποιο ήταν το συνολικό ύψος των προστίμων που επέβαλε η ΕΕ στην Apple και στη Meta βάσει του Νόμου για τις Ψηφιακές Αγορές (DMA) για αντιανταγωνιστικές πρακτικές;",
+        "options": [
+          "200 εκατομμύρια ευρώ",
+          "500 εκατομμύρια ευρώ",
+          "700 εκατομμύρια ευρώ",
+          "1,2 δισεκατομμύριο ευρώ"
+        ],
+        "answer": 2,
+        "explanation": "Στις 23 Απριλίου 2025, η Ευρωπαϊκή Επιτροπή επέβαλε συνολικά 700 εκατ. ευρώ στο πλαίσιο του DMA — 500 εκατ. στην Apple και 200 εκατ. στη Meta. Ήταν τα πρώτα πρόστιμα που επιβλήθηκαν ποτέ βάσει του DMA."
+      }
+    },
+    {
+      "en": {
+        "passage": "17. Frontex, the EU's border and coast guard agency, cooperates with non-EU countries to manage migration and protect external borders. In 2025 it expanded its operational footprint in the Western Balkans.",
+        "question": "In November 2025, Frontex launched a new joint operation in which Western Balkan country to strengthen operational support against irregular migration?",
+        "options": [
+          "Serbia",
+          "Montenegro",
+          "Bosnia and Herzegovina",
+          "North Macedonia"
+        ],
+        "answer": 2,
+        "explanation": "In November 2025, Frontex launched a new joint operation in Bosnia and Herzegovina, strengthening operational support on the ground and contributing to a 42% decrease in irregular border crossings on the Western Balkans route in 2025."
+      },
+      "el": {
+        "passage": "17. Η Frontex, ο οργανισμός συνοριοφυλακής της ΕΕ, συνεργάζεται με τρίτες χώρες για τη διαχείριση της μετανάστευσης. Το 2025 επέκτεινε τις επιχειρήσεις της στα Δυτικά Βαλκάνια.",
+        "question": "Τον Νοέμβριο 2025, η Frontex ξεκίνησε νέα κοινή επιχείρηση σε ποια χώρα των Δυτικών Βαλκανίων για την ενίσχυση της επιχειρησιακής υποστήριξης κατά της παράτυπης μετανάστευσης;",
+        "options": [
+          "Σερβία",
+          "Μαυροβούνιο",
+          "Βοσνία-Ερζεγοβίνη",
+          "Βόρεια Μακεδονία"
+        ],
+        "answer": 2,
+        "explanation": "Τον Νοέμβριο 2025, η Frontex ξεκίνησε νέα κοινή επιχείρηση στη Βοσνία-Ερζεγοβίνη, συμβάλλοντας σε μείωση 42% των παράτυπων διελεύσεων στη διαδρομή Δυτικών Βαλκανίων."
+      }
+    },
+    {
+      "en": {
+        "passage": "18. The EU's financial crime architecture was significantly reinforced in 2025 with the launch of a new dedicated authority tasked with supervising and coordinating anti-money laundering efforts across the bloc.",
+        "question": "What new EU authority started operations in 2025 that Europol must develop working relations with regarding anti-money laundering and counter-terrorism financing?",
+        "options": [
+          "European Banking Authority (EBA)",
+          "EU Authority for Anti-Money Laundering and Countering the Financing of Terrorism (AMLA)",
+          "European Securities and Markets Authority (ESMA)",
+          "European Insurance and Occupational Pensions Authority (EIOPA)"
+        ],
+        "answer": 1,
+        "explanation": "In 2025, the new EU Authority for Anti-Money Laundering and Countering the Financing of Terrorism (AMLA) started operations. Europol's 2025 programming document emphasises that it will develop well-functioning working relations with AMLA and the Cooperation and Support Mechanism for Financial Intelligence Units."
+      },
+      "el": {
+        "passage": "18. Η αρχιτεκτονική της ΕΕ για την καταπολέμηση του οικονομικού εγκλήματος ενισχύθηκε σημαντικά το 2025 με την έναρξη λειτουργίας νέας ειδικής αρχής.",
+        "question": "Ποια νέα αρχή της ΕΕ ξεκίνησε τις δραστηριότητές της το 2025, με την οποία η Europol πρέπει να αναπτύξει εργασιακές σχέσεις όσον αφορά την καταπολέμηση της νομιμοποίησης εσόδων από παράνομες δραστηριότητες;",
+        "options": [
+          "Ευρωπαϊκή Αρχή Τραπεζών (EBA)",
+          "Αρχή Καταπολέμησης Ξεπλύματος Χρήματος και Χρηματοδότησης Τρομοκρατίας (AMLA)",
+          "Ευρωπαϊκή Αρχή Κινητών Αξιών και Αγορών (ESMA)",
+          "Ευρωπαϊκή Αρχή Ασφαλίσεων και Επαγγελματικών Συντάξεων (EIOPA)"
+        ],
+        "answer": 1,
+        "explanation": "Το 2025, ξεκίνησε τις δραστηριότητές της η νέα Αρχή Καταπολέμησης Ξεπλύματος Χρήματος και Χρηματοδότησης Τρομοκρατίας (AMLA). Το έγγραφο προγραμματισμού της Europol για το 2025 τονίζει ότι θα αναπτύξει ισχυρές εργασιακές σχέσεις με την AMLA."
+      }
+    },
+    {
+      "en": {
+        "passage": "19. Combating drug trafficking and other transnational crimes at international airports requires close cooperation between law enforcement agencies, customs authorities, and international organisations.",
+        "question": "Under which EU-funded programme does Interpol cooperate with UNODC and WCO to help airport authorities detect illicit goods and facilitate real-time information exchange?",
+        "options": [
+          "ECO-SOLVE",
+          "COLIBRI",
+          "AIRCOP",
+          "EMPACT"
+        ],
+        "answer": 2,
+        "explanation": "AIRCOP is the EU-funded programme implemented by UNODC in partnership with Interpol and the World Customs Organization (WCO) that helps airport authorities detect illicit goods and high-risk passengers while facilitating real-time information exchange between origin, transit, and destination countries."
+      },
+      "el": {
+        "passage": "19. Η καταπολέμηση της διακίνησης ναρκωτικών και άλλων διακρατικών εγκλημάτων στα διεθνή αεροδρόμια απαιτεί στενή συνεργασία μεταξύ αρχών επιβολής του νόμου, τελωνειακών αρχών και διεθνών οργανισμών.",
+        "question": "Στο πλαίσιο ποιου χρηματοδοτούμενου από την ΕΕ προγράμματος συνεργάζεται η Interpol με την UNODC και τον ΠΟΤ για τη βοήθεια των αεροδρομιακών αρχών στον εντοπισμό παράνομων αγαθών;",
+        "options": [
+          "ECO-SOLVE",
+          "COLIBRI",
+          "AIRCOP",
+          "EMPACT"
+        ],
+        "answer": 2,
+        "explanation": "Το AIRCOP είναι το πρόγραμμα χρηματοδοτούμενο από την ΕΕ, που υλοποιείται από την UNODC σε συνεργασία με την Interpol και τον Παγκόσμιο Οργανισμό Τελωνείων (ΠΟΤ), βοηθώντας τις αεροδρομιακές αρχές να εντοπίζουν παράνομα αγαθά και να ανταλλάσσουν πληροφορίες σε πραγματικό χρόνο."
+      }
+    },
+    {
+      "en": {
+        "passage": "20. The International Criminal Court (ICC) came under significant external pressure in early 2025 when the United States imposed sanctions on its officials. The EU's response was closely watched by international civil society.",
+        "question": "Following US sanctions on ICC officials in February 2025, what action did 58 NGOs call on the EU to take regarding the International Criminal Court?",
+        "options": [
+          "Suspend cooperation with the ICC pending review",
+          "Defend the ICC and uphold the international rules-based order",
+          "Establish an alternative European criminal court",
+          "Reduce financial contributions to the ICC"
+        ],
+        "answer": 1,
+        "explanation": "In April 2025, 58 NGOs called on the EU to defend the International Criminal Court amid serious attacks on its mandate, including US President Trump's 6 February 2025 executive order authorising asset freezes and entry bans on ICC officials. The EU and its member states have long been strong advocates for the ICC."
+      },
+      "el": {
+        "passage": "20. Το Διεθνές Ποινικό Δικαστήριο (ΔΠΔ) δέχθηκε σημαντικές εξωτερικές πιέσεις στις αρχές του 2025, όταν οι ΗΠΑ επέβαλαν κυρώσεις στους αξιωματούχους του.",
+        "question": "Μετά τις κυρώσεις των ΗΠΑ σε αξιωματούχους του ΔΠΔ τον Φεβρουάριο 2025, ποια δράση ζήτησαν 58 ΜΚΟ από την ΕΕ όσον αφορά το Διεθνές Ποινικό Δικαστήριο;",
+        "options": [
+          "Αναστολή συνεργασίας με το ΔΠΔ εν αναμονή επανεξέτασης",
+          "Υπεράσπιση του ΔΠΔ και διατήρηση της διεθνούς έννομης τάξης",
+          "Ίδρυση εναλλακτικού ευρωπαϊκού ποινικού δικαστηρίου",
+          "Μείωση των οικονομικών εισφορών στο ΔΠΔ"
+        ],
+        "answer": 1,
+        "explanation": "Τον Απρίλιο 2025, 58 ΜΚΟ κάλεσαν την ΕΕ να υπερασπιστεί το ΔΠΔ εν μέσω σοβαρών επιθέσεων στην εντολή του, συμπεριλαμβανομένου του προεδρικού διατάγματος Τραμπ της 6ης Φεβρουαρίου 2025. Η ΕΕ και τα κράτη μέλη της αποτελούν ανέκαθεν τους ισχυρότερους υποστηρικτές του ΔΠΔ."
+      }
+    },
+    {
+      "en": {
+        "passage": "21. The origins of European integration trace back to the post-war period, when six Western European countries decided to pool sovereignty over key economic sectors to prevent future conflicts.",
+        "question": "Which treaty, signed on 18 April 1951, established the first European Community by pooling coal and steel resources among six countries?",
+        "options": [
+          "Treaty of Rome",
+          "Treaty of Paris",
+          "Treaty of Maastricht",
+          "Treaty of Lisbon"
+        ],
+        "answer": 1,
+        "explanation": "The Treaty of Paris established the European Coal and Steel Community (ECSC), signed by France, Germany, Italy, Belgium, the Netherlands, and Luxembourg. It came into force on 23 July 1952 for a 50-year period, and created four institutions: the High Authority, Council of Ministers, Parliamentary Assembly, and Court of Justice."
+      },
+      "el": {
+        "passage": "21. Οι ρίζες της ευρωπαϊκής ολοκλήρωσης εντοπίζονται στη μεταπολεμική περίοδο, όταν έξι δυτικοευρωπαϊκές χώρες αποφάσισαν να συγκεντρώσουν την κυριαρχία τους σε βασικούς οικονομικούς τομείς.",
+        "question": "Ποια συνθήκη, που υπογράφηκε στις 18 Απριλίου 1951, ίδρυσε την πρώτη Ευρωπαϊκή Κοινότητα με τη συγκέντρωση των πόρων άνθρακα και χάλυβα έξι χωρών;",
+        "options": [
+          "Συνθήκη της Ρώμης",
+          "Συνθήκη των Παρισίων",
+          "Συνθήκη του Μάαστριχτ",
+          "Συνθήκη της Λισαβόνας"
+        ],
+        "answer": 1,
+        "explanation": "Η Συνθήκη των Παρισίων ίδρυσε την Ευρωπαϊκή Κοινότητα Άνθρακα και Χάλυβα (ΕΚΑΧ), υπογραμμένη από Γαλλία, Γερμανία, Ιταλία, Βέλγιο, Κάτω Χώρες και Λουξεμβούργο. Τέθηκε σε ισχύ στις 23 Ιουλίου 1952 για 50 χρόνια."
+      }
+    },
+    {
+      "en": {
+        "passage": "22. EU institutions are spread across several European cities, each city hosting specific bodies according to decisions taken by the member states over the decades.",
+        "question": "Which EU institution has its headquarters in Frankfurt, Germany?",
+        "options": [
+          "Court of Justice of the European Union",
+          "European Court of Auditors",
+          "European Investment Bank",
+          "European Central Bank"
+        ],
+        "answer": 3,
+        "explanation": "The European Central Bank (ECB) is headquartered in Frankfurt, Germany. While the ECB was established in 1998, it formally became an EU institution with the entry into force of the Treaty of Lisbon in 2009. The Court of Justice, the Court of Auditors, and the European Investment Bank are all based in Luxembourg."
+      },
+      "el": {
+        "passage": "22. Τα θεσμικά όργανα της ΕΕ είναι κατανεμημένα σε διάφορες ευρωπαϊκές πόλεις, καθεμία φιλοξενεί συγκεκριμένα όργανα βάσει αποφάσεων των κρατών μελών.",
+        "question": "Ποιο θεσμικό όργανο της ΕΕ έχει την έδρα του στη Φρανκφούρτη της Γερμανίας;",
+        "options": [
+          "Δικαστήριο της Ευρωπαϊκής Ένωσης",
+          "Ευρωπαϊκό Ελεγκτικό Συνέδριο",
+          "Ευρωπαϊκή Τράπεζα Επενδύσεων",
+          "Ευρωπαϊκή Κεντρική Τράπεζα"
+        ],
+        "answer": 3,
+        "explanation": "Η Ευρωπαϊκή Κεντρική Τράπεζα (ΕΚΤ) εδρεύει στη Φρανκφούρτη. Ιδρύθηκε το 1998 και κατέστη επίσημα θεσμικό όργανο της ΕΕ με τη Συνθήκη της Λισαβόνας το 2009. Το Δικαστήριο, το Ελεγκτικό Συνέδριο και η ΕΤΕπ εδρεύουν στο Λουξεμβούργο."
+      }
+    },
+    {
+      "en": {
+        "passage": "23. The EU has grown from an original six-member community to a bloc of 27 countries through successive waves of enlargement, each bringing new member states and political dynamics.",
+        "question": "Which three countries joined the EEC in the first enlargement wave of 1973?",
+        "options": [
+          "Spain, Portugal, and Greece",
+          "Austria, Sweden, and Finland",
+          "Denmark, Ireland, and the United Kingdom",
+          "Poland, Hungary, and the Czech Republic"
+        ],
+        "answer": 2,
+        "explanation": "The 1973 enlargement was the first expansion of the European Communities, bringing in Denmark, Ireland, and the United Kingdom, increasing membership from six to nine countries. Greece joined in 1981, Spain and Portugal in 1986, Austria/Finland/Sweden in 1995, and the Central and Eastern European countries in 2004–2007."
+      },
+      "el": {
+        "passage": "23. Η ΕΕ έχει αναπτυχθεί από μια αρχική κοινότητα έξι μελών σε ένα μπλοκ 27 χωρών μέσα από διαδοχικά κύματα διεύρυνσης.",
+        "question": "Ποιες τρεις χώρες εντάχθηκαν στην ΕΟΚ κατά το πρώτο κύμα διεύρυνσης του 1973;",
+        "options": [
+          "Ισπανία, Πορτογαλία και Ελλάδα",
+          "Αυστρία, Σουηδία και Φινλανδία",
+          "Δανία, Ιρλανδία και Ηνωμένο Βασίλειο",
+          "Πολωνία, Ουγγαρία και Τσεχική Δημοκρατία"
+        ],
+        "answer": 2,
+        "explanation": "Η διεύρυνση του 1973 ήταν η πρώτη επέκταση των Ευρωπαϊκών Κοινοτήτων, εντάσσοντας Δανία, Ιρλανδία και Ηνωμένο Βασίλειο, αυξάνοντας τη συμμετοχή από έξι σε εννέα χώρες."
+      }
+    },
+    {
+      "en": {
+        "passage": "24. The EU single market is one of the EU's greatest achievements, eliminating most barriers to the free movement of goods, services, capital, and people within the bloc.",
+        "question": "When was the EU single market officially established, and for how many member states initially?",
+        "options": [
+          "1 January 1992 for 12 countries",
+          "1 January 1993 for 12 countries",
+          "1 January 1995 for 15 countries",
+          "1 January 2000 for 15 countries"
+        ],
+        "answer": 1,
+        "explanation": "The single market was established on 1 January 1993 for 12 EU countries. This followed the Single European Act (1986), which set the deadline of 31 December 1992 for completion. Between 1985 and 1992, 282 laws were adopted to remove technical, legal, and bureaucratic barriers to free trade and movement."
+      },
+      "el": {
+        "passage": "24. Η ενιαία αγορά της ΕΕ αποτελεί ένα από τα σημαντικότερα επιτεύγματά της, εξαλείφοντας τα περισσότερα εμπόδια στην ελεύθερη κυκλοφορία αγαθών, υπηρεσιών, κεφαλαίων και ανθρώπων.",
+        "question": "Πότε καθιερώθηκε επίσημα η ενιαία αγορά της ΕΕ και για πόσα κράτη μέλη αρχικά;",
+        "options": [
+          "1η Ιανουαρίου 1992 για 12 χώρες",
+          "1η Ιανουαρίου 1993 για 12 χώρες",
+          "1η Ιανουαρίου 1995 για 15 χώρες",
+          "1η Ιανουαρίου 2000 για 15 χώρες"
+        ],
+        "answer": 1,
+        "explanation": "Η ενιαία αγορά καθιερώθηκε την 1η Ιανουαρίου 1993 για 12 κράτη μέλη. Αυτό ακολούθησε την Ενιαία Ευρωπαϊκή Πράξη (1986), που έθεσε την προθεσμία της 31ης Δεκεμβρίου 1992 για την ολοκλήρωση."
+      }
+    },
+    {
+      "en": {
+        "passage": "25. The Treaty of Lisbon, which entered into force on 1 December 2009, introduced a series of institutional reforms and new mechanisms that significantly changed how the EU functions.",
+        "question": "Which of the following was NOT introduced by the Treaty of Lisbon (in force December 2009)?",
+        "options": [
+          "Permanent President of the European Council",
+          "Article 50 withdrawal procedure",
+          "European Citizens' Initiative",
+          "Direct elections to the European Parliament"
+        ],
+        "answer": 3,
+        "explanation": "Direct elections to the European Parliament were introduced in 1979, not by the Lisbon Treaty. The Lisbon Treaty introduced a permanent President of the European Council (first holder: Herman Van Rompuy), the Article 50 withdrawal procedure (later used for Brexit), the European Citizens' Initiative, and made the Charter of Fundamental Rights legally binding."
+      },
+      "el": {
+        "passage": "25. Η Συνθήκη της Λισαβόνας, που τέθηκε σε ισχύ την 1η Δεκεμβρίου 2009, εισήγαγε σειρά θεσμικών μεταρρυθμίσεων που άλλαξαν σημαντικά τον τρόπο λειτουργίας της ΕΕ.",
+        "question": "Ποιο από τα παρακάτω ΔΕΝ εισήγαγε η Συνθήκη της Λισαβόνας (σε ισχύ από τον Δεκέμβριο 2009);",
+        "options": [
+          "Μόνιμος Πρόεδρος του Ευρωπαϊκού Συμβουλίου",
+          "Διαδικασία αποχώρησης του Άρθρου 50",
+          "Ευρωπαϊκή Πρωτοβουλία Πολιτών",
+          "Άμεσες εκλογές για το Ευρωπαϊκό Κοινοβούλιο"
+        ],
+        "answer": 3,
+        "explanation": "Οι άμεσες εκλογές για το Ευρωπαϊκό Κοινοβούλιο εισήχθησαν το 1979, όχι από τη Συνθήκη της Λισαβόνας. Η Συνθήκη της Λισαβόνας εισήγαγε: μόνιμο Πρόεδρο του Ευρωπαϊκού Συμβουλίου (πρώτος κάτοχος: Χέρμαν Φαν Ρομπάι), τη διαδικασία αποχώρησης του Άρθρου 50, την Ευρωπαϊκή Πρωτοβουλία Πολιτών, και κατέστησε νομικά δεσμευτικό τον Χάρτη Θεμελιωδών Δικαιωμάτων."
+      }
+    },
+    {
+      "en": {
+        "passage": "26. Several European cities host EU institutions, with the 1992 Edinburgh decision distributing seats across Brussels, Strasbourg, and Luxembourg. Over time, Luxembourg has become home to the majority of EU legal and financial bodies.",
+        "question": "Which city hosts the largest number of EU financial and legal institutions?",
+        "options": [
+          "Brussels",
+          "Strasbourg",
+          "Luxembourg",
+          "Frankfurt"
+        ],
+        "answer": 2,
+        "explanation": "Luxembourg City hosts most of the EU's financial and legal institutions, including the Court of Justice of the European Union, European Court of Auditors, European Investment Bank, European Stability Mechanism, and the European Public Prosecutor's Office. While Brussels hosts the Commission and Council, and Strasbourg hosts Parliament plenary sessions, Luxembourg has been home to European institutions since 1952."
+      },
+      "el": {
+        "passage": "26. Πολλές ευρωπαϊκές πόλεις φιλοξενούν θεσμικά όργανα της ΕΕ. Με την πάροδο του χρόνου, το Λουξεμβούργο έχει γίνει η έδρα της πλειονότητας των νομικών και χρηματοοικονομικών οργάνων της ΕΕ.",
+        "question": "Ποια πόλη φιλοξενεί τον μεγαλύτερο αριθμό χρηματοοικονομικών και νομικών θεσμικών οργάνων της ΕΕ;",
+        "options": [
+          "Βρυξέλλες",
+          "Στρασβούργο",
+          "Λουξεμβούργο",
+          "Φρανκφούρτη"
+        ],
+        "answer": 2,
+        "explanation": "Το Λουξεμβούργο φιλοξενεί τα περισσότερα χρηματοοικονομικά και νομικά θεσμικά όργανα της ΕΕ, συμπεριλαμβανομένων του Δικαστηρίου της ΕΕ, του Ευρωπαϊκού Ελεγκτικού Συνεδρίου, της Ευρωπαϊκής Τράπεζας Επενδύσεων, του Ευρωπαϊκού Μηχανισμού Σταθερότητας και της Ευρωπαϊκής Εισαγγελίας."
+      }
+    },
+    {
+      "en": {
+        "passage": "27. The European Parliament has evolved considerably since the early days of European integration, gaining both a formal name and democratic legitimacy through direct elections.",
+        "question": "When did the European Parliament adopt its current name, and when were its first direct elections held?",
+        "options": [
+          "1952 and 1958",
+          "1962 and 1979",
+          "1974 and 1986",
+          "1987 and 1992"
+        ],
+        "answer": 1,
+        "explanation": "The institution called itself the 'European Parliament' from 1962 onwards (retaining the official name 'Assembly' until the Single European Act in 1987). Direct elections by universal suffrage were first held in 1979. Before 1979, members were delegates from national parliaments."
+      },
+      "el": {
+        "passage": "27. Το Ευρωπαϊκό Κοινοβούλιο έχει εξελιχθεί σημαντικά από τις πρώτες μέρες της ευρωπαϊκής ολοκλήρωσης, αποκτώντας τόσο επίσημη ονομασία όσο και δημοκρατική νομιμότητα μέσω άμεσων εκλογών.",
+        "question": "Πότε υιοθέτησε το Ευρωπαϊκό Κοινοβούλιο την τρέχουσα ονομασία του και πότε διεξήχθησαν οι πρώτες άμεσες εκλογές;",
+        "options": [
+          "1952 και 1958",
+          "1962 και 1979",
+          "1974 και 1986",
+          "1987 και 1992"
+        ],
+        "answer": 1,
+        "explanation": "Το θεσμικό όργανο αυτοαποκαλούνταν «Ευρωπαϊκό Κοινοβούλιο» από το 1962 (διατηρώντας την επίσημη ονομασία «Συνέλευση» έως την Ενιαία Ευρωπαϊκή Πράξη του 1987). Οι πρώτες άμεσες εκλογές διεξήχθησαν το 1979."
+      }
+    },
+    {
+      "en": {
+        "passage": "28. Brexit was a historic event in EU history, representing the first time a member state triggered the formal withdrawal procedure under the treaty framework.",
+        "question": "Under which article of the Lisbon Treaty did the UK trigger its withdrawal from the EU, and when was this notification formally submitted?",
+        "options": [
+          "Article 49; 29 March 2017",
+          "Article 7; 23 June 2016",
+          "Article 48; 8 February 2017",
+          "Article 50; 29 March 2017"
+        ],
+        "answer": 3,
+        "explanation": "The UK triggered Article 50 of the Treaty on European Union (Lisbon Treaty) on 29 March 2017, beginning the two-year legal process for withdrawal. The referendum was held on 23 June 2016 (52% voted to leave), but the formal notification was submitted later. Article 50 was introduced by the Lisbon Treaty specifically to provide a withdrawal mechanism."
+      },
+      "el": {
+        "passage": "28. Το Brexit ήταν ένα ιστορικό γεγονός για την ΕΕ, που αντιπροσωπεύει την πρώτη φορά που κράτος μέλος ενεργοποίησε την επίσημη διαδικασία αποχώρησης.",
+        "question": "Βάσει ποιου άρθρου της Συνθήκης της Λισαβόνας ενεργοποίησε το Ηνωμένο Βασίλειο την αποχώρησή του από την ΕΕ και πότε υποβλήθηκε επίσημα η κοινοποίηση;",
+        "options": [
+          "Άρθρο 49· 29 Μαρτίου 2017",
+          "Άρθρο 7· 23 Ιουνίου 2016",
+          "Άρθρο 48· 8 Φεβρουαρίου 2017",
+          "Άρθρο 50· 29 Μαρτίου 2017"
+        ],
+        "answer": 3,
+        "explanation": "Το Ηνωμένο Βασίλειο ενεργοποίησε το Άρθρο 50 της Συνθήκης για την ΕΕ (Συνθήκη της Λισαβόνας) στις 29 Μαρτίου 2017. Το δημοψήφισμα διεξήχθη στις 23 Ιουνίου 2016 (52% ψήφισε υπέρ της αποχώρησης), αλλά η επίσημη κοινοποίηση έγινε αργότερα."
+      }
+    },
+    {
+      "en": {
+        "passage": "29. Before the Merger Treaty, the three European Communities — the ECSC, EEC, and Euratom — operated with separate executive bodies, creating institutional duplication and inefficiency.",
+        "question": "What did the 1965 Merger Treaty accomplish?",
+        "options": [
+          "Created the European Union",
+          "Established the European Parliament",
+          "Introduced the euro currency",
+          "Merged the executive bodies of the three European Communities into a single Commission and Council"
+        ],
+        "answer": 3,
+        "explanation": "The Merger Treaty (1965) completed the institutional unification by merging the executives of the ECSC, EEC, and Euratom into a single Commission and single Council, taking effect in 1967. The European Parliament and Court of Justice were already common institutions since 1958."
+      },
+      "el": {
+        "passage": "29. Πριν από τη Συνθήκη Συγχώνευσης, οι τρεις Ευρωπαϊκές Κοινότητες — ΕΚΑΧ, ΕΟΚ και Ευρατόμ — λειτουργούσαν με χωριστά εκτελεστικά όργανα.",
+        "question": "Τι πέτυχε η Συνθήκη Συγχώνευσης του 1965;",
+        "options": [
+          "Ίδρυσε την Ευρωπαϊκή Ένωση",
+          "Ίδρυσε το Ευρωπαϊκό Κοινοβούλιο",
+          "Εισήγαγε το κοινό νόμισμα ευρώ",
+          "Συγχώνευσε τα εκτελεστικά όργανα των τριών Ευρωπαϊκών Κοινοτήτων σε μία Επιτροπή και ένα Συμβούλιο"
+        ],
+        "answer": 3,
+        "explanation": "Η Συνθήκη Συγχώνευσης (1965) ολοκλήρωσε την θεσμική ενοποίηση συγχωνεύοντας τα εκτελεστικά όργανα ΕΚΑΧ, ΕΟΚ και Ευρατόμ σε μία Επιτροπή και ένα Συμβούλιο, σε ισχύ από το 1967."
+      }
+    },
+    {
+      "en": {
+        "passage": "30. Decision-making in the Council of the European Union relies on various voting thresholds depending on the policy area, with qualified majority voting (QMV) being the standard procedure for most legislative acts since the Lisbon Treaty.",
+        "question": "Under the Lisbon Treaty, what is the qualified majority voting threshold in the Council of the European Union?",
+        "options": [
+          "55% of member states comprising at least 65% of the population",
+          "50% of member states representing 50% of the population",
+          "Two-thirds of member states representing three-quarters of the population",
+          "Unanimity of all member states"
+        ],
+        "answer": 0,
+        "explanation": "The Lisbon Treaty reformed Council voting to require at least 55% of all member states comprising at least 65% of the EU population for qualified majority decisions. This replaced the previous complex weighted voting system and made the ordinary legislative procedure (co-decision) the default in most areas."
+      },
+      "el": {
+        "passage": "30. Η λήψη αποφάσεων στο Συμβούλιο της Ευρωπαϊκής Ένωσης βασίζεται σε διαφορετικά κατώτατα όρια ψηφοφορίας, με την ειδική πλειοψηφία (QMV) να αποτελεί την τυπική διαδικασία για τις περισσότερες νομοθετικές πράξεις.",
+        "question": "Βάσει της Συνθήκης της Λισαβόνας, ποιο είναι το κατώτατο όριο ψηφοφορίας ειδικής πλειοψηφίας στο Συμβούλιο της Ευρωπαϊκής Ένωσης;",
+        "options": [
+          "55% των κρατών μελών που εκπροσωπούν τουλάχιστον 65% του πληθυσμού",
+          "50% των κρατών μελών που εκπροσωπούν 50% του πληθυσμού",
+          "Τα δύο τρίτα των κρατών μελών που εκπροσωπούν τα τρία τέταρτα του πληθυσμού",
+          "Ομοφωνία όλων των κρατών μελών"
+        ],
+        "answer": 0,
+        "explanation": "Η Συνθήκη της Λισαβόνας μεταρρύθμισε την ψηφοφορία στο Συμβούλιο απαιτώντας τουλάχιστον 55% των κρατών μελών που εκπροσωπούν τουλάχιστον 65% του πληθυσμού της ΕΕ για αποφάσεις ειδικής πλειοψηφίας."
+      }
+    }
+  ], 
  "ds_1": [
     {
       "en": {
