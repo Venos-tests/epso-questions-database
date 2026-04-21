@@ -1,5 +1,4 @@
-database {
-  "eu_1": [
+ "eu_1": [
     {
       "en": {
         "passage": "1. The evolution of the European Union is defined by its foundational treaties, each adding layers of integration and changing the institutional structure.",
@@ -7609,4 +7608,3 @@ database {
       }
     }
   ]
-}with Abstract placeholders
