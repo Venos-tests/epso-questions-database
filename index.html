@@ -186,7 +186,8 @@
             { title: 'EU Knowledge',     keys: ['eu_1', 'eu_2', 'eu_3'] },
             { title: 'Digital Skills',   keys: ['ds_1', 'ds_2', 'ds_3'] },
             { title: 'Verbal Reasoning', keys: ['verbal_1', 'verbal_2', 'verbal_3'] },
-            { title: 'Numerical Reasoning',keys: ['num_1', 'num_2'] }
+            { title: 'Numerical Reasoning',keys: ['num_1', 'num_2'] },
+            { title: 'Abstract Reasoning', keys: ['abstract_1', 'abstract_2'] }
         ];
         grid.innerHTML = sections.map(function(s) {
             return '<div class="section-container">'
@@ -238,7 +239,10 @@
             var expArea = document.getElementById('explanation-area');
 
             if (passageBox) {
-                if (qData.passage && qData.passage.trim() !== '') {
+                if (qData.image && qData.image.trim() !== '') {
+                    passageBox.innerHTML = '<img src="' + qData.image + '" alt="Abstract reasoning figure" style="max-width:100%;border-radius:6px;border:1px solid #d1d9e6;display:block;margin:0 auto;">';
+                    passageBox.style.display = 'block';
+                } else if (qData.passage && qData.passage.trim() !== '') {
                     passageBox.innerHTML = qData.passage;
                     passageBox.style.display = 'block';
                 } else {
@@ -313,10 +317,11 @@
 }
 
 function getTimerLimit() {
-    if (selectedTestKey.startsWith('num'))    return 10 * 120;
-    if (selectedTestKey.startsWith('verbal')) return 20 * 110;
-    if (selectedTestKey.startsWith('eu'))     return 30 * 80;
-    if (selectedTestKey.startsWith('ds'))     return 20 * 45;
+    if (selectedTestKey.startsWith('num'))      return 10 * 120;
+    if (selectedTestKey.startsWith('verbal'))   return 20 * 110;
+    if (selectedTestKey.startsWith('eu'))       return 30 * 80;
+    if (selectedTestKey.startsWith('ds'))       return 20 * 45;
+    if (selectedTestKey.startsWith('abstract')) return 10 * 60;
     return 20 * 60;
 }
 
