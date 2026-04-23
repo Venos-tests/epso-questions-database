@@ -7108,8 +7108,8 @@
     },
     {
       "en": {
-        "image": "",
-        "optionsImage": "",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860573/Portal_AR1_3r_qjlysr.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860570/Portal_AR1_3a_zjegft.png",
         "question": "3. Which figure logically completes the series?",
         "options": [
           "A",
@@ -7118,12 +7118,12 @@
           "D",
           "E"
         ],
-        "answer": 0,
-        "explanation": "[EN – Question 3] Describe the pattern rule here. The correct answer is A."
+        "answer": 1,
+        "explanation": "There are three rules: 1. the triangle with a dot alternates between a diagonal mirror (top-left → bottom-right) and the opposite diagonal (top-right → bottom-left). 2. The rectangle alternates between vertical mirroring and horizontal mirroring, and 3.the rectangle gradually becomes wider each time, expanding away from the nearest edge. ."
       },
       "el": {
-        "image": "",
-        "optionsImage": "",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860573/Portal_AR1_3r_qjlysr.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860570/Portal_AR1_3a_zjegft.png",
         "question": "3. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": [
           "A",
@@ -7132,14 +7132,14 @@
           "D",
           "E"
         ],
-        "answer": 0,
-        "explanation": "[ΕΛ – Ερώτηση 3] Περιγράψτε εδώ τον κανόνα του μοτίβου. Η σωστή απάντηση είναι Α."
+        "answer": 1,
+        "explanation": "Υπάρχουν τρεις κανόνες: 1. Το τρίγωνο εναλλάσσεται με την τελεία μεταξύ δύο διαγώνιων κατοπτρισμών. 2. Το ορθογώνιο εναλλάσσεται μεταξύ κάθετου και οριζόντιου κατοπτρισμού. 3. Το ορθογώνιο μεγαλώνει σταδιακά σε πλάτος, κινούμενο προς την αντίθετη κατεύθυνση από το πλησιέστερο άκρο. "
       }
     },
     {
       "en": {
-        "image": "",
-        "optionsImage": "",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776844956/Portal_AR1_4r_luktyo.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776844955/Portal_AR1_4a_e4venh.png",
         "question": "4. Which figure logically completes the series?",
         "options": [
           "A",
@@ -7148,12 +7148,13 @@
           "D",
           "E"
         ],
-        "answer": 0,
-        "explanation": "[EN – Question 4] Describe the pattern rule here. The correct answer is A."
+        "answer": 2,
+        "explanation": "B. When the transition is from frames in an odd-numbered position to those in an even-numbered one (e.g. 1st-> 2nd), the circle moves diagonally and changes colour from black to white. Conversely, when moving from an even-numbered frame to an odd-numbered one (e.g., from the 2nd to the 3rd), the circle travels horizontally to the opposite side of the row it occupies. The central square always assumes the opposite colour of the circle contained within the vignette. Meanwhile, the broken heart inherits the previous position of the circle and retains its former colour.Based on these observations, in the correct option we should expect a black central square, hence a white circle. Furthermore, a black heart should appear in the top-left cell of the frame. Only option B satisfies all these conditions.
+"
       },
       "el": {
-        "image": "",
-        "optionsImage": "g",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776844956/Portal_AR1_4r_luktyo.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776844955/Portal_AR1_4a_e4venh.png",
         "question": "4. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": [
           "A",
@@ -7162,14 +7163,14 @@
           "D",
           "E"
         ],
-        "answer": 0,
-        "explanation": "[ΕΛ – Ερώτηση 4] Περιγράψτε εδώ τον κανόνα του μοτίβου. Η σωστή απάντηση είναι Α."
+        "answer": 2,
+        "explanation": "Όταν η μετάβαση γίνεται από μονή σε ζυγή θέση (π.χ. 1ο-> 2ο πλαίσιο), ο κύκλος κινείται διαγώνια και αλλάζει χρώμα από μαύρο σε λευκό. Αντίθετα, όταν μετακινείται από ζυγή σε περιττή θέση (π.χ. 2ο ->3ο), ο κύκλος κινείται οριζόντια προς την αντίθετη πλευρά της σειράς που καταλαμβάνει. Το κεντρικό τετράγωνο παίρνει πάντα το αντίθετο χρώμα από τον κύκλο που περιέχεται μέσα στο πλαίσιο. Εντωμεταξύ, η σπασμένη καρδιά κληρονομεί την προηγούμενη θέση και χρώμα του κύκλου.          "
       }
     },
     {
       "en": {
-        "image": "",
-        "optionsImage": "",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860580/Portal_AR1_5r_pxghrj.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860577/Portal_AR1_5a_tzx0cj.png",
         "question": "5. Which figure logically completes the series?",
         "options": [
           "A",
@@ -7178,12 +7179,12 @@
           "D",
           "E"
         ],
-        "answer": 0,
-        "explanation": "[EN – Question 5] Describe the pattern rule here. The correct answer is A."
+        "answer": 2,
+        "explanation": "Three rules apply: 1. A shading pattern: The shading farthest from the flagpole becomes the closest in the next step. All other shading shifts one position to the right. 2. The flag’s wave alternates: first wave goes down, then up, then down again, etc. 3. The flag’s height follows a cycle: half-mast → fully raised → half-mast → fully lowered → repeat "
       },
       "el": {
-        "image": "",
-        "optionsImage": "",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860580/Portal_AR1_5r_pxghrj.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860577/Portal_AR1_5a_tzx0cj.png",
         "question": "5. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": [
           "A",
@@ -7192,14 +7193,14 @@
           "D",
           "E"
         ],
-        "answer": 0,
-        "explanation": "[ΕΛ – Ερώτηση 5] Περιγράψτε εδώ τον κανόνα του μοτίβου. Η σωστή απάντηση είναι Α."
+        "answer": 2,
+        "explanation": "Τρεις κανόνες ισχύουν: 1. Η σκίαση το πιο μακρινό τμήμα γίνεται το πιο κοντινό στο επόμενο βήμα, ενώ όλα τα υπόλοιπα τμήματα μετακινούνται μία θέση δεξιά. 2.  Ο κυματισμός της σημαίας: κάτω - πάνω -κάτω - 3. Το ύψος της σημαίας παίρνει 3 θέσεις: μεσίστιο → τελείως ψηλά → μεσίστιο → τελείως κάτω → …επανάληψη "
       }
     },
     {
       "en": {
-        "image": "",
-        "optionsImage": "",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860585/Portal_AR1_6r_ya9ypt.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860582/Portal_AR1_6a_voexi5.png",
         "question": "6. Which figure logically completes the series?",
         "options": [
           "A",
@@ -7208,12 +7209,12 @@
           "D",
           "E"
         ],
-        "answer": 0,
-        "explanation": "[EN – Question 6] Describe the pattern rule here. The correct answer is A."
+        "answer": 3,
+        "explanation": "Two simple movements: 1. The shape in the top-left moves to the center and becomes larger. 2. The shape in the bottom-right moves to the top-left of the next frame."
       },
       "el": {
-        "image": "",
-        "optionsImage": "",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860585/Portal_AR1_6r_ya9ypt.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860582/Portal_AR1_6a_voexi5.png",
         "question": "6. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": [
           "A",
@@ -7222,14 +7223,14 @@
           "D",
           "E"
         ],
-        "answer": 0,
-        "explanation": "[ΕΛ – Ερώτηση 6] Περιγράψτε εδώ τον κανόνα του μοτίβου. Η σωστή απάντηση είναι Α."
+        "answer": 3,
+        "explanation": "Καταγράφονται δύο κινήσεις: 1. Το σχήμα πάνω αριστερά μετακινείται στο κέντρο και παράλληλα το μέγεθος του μεγαλώνει. 2. Το σχήμα κάτω δεξιά μετακινείται πάνω αριστερά στο επόμενο πλαίσιο. "
       }
     },
     {
       "en": {
-        "image": "",
-        "optionsImage": "",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860545/Portal_AR1_7r_ljogjo.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860541/Portal_AR1_7a_ac11q9.png",
         "question": "7. Which figure logically completes the series?",
         "options": [
           "A",
@@ -7238,12 +7239,12 @@
           "D",
           "E"
         ],
-        "answer": 0,
-        "explanation": "[EN – Question 7] Describe the pattern rule here. The correct answer is A."
+        "answer": 4,
+        "explanation": "Two rules apply: 1.The inner square colour follows the pattern:  black, black, grey, grey, white, white, 2. The outer area colour pattern follows the pattern: white, grey, black, white, grey, black, ...  Only option D satisfies both."
       },
       "el": {
-        "image": "",
-        "optionsImage": "",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860545/Portal_AR1_7r_ljogjo.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860541/Portal_AR1_7a_ac11q9.png",
         "question": "7. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": [
           "A",
@@ -7252,8 +7253,8 @@
           "D",
           "E"
         ],
-        "answer": 0,
-        "explanation": "[ΕΛ – Ερώτηση 7] Περιγράψτε εδώ τον κανόνα του μοτίβου. Η σωστή απάντηση είναι Α."
+        "answer": 4,
+        "explanation": "Ισχύουν δύο κανόνες: 1. Το εσωτερικό του τετράγωνου παίρνει στη σειρά τις αποχρώσεις: μαύρο, μαύρο, γκρι, γκρι, λευκό, λευκό... → επόμενο: λευκό.  2. Η εξωτερική περιοχή: λευκό, γκρι, μαύρο, λευκό, γκρι, μαύρο→ επόμενο: μαύρο."
       }
     },
     {
