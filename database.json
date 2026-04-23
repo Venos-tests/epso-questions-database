@@ -7149,7 +7149,7 @@
           "E"
         ],
         "answer": 2,
-        "explanation": "B. When the transition is from frames in an odd-numbered position to those in an even-numbered one (e.g. 1st-> 2nd), the circle moves diagonally and changes colour from black to white. Conversely, when moving from an even-numbered frame to an odd-numbered one (e.g., from the 2nd to the 3rd), the circle travels horizontally to the opposite side of the row it occupies. The central square always assumes the opposite colour of the circle contained within the vignette. Meanwhile, the broken heart inherits the previous position of the circle and retains its former colour.Based on these observations, in the correct option we should expect a black central square, hence a white circle. Furthermore, a black heart should appear in the top-left cell of the frame. Only option B satisfies all these conditions.
+        "explanation": ""explanation": "When the transition is from frames in an odd-numbered position to those in an even-numbered one (e.g. 1st->2nd), the circle moves diagonally and changes colour from black to white. Conversely, when moving from an even-numbered frame to an odd-numbered one (e.g. 2nd to 3rd), the circle travels horizontally to the opposite side of the row it occupies. The central square always assumes the opposite colour of the circle contained within the vignette. Meanwhile, the broken heart inherits the previous position of the circle and retains its former colour. Based on these observations, in the correct option we should expect a black central square, hence a white circle. Furthermore, a black heart should appear in the top-left cell of the frame. Only option B satisfies all these conditions.".
 "
       },
       "el": {
@@ -7329,8 +7329,8 @@
           "D",
           "E"
         ],
-        "answer": 0,
-        "explanation": "[EN – Question 10] Describe the pattern rule here. The correct answer is A."
+        "answer": 4,
+        "explanation": "Circle moves from bottom left of the frame, to the middle of the frame, then to the bottom right of the frame with each turn. Square mirrors the circle in the following frame with each turn."
       },
       "el": {
         "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860560/Portal_AR2_1r_lybmam.png",
@@ -7343,8 +7343,8 @@
           "D",
           "E"
         ],
-        "answer": 0,
-        "explanation": "[ΕΛ – Ερώτηση 10] Περιγράψτε εδώ τον κανόνα του μοτίβου. Η σωστή απάντηση είναι Α."
+        "answer": 4,
+        "explanation": "Ο κύκλος κινείται ως εξής: κάτω αριστερά → κέντρο → κάτω δεξιά (επαναλαμβανόμενο μοτίβο). Παράλληλα, το τετράγωνο αντιγράφει (καθρεφτίζει) τη θέση του κύκλου από το προηγούμενο βήμα"
       }
     }
   ],
