@@ -7259,8 +7259,8 @@
     },
     {
       "en": {
-        "image": "",
-        "optionsImage": "",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860547/Portal_AR1_8r_b7qoei.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860545/Portal_AR1_8a_xwzakv.png",
         "question": "8. Which figure logically completes the series?",
         "options": [
           "A",
@@ -7269,12 +7269,12 @@
           "D",
           "E"
         ],
-        "answer": 0,
-        "explanation": "[EN – Question 8] Describe the pattern rule here. The correct answer is A."
+        "answer": 3,
+        "explanation": "Two rules apply: 1.The shape flips horizontally each time (like reversing direction) and then the square corner points left. 2. Colour cycle: black → white → grey→ black"
       },
       "el": {
-        "image": "",
-        "optionsImage": "",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860547/Portal_AR1_8r_b7qoei.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860545/Portal_AR1_8a_xwzakv.png",
         "question": "8. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": [
           "A",
@@ -7283,14 +7283,14 @@
           "D",
           "E"
         ],
-        "answer": 0,
-        "explanation": "[ΕΛ – Ερώτηση 8] Περιγράψτε εδώ τον κανόνα του μοτίβου. Η σωστή απάντηση είναι Α."
+        "answer": 3,
+        "explanation": "Δύο κανόνες εφαρμόζονται: 1. Το σχήμα περιστρέφεται οριζόντια γύρω από το κάθετο άξονα συμμετρίας του, άρα η γωνία θα δείχνει αριστερά. 2. Η διαδοχή χρωμάτων ανακυκλώνεται από μαύρο → λευκό → γκρι → μαύρο. "
       }
     },
     {
       "en": {
-        "image": "",
-        "optionsImage": "",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860552/Portal_AR1_9r_waijde.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860549/Portal_AR1_9a_rxb4x6.png",
         "question": "9. Which figure logically completes the series?",
         "options": [
           "A",
@@ -7299,12 +7299,12 @@
           "D",
           "E"
         ],
-        "answer": 0,
-        "explanation": "[EN – Question 9] Describe the pattern rule here. The correct answer is A."
+        "answer": 3,
+        "explanation": "Three patterns: 1.Rectangle shading: shaded for 1 step, unshaded for 2 steps  2. Circle movement clockwise around the corners. 3. Arrow position: left side (2 steps) then right side (2 steps) "
       },
       "el": {
-        "image": "",
-        "optionsImage": "",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860552/Portal_AR1_9r_waijde.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860549/Portal_AR1_9a_rxb4x6.png",
         "question": "9. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": [
           "A",
@@ -7313,14 +7313,14 @@
           "D",
           "E"
         ],
-        "answer": 0,
-        "explanation": "[ΕΛ – Ερώτηση 9] Περιγράψτε εδώ τον κανόνα του μοτίβου. Η σωστή απάντηση είναι Α."
+        "answer": 3,
+        "explanation": "Τρία μοτίβα εφαρμόζονται: 1. Η σκίαση του ορθογωνίου σχήματος εναλλάσσεται ως εξής: 1 βήμα σκιασμένο ακολουθούμενα από 2 βήματα χωρίς σκίαση 2. Ο κύκλος κινείται δεξιόστροφα στις γωνίες. 3. Το βέλος κινείται 2 βήματα αριστερά και κατόπιν 2 βήματα δεξιά. ."
       }
     },
     {
       "en": {
-        "image": "",
-        "optionsImage": "",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860560/Portal_AR2_1r_lybmam.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860568/Portal_AR1_2a_tzrpx6.png",
         "question": "10. Which figure logically completes the series?",
         "options": [
           "A",
@@ -7333,8 +7333,8 @@
         "explanation": "[EN – Question 10] Describe the pattern rule here. The correct answer is A."
       },
       "el": {
-        "image": "",
-        "optionsImage": "",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860560/Portal_AR2_1r_lybmam.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860568/Portal_AR1_2a_tzrpx6.png",
         "question": "10. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": [
           "A",
