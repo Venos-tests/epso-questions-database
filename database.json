@@ -7049,7 +7049,8 @@
   "abstract_1": [
     {
       "en": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_1/q01.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_1r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_1a_SUFFIX_a.png",
         "question": "1. Which figure logically completes the series?",
         "options": [
           "A",
@@ -7059,10 +7060,11 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[EN – Question 1] Describe the pattern rule here (e.g. rotation, reflection, number of sides, shading progression). The correct answer is A."
+        "explanation": "[EN – Question 1] Describe the pattern rule here. The correct answer is A."
       },
       "el": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_1/q01.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_1r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_1a_SUFFIX_a.png",
         "question": "1. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": [
           "A",
@@ -7072,12 +7074,13 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[ΕΛ – Ερώτηση 1] Περιγράψτε εδώ τον κανόνα του μοτίβου (π.χ. περιστροφή, αντανάκλαση, αριθμός πλευρών, διαβάθμιση σκίασης). Η σωστή απάντηση είναι Α."
+        "explanation": "[ΕΛ – Ερώτηση 1] Περιγράψτε εδώ τον κανόνα του μοτίβου. Η σωστή απάντηση είναι Α."
       }
     },
     {
       "en": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_1/q02.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_2r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_2a_SUFFIX_a.png",
         "question": "2. Which figure logically completes the series?",
         "options": [
           "A",
@@ -7087,10 +7090,11 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[EN – Question 2] Describe the pattern rule here (e.g. rotation, reflection, number of sides, shading progression). The correct answer is A."
+        "explanation": "[EN – Question 2] Describe the pattern rule here. The correct answer is A."
       },
       "el": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_1/q02.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_2r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_2a_SUFFIX_a.png",
         "question": "2. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": [
           "A",
@@ -7100,12 +7104,13 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[ΕΛ – Ερώτηση 2] Περιγράψτε εδώ τον κανόνα του μοτίβου (π.χ. περιστροφή, αντανάκλαση, αριθμός πλευρών, διαβάθμιση σκίασης). Η σωστή απάντηση είναι Α."
+        "explanation": "[ΕΛ – Ερώτηση 2] Περιγράψτε εδώ τον κανόνα του μοτίβου. Η σωστή απάντηση είναι Α."
       }
     },
     {
       "en": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_1/q03.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_3r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_3a_SUFFIX_a.png",
         "question": "3. Which figure logically completes the series?",
         "options": [
           "A",
@@ -7115,10 +7120,11 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[EN – Question 3] Describe the pattern rule here (e.g. rotation, reflection, number of sides, shading progression). The correct answer is A."
+        "explanation": "[EN – Question 3] Describe the pattern rule here. The correct answer is A."
       },
       "el": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_1/q03.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_3r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_3a_SUFFIX_a.png",
         "question": "3. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": [
           "A",
@@ -7128,12 +7134,13 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[ΕΛ – Ερώτηση 3] Περιγράψτε εδώ τον κανόνα του μοτίβου (π.χ. περιστροφή, αντανάκλαση, αριθμός πλευρών, διαβάθμιση σκίασης). Η σωστή απάντηση είναι Α."
+        "explanation": "[ΕΛ – Ερώτηση 3] Περιγράψτε εδώ τον κανόνα του μοτίβου. Η σωστή απάντηση είναι Α."
       }
     },
     {
       "en": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_1/q04.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_4r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_4a_SUFFIX_a.png",
         "question": "4. Which figure logically completes the series?",
         "options": [
           "A",
@@ -7143,10 +7150,11 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[EN – Question 4] Describe the pattern rule here (e.g. rotation, reflection, number of sides, shading progression). The correct answer is A."
+        "explanation": "[EN – Question 4] Describe the pattern rule here. The correct answer is A."
       },
       "el": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_1/q04.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_4r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_4a_SUFFIX_a.png",
         "question": "4. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": [
           "A",
@@ -7156,12 +7164,13 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[ΕΛ – Ερώτηση 4] Περιγράψτε εδώ τον κανόνα του μοτίβου (π.χ. περιστροφή, αντανάκλαση, αριθμός πλευρών, διαβάθμιση σκίασης). Η σωστή απάντηση είναι Α."
+        "explanation": "[ΕΛ – Ερώτηση 4] Περιγράψτε εδώ τον κανόνα του μοτίβου. Η σωστή απάντηση είναι Α."
       }
     },
     {
       "en": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_1/q05.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_5r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_5a_SUFFIX_a.png",
         "question": "5. Which figure logically completes the series?",
         "options": [
           "A",
@@ -7171,10 +7180,11 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[EN – Question 5] Describe the pattern rule here (e.g. rotation, reflection, number of sides, shading progression). The correct answer is A."
+        "explanation": "[EN – Question 5] Describe the pattern rule here. The correct answer is A."
       },
       "el": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_1/q05.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_5r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_5a_SUFFIX_a.png",
         "question": "5. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": [
           "A",
@@ -7184,12 +7194,13 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[ΕΛ – Ερώτηση 5] Περιγράψτε εδώ τον κανόνα του μοτίβου (π.χ. περιστροφή, αντανάκλαση, αριθμός πλευρών, διαβάθμιση σκίασης). Η σωστή απάντηση είναι Α."
+        "explanation": "[ΕΛ – Ερώτηση 5] Περιγράψτε εδώ τον κανόνα του μοτίβου. Η σωστή απάντηση είναι Α."
       }
     },
     {
       "en": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_1/q06.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_6r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_6a_SUFFIX_a.png",
         "question": "6. Which figure logically completes the series?",
         "options": [
           "A",
@@ -7199,10 +7210,11 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[EN – Question 6] Describe the pattern rule here (e.g. rotation, reflection, number of sides, shading progression). The correct answer is A."
+        "explanation": "[EN – Question 6] Describe the pattern rule here. The correct answer is A."
       },
       "el": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_1/q06.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_6r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_6a_SUFFIX_a.png",
         "question": "6. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": [
           "A",
@@ -7212,12 +7224,13 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[ΕΛ – Ερώτηση 6] Περιγράψτε εδώ τον κανόνα του μοτίβου (π.χ. περιστροφή, αντανάκλαση, αριθμός πλευρών, διαβάθμιση σκίασης). Η σωστή απάντηση είναι Α."
+        "explanation": "[ΕΛ – Ερώτηση 6] Περιγράψτε εδώ τον κανόνα του μοτίβου. Η σωστή απάντηση είναι Α."
       }
     },
     {
       "en": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_1/q07.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_7r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_7a_SUFFIX_a.png",
         "question": "7. Which figure logically completes the series?",
         "options": [
           "A",
@@ -7227,10 +7240,11 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[EN – Question 7] Describe the pattern rule here (e.g. rotation, reflection, number of sides, shading progression). The correct answer is A."
+        "explanation": "[EN – Question 7] Describe the pattern rule here. The correct answer is A."
       },
       "el": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_1/q07.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_7r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_7a_SUFFIX_a.png",
         "question": "7. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": [
           "A",
@@ -7240,12 +7254,13 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[ΕΛ – Ερώτηση 7] Περιγράψτε εδώ τον κανόνα του μοτίβου (π.χ. περιστροφή, αντανάκλαση, αριθμός πλευρών, διαβάθμιση σκίασης). Η σωστή απάντηση είναι Α."
+        "explanation": "[ΕΛ – Ερώτηση 7] Περιγράψτε εδώ τον κανόνα του μοτίβου. Η σωστή απάντηση είναι Α."
       }
     },
     {
       "en": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_1/q08.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_8r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_8a_SUFFIX_a.png",
         "question": "8. Which figure logically completes the series?",
         "options": [
           "A",
@@ -7255,10 +7270,11 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[EN – Question 8] Describe the pattern rule here (e.g. rotation, reflection, number of sides, shading progression). The correct answer is A."
+        "explanation": "[EN – Question 8] Describe the pattern rule here. The correct answer is A."
       },
       "el": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_1/q08.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_8r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_8a_SUFFIX_a.png",
         "question": "8. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": [
           "A",
@@ -7268,12 +7284,13 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[ΕΛ – Ερώτηση 8] Περιγράψτε εδώ τον κανόνα του μοτίβου (π.χ. περιστροφή, αντανάκλαση, αριθμός πλευρών, διαβάθμιση σκίασης). Η σωστή απάντηση είναι Α."
+        "explanation": "[ΕΛ – Ερώτηση 8] Περιγράψτε εδώ τον κανόνα του μοτίβου. Η σωστή απάντηση είναι Α."
       }
     },
     {
       "en": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_1/q09.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_9r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_9a_SUFFIX_a.png",
         "question": "9. Which figure logically completes the series?",
         "options": [
           "A",
@@ -7283,10 +7300,11 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[EN – Question 9] Describe the pattern rule here (e.g. rotation, reflection, number of sides, shading progression). The correct answer is A."
+        "explanation": "[EN – Question 9] Describe the pattern rule here. The correct answer is A."
       },
       "el": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_1/q09.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_9r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_9a_SUFFIX_a.png",
         "question": "9. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": [
           "A",
@@ -7296,12 +7314,13 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[ΕΛ – Ερώτηση 9] Περιγράψτε εδώ τον κανόνα του μοτίβου (π.χ. περιστροφή, αντανάκλαση, αριθμός πλευρών, διαβάθμιση σκίασης). Η σωστή απάντηση είναι Α."
+        "explanation": "[ΕΛ – Ερώτηση 9] Περιγράψτε εδώ τον κανόνα του μοτίβου. Η σωστή απάντηση είναι Α."
       }
     },
     {
       "en": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_1/q10.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_10r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_10a_SUFFIX_a.png",
         "question": "10. Which figure logically completes the series?",
         "options": [
           "A",
@@ -7311,10 +7330,11 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[EN – Question 10] Describe the pattern rule here (e.g. rotation, reflection, number of sides, shading progression). The correct answer is A."
+        "explanation": "[EN – Question 10] Describe the pattern rule here. The correct answer is A."
       },
       "el": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_1/q10.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_10r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR1_10a_SUFFIX_a.png",
         "question": "10. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": [
           "A",
@@ -7324,14 +7344,15 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[ΕΛ – Ερώτηση 10] Περιγράψτε εδώ τον κανόνα του μοτίβου (π.χ. περιστροφή, αντανάκλαση, αριθμός πλευρών, διαβάθμιση σκίασης). Η σωστή απάντηση είναι Α."
+        "explanation": "[ΕΛ – Ερώτηση 10] Περιγράψτε εδώ τον κανόνα του μοτίβου. Η σωστή απάντηση είναι Α."
       }
     }
   ],
   "abstract_2": [
     {
       "en": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_2/q01.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_1r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_1a_SUFFIX_a.png",
         "question": "1. Which figure logically completes the series?",
         "options": [
           "A",
@@ -7341,10 +7362,11 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[EN – Question 1] Describe the pattern rule here (e.g. rotation, reflection, number of sides, shading progression). The correct answer is A."
+        "explanation": "[EN – Question 1] Describe the pattern rule here. The correct answer is A."
       },
       "el": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_2/q01.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_1r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_1a_SUFFIX_a.png",
         "question": "1. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": [
           "A",
@@ -7354,12 +7376,13 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[ΕΛ – Ερώτηση 1] Περιγράψτε εδώ τον κανόνα του μοτίβου (π.χ. περιστροφή, αντανάκλαση, αριθμός πλευρών, διαβάθμιση σκίασης). Η σωστή απάντηση είναι Α."
+        "explanation": "[ΕΛ – Ερώτηση 1] Περιγράψτε εδώ τον κανόνα του μοτίβου. Η σωστή απάντηση είναι Α."
       }
     },
     {
       "en": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_2/q02.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_2r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_2a_SUFFIX_a.png",
         "question": "2. Which figure logically completes the series?",
         "options": [
           "A",
@@ -7369,10 +7392,11 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[EN – Question 2] Describe the pattern rule here (e.g. rotation, reflection, number of sides, shading progression). The correct answer is A."
+        "explanation": "[EN – Question 2] Describe the pattern rule here. The correct answer is A."
       },
       "el": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_2/q02.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_2r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_2a_SUFFIX_a.png",
         "question": "2. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": [
           "A",
@@ -7382,12 +7406,13 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[ΕΛ – Ερώτηση 2] Περιγράψτε εδώ τον κανόνα του μοτίβου (π.χ. περιστροφή, αντανάκλαση, αριθμός πλευρών, διαβάθμιση σκίασης). Η σωστή απάντηση είναι Α."
+        "explanation": "[ΕΛ – Ερώτηση 2] Περιγράψτε εδώ τον κανόνα του μοτίβου. Η σωστή απάντηση είναι Α."
       }
     },
     {
       "en": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_2/q03.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_3r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_3a_SUFFIX_a.png",
         "question": "3. Which figure logically completes the series?",
         "options": [
           "A",
@@ -7397,10 +7422,11 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[EN – Question 3] Describe the pattern rule here (e.g. rotation, reflection, number of sides, shading progression). The correct answer is A."
+        "explanation": "[EN – Question 3] Describe the pattern rule here. The correct answer is A."
       },
       "el": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_2/q03.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_3r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_3a_SUFFIX_a.png",
         "question": "3. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": [
           "A",
@@ -7410,12 +7436,13 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[ΕΛ – Ερώτηση 3] Περιγράψτε εδώ τον κανόνα του μοτίβου (π.χ. περιστροφή, αντανάκλαση, αριθμός πλευρών, διαβάθμιση σκίασης). Η σωστή απάντηση είναι Α."
+        "explanation": "[ΕΛ – Ερώτηση 3] Περιγράψτε εδώ τον κανόνα του μοτίβου. Η σωστή απάντηση είναι Α."
       }
     },
     {
       "en": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_2/q04.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_4r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_4a_SUFFIX_a.png",
         "question": "4. Which figure logically completes the series?",
         "options": [
           "A",
@@ -7425,10 +7452,11 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[EN – Question 4] Describe the pattern rule here (e.g. rotation, reflection, number of sides, shading progression). The correct answer is A."
+        "explanation": "[EN – Question 4] Describe the pattern rule here. The correct answer is A."
       },
       "el": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_2/q04.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_4r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_4a_SUFFIX_a.png",
         "question": "4. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": [
           "A",
@@ -7438,12 +7466,13 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[ΕΛ – Ερώτηση 4] Περιγράψτε εδώ τον κανόνα του μοτίβου (π.χ. περιστροφή, αντανάκλαση, αριθμός πλευρών, διαβάθμιση σκίασης). Η σωστή απάντηση είναι Α."
+        "explanation": "[ΕΛ – Ερώτηση 4] Περιγράψτε εδώ τον κανόνα του μοτίβου. Η σωστή απάντηση είναι Α."
       }
     },
     {
       "en": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_2/q05.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_5r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_5a_SUFFIX_a.png",
         "question": "5. Which figure logically completes the series?",
         "options": [
           "A",
@@ -7453,10 +7482,11 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[EN – Question 5] Describe the pattern rule here (e.g. rotation, reflection, number of sides, shading progression). The correct answer is A."
+        "explanation": "[EN – Question 5] Describe the pattern rule here. The correct answer is A."
       },
       "el": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_2/q05.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_5r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_5a_SUFFIX_a.png",
         "question": "5. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": [
           "A",
@@ -7466,12 +7496,13 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[ΕΛ – Ερώτηση 5] Περιγράψτε εδώ τον κανόνα του μοτίβου (π.χ. περιστροφή, αντανάκλαση, αριθμός πλευρών, διαβάθμιση σκίασης). Η σωστή απάντηση είναι Α."
+        "explanation": "[ΕΛ – Ερώτηση 5] Περιγράψτε εδώ τον κανόνα του μοτίβου. Η σωστή απάντηση είναι Α."
       }
     },
     {
       "en": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_2/q06.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_6r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_6a_SUFFIX_a.png",
         "question": "6. Which figure logically completes the series?",
         "options": [
           "A",
@@ -7481,10 +7512,11 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[EN – Question 6] Describe the pattern rule here (e.g. rotation, reflection, number of sides, shading progression). The correct answer is A."
+        "explanation": "[EN – Question 6] Describe the pattern rule here. The correct answer is A."
       },
       "el": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_2/q06.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_6r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_6a_SUFFIX_a.png",
         "question": "6. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": [
           "A",
@@ -7494,12 +7526,13 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[ΕΛ – Ερώτηση 6] Περιγράψτε εδώ τον κανόνα του μοτίβου (π.χ. περιστροφή, αντανάκλαση, αριθμός πλευρών, διαβάθμιση σκίασης). Η σωστή απάντηση είναι Α."
+        "explanation": "[ΕΛ – Ερώτηση 6] Περιγράψτε εδώ τον κανόνα του μοτίβου. Η σωστή απάντηση είναι Α."
       }
     },
     {
       "en": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_2/q07.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_7r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_7a_SUFFIX_a.png",
         "question": "7. Which figure logically completes the series?",
         "options": [
           "A",
@@ -7509,10 +7542,11 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[EN – Question 7] Describe the pattern rule here (e.g. rotation, reflection, number of sides, shading progression). The correct answer is A."
+        "explanation": "[EN – Question 7] Describe the pattern rule here. The correct answer is A."
       },
       "el": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_2/q07.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_7r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_7a_SUFFIX_a.png",
         "question": "7. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": [
           "A",
@@ -7522,12 +7556,13 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[ΕΛ – Ερώτηση 7] Περιγράψτε εδώ τον κανόνα του μοτίβου (π.χ. περιστροφή, αντανάκλαση, αριθμός πλευρών, διαβάθμιση σκίασης). Η σωστή απάντηση είναι Α."
+        "explanation": "[ΕΛ – Ερώτηση 7] Περιγράψτε εδώ τον κανόνα του μοτίβου. Η σωστή απάντηση είναι Α."
       }
     },
     {
       "en": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_2/q08.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_8r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_8a_SUFFIX_a.png",
         "question": "8. Which figure logically completes the series?",
         "options": [
           "A",
@@ -7537,10 +7572,11 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[EN – Question 8] Describe the pattern rule here (e.g. rotation, reflection, number of sides, shading progression). The correct answer is A."
+        "explanation": "[EN – Question 8] Describe the pattern rule here. The correct answer is A."
       },
       "el": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_2/q08.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_8r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_8a_SUFFIX_a.png",
         "question": "8. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": [
           "A",
@@ -7550,12 +7586,13 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[ΕΛ – Ερώτηση 8] Περιγράψτε εδώ τον κανόνα του μοτίβου (π.χ. περιστροφή, αντανάκλαση, αριθμός πλευρών, διαβάθμιση σκίασης). Η σωστή απάντηση είναι Α."
+        "explanation": "[ΕΛ – Ερώτηση 8] Περιγράψτε εδώ τον κανόνα του μοτίβου. Η σωστή απάντηση είναι Α."
       }
     },
     {
       "en": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_2/q09.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_9r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_9a_SUFFIX_a.png",
         "question": "9. Which figure logically completes the series?",
         "options": [
           "A",
@@ -7565,10 +7602,11 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[EN – Question 9] Describe the pattern rule here (e.g. rotation, reflection, number of sides, shading progression). The correct answer is A."
+        "explanation": "[EN – Question 9] Describe the pattern rule here. The correct answer is A."
       },
       "el": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_2/q09.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_9r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_9a_SUFFIX_a.png",
         "question": "9. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": [
           "A",
@@ -7578,12 +7616,13 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[ΕΛ – Ερώτηση 9] Περιγράψτε εδώ τον κανόνα του μοτίβου (π.χ. περιστροφή, αντανάκλαση, αριθμός πλευρών, διαβάθμιση σκίασης). Η σωστή απάντηση είναι Α."
+        "explanation": "[ΕΛ – Ερώτηση 9] Περιγράψτε εδώ τον κανόνα του μοτίβου. Η σωστή απάντηση είναι Α."
       }
     },
     {
       "en": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_2/q10.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_10r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_10a_SUFFIX_a.png",
         "question": "10. Which figure logically completes the series?",
         "options": [
           "A",
@@ -7593,10 +7632,11 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[EN – Question 10] Describe the pattern rule here (e.g. rotation, reflection, number of sides, shading progression). The correct answer is A."
+        "explanation": "[EN – Question 10] Describe the pattern rule here. The correct answer is A."
       },
       "el": {
-        "image": "https://res.cloudinary.com/YOUR_CLOUD/image/upload/epso/abstract_2/q10.png",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_10r_SUFFIX_r.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/Portal_AR2_10a_SUFFIX_a.png",
         "question": "10. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": [
           "A",
@@ -7606,7 +7646,8 @@
           "E"
         ],
         "answer": 0,
-        "explanation": "[ΕΛ – Ερώτηση 10] Περιγράψτε εδώ τον κανόνα του μοτίβου (π.χ. περιστροφή, αντανάκλαση, αριθμός πλευρών, διαβάθμιση σκίασης). Η σωστή απάντηση είναι Α."
+        "explanation": "[ΕΛ – Ερώτηση 10] Περιγράψτε εδώ τον κανόνα του μοτίβου. Η σωστή απάντηση είναι Α."
       }
+    }
   ]
 }
