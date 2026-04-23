@@ -7149,7 +7149,7 @@
           "E"
         ],
         "answer": 2,
-        "explanation": ""explanation": "When the transition is from frames in an odd-numbered position to those in an even-numbered one (e.g. 1st->2nd), the circle moves diagonally and changes colour from black to white. Conversely, when moving from an even-numbered frame to an odd-numbered one (e.g. 2nd to 3rd), the circle travels horizontally to the opposite side of the row it occupies. The central square always assumes the opposite colour of the circle contained within the vignette. Meanwhile, the broken heart inherits the previous position of the circle and retains its former colour. Based on these observations, in the correct option we should expect a black central square, hence a white circle. Furthermore, a black heart should appear in the top-left cell of the frame. Only option B satisfies all these conditions.".
+        "explanation": "When the transition is from frames in an odd-numbered position to those in an even-numbered one (e.g. 1st->2nd), the circle moves diagonally and changes colour from black to white. Conversely, when moving from an even-numbered frame to an odd-numbered one (e.g. 2nd to 3rd), the circle travels horizontally to the opposite side of the row it occupies. The central square always assumes the opposite colour of the circle contained within the vignette. Meanwhile, the broken heart inherits the previous position of the circle and retains its former colour. Thus, in the correct option we should expect a black central square, hence a white circle. Furthermore, a black heart should appear in the top-left cell of the frame. Only option B satisfies all these conditions.".
 "
       },
       "el": {
@@ -7164,8 +7164,7 @@
           "E"
         ],
         "answer": 2,
-        "explanation": "Όταν η μετάβαση γίνεται από μονή σε ζυγή θέση (π.χ. 1ο-> 2ο πλαίσιο), ο κύκλος κινείται διαγώνια και αλλάζει χρώμα από μαύρο σε λευκό. Αντίθετα, όταν μετακινείται από ζυγή σε περιττή θέση (π.χ. 2ο ->3ο), ο κύκλος κινείται οριζόντια προς την αντίθετη πλευρά της σειράς που καταλαμβάνει. Το κεντρικό τετράγωνο παίρνει πάντα το αντίθετο χρώμα από τον κύκλο που περιέχεται μέσα στο πλαίσιο. Εντωμεταξύ, η σπασμένη καρδιά κληρονομεί την προηγούμενη θέση και χρώμα του κύκλου.          "
-      }
+        "explanation": "Όταν η μετάβαση γίνεται από μονή σε ζυγή θέση (π.χ. 1ο->2ο πλαίσιο), ο κύκλος κινείται διαγώνια και αλλάζει χρώμα από μαύρο σε λευκό. Αντίθετα, όταν μετακινείται από ζυγή σε περιττή θέση (π.χ. 2ο->3ο), ο κύκλος κινείται οριζόντια προς την αντίθετη πλευρά της σειράς που καταλαμβάνει. Το κεντρικό τετράγωνο παίρνει πάντα το αντίθετο χρώμα από τον κύκλο που περιέχεται μέσα στο πλαίσιο. Εντωμεταξύ, η σπασμένη καρδιά κληρονομεί την προηγούμενη θέση και χρώμα του κύκλου."
     },
     {
       "en": {
@@ -7180,7 +7179,7 @@
           "E"
         ],
         "answer": 2,
-        "explanation": "Three rules apply: 1. A shading pattern: The shading farthest from the flagpole becomes the closest in the next step. All other shading shifts one position to the right. 2. The flag’s wave alternates: first wave goes down, then up, then down again, etc. 3. The flag’s height follows a cycle: half-mast → fully raised → half-mast → fully lowered → repeat "
+        "explanation": "Three rules apply: 1. A shading pattern: The shading farthest from the flagpole becomes the closest in the next step. All other shading shifts one position to the right. 2. The flag’s wave alternates: first wave goes down, then up, then down again, etc. 3. The flag’s height follows a cycle: half-mast → fully raised → half-mast → fully lowered → repeat."
       },
       "el": {
         "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860580/Portal_AR1_5r_pxghrj.png",
@@ -7194,7 +7193,7 @@
           "E"
         ],
         "answer": 2,
-        "explanation": "Τρεις κανόνες ισχύουν: 1. Η σκίαση το πιο μακρινό τμήμα γίνεται το πιο κοντινό στο επόμενο βήμα, ενώ όλα τα υπόλοιπα τμήματα μετακινούνται μία θέση δεξιά. 2.  Ο κυματισμός της σημαίας: κάτω - πάνω -κάτω - 3. Το ύψος της σημαίας παίρνει 3 θέσεις: μεσίστιο → τελείως ψηλά → μεσίστιο → τελείως κάτω → …επανάληψη "
+        "explanation": "Τρεις κανόνες ισχύουν: 1. Η σκίαση το πιο μακρινό τμήμα γίνεται το πιο κοντινό στο επόμενο βήμα, ενώ όλα τα υπόλοιπα τμήματα μετακινούνται μία θέση δεξιά. 2.  Ο κυματισμός της σημαίας: κάτω - πάνω -κάτω - 3. Το ύψος της σημαίας παίρνει 3 θέσεις: μεσίστιο → τελείως ψηλά → μεσίστιο → τελείως κάτω → …επανάληψη."
       }
     },
     {
