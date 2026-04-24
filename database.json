@@ -7078,8 +7078,8 @@
     },
     {
       "en": {
-        "image": "",
-        "optionsImage": "",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860559/Portal_AR1_10r_hi1d4p.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860555/Portal_AR1_10a_udc2jb.png",
         "question": "2. Which figure logically completes the series?",
         "options": [
           "A",
@@ -7088,12 +7088,12 @@
           "D",
           "E"
         ],
-        "answer": 0,
-        "explanation": "[EN – Question 2] Describe the pattern rule here. The correct answer is A."
+        "answer": 3,
+        "explanation": "1. Unshaded circle moves around hexagon in a clockwise direction with each turn. 2. Shaded circle moves from bottom left hexagon corner, to middle of hexagon, to bottom right hexagon corner with each turn. 3. Triangle moves around frame in a clockwise direction with each alternate turn."
       },
       "el": {
-        "image": "",
-        "optionsImage": "",
+        "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860559/Portal_AR1_10r_hi1d4p.png",
+        "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860555/Portal_AR1_10a_udc2jb.png",
         "question": "2. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
         "options": [
           "A",
@@ -7102,8 +7102,8 @@
           "D",
           "E"
         ],
-        "answer": 0,
-        "explanation": "[ΕΛ – Ερώτηση 2] Περιγράψτε εδώ τον κανόνα του μοτίβου. Η σωστή απάντηση είναι Α."
+        "answer": 3,
+        "explanation": "Τρεις κανόνες: 1. Ο μη σκιασμένος κύκλος κινείται δεξιόστροφα.  2. Ο σκιασμένος κύκλος κινείται από κάτω αριστερά στο κέντρο και μετά κάτω δεξιά. 3. Το τρίγωνο κινείται δεξιόστροφα σε κάθε δεύτερο βήμα."
       }
     },
     {
@@ -7137,7 +7137,7 @@
       }
     },
     {
-      "en": {
+    "en": {
         "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776844956/Portal_AR1_4r_luktyo.png",
         "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776844955/Portal_AR1_4a_e4venh.png",
         "question": "4. Which figure logically completes the series?",
@@ -7149,8 +7149,7 @@
           "E"
         ],
         "answer": 2,
-        "explanation": "When the transition is from frames in an odd-numbered position to those in an even-numbered one (e.g. 1st->2nd), the circle moves diagonally and changes colour from black to white. Conversely, when moving from an even-numbered frame to an odd-numbered one (e.g. 2nd to 3rd), the circle travels horizontally to the opposite side of the row it occupies. The central square always assumes the opposite colour of the circle contained within the vignette. Meanwhile, the broken heart inherits the previous position of the circle and retains its former colour. Thus, in the correct option we should expect a black central square, hence a white circle. Furthermore, a black heart should appear in the top-left cell of the frame. Only option B satisfies all these conditions.".
-"
+        "explanation": "When the transition is from frames in an odd-numbered position to those in an even-numbered one (e.g. 1st->2nd), the circle moves diagonally and changes colour from black to white. Conversely, when moving from an even-numbered frame to an odd-numbered one (e.g. 2nd to 3rd), the circle travels horizontally to the opposite side of the row it occupies. The central square always assumes the opposite colour of the circle contained within the vignette. Meanwhile, the broken heart inherits the previous position of the circle and retains its former colour. Thus, in the correct option we should expect a black central square, hence a white circle. Furthermore, a black heart should appear in the top-left cell of the frame. Only option B satisfies all these conditions."
       },
       "el": {
         "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776844956/Portal_AR1_4r_luktyo.png",
@@ -7164,7 +7163,7 @@
           "E"
         ],
         "answer": 2,
-        "explanation": "Όταν η μετάβαση γίνεται από μονή σε ζυγή θέση (π.χ. 1ο->2ο πλαίσιο), ο κύκλος κινείται διαγώνια και αλλάζει χρώμα από μαύρο σε λευκό. Αντίθετα, όταν μετακινείται από ζυγή σε περιττή θέση (π.χ. 2ο->3ο), ο κύκλος κινείται οριζόντια προς την αντίθετη πλευρά της σειράς που καταλαμβάνει. Το κεντρικό τετράγωνο παίρνει πάντα το αντίθετο χρώμα από τον κύκλο που περιέχεται μέσα στο πλαίσιο. Εντωμεταξύ, η σπασμένη καρδιά κληρονομεί την προηγούμενη θέση και χρώμα του κύκλου."
+        "explanation": "Όταν η μετάβαση γίνεται από μονή σε ζυγή θέση (π.χ. 1ο->2ο πλαίσιο), ο κύκλος κινείται διαγώνια και αλλάζει χρώμα από μαύρο σε λευκό. Αντίθετα, όταν μετακινείται από ζυγή σε περιττή θέση (π.χ. 2ο σε 3ο), ο κύκλος κινείται οριζόντια προς την αντίθετη πλευρά της σειράς που καταλαμβάνει. Το κεντρικό τετράγωνο παίρνει πάντα το αντίθετο χρώμα από τον κύκλο που περιέχεται μέσα στο πλαίσιο. Η σπασμένη καρδιά κληρονομεί την προηγούμενη θέση και χρώμα του κύκλου."
     },
     {
       "en": {
