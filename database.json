@@ -1,27 +1,15 @@
   {
-
       "en": {
-
         "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860560/Portal_AR2_1r_lybmam.png",
-
         "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1776860568/Portal_AR1_2a_tzrpx6.png",
-
         "question": "10. Which figure logically completes the series?",
-
         "options": [
-
           "A",
-
           "B",
-
           "C",
-
           "D",
-
           "E"
-
         ],
-
         "answer": 4,
 
         "explanation": "Circle moves from bottom left of the frame, to the middle of the frame, then to the bottom right of the frame with each turn. Square mirrors the circle in the following frame with each turn."
