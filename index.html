@@ -239,18 +239,17 @@
             var expArea = document.getElementById('explanation-area');
 
 if (qData.image && qData.image.trim() !== '') {
-    var imgs = '<img src="' + qData.image + '" alt="Abstract reasoning figure" style="max-width:100%;border-radius:6px;border:1px solid #d1d9e6;display:block;margin:0 auto;">';
-    if (qData.optionsImage && qData.optionsImage.trim() !== '') {
-        imgs += '<img src="' + qData.optionsImage + '" alt="Answer options" style="max-width:100%;border-radius:6px;border:1px solid #d1d9e6;display:block;margin:20px auto 0;">';
-    }
-    passageBox.innerHTML = imgs;
-    passageBox.style.display = 'block';
-                } else if (qData.passage && qData.passage.trim() !== '') {
-                    passageBox.innerHTML = qData.passage;
-                    passageBox.style.display = 'block';
-                } else {
-                    passageBox.style.display = 'none';
+                var imgs = '<img src="' + qData.image + '" alt="Abstract reasoning figure" style="max-width:100%;border-radius:6px;border:1px solid #d1d9e6;display:block;margin:0 auto;">';
+                if (qData.optionsImage && qData.optionsImage.trim() !== '') {
+                    imgs += '<img src="' + qData.optionsImage + '" alt="Answer options" style="max-width:100%;border-radius:6px;border:1px solid #d1d9e6;display:block;margin:20px auto 0;">';
                 }
+                passageBox.innerHTML = imgs;
+                passageBox.style.display = 'block';
+            } else if (qData.passage && qData.passage.trim() !== '') {
+                passageBox.innerHTML = qData.passage;
+                passageBox.style.display = 'block';
+            } else {
+                passageBox.style.display = 'none';
             }
             if (progressInfo) progressInfo.innerText = (currentIndex + 1) + ' / ' + activeQuestions.length;
             if (questionText) questionText.innerText = qData.question;
