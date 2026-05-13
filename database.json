@@ -7562,8 +7562,8 @@
         "D",
         "E"
       ],
-        "answer": 0,
-        "explanation": ""
+        "answer": 5,
+        "explanation": "The outer black circular sector rotates 60° counterclockwise in each successive frame, so in the final option it will be pointing down-right. At the same time, the inner orange circular sector rotates 90° clockwise in each successive frame, so it will be pointing down-left. Only option E satisfies both conditions."
       },
       "el": {
       "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_ref1_acktg2.png",
@@ -7576,8 +7576,8 @@
         "D",
         "E"
       ],
-      "answer": 0,
-      "explanation": ""
+      "answer": 5,
+      "explanation": "Ο εξωτερικός μαύρος κυκλικός τομέας περιστρέφεται 60° αριστερόστροφα σε κάθε διαδοχικό πλαίσιο, επομένως στην τελική επιλογή θα δείχνει κάτω-δεξιά. Ταυτόχρονα, ο εσωτερικός πορτοκαλί κυκλικός τομέας περιστρέφεται 90° δεξιόστροφα σε κάθε διαδοχικό πλαίσιο, επομένως θα δείχνει κάτω-αριστερά. Μόνο η επιλογή Ε ικανοποιεί και τις δύο συνθήκες."
     }
   },
   {
@@ -7592,8 +7592,8 @@
         "D",
         "E"
       ],
-      "answer": 0,
-      "explanation": ""
+      "answer": 5,
+      "explanation": "The black box follows a repeating horizontal cycle: center → right → left → repeat. The arrow in the left column moves one position downward at each step; once it reaches the bottom, it resets to the top of the next column to the right and continues the same downward movement. Conversely, the arrow in the right column also moves one position downward, but when it reaches the bottom it resets to the top of the previous column (to its left) and continues the cycle. Using these three movement rules, options A, B, C, and D can be systematically eliminated."
     },
     "el": {
       "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_ref2_qfn39t.png",
@@ -7606,8 +7606,8 @@
         "D",
         "E"
       ],
-      "answer": 0,
-      "explanation": ""
+      "answer": 5,
+      "explanation": "Το μαύρο τετράγωνο ακολουθεί έναν επαναλαμβανόμενο οριζόντιο κύκλο: κέντρο - δεξιά - αριστερά - επανάληψη. Το βέλος στην αριστερή στήλη μετακινείται μία θέση προς τα κάτω σε κάθε βήμα· μόλις φτάσει στο κάτω μέρος, επανέρχεται στην κορυφή της επόμενης στήλης στα δεξιά και συνεχίζει την ίδια κίνηση προς τα κάτω. Αντίθετα, το βέλος στη δεξιά στήλη κινείται επίσης μία θέση προς τα κάτω, αλλά όταν φτάσει στο κάτω μέρος, επανέρχεται στην κορυφή της προηγούμενης στήλης (στα αριστερά του) και συνεχίζει τον κύκλο. Χρησιμοποιώντας αυτούς τους τρεις κανόνες κίνησης, οι επιλογές Α, Β, C και D μπορούν να αποκλειστούν."
     }
   },
   {
@@ -7622,8 +7622,8 @@
         "D",
         "E"
       ],
-      "answer": 0,
-      "explanation": ""
+      "answer": 5,
+      "explanation": "In the original sequence, the square moves alternately to the left and then to the right of its initial position—first by one position, then by two, then by three. Therefore, we expect it to be 3 positions to the left of its initial position (eliminate B & D). In the 1st frame, there was one small circle; in the 2nd, two; in the 3rd, three; and then the pattern repeats with one and then two. Consequently, in our selection, the number must follow the sequence and become 3. Furthermore, each subsequent group of small circles moves to the left of its previous position. The simultaneous application of these three rules dictates E as the only possible solution."
     },
     "el": {
       "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_ref3_jmghjg.png",
@@ -7636,8 +7636,8 @@
         "D",
         "E"
       ],
-      "answer": 0,
-      "explanation": ""
+      "answer": 5,
+      "explanation": "Στην αρχική σειρά, το τετράγωνο μετακινείται εναλλάξ αριστερά και μετά δεξιά από την αρχική του θέση κατά μία θέση, μετά κατά δύο, μετά κατά τρεις. Άρα το περιμένουμε 3 θέσεις αριστερά από την αρχική του θέση (διαγράψτε B & D).  Στο 1ο πλαίσιο είχαμε έναν μικρό κύκλο στο 2ο δύο, στο 3ο τρία, και μετά πάλι ένα και μετά δύο. Άρα, στην επιλογή μας ο αριθμός πρέπει να ακολουθήσει τη σειρά και να γίνει 3 ενώ κάθε επόμενη ομάδα των μικρών κύκλων μετακινείται αριστερά από τη προηγούμενη θέση εμφάνισης τους. Η ταυτόχρονη εφαρμογή των τριών αυτών κανόνων επιβάλλει το Ε ως τη μοναδική πιθανή λύση."
     }
   },
   {
@@ -7652,8 +7652,9 @@
         "D",
         "E"
       ],
-      "answer": 0,
-      "explanation": ""
+      "answer": 2,
+      "explanation": "The black box follows a structured path along the shape of an “N”, occupying seven distinct positions in total: four at the vertices and three at the midpoints of each connecting segment. It moves sequentially along this route, and upon reaching the final position, it reverses direction and retraces the same path in the opposite order, creating a continuous back-and-forth cycle.
+The white circle operates on a simpler pattern. It cycles through four fixed positions located at the four vertices of the “N” shape. It moves from one vertex to the next in a defined order, and once it reaches the last vertex in its sequence, it similarly reverses direction and moves backward through the same positions."
     },
     "el": {
       "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_ref4_emxrmq.png",
@@ -7666,8 +7667,8 @@
         "D",
         "E"
       ],
-      "answer": 0,
-      "explanation": ""
+      "answer": 2,
+      "explanation": "Το μαύρο κουτί ακολουθεί μια δομημένη διαδρομή κατά μήκος του σχήματος του γράμματος «Ν», καταλαμβάνοντας συνολικά επτά διακριτές θέσεις: τέσσερις στις κορυφές και τρεις στα μέσα κάθε συνδετικού τμήματος. Κινείται διαδοχικά κατά μήκος αυτής της διαδρομής και, μόλις φτάσει στην τελική θέση, αντιστρέφει την κατεύθυνσή του και ανατρέχει την ίδια διαδρομή με την αντίστροφη σειρά, δημιουργώντας έναν συνεχή κύκλο μπρος-πίσω. Ο λευκός κύκλος λειτουργεί με ένα απλούστερο μοτίβο. Κυκλοφορεί σε τέσσερις σταθερές θέσεις που βρίσκονται στις τέσσερις κορυφές του σχήματος «Ν». Μετακινείται από τη μία κορυφή στην επόμενη με μια καθορισμένη σειρά και, μόλις φτάσει στην τελευταία κορυφή της ακολουθίας του, αντιστρέφει ομοίως την κατεύθυνσή του και κινείται προς τα πίσω μέσα από τις ίδιες θέσεις."
     }
   },
   {
@@ -7682,8 +7683,8 @@
         "D",
         "E"
       ],
-      "answer": 0,
-      "explanation": ""
+      "answer": 1,
+      "explanation": "When the central square is white, the circle does not change position in the next frame. When it is black, the circle moves 180° counterclockwise. When it is grey, the circle moves 90° counterclockwise."
     },
     "el": {
       "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_ref5_a8xhxc.png",
@@ -7696,8 +7697,8 @@
         "D",
         "E"
       ],
-      "answer": 0,
-      "explanation": ""
+      "answer": 1,
+      "explanation": "Ανάλογα με το χρώμα του κεντρικού τετραγώνου, η κίνηση του κύκλου στο επόμενο πλαίσιο καθορίζεται ως εξής: Λευκό Τετράγωνο: Ο κύκλος παραμένει σταθερός (δεν αλλάζει θέση). Μαύρο Τετράγωνο: Ο κύκλος μετακινείται κατά 180° αριστερόστροφα. Γκρι Τετράγωνο: Ο κύκλος μετακινείται κατά 90° αριστερόστροφα."
     }
   },
   {
