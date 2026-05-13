@@ -7548,10 +7548,10 @@
         "explanation": "Σε αυτή την ερώτηση υπάρχουν ένα μαύρο και ένα γκρι τρίγωνο, καθένα από τα οποία ακολουθεί τον δικό του κανόνα. Το μαύρο τρίγωνο περιστρέφεται κατά 90° αριστερόστροφα σε κάθε βήμα. Με βάση αυτό το μοτίβο, στο επόμενο σχήμα θα πρέπει να εμφανίζεται στο επάνω τεταρτημόριο, περιορίζοντας τις πιθανές απαντήσεις στις A, B ή D. Το γκρι τρίγωνο επίσης περιστρέφεται, αλλά κατά 90° δεξιόστροφα κάθε φορά. Επιπλέον, η σκίασή του εναλλάσσεται από ανοιχτό γκρι σε μεσαίο γκρι, σε σκούρο γκρι και στη συνέχεια επιστρέφει σε ανοιχτό γκρι. Ακολουθώντας αυτόν τον κανόνα, στο επόμενο σχήμα το γκρι τρίγωνο θα πρέπει να βρίσκεται στο αριστερό τεταρτημόριο και να είναι σκούρο γκρι."
       }
     }
-   ],
+  ],
   "abstract_3": [
     {
-	  "en": {
+      "en": {
       "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_ref1_acktg2.png",
       "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_opt1_kvfiyg.png",
       "question": "1. Which figure logically completes the series?",
@@ -7562,10 +7562,10 @@
         "D",
         "E"
       ],
-      "answer": 0,
-      "explanation": ""
-    },
-    "el": {
+        "answer": 0,
+        "explanation": ""
+      },
+      "el": {
       "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_ref1_acktg2.png",
       "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_opt1_kvfiyg.png",
       "question": "1. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
