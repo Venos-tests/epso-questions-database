@@ -7653,8 +7653,7 @@
         "E"
       ],
       "answer": 2,
-      "explanation": "The black box follows a structured path along the shape of an “N”, occupying seven distinct positions in total: four at the vertices and three at the midpoints of each connecting segment. It moves sequentially along this route, and upon reaching the final position, it reverses direction and retraces the same path in the opposite order, creating a continuous back-and-forth cycle.
-The white circle operates on a simpler pattern. It cycles through four fixed positions located at the four vertices of the “N” shape. It moves from one vertex to the next in a defined order, and once it reaches the last vertex in its sequence, it similarly reverses direction and moves backward through the same positions."
+      "explanation": "The black box follows a structured path along the shape of an “N”, occupying seven distinct positions in total: four at the vertices and three at the midpoints of each connecting segment. It moves sequentially along this route, and upon reaching the final position, it reverses direction and retraces the same path in the opposite order, creating a continuous back-and-forth cycle.The white circle operates on a simpler pattern. It cycles through four fixed positions located at the four vertices of the “N” shape. It moves from one vertex to the next in a defined order, and once it reaches the last vertex in its sequence, it similarly reverses direction and moves backward through the same positions."
     },
     "el": {
       "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_ref4_emxrmq.png",
