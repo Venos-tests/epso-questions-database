@@ -7548,5 +7548,608 @@
         "explanation": "Σε αυτή την ερώτηση υπάρχουν ένα μαύρο και ένα γκρι τρίγωνο, καθένα από τα οποία ακολουθεί τον δικό του κανόνα. Το μαύρο τρίγωνο περιστρέφεται κατά 90° αριστερόστροφα σε κάθε βήμα. Με βάση αυτό το μοτίβο, στο επόμενο σχήμα θα πρέπει να εμφανίζεται στο επάνω τεταρτημόριο, περιορίζοντας τις πιθανές απαντήσεις στις A, B ή D. Το γκρι τρίγωνο επίσης περιστρέφεται, αλλά κατά 90° δεξιόστροφα κάθε φορά. Επιπλέον, η σκίασή του εναλλάσσεται από ανοιχτό γκρι σε μεσαίο γκρι, σε σκούρο γκρι και στη συνέχεια επιστρέφει σε ανοιχτό γκρι. Ακολουθώντας αυτόν τον κανόνα, στο επόμενο σχήμα το γκρι τρίγωνο θα πρέπει να βρίσκεται στο αριστερό τεταρτημόριο και να είναι σκούρο γκρι."
       }
     }
-  ]
+   ],
+  "abstract_3": [
+    {
+	    "en": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_ref1_acktg2.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_opt1_kvfiyg.png",
+      "question": "1. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "el": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_ref1_acktg2.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_opt1_kvfiyg.png",
+      "question": "1. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "en": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_ref2_qfn39t.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_opt2_wdjp2u.png",
+      "question": "2. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "el": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_ref2_qfn39t.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_opt2_wdjp2u.png",
+      "question": "2. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "en": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_ref3_jmghjg.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_opt3_zwe724.png",
+      "question": "3. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "el": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_ref3_jmghjg.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_opt3_zwe724.png",
+      "question": "3. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "en": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_ref4_emxrmq.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_opt4_itpn3v.png",
+      "question": "4. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "el": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_ref4_emxrmq.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_opt4_itpn3v.png",
+      "question": "4. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "en": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_ref5_a8xhxc.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_opt5_olrkhf.png",
+      "question": "5. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "el": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_ref5_a8xhxc.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_opt5_olrkhf.png",
+      "question": "5. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "en": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_ref6_rfyxzj.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_opt6_n9b4ii.png",
+      "question": "6. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "el": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_ref6_rfyxzj.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_opt6_n9b4ii.png",
+      "question": "6. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "en": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_ref7_r6b9f9.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_opt7_cd9cgk.png",
+      "question": "7. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "el": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_ref7_r6b9f9.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_opt7_cd9cgk.png",
+      "question": "7. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "en": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_ref8_a18igi.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_opt8_hug6hi.png",
+      "question": "8. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "el": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_ref8_a18igi.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_opt8_hug6hi.png",
+      "question": "8. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "en": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_ref9_zvytms.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_opt9_qzhbik.png",
+      "question": "9. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "el": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_ref9_zvytms.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_opt9_qzhbik.png",
+      "question": "9. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "en": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_ref10_e5qaqw.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_opt10_cfcnhx.png",
+      "question": "10. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "el": {
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_ref10_e5qaqw.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_opt10_cfcnhx.png",
+      "question": "10. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "en": {
+      "image": "",
+      "optionsImage": "",
+      "question": "1. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "el": {
+      "image": "",
+      "optionsImage": "",
+      "question": "1. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "en": {
+      "image": "",
+      "optionsImage": "",
+      "question": "2. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "el": {
+      "image": "",
+      "optionsImage": "",
+      "question": "2. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "en": {
+      "image": "",
+      "optionsImage": "",
+      "question": "3. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "el": {
+      "image": "",
+      "optionsImage": "",
+      "question": "3. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "en": {
+      "image": "",
+      "optionsImage": "",
+      "question": "4. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "el": {
+      "image": "",
+      "optionsImage": "",
+      "question": "4. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "en": {
+      "image": "",
+      "optionsImage": "",
+      "question": "5. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "el": {
+      "image": "",
+      "optionsImage": "",
+      "question": "5. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "en": {
+      "image": "",
+      "optionsImage": "",
+      "question": "6. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "el": {
+      "image": "",
+      "optionsImage": "",
+      "question": "6. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "en": {
+      "image": "",
+      "optionsImage": "",
+      "question": "7. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "el": {
+      "image": "",
+      "optionsImage": "",
+      "question": "7. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "en": {
+      "image": "",
+      "optionsImage": "",
+      "question": "8. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "el": {
+      "image": "",
+      "optionsImage": "",
+      "question": "8. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "en": {
+      "image": "",
+      "optionsImage": "",
+      "question": "9. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "el": {
+      "image": "",
+      "optionsImage": "",
+      "question": "9. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  },
+  {
+    "en": {
+      "image": "",
+      "optionsImage": "",
+      "question": "10. Which figure logically completes the series?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    "el": {
+      "image": "",
+      "optionsImage": "",
+      "question": "10. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "answer": 0,
+      "explanation": ""
+    }
+  }
+],
+
 } 
