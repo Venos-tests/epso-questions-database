@@ -7714,9 +7714,7 @@ The white circle operates on a simpler pattern. It cycles through four fixed pos
         "E"
       ],
       "answer": 1,
-      "explanation": "The top-left quadrant follows a repeating color cycle: black → grey → white → black (a 3-step loop). 
-The top-right and bottom-right quadrants follow the same sequence, but they are shifted one step ahead of the top-left quadrant.  The bottom-left quadrant is shifted one additional step ahead of the right-hand quadrants, meaning it always shows the next color in the cycle.  By Frame 6, this set of transformations results in: Top-left = grey  - Top-right = white  - Bottom-left = black  - Bottom-right = white . Therefore, the correct answer is A."
-    },
+      "explanation": "The top-left quadrant follows a repeating color cycle: black → grey → white → black (a 3-step loop). The top-right and bottom-right quadrants follow the same sequence, but they are shifted one step ahead of the top-left quadrant.  The bottom-left quadrant is shifted one additional step ahead of the right-hand quadrants, meaning it always shows the next color in the cycle.  By Frame 6, this set of transformations results in: Top-left = grey  - Top-right = white  - Bottom-left = black  - Bottom-right = white . Therefore, the correct answer is A."    },
     "el": {
       "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_ref6_rfyxzj.png",
       "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/c_pad,w_950,h_165,b_white/Portal_AR_3/AR_3_opt6_n9b4ii.png",
