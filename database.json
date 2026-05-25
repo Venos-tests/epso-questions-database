@@ -7853,8 +7853,8 @@
 "abstract_4":[
   {	
     "en": {
-      "image": "",
-      "optionsImage": "",
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694726/AR4_Ref1_bpijrw.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694727/AR4_Opt1_pk3nk7.png",
       "question": "1. Which figure logically completes the series?",
       "options": [
         "A",
@@ -7863,12 +7863,12 @@
         "D",
         "E"
       ],
-      "answer": 0,
-      "explanation": ""
+      "answer": 5,
+      "explanation": "The black box initially moves one step to the right, and in each successive frame, its step increases by +1 (2 steps, 3 steps, 4 steps, etc.). The white box initially moves two steps to the right, and in each successive frame, its step increases by +1 (3 steps, 4 steps, etc.). The black square initially moves three steps to the right, and in each successive frame, its step increases by +1 (4 steps, 5 steps, etc.). When the shapes overlap in the same frame, the black box overlaps the white one, and the square overlaps all the others."
     },
     "el": {
-      "image": "",
-      "optionsImage": "",
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694726/AR4_Ref1_bpijrw.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694727/AR4_Opt1_pk3nk7.png",
       "question": "1. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
       "options": [
         "A",
@@ -7877,14 +7877,14 @@
         "D",
         "E"
       ],
-      "answer": 0,
-      "explanation": ""
+      "answer": 5,
+      "explanation": "Το μαύρο κουτί κινείται αρχικά ένα βήμα προς τα δεξιά, και σε κάθε επόμενο πλαίσιο η μετακίνηση του αυξάνεται κατά +1 (2 βήματα, 3 βήματα, 4 βήματα κ.λπ.). Το λευκό κουτί κινείται αρχικά δύο βήματα προς τα δεξιά, και σε κάθε επόμενο πλαίσιο η μετακίνηση αυξάνεται κατά +1 (3 βήματα, 4 βήματα κ.λπ.). Το μαύρο τετράγωνο κινείται αρχικά τρία βήματα προς τα δεξιά, και σε κάθε επόμενο πλαίσιο η μετακίνηση αυξάνεται κατά +1 (4 βήματα, 5 βήματα κ.λπ.). Όταν τα σχήματα συμπίπτουν στο ίδιο πλαίσιο, το μαύρο κουτί επικαλύπτει το λευκό, και το τετράγωνο επικαλύπτει όλα τα υπόλοιπα."
     }
   },
   {
     "en": {
-      "image": "",
-      "optionsImage": "",
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694727/AR4_Ref2_rgwqco.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694722/AR4_Opt2_o36bmr.png",
       "question": "2. Which figure logically completes the series?",
       "options": [
         "A",
@@ -7893,12 +7893,12 @@
         "D",
         "E"
       ],
-      "answer": 0,
-      "explanation": ""
+      "answer": 2,
+      "explanation": "Three rules apply: Rule 1: The shaded square moves 1 space clockwise each time, alternating between grey and black. In the following frame, we expect a grey square up-right. Rule 2: The large central shape alternates star, circle, square. We expect a square. Rule 3: From even-numbered to odd-numbered frames, a + adds in the central figure."
     },
     "el": {
-      "image": "",
-      "optionsImage": "",
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694727/AR4_Ref2_rgwqco.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694722/AR4_Opt2_o36bmr.png",
       "question": "2. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
       "options": [
         "A",
@@ -7907,14 +7907,14 @@
         "D",
         "E"
       ],
-      "answer": 0,
-      "explanation": ""
+      "answer": 2,
+      "explanation": "Ισχύουν τρεις κανόνες: Κανόνας 1: Το σκιασμένο τετράγωνο κινείται μία θέση δεξιόστροφα κάθε φορά, εναλλάσσοντας το χρώμα του μεταξύ γκρι και μαύρου. Στο επόμενο πλαίσιο, περιμένουμε ένα γκρι τετράγωνο πάνω δεξιά. Κανόνας 2: Το μεγάλο κεντρικό σχήμα εναλλάσσεται μεταξύ αστεριού, κύκλου και τετραγώνου. Περιμένουμε τετράγωνο. Κανόνας 3: Από τα ζυγά στα περιττά (μονά) πλαίσια, ένα σύμβολο + προστίθεται στο κεντρικό σχήμα."
     }
   },
   {
     "en": {
-      "image": "",
-      "optionsImage": "",
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779695304/AR4_Ref3_x8qozg.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779695176/AR4_Opt3_biaupd.png",
       "question": "3. Which figure logically completes the series?",
       "options": [
         "A",
@@ -7923,12 +7923,12 @@
         "D",
         "E"
       ],
-      "answer": 0,
-      "explanation": ""
+      "answer": 1,
+      "explanation": "Each bar starts at a height of four units. The weight of the sphere placed on top of it (estimated by the size of the sphere) proportionally pushes the bar down in the next vignette. Thus, the large sphere pushes it down by 3 units, the medium one by 2, and the small one by 1. When a bar disappears into its base, it reappears with a height of 4 units in the next vignette, resting on a 2-line base. Based on these observations, our choice should contain one bar (the 1st) at a height of 3 units, one bar (the 2nd) at a height of 1 unit, and one bar (the 3rd) at a height of 2 units."
     },
     "el": {
-      "image": "",
-      "optionsImage": "",
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779695304/AR4_Ref3_x8qozg.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779695176/AR4_Opt3_biaupd.png",
       "question": "3. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
       "options": [
         "A",
@@ -7937,14 +7937,14 @@
         "D",
         "E"
       ],
-      "answer": 0,
-      "explanation": ""
+      "answer": 1,
+      "explanation": "Κάθε μπάρα ξεκινά με ύψος 4 μονάδων. Το βάρος της σφαίρας που τοποθετείται πάνω της (βάσει του μεγέθους της σφαίρας) πιέζει αναλογικά τη μπάρα προς τα κάτω στο επόμενο στιγμιότυπο. Έτσι, η μεγάλη σφαίρα την πιέζει προς τα κάτω κατά 3 μονάδες, η μεσαία κατά 2 και η μικρή κατά 1. Όταν μια μπάρα εξαφανίζεται μέσα στη βάση της, επανεμφανίζεται με ύψος 4 μονάδων στο επόμενο στιγμιότυπο, πατώντας πάνω σε μια βάση 2 γραμμών. Με βάση αυτές τις παρατηρήσεις, η επιλογή μας θα πρέπει να περιέχει μία μπάρα (την 1η) σε ύψος 3 μονάδων, μία μπάρα (τη 2η) σε ύψος 1 μονάδας και μία μπάρα (την 3η) σε ύψος 2 μονάδων."
     }
   },
   {
     "en": {
-      "image": "",
-      "optionsImage": "",
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694723/AR4_Ref4_a69yb0.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694722/AR4_Opt4_zylmrw.png",
       "question": "4. Which figure logically completes the series?",
       "options": [
         "A",
@@ -7953,12 +7953,12 @@
         "D",
         "E"
       ],
-      "answer": 0,
-      "explanation": ""
+      "answer": 4,
+      "explanation": "First, look at the bottom right: the tiniest triangle there splits into two equal, smaller versions of itself in every new image. Second, those two brand-new triangles are always left white (unshaded). Meanwhile, every other triangle switches back and forth between shaded and unshaded from one image to the next. Third, keep an eye on the stick human figure—it travels up the longest side (the hypotenuse) of the main triangle by the exact same distance each time."
     },
     "el": {
-      "image": "",
-      "optionsImage": "",
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694723/AR4_Ref4_a69yb0.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694722/AR4_Opt4_zylmrw.png",
       "question": "4. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
       "options": [
         "A",
@@ -7967,14 +7967,14 @@
         "D",
         "E"
       ],
-      "answer": 0,
-      "explanation": ""
+      "answer": 4,
+      "explanation": "Κοιτάξτε κάτω δεξιά: το μικρότερο τρίγωνο εκεί χωρίζεται σε δύο ίσα, μικρότερα αντίγραφα του εαυτού του σε κάθε διαδοχική εικόνα. Δεύτερον, αυτά τα δύο καινούργια τρίγωνα παραμένουν πάντα λευκά (χωρίς σκίαση). Στο μεταξύ, κάθε άλλο τρίγωνο εναλλάσσεται μεταξύ σκιασμένου και μη σκιασμένου από τη μία εικόνα στην επόμενη. Τρίτον, έχετε το νου σας στο ανθρωπάκι, -ανεβαίνει κατά μήκος της μεγαλύτερης πλευράς (της υποτείνουσας) του κεντρικού τριγώνου, διανύοντας την ίδια ακριβώς απόσταση κάθε φορά."
     }
   },
   {
     "en": {
-      "image": "",
-      "optionsImage": "",
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694722/AR4_Ref5_ii4uh9.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694723/AR4_Opt5_kipaju.png",
       "question": "5. Which figure logically completes the series?",
       "options": [
         "A",
@@ -7983,12 +7983,12 @@
         "D",
         "E"
       ],
-      "answer": 0,
-      "explanation": ""
+      "answer": 3,
+      "explanation": "Three rules apply. 1: The number of stars in the top right dictates how many horizontal lines will be in the next box. 2: The circles alternate with triangles. 3: In each frame, the number of circles or triangles is the sum of the number of circles and triangles in the previous two boxes, with the black shading obscuring some shapes. Note: C can also be evident from the rear case when one particular rule excludes all other possible answers."
     },
     "el": {
-      "image": "",
-      "optionsImage": "",
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694722/AR4_Ref5_ii4uh9.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694723/AR4_Opt5_kipaju.png",
       "question": "5. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
       "options": [
         "A",
@@ -7997,14 +7997,14 @@
         "D",
         "E"
       ],
-      "answer": 0,
-      "explanation": ""
+      "answer": 3,
+      "explanation": "Ισχύουν τρεις κανόνες. 1: Ο αριθμός των αστεριών πάνω δεξιά καθορίζει πόσες οριζόντιες γραμμές θα υπάρχουν στο επόμενο πλαίσιο. 2: Οι κύκλοι εναλλάσσονται με τρίγωνα. 3: Σε κάθε πλαίσιο, ο αριθμός των κύκλων ή των τριγώνων είναι το άθροισμα του αριθμού των κύκλων και των τριγώνων στα δύο προηγούμενα πλαίσια, με τη μαύρη σκίαση να κρύβει ορισμένα σχήματα. Σημείωση: Το C μπορεί επίσης να προκύψει από την ασυνήθη περίπτωση όταν ένας συγκεκριμένος κανόνας αποκλείει όλες τις άλλες πιθανές απαντήσεις."
     }
   },
   {
     "en": {
-      "image": "",
-      "optionsImage": "",
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694723/AR4_Ref6_t8rnfl.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694723/AR4_Opt6_n5tnxl.png",
       "question": "6. Which figure logically completes the series?",
       "options": [
         "A",
@@ -8013,12 +8013,12 @@
         "D",
         "E"
       ],
-      "answer": 0,
-      "explanation": ""
+      "answer": 1,
+      "explanation": "The sum of the lines of the contained shapes is 10, 9, 9, 8, 8. Therefore, in the next frame, we expect a line sum of 7. The smiley face is used when the two contained geometric shapes have the same number of lines; otherwise, the \"no parking\" sign is used."
     },
     "el": {
-      "image": "",
-      "optionsImage": "",
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694723/AR4_Ref6_t8rnfl.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694723/AR4_Opt6_n5tnxl.png",
       "question": "6. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
       "options": [
         "A",
@@ -8027,14 +8027,14 @@
         "D",
         "E"
       ],
-      "answer": 0,
-      "explanation": ""
+      "answer": 1,
+      "explanation": "Το άθροισμα των γραμμών των περιεχόμενων σχημάτων είναι 10, 9, 9, 8, 8. Άρα, στο επόμενο πλαίσιο θα περιμένουμε άθροισμα γραμμών 7. Ο smiley χρησιμοποιείται όταν τα δύο περιεχόμενα γεωμετρικά σχήματα, έχουν τον ίδιο αριθμό γραμμών, ειδάλλως χρησιμοποιείται το σήμα απαγόρευσης στάθμευσης"
     }
   },
   {
     "en": {
-      "image": "",
-      "optionsImage": "",
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694723/AR4_Ref7_h2migs.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694723/AR4_Opt7_varw40.png",
       "question": "7. Which figure logically completes the series?",
       "options": [
         "A",
@@ -8043,12 +8043,12 @@
         "D",
         "E"
       ],
-      "answer": 0,
-      "explanation": ""
+      "answer": 2,
+      "explanation": "Three rules apply: 1. In each step, the shaded square moves 3 squares clockwise round the edge of the frame. 2: In each step, the cross-hatching moves 1 square counterclockwise round the edge of the frame, disappearing behind the shaded square when the two  coincide. 3. The circle (which is hidden behind the shaded square in frame 1)  moves one square left to right, starting again at the left of the figure when it  drops down a row."
     },
     "el": {
-      "image": "",
-      "optionsImage": "",
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694723/AR4_Ref7_h2migs.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694723/AR4_Opt7_varw40.png",
       "question": "7. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
       "options": [
         "A",
@@ -8057,14 +8057,14 @@
         "D",
         "E"
       ],
-      "answer": 0,
-      "explanation": ""
+      "answer": 2,
+      "explanation": "Ισχύουν τρεις κανόνες: 1. Σε κάθε βήμα, το σκιασμένο τετράγωνο κινείται 3 τετράγωνα δεξιόστροφα περιμετρικά του πλαισίου. 2: Σε κάθε βήμα, η διαγώνια γραμμοσκίαση κινείται 1 τετράγωνο αριστερόστροφα περιμετρικά του πλαισίου, εξαφανιζόμενη πίσω από το σκιασμένο τετράγωνο όταν τα δύο συμπίπτουν. 3. Ο κύκλος (ο οποίος είναι κρυμμένος πίσω από το σκιασμένο τετράγωνο στο πλαίσιο 1) κινείται ένα τετράγωνο από αριστερά προς τα δεξιά, ξεκινώντας πάλι από τα αριστερά του σχήματος όταν κατεβαίνει σειρά"
     }
   },
   {
     "en": {
-      "image": "",
-      "optionsImage": "",
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694725/AR4_Ref8_n6cpto.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694725/AR4_Opt8_spku6r.png",
       "question": "8. Which figure logically completes the series?",
       "options": [
         "A",
@@ -8073,12 +8073,12 @@
         "D",
         "E"
       ],
-      "answer": 0,
-      "explanation": ""
+      "answer": 3,
+      "explanation": "In this question all the figurines rotate clockwise. The equilateral triangle rotates about its own centre by 120o each time. The square rotates about its own centre by 90o each time. The regular pentagon rotates about its own centre by 108o each time. Simultaneously the three shapes rotate by 90o each time about the centre of the large square. Following these rules, the next diagram of the sequence must be C."
     },
     "el": {
-      "image": "",
-      "optionsImage": "",
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694725/AR4_Ref8_n6cpto.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694725/AR4_Opt8_spku6r.png",
       "question": "8. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
       "options": [
         "A",
@@ -8087,14 +8087,14 @@
         "D",
         "E"
       ],
-      "answer": 0,
-      "explanation": ""
+      "answer": 3,
+      "explanation": "Σε αυτή την ερώτηση, όλα τα σχήματα περιστρέφονται δεξιόστροφα. Το ισόπλευρο τρίγωνο περιστρέφεται γύρω από το κέντρο του κατά 120° κάθε φορά. Το τετράγωνο περιστρέφεται γύρω από το κέντρο του κατά 90° κάθε φορά. Το κανονικό πεντάγωνο περιστρέφεται γύρω από το κέντρο του κατά 108° κάθε φορά. Ταυτόχρονα, τα τρία σχήματα περιστρέφονται κατά 90° κάθε φορά γύρω από το κέντρο του μεγάλου τετραγώνου. Ακολουθώντας αυτούς τους κανόνες, το επόμενο διάγραμμα της σειράς πρέπει να είναι το C."
     }
   },
   {
     "en": {
-      "image": "",
-      "optionsImage": "",
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694725/AR4_Ref9_f5pat6.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694725/AR4_Opt9_bmfq4t.png",
       "question": "9. Which figure logically completes the series?",
       "options": [
         "A",
@@ -8103,12 +8103,12 @@
         "D",
         "E"
       ],
-      "answer": 0,
-      "explanation": ""
+      "answer": 2,
+      "explanation": "In the first transition (1->2), the two shapes on the right side of the frame swap positions, the top one with the bottom one. In the next transition (2->3), the two shapes on the bottom side of the frame swap positions, the right one with the left one. This position swapping continues between the two shapes on the left side and then on the top side of the frame. Therefore, in the next frame, we will have—once again—a swap between the two icons on the right side of the frame."
     },
     "el": {
-      "image": "",
-      "optionsImage": "",
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694725/AR4_Ref9_f5pat6.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779694725/AR4_Opt9_bmfq4t.png",
       "question": "9. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
       "options": [
         "A",
@@ -8117,14 +8117,14 @@
         "D",
         "E"
       ],
-      "answer": 0,
-      "explanation": ""
+      "answer": 2,
+      "explanation": "Στη πρώτη μεταβολή (1->2) τα δύο σχήματα στη δεξιά πλευρά του πλαισίου αλλάζουν θέση το επάνω με το κάτω. Στην επόμενη μεταβολή (2->3) τα δύο σχήματα στη κάτω πλευρά του πλαισίου αλλάζουν θέση το δεξί με το αριστερό. Η αλλαγή θέσης συνεχίζεται μεταξύ των 2 σχημάτων στην αριστερή και κατόπιν στην επάνω πλευρά του πλαισίου. Άρα, στο επόμενο πλαίσιο θα έχουμε –και πάλι- αλλαγή μεταξύ των δυο εικονιδίων στη δεξιά πλευρά του πλαισίου."
     }
   },
   {
     "en": {
-      "image": "",
-      "optionsImage": "",
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779695388/AR4_Ref10_xvsvhg.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779695388/AR4_Opt10_eh48c6.png",
       "question": "10. Which figure logically completes the series?",
       "options": [
         "A",
@@ -8133,12 +8133,12 @@
         "D",
         "E"
       ],
-      "answer": 0,
-      "explanation": ""
+      "answer": 4,
+      "explanation": "In this question there are two reflections that are applied alternately.  The first is a reflection in the diagonal going from bottom left to top right and passing through the  point where the flag and the arrow join.  The second is a reflection in the horizontal line passing through the point where the flag and the arrow join.  For the next diagram of the sequence, the first reflection must be applied, and the correct answer is D."
     },
     "el": {
-      "image": "",
-      "optionsImage": "",
+      "image": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779695388/AR4_Ref10_xvsvhg.png",
+      "optionsImage": "https://res.cloudinary.com/dvtkwomm7/image/upload/v1779695388/AR4_Opt10_eh48c6.png",
       "question": "10. Ποια εικόνα συμπληρώνει λογικά τη σειρά;",
       "options": [
         "A",
@@ -8147,9 +8147,9 @@
         "D",
         "E"
       ],
-      "answer": 0,
-      "explanation": ""
-      }
+      "answer": 4,
+      "explanation": "Σε αυτή την ερώτηση εφαρμόζονται εναλλάξ δύο ανακλάσεις (συμμετρίες). Η πρώτη είναι μια ανάκλαση ως προς τη διαγώνιο που εκτείνεται από κάτω αριστερά προς τα πάνω δεξιά και διέρχεται από το σημείο όπου ενώνονται η σημαία και το βέλος. Η δεύτερη είναι μια ανάκλαση ως προς την οριζόντια γραμμή που διέρχεται από το σημείο όπου ενώνονται η σημαία και το βέλος. Για το επόμενο διάγραμμα της σειράς, πρέπει να εφαρμοστεί η πρώτη ανάκλαση, και η σωστή απάντηση είναι το D."
+    }
     }  
   ]
 }
