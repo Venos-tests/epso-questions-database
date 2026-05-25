@@ -119,7 +119,7 @@
     async function loadDatabase() {
         document.getElementById('login-status').innerText = '⏳ Loading...';
         try {
-            var res = await fetch("https://cdn.jsdelivr.net/gh/Venos-tests/epso-questions-database@main/database.json");
+            var res = await fetch("https://raw.githubusercontent.com/Venos-tests/epso-questions-database/main/database.json");
             if (!res.ok) throw new Error("HTTP " + res.status);
             DATABASE = await res.json();
             dbLoaded = true;
