@@ -263,6 +263,7 @@
                     if (userAnswers[currentIndex] !== undefined) {
                         var isSelected = userAnswers[currentIndex] === idx;
                         var isCorrect = idx === qData.answer;
+                        console.log('idx:', idx, '| userAnswer:', userAnswers[currentIndex], '| qData.answer:', qData.answer, '| isCorrect:', isCorrect, '| isSelected:', isSelected, '| typeof answer:', typeof qData.answer);
                         if (currentMode === 'exam') {
                             if (isSelected) div.classList.add('selected-exam');
                         } else {
