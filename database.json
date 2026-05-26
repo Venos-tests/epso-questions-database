@@ -2871,7 +2871,7 @@
     {
       "en": {
         "passage": "",
-        "question": "21. You receive an urgent email from 'IT Support' asking you to click a link to verify your credentials. The sender's address looks slightly unusual. What is the most appropriate action?",
+        "question": "1. You receive an urgent email from 'IT Support' asking you to click a link to verify your credentials. The sender's address looks slightly unusual. What is the most appropriate action?",
         "options": [
           "Click the link to ensure your account isn't locked",
           "Forward the email to your entire department to warn them",
@@ -2883,7 +2883,7 @@
       },
       "el": {
         "passage": "",
-        "question": "21. Λαμβάνετε ένα επείγον email από την 'Υποστήριξη IT' που σας ζητά να πατήσετε έναν σύνδεσμο για επαλήθευση στοιχείων. Η διεύθυνση του αποστολέα φαίνεται ασυνήθιστη. Ποια είναι η πιο σωστή ενέργεια;",
+        "question": "1. Λαμβάνετε ένα επείγον email από την 'Υποστήριξη IT' που σας ζητά να πατήσετε έναν σύνδεσμο για επαλήθευση στοιχείων. Η διεύθυνση του αποστολέα φαίνεται ασυνήθιστη. Ποια είναι η πιο σωστή ενέργεια;",
         "options": [
           "Πατάτε τον σύνδεσμο για να μην κλειδωθεί ο λογαριασμός σας",
           "Προωθείτε το email σε όλο το τμήμα για να τους προειδοποιήσετε",
@@ -2897,7 +2897,7 @@
     {
       "en": {
         "passage": "",
-        "question": "22. When creating a public-facing digital report, which practice best ensures 'digital accessibility' (Web Content Accessibility Guidelines)?",
+        "question": "2. When creating a public-facing digital report, which practice best ensures 'digital accessibility' (Web Content Accessibility Guidelines)?",
         "options": [
           "Using only high-resolution images without text",
           "Adding alternative text (Alt-text) to images and using clear heading structures",
@@ -2909,7 +2909,7 @@
       },
       "el": {
         "passage": "",
-        "question": "22. Κατά τη δημιουργία μιας δημόσιας ψηφιακής αναφοράς, ποια πρακτική διασφαλίζει καλύτερα την 'ψηφιακή προσβασιμότητα' (WCAG);",
+        "question": "2. Κατά τη δημιουργία μιας δημόσιας ψηφιακής αναφοράς, ποια πρακτική διασφαλίζει καλύτερα την 'ψηφιακή προσβασιμότητα' (WCAG);",
         "options": [
           "Χρήση μόνο εικόνων υψηλής ανάλυσης χωρίς κείμενο",
           "Προσθήκη εναλλακτικού κειμένου (Alt-text) στις εικόνες και χρήση σαφών επικεφαλίδων",
@@ -2923,7 +2923,7 @@
     {
       "en": {
         "passage": "",
-        "question": "23. Which of the following is the most secure method for an Administrator to manage multiple complex passwords for different official platforms?",
+        "question": "3. Which of the following is the most secure method for an Administrator to manage multiple complex passwords for different official platforms?",
         "options": [
           "Using the same password for all platforms to avoid forgetting",
           "Writing passwords in a notebook kept in the office desk",
@@ -2935,7 +2935,7 @@
       },
       "el": {
         "passage": "",
-        "question": "23. Ποια είναι η πιο ασφαλής μέθοδος για έναν Administrator να διαχειρίζεται πολλούς σύνθετους κωδικούς πρόσβασης;",
+        "question": "3. Ποια είναι η πιο ασφαλής μέθοδος για έναν Administrator να διαχειρίζεται πολλούς σύνθετους κωδικούς πρόσβασης;",
         "options": [
           "Χρήση του ίδιου κωδικού παντού για να μην τον ξεχνάτε",
           "Καταγραφή των κωδικών σε ένα σημειωματάριο στο γραφείο",
@@ -2949,7 +2949,7 @@
     {
       "en": {
         "passage": "",
-        "question": "24. An EU institution's policy on 'Clean Desk and Clear Screen' primarily aims to mitigate which risk?",
+        "question": "4. An EU institution's policy on 'Clean Desk and Clear Screen' primarily aims to mitigate which risk?",
         "options": [
           "Physical tripping hazards in the office",
           "Unauthorized access to sensitive information",
@@ -2961,7 +2961,7 @@
       },
       "el": {
         "passage": "",
-        "question": "24. Η πολιτική 'Clean Desk and Clear Screen' ενός θεσμικού οργάνου στοχεύει κυρίως στον περιορισμό ποιου κινδύνου;",
+        "question": "4. Η πολιτική 'Clean Desk and Clear Screen' ενός θεσμικού οργάνου στοχεύει κυρίως στον περιορισμό ποιου κινδύνου;",
         "options": [
           "Κίνδυνος πτώσης στο γραφείο",
           "Μη εξουσιοδοτημένη πρόσβαση σε ευαίσθητες πληροφορίες",
@@ -2975,7 +2975,7 @@
     {
       "en": {
         "passage": "",
-        "question": "25. You are asked to present data to a working group. Which digital tool/format is best suited for demonstrating trends over time in an interactive way?",
+        "question": "5. You are asked to present data to a working group. Which digital tool/format is best suited for demonstrating trends over time in an interactive way?",
         "options": [
           "A static PDF table",
           "A spreadsheet with raw data only",
@@ -2987,7 +2987,7 @@
       },
       "el": {
         "passage": "",
-        "question": "25. Σας ζητείται να παρουσιάσετε δεδομένα σε μια ομάδα εργασίας. Ποιο ψηφιακό εργαλείο είναι καταλληλότερο για την ανάδειξη τάσεων με διαδραστικό τρόπο;",
+        "question": "5. Σας ζητείται να παρουσιάσετε δεδομένα σε μια ομάδα εργασίας. Ποιο ψηφιακό εργαλείο είναι καταλληλότερο για την ανάδειξη τάσεων με διαδραστικό τρόπο;",
         "options": [
           "Ένας στατικός πίνακας PDF",
           "Ένα υπολογιστικό φύλλο μόνο με ακατέργαστα δεδομένα",
@@ -3001,7 +3001,7 @@
     {
       "en": {
         "passage": "",
-        "question": "26. What does the term 'Data Portability' under GDPR allow a citizen to do?",
+        "question": "6. What does the term 'Data Portability' under GDPR allow a citizen to do?",
         "options": [
           "To delete their data from all internet records permanently",
           "To receive their personal data in a structured format and transmit it to another controller",
@@ -3013,7 +3013,7 @@
       },
       "el": {
         "passage": "",
-        "question": "26. Τι επιτρέπει στον πολίτη ο όρος 'Φορητότητα Δεδομένων' βάσει του GDPR;",
+        "question": "6. Τι επιτρέπει στον πολίτη ο όρος 'Φορητότητα Δεδομένων' βάσει του GDPR;",
         "options": [
           "Να διαγράψει οριστικά τα δεδομένα του από το διαδίκτυο",
           "Να λάβει τα δεδομένα του σε δομημένο μορφότυπο και να τα διαβιβάσει σε άλλον υπεύθυνο",
@@ -3027,7 +3027,7 @@
     {
       "en": {
         "passage": "",
-        "question": "27. In a collaborative online document, you notice another user has deleted a paragraph by mistake. What is the most efficient administrative solution?",
+        "question": "7. In a collaborative online document, you notice another user has deleted a paragraph by mistake. What is the most efficient administrative solution?",
         "options": [
           "Re-type the paragraph from memory",
           "Use the 'Version History' feature to restore the specific previous state",
@@ -3039,7 +3039,7 @@
       },
       "el": {
         "passage": "",
-        "question": "27. Σε ένα κοινόχρηστο έγγραφο, παρατηρείτε ότι ένας άλλος χρήστης διέγραψε κατά λάθος μια παράγραφο. Ποια είναι η πιο αποτελεσματική διοικητική λύση;",
+        "question": "7. Σε ένα κοινόχρηστο έγγραφο, παρατηρείτε ότι ένας άλλος χρήστης διέγραψε κατά λάθος μια παράγραφο. Ποια είναι η πιο αποτελεσματική διοικητική λύση;",
         "options": [
           "Ξαναγράφετε την παράγραφο από μνήμης",
           "Χρησιμοποιείτε το 'Ιστορικό Εκδόσεων' για επαναφορά στην προηγούμενη κατάσταση",
@@ -3053,7 +3053,7 @@
     {
       "en": {
         "passage": "",
-        "question": "28. Which of the following digital behaviors best demonstrates 'Digital Wellbeing' in a professional setting?",
+        "question": "8. Which of the following digital behaviors best demonstrates 'Digital Wellbeing' in a professional setting?",
         "options": [
           "Responding to emails 24/7, including during leave",
           "Setting focus hours and using 'Do Not Disturb' modes to complete complex tasks",
@@ -3065,7 +3065,7 @@
       },
       "el": {
         "passage": "",
-        "question": "28. Ποια συμπεριφορά αντανακλά καλύτερα την 'Ψηφιακή Ευημερία' (Digital Wellbeing) σε επαγγελματικό περιβάλλον;",
+        "question": "8. Ποια συμπεριφορά αντανακλά καλύτερα την 'Ψηφιακή Ευημερία' (Digital Wellbeing) σε επαγγελματικό περιβάλλον;",
         "options": [
           "Απάντηση σε email 24/7, ακόμα και σε άδεια",
           "Ορισμός ωρών συγκέντρωσης και χρήση λειτουργίας 'Μην ενοχλείτε' για σύνθετες εργασίες",
@@ -3079,7 +3079,7 @@
     {
       "en": {
         "passage": "",
-        "question": "29. When searching for reliable sources for an official briefing, which search strategy is most effective?",
+        "question": "9. When searching for reliable sources for an official briefing, which search strategy is most effective?",
         "options": [
           "Using only the first result from a generic Google search",
           "Cross-referencing multiple academic/official databases and checking for peer review",
@@ -3091,7 +3091,7 @@
       },
       "el": {
         "passage": "",
-        "question": "29. Κατά την αναζήτηση αξιόπιστων πηγών για μια επίσημη ενημέρωση, ποια στρατηγική είναι η πιο αποτελεσματική;",
+        "question": "9. Κατά την αναζήτηση αξιόπιστων πηγών για μια επίσημη ενημέρωση, ποια στρατηγική είναι η πιο αποτελεσματική;",
         "options": [
           "Χρήση μόνο του πρώτου αποτελέσματος από μια απλή αναζήτηση στη Google",
           "Διασταύρωση πολλαπλών ακαδημαϊκών/επίσημων βάσεων δεδομένων",
@@ -3105,7 +3105,7 @@
     {
       "en": {
         "passage": "",
-        "question": "30. Why is 'Multifactor Authentication' (MFA) considered essential for EU staff accounts?",
+        "question": "10. Why is 'Multifactor Authentication' (MFA) considered essential for EU staff accounts?",
         "options": [
           "It makes the login process faster",
           "It adds an extra layer of security, making stolen passwords alone useless",
@@ -3117,7 +3117,7 @@
       },
       "el": {
         "passage": "",
-        "question": "30. Γιατί η 'Αυθεντικοποίηση Πολλαπλών Παραγόντων' (MFA) θεωρείται απαραίτητη για τους λογαριασμούς του προσωπικού της ΕΕ;",
+        "question": "10. Γιατί η 'Αυθεντικοποίηση Πολλαπλών Παραγόντων' (MFA) θεωρείται απαραίτητη για τους λογαριασμούς του προσωπικού της ΕΕ;",
         "options": [
           "Κάνει τη διαδικασία σύνδεσης ταχύτερη",
           "Προσθέτει ένα επιπλέον επίπεδο ασφάλειας, καθιστώντας άχρηστο έναν κλεμμένο κωδικό",
@@ -3131,7 +3131,7 @@
     {
       "en": {
         "passage": "",
-        "question": "31. You are tasked with sharing a 500MB folder of documents with a partner institution. What is the most professional digital solution?",
+        "question": "11. You are tasked with sharing a 500MB folder of documents with a partner institution. What is the most professional digital solution?",
         "options": [
           "Try to send 50 separate emails with attachments",
           "Use a secure EU-approved cloud file-sharing service with access controls",
@@ -3143,7 +3143,7 @@
       },
       "el": {
         "passage": "",
-        "question": "31. Σας ανατίθεται να μοιραστείτε έναν φάκελο 500MB με ένα άλλο θεσμικό όργανο. Ποια είναι η πιο επαγγελματική ψηφιακή λύση;",
+        "question": "11. Σας ανατίθεται να μοιραστείτε έναν φάκελο 500MB με ένα άλλο θεσμικό όργανο. Ποια είναι η πιο επαγγελματική ψηφιακή λύση;",
         "options": [
           "Αποστολή 50 ξεχωριστών email με συνημμένα",
           "Χρήση ασφαλούς και εγκεκριμένης υπηρεσίας cloud με ελέγχους πρόσβασης",
@@ -3157,7 +3157,7 @@
     {
       "en": {
         "passage": "",
-        "question": "32. A colleague asks you to install a free 'PDF converter' they found on a random website. What is the appropriate administrative response?",
+        "question": "12. A colleague asks you to install a free 'PDF converter' they found on a random website. What is the appropriate administrative response?",
         "options": [
           "Install it immediately to save time",
           "Download it but only use it for non-confidential files",
@@ -3169,7 +3169,7 @@
       },
       "el": {
         "passage": "",
-        "question": "32. Ένας συνάδελφος σας ζητά να εγκαταστήσετε έναν δωρεάν 'μετατροπέα PDF' που βρήκε τυχαία στο διαδίκτυο. Ποια είναι η σωστή διοικητική απάντηση;",
+        "question": "12. Ένας συνάδελφος σας ζητά να εγκαταστήσετε έναν δωρεάν 'μετατροπέα PDF' που βρήκε τυχαία στο διαδίκτυο. Ποια είναι η σωστή διοικητική απάντηση;",
         "options": [
           "Τον εγκαθιστάτε αμέσως για εξοικονόμηση χρόνου",
           "Τον κατεβάζετε αλλά τον χρησιμοποιείτε μόνο για μη εμπιστευτικά αρχεία",
@@ -3183,7 +3183,7 @@
     {
       "en": {
         "passage": "",
-        "question": "33. Which of the following best describes the 'Right to be Forgotten' (Right to Erasure)?",
+        "question": "13. Which of the following best describes the 'Right to be Forgotten' (Right to Erasure)?",
         "options": [
           "The right to stop paying for a digital service",
           "The right to have personal data erased under specific conditions, such as when it is no longer necessary",
@@ -3195,7 +3195,7 @@
       },
       "el": {
         "passage": "",
-        "question": "33. Ποιο από τα παρακάτω περιγράφει καλύτερα το 'Δικαίωμα στη Λήθη' (Δικαίωμα Διαγραφής);",
+        "question": "13. Ποιο από τα παρακάτω περιγράφει καλύτερα το 'Δικαίωμα στη Λήθη' (Δικαίωμα Διαγραφής);",
         "options": [
           "Το δικαίωμα να σταματήσετε να πληρώνετε για μια ψηφιακή υπηρεσία",
           "Το δικαίωμα διαγραφής προσωπικών δεδομένων υπό προϋποθέσεις, π.χ. όταν δεν είναι πλέον απαραίτητα",
@@ -3209,7 +3209,7 @@
     {
       "en": {
         "passage": "",
-        "question": "34. What is a 'Data Protection Impact Assessment' (DPIA) primarily used for?",
+        "question": "14. What is a 'Data Protection Impact Assessment' (DPIA) primarily used for?",
         "options": [
           "To calculate the financial cost of data storage",
           "To identify and minimize data protection risks for new projects with high-risk processing",
@@ -3221,7 +3221,7 @@
       },
       "el": {
         "passage": "",
-        "question": "34. Σε τι χρησιμεύει κυρίως η 'Εκτίμηση Αντικτύπου σχετικά με την Προστασία Δεδομένων' (DPIA);",
+        "question": "14. Σε τι χρησιμεύει κυρίως η 'Εκτίμηση Αντικτύπου σχετικά με την Προστασία Δεδομένων' (DPIA);",
         "options": [
           "Για τον υπολογισμό του οικονομικού κόστους αποθήκευσης",
           "Για τον εντοπισμό και την ελαχιστοποίηση κινδύνων σε νέα έργα υψηλής επικινδυνότητας",
@@ -3235,7 +3235,7 @@
     {
       "en": {
         "passage": "",
-        "question": "35. You are working remotely on a public Wi-Fi network at an airport. Which security measure is most critical?",
+        "question": "15. You are working remotely on a public Wi-Fi network at an airport. Which security measure is most critical?",
         "options": [
           "Using a Virtual Private Network (VPN)",
           "Turning up the brightness of your screen",
@@ -3247,7 +3247,7 @@
       },
       "el": {
         "passage": "",
-        "question": "35. Εργάζεστε εξ αποστάσεως χρησιμοποιώντας το δημόσιο Wi-Fi ενός αεροδρομίου. Ποιο μέτρο ασφαλείας είναι το πιο κρίσιμο;",
+        "question": "15. Εργάζεστε εξ αποστάσεως χρησιμοποιώντας το δημόσιο Wi-Fi ενός αεροδρομίου. Ποιο μέτρο ασφαλείας είναι το πιο κρίσιμο;",
         "options": [
           "Χρήση Εικονικού Ιδιωτικού Δικτύου (VPN)",
           "Αύξηση της φωτεινότητας της οθόνης",
@@ -3261,7 +3261,7 @@
     {
       "en": {
         "passage": "",
-        "question": "36. When using Generative AI for drafting an internal briefing, what is the most important 'Human-in-the-loop' principle?",
+        "question": "16. When using Generative AI for drafting an internal briefing, what is the most important 'Human-in-the-loop' principle?",
         "options": [
           "Ensuring the AI does the work while you focus on other tasks",
           "Reviewing, editing, and fact-checking every statement produced by the AI before use",
@@ -3273,7 +3273,7 @@
       },
       "el": {
         "passage": "",
-        "question": "36. Κατά τη χρήση Παραγωγικής ΤΝ για τη σύνταξη μιας ενημέρωσης, ποια είναι η πιο σημαντική αρχή 'Ανθρώπινης Παρέμβασης' (Human-in-the-loop);",
+        "question": "16. Κατά τη χρήση Παραγωγικής ΤΝ για τη σύνταξη μιας ενημέρωσης, ποια είναι η πιο σημαντική αρχή 'Ανθρώπινης Παρέμβασης' (Human-in-the-loop);",
         "options": [
           "Να αφήνετε την ΤΝ να κάνει τη δουλειά ενώ εσείς κάνετε κάτι άλλο",
           "Η αναθεώρηση, επεξεργασία και διασταύρωση κάθε δήλωσης της ΤΝ πριν τη χρήση",
@@ -3287,7 +3287,7 @@
     {
       "en": {
         "passage": "",
-        "question": "37. Which of the following is an example of 'structured data' suitable for automated administrative processing?",
+        "question": "17. Which of the following is an example of 'structured data' suitable for automated administrative processing?",
         "options": [
           "A handwritten note",
           "An audio recording of a meeting",
@@ -3299,7 +3299,7 @@
       },
       "el": {
         "passage": "",
-        "question": "37. Ποιο από τα παρακάτω είναι παράδειγμα 'δομημένων δεδομένων' κατάλληλων για αυτοματοποιημένη επεξεργασία;",
+        "question": "17. Ποιο από τα παρακάτω είναι παράδειγμα 'δομημένων δεδομένων' κατάλληλων για αυτοματοποιημένη επεξεργασία;",
         "options": [
           "Μια χειρόγραφη σημείωση",
           "Μια ηχογράφηση συνεδρίασης",
@@ -3313,7 +3313,7 @@
     {
       "en": {
         "passage": "",
-        "question": "38. What is the main purpose of the EU 'eIDAS' Regulation?",
+        "question": "18. What is the main purpose of the EU 'eIDAS' Regulation?",
         "options": [
           "To regulate the prices of electronic devices",
           "To provide a predictable legal framework for electronic identification and trust services",
@@ -3325,7 +3325,7 @@
       },
       "el": {
         "passage": "",
-        "question": "38. Ποιος είναι ο κύριος σκοπός του Κανονισμού 'eIDAS' της ΕΕ;",
+        "question": "18. Ποιος είναι ο κύριος σκοπός του Κανονισμού 'eIDAS' της ΕΕ;",
         "options": [
           "Η ρύθμιση των τιμών των ηλεκτρονικών συσκευών",
           "Η παροχή νομικού πλαισίου για την ηλεκτρονική ταυτοποίηση και τις υπηρεσίες εμπιστοσύνης",
@@ -3339,7 +3339,7 @@
     {
       "en": {
         "passage": "",
-        "question": "39. You need to organize a virtual meeting for 50 people across different time zones. Which practice is most effective for digital collaboration?",
+        "question": "19. You need to organize a virtual meeting for 50 people across different time zones. Which practice is most effective for digital collaboration?",
         "options": [
           "Send an invitation without an agenda to keep it flexible",
           "Record the meeting and use a collaborative whiteboard for live notes",
@@ -3351,7 +3351,7 @@
       },
       "el": {
         "passage": "",
-        "question": "39. Πρέπει να οργανώσετε μια τηλεδιάσκεψη για 50 άτομα σε διαφορετικές ζώνες ώρας. Ποια πρακτική είναι πιο αποτελεσματική;",
+        "question": "19. Πρέπει να οργανώσετε μια τηλεδιάσκεψη για 50 άτομα σε διαφορετικές ζώνες ώρας. Ποια πρακτική είναι πιο αποτελεσματική;",
         "options": [
           "Αποστολή πρόσκλησης χωρίς ημερήσια διάταξη για ευελιξία",
           "Ηχογράφηση της συνάντησης και χρήση συνεργατικού πίνακα (whiteboard) για σημειώσεις",
@@ -3365,7 +3365,7 @@
     {
       "en": {
         "passage": "",
-        "question": "40. When working with a spreadsheet containing budget data, what is the best practice to prevent calculation errors?",
+        "question": "20. When working with a spreadsheet containing budget data, what is the best practice to prevent calculation errors?",
         "options": [
           "Manually calculate every cell with a handheld calculator",
           "Using cell references and formulas instead of typing fixed numbers",
@@ -3377,7 +3377,7 @@
       },
       "el": {
         "passage": "",
-        "question": "40. Κατά την εργασία με υπολογιστικό φύλλο που περιέχει προϋπολογισμό, ποια είναι η καλύτερη πρακτική αποφυγής σφαλμάτων;",
+        "question": "20. Κατά την εργασία με υπολογιστικό φύλλο που περιέχει προϋπολογισμό, ποια είναι η καλύτερη πρακτική αποφυγής σφαλμάτων;",
         "options": [
           "Χειροκίνητος υπολογισμός κάθε κελιού με κομπιουτεράκι",
           "Χρήση αναφορών κελιών και τύπων αντί για πληκτρολόγηση σταθερών αριθμών",
